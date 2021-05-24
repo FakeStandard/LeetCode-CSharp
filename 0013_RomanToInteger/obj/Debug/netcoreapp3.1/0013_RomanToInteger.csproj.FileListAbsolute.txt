@@ -1,4 +1,12 @@
-D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.csprojAssemblyReference.cache
 D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.AssemblyInfo.cs
 D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\bin\Debug\netcoreapp3.1\0013_RomanToInteger.exe
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\bin\Debug\netcoreapp3.1\0013_RomanToInteger.deps.json
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\bin\Debug\netcoreapp3.1\0013_RomanToInteger.runtimeconfig.json
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\bin\Debug\netcoreapp3.1\0013_RomanToInteger.runtimeconfig.dev.json
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\bin\Debug\netcoreapp3.1\0013_RomanToInteger.dll
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\bin\Debug\netcoreapp3.1\0013_RomanToInteger.pdb
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.dll
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.pdb
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.genruntimeconfig.cache

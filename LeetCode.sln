@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0013_RomanToInteger", "0013
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0058_LengthOfLastWord", "0058_LengthOfLastWord\0058_LengthOfLastWord.csproj", "{B7E75F41-0D7C-48D4-B39C-9168DD058A31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0067_AddBinary", "0067_AddBinary\0067_AddBinary.csproj", "{C30389A5-78F1-48D3-A262-E4B20ECB5939}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B7E75F41-0D7C-48D4-B39C-9168DD058A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E75F41-0D7C-48D4-B39C-9168DD058A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E75F41-0D7C-48D4-B39C-9168DD058A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30389A5-78F1-48D3-A262-E4B20ECB5939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30389A5-78F1-48D3-A262-E4B20ECB5939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30389A5-78F1-48D3-A262-E4B20ECB5939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30389A5-78F1-48D3-A262-E4B20ECB5939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

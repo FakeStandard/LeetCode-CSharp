@@ -1,0 +1,4 @@
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.csprojAssemblyReference.cache
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.AssemblyInfo.cs
+D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.csproj.CoreCompileInputs.cache

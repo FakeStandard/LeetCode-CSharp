@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mw+/ZBVQjCcUISmxLgXdIbV0aSXIK18MPn/q1V28U+GLuGYBVisN7aQJynIL9dfsikKj+/mvTge4nKyh27TWDw==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\LeetCode\\0013_RomanToInteger\\0013_RomanToInteger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

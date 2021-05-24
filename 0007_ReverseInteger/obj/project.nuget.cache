@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCzukMjJpE/4rxCQKJxLRAbQpF/WQXyJe5jPm6afav1kWFa/+Rn8k6h7GdkbDcDErv/PgEA8JbhGqjedbQvhCg==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\LeetCode\\0007_ReverseInteger\\0007_ReverseInteger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

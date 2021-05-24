@@ -44,7 +44,7 @@ namespace _0007_ReverseInteger
         /// 反轉數字, 若有符號(負數)反轉後依然是負數
         /// </summary>
         /// <param name="x"></param>
-        /// <returns></returns>
+        /// <returns>返回反轉結果</returns>
         public static int Reverse(int x)
         {
             try

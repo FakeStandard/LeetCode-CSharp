@@ -10,4 +10,3 @@ D:\2.Project\SideProject\LeetCode\0001_TwoSum\obj\Debug\netcoreapp3.1\0001_TwoSu
 D:\2.Project\SideProject\LeetCode\0001_TwoSum\obj\Debug\netcoreapp3.1\0001_TwoSum.dll
 D:\2.Project\SideProject\LeetCode\0001_TwoSum\obj\Debug\netcoreapp3.1\0001_TwoSum.pdb
 D:\2.Project\SideProject\LeetCode\0001_TwoSum\obj\Debug\netcoreapp3.1\0001_TwoSum.genruntimeconfig.cache
-D:\2.Project\SideProject\LeetCode\0001_TwoSum\obj\Debug\netcoreapp3.1\0001_TwoSum.csprojAssemblyReference.cache

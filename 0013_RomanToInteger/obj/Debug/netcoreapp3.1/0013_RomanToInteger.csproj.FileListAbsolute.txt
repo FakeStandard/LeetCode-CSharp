@@ -10,4 +10,3 @@ D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\bin\Debug\netcoreapp3.1\00
 D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.dll
 D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.pdb
 D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.genruntimeconfig.cache
-D:\2.Project\SideProject\LeetCode\0013_RomanToInteger\obj\Debug\netcoreapp3.1\0013_RomanToInteger.csprojAssemblyReference.cache

@@ -10,4 +10,3 @@ D:\2.Project\SideProject\LeetCode\0009_PalindromeNumber\obj\Debug\netcoreapp3.1\
 D:\2.Project\SideProject\LeetCode\0009_PalindromeNumber\obj\Debug\netcoreapp3.1\0009_PalindromeNumber.dll
 D:\2.Project\SideProject\LeetCode\0009_PalindromeNumber\obj\Debug\netcoreapp3.1\0009_PalindromeNumber.pdb
 D:\2.Project\SideProject\LeetCode\0009_PalindromeNumber\obj\Debug\netcoreapp3.1\0009_PalindromeNumber.genruntimeconfig.cache
-D:\2.Project\SideProject\LeetCode\0009_PalindromeNumber\obj\Debug\netcoreapp3.1\0009_PalindromeNumber.csprojAssemblyReference.cache

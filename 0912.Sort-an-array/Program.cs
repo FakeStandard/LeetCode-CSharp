@@ -42,7 +42,10 @@ namespace _0912.Sort_an_array
     {
         public int[] SortArray(int[] nums)
         {
-            return QuickSort(nums, 0, nums.Length - 1);
+            Array.Sort(nums);
+            return nums;
+
+            //return QuickSort(nums, 0, nums.Length - 1);
         }
 
         public int[] QuickSort(int[] data, int left, int right)

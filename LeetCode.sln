@@ -3,29 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001.Two-sum", "0001.Two-sum\0001.Two-sum.csproj", "{454F551B-CECA-43FB-9B9E-579066F85E14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001.Two-sum", "0001.Two-sum\0001.Two-sum.csproj", "{454F551B-CECA-43FB-9B9E-579066F85E14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0007.Reverse-integer", "0007.Reverse-integer\0007.Reverse-integer.csproj", "{498DBEE3-9088-4F66-B85C-A25498A1DFBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0007.Reverse-integer", "0007.Reverse-integer\0007.Reverse-integer.csproj", "{498DBEE3-9088-4F66-B85C-A25498A1DFBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009.Palindrome-number", "0009.Palindrome-number\0009.Palindrome-number.csproj", "{DEADC456-9CB2-4201-9D35-2A801411341A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0009.Palindrome-number", "0009.Palindrome-number\0009.Palindrome-number.csproj", "{DEADC456-9CB2-4201-9D35-2A801411341A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0013.Roman-to-integer", "0013.Roman-to-integer\0013.Roman-to-integer.csproj", "{2BE0D93E-F13A-4584-8E35-60905FB87388}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0013.Roman-to-integer", "0013.Roman-to-integer\0013.Roman-to-integer.csproj", "{2BE0D93E-F13A-4584-8E35-60905FB87388}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0058.Length-of-last-word", "0058.Length-of-last-word\0058.Length-of-last-word.csproj", "{B54BC771-E3FD-41C5-B515-72C826E9AFF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0058.Length-of-last-word", "0058.Length-of-last-word\0058.Length-of-last-word.csproj", "{B54BC771-E3FD-41C5-B515-72C826E9AFF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0067.Add-binary", "0067.Add-binary\0067.Add-binary.csproj", "{0239CE11-09F5-47AF-AF52-907F05667417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0067.Add-binary", "0067.Add-binary\0067.Add-binary.csproj", "{0239CE11-09F5-47AF-AF52-907F05667417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0147.Insertion-sort-list", "0147.Insertion-sort-list\0147.Insertion-sort-list.csproj", "{90E6096F-1CDE-46EE-A0D5-11766AC133FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0147.Insertion-sort-list", "0147.Insertion-sort-list\0147.Insertion-sort-list.csproj", "{90E6096F-1CDE-46EE-A0D5-11766AC133FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0257.Binary-tree-paths", "0257.Binary-tree-paths\0257.Binary-tree-paths.csproj", "{6BBAB4D3-56E7-435F-887F-43FEE5A156BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0257.Binary-tree-paths", "0257.Binary-tree-paths\0257.Binary-tree-paths.csproj", "{6BBAB4D3-56E7-435F-887F-43FEE5A156BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0509.Fibonacci-number", "0509.Fibonacci-number\0509.Fibonacci-number.csproj", "{46FABD73-6CC6-43F3-9F9C-2C24C08074FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0509.Fibonacci-number", "0509.Fibonacci-number\0509.Fibonacci-number.csproj", "{46FABD73-6CC6-43F3-9F9C-2C24C08074FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0617.Merge-two-binary-trees", "0617.Merge-two-binary-trees\0617.Merge-two-binary-trees.csproj", "{3308DD5E-C469-4C2B-A8A5-EB9470922A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0617.Merge-two-binary-trees", "0617.Merge-two-binary-trees\0617.Merge-two-binary-trees.csproj", "{3308DD5E-C469-4C2B-A8A5-EB9470922A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0700.Search-in-a-inary-search-tree", "0700.Search-in-a-inary-search-tree\0700.Search-in-a-inary-search-tree.csproj", "{3F5510D6-4270-4324-A9B0-1E837699AB6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0700.Search-in-a-inary-search-tree", "0700.Search-in-a-inary-search-tree\0700.Search-in-a-inary-search-tree.csproj", "{3F5510D6-4270-4324-A9B0-1E837699AB6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0912.Sort-an-array", "0912.Sort-an-array\0912.Sort-an-array.csproj", "{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0912.Sort-an-array", "0912.Sort-an-array\0912.Sort-an-array.csproj", "{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0977.Squares-of-a-sort-array", "0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj", "{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

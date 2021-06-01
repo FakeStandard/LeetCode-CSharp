@@ -42,20 +42,25 @@ namespace _1480.Running_sum_of_1d_array
     {
         public int[] RunningSum(int[] nums)
         {
-            int i, j, tmp;
-            int[] result = new int[nums.Length];
+            //int i, j, tmp;
+            //int[] result = new int[nums.Length];
 
-            for (i = 0; i < nums.Length; i++)
-            {
-                tmp = 0;
+            //for (i = 0; i < nums.Length; i++)
+            //{
+            //    tmp = 0;
 
-                for (j = 0; j <= i; j++)
-                    tmp = tmp + nums[j];
+            //    for (j = 0; j <= i; j++)
+            //        tmp = tmp + nums[j];
 
-                result[i] = tmp;
-            }
+            //    result[i] = tmp;
+            //}
 
-            return result;
+            //return result;
+
+            for (int i = 1; i < nums.Length; i++)
+                nums[i] = nums[i] + nums[i - 1];
+
+            return nums;
         }
     }
 }

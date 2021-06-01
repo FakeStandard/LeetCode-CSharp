@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0009_PalindromeNumber</RootNamespace>
+    <RootNamespace>_0058.Length_of_last_word</RootNamespace>
   </PropertyGroup>
 
 </Project>

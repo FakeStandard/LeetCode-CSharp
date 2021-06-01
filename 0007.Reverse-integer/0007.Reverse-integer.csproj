@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0067_AddBinary</RootNamespace>
+    <RootNamespace>_0007.Reverse_integer</RootNamespace>
   </PropertyGroup>
 
 </Project>

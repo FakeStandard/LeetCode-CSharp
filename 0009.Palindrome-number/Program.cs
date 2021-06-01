@@ -1,11 +1,7 @@
 ﻿using System;
 
-namespace _0009_PalindromeNumber
+namespace _0009.Palindrome_number
 {
-    /// <summary>
-    /// Given an integer x, return true if x is palindrome integer.
-    /// An integer is a palindrome when it reads the same backward as forward.For example, 121 is palindrome while 123 is not.
-    /// </summary>
     class Program
     {
         static void Main(string[] args)

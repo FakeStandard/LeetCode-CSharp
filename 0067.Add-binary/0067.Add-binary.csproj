@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0058_LengthOfLastWord</RootNamespace>
+    <RootNamespace>_0067.Add_binary</RootNamespace>
   </PropertyGroup>
 
 </Project>

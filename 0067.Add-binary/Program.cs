@@ -2,11 +2,8 @@
 using System.Linq;
 using System.Text;
 
-namespace _0067_AddBinary
+namespace _0067.Add_binary
 {
-    /// <summary>
-    /// Given two binary strings a and b, return their sum as a binary string.
-    /// </summary>
     class Program
     {
         static void Main(string[] args)

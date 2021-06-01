@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0977.Squares-of-a-sort-arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1365.How-many-numbers-are-smaller-than-current-number", "1365.How-many-numbers-are-smaller-than-current-number\1365.How-many-numbers-are-smaller-than-current-number.csproj", "{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480.Running-sum-of-1d-array", "1480.Running-sum-of-1d-array\1480.Running-sum-of-1d-array.csproj", "{E54F7269-E400-44E2-B8E7-92175F031EE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54F7269-E400-44E2-B8E7-92175F031EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54F7269-E400-44E2-B8E7-92175F031EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54F7269-E400-44E2-B8E7-92175F031EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54F7269-E400-44E2-B8E7-92175F031EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

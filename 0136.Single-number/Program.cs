@@ -28,9 +28,7 @@ namespace _0136.Single_number
 
                 result = s.SingleNumber(lists[i]);
 
-                foreach (var item in result)
-                    Console.Write($"[{item}] ");
-
+                Console.Write($"[{result}] ");
                 Console.WriteLine();
             }
 
@@ -42,23 +40,32 @@ namespace _0136.Single_number
     {
         public int SingleNumber(int[] nums)
         {
-            Dictionary<int, bool> dic = new Dictionary<int, bool>();
-
-            foreach(int num in nums)
+            // 使用 XOR 邏輯互斥
+            int num = nums[0];
+            for (int i = 1; i < nums.Length; i++)
             {
-                if (dic.ContainsKey(num))
-                    dic[num] = false;
-                else
-                    dic.Add(num, true);
+                num = num ^ nums[i];
             }
 
-            foreach(var k in dic)
-            {
-                if (k.Value)
-                    return k.Key;
-            }
+            return num;
 
-            return 0;
+            //Dictionary<int, bool> dic = new Dictionary<int, bool>();
+
+            //foreach(int num in nums)
+            //{
+            //    if (dic.ContainsKey(num))
+            //        dic[num] = false;
+            //    else
+            //        dic.Add(num, true);
+            //}
+
+            //foreach(var k in dic)
+            //{
+            //    if (k.Value)
+            //        return k.Key;
+            //}
+
+            //return 0;
         }
     }
 }

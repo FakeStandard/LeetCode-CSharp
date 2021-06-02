@@ -1,0 +1,64 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace _0136.Single_number
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] nums;
+            int result;
+            Solution s = new Solution();
+
+            List<int[]> lists = new List<int[]>()
+            {
+                new int[]{ 2,2,1 },
+                new int[]{ 4,1,2,1,2 },
+                new int[]{ 1 }
+            };
+
+            // ex
+            for (int i = 0; i < lists.Count; i++)
+            {
+                foreach (var item in lists[i])
+                    Console.Write($"[{item}] ");
+
+                Console.WriteLine();
+
+                result = s.SingleNumber(lists[i]);
+
+                foreach (var item in result)
+                    Console.Write($"[{item}] ");
+
+                Console.WriteLine();
+            }
+
+            Console.ReadLine();
+        }
+    }
+
+    public class Solution
+    {
+        public int SingleNumber(int[] nums)
+        {
+            Dictionary<int, bool> dic = new Dictionary<int, bool>();
+
+            foreach(int num in nums)
+            {
+                if (dic.ContainsKey(num))
+                    dic[num] = false;
+                else
+                    dic.Add(num, true);
+            }
+
+            foreach(var k in dic)
+            {
+                if (k.Value)
+                    return k.Key;
+            }
+
+            return 0;
+        }
+    }
+}

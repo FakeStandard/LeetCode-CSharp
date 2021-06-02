@@ -27,15 +27,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0700.Search-in-a-inary-sear
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0912.Sort-an-array", "0912.Sort-an-array\0912.Sort-an-array.csproj", "{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0977.Squares-of-a-sort-array", "0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj", "{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0977.Squares-of-a-sort-array", "0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj", "{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1365.How-many-numbers-are-smaller-than-current-number", "1365.How-many-numbers-are-smaller-than-current-number\1365.How-many-numbers-are-smaller-than-current-number.csproj", "{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1365.How-many-numbers-are-smaller-than-current-number", "1365.How-many-numbers-are-smaller-than-current-number\1365.How-many-numbers-are-smaller-than-current-number.csproj", "{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480.Running-sum-of-1d-array", "1480.Running-sum-of-1d-array\1480.Running-sum-of-1d-array.csproj", "{E54F7269-E400-44E2-B8E7-92175F031EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1480.Running-sum-of-1d-array", "1480.Running-sum-of-1d-array\1480.Running-sum-of-1d-array.csproj", "{E54F7269-E400-44E2-B8E7-92175F031EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1636.Sort-array-by-increasing-frequency", "1636.Sort-array-by-increasing-frequency\1636.Sort-array-by-increasing-frequency.csproj", "{2CEBA994-C2DE-426C-B73B-818B52C7F043}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1636.Sort-array-by-increasing-frequency", "1636.Sort-array-by-increasing-frequency\1636.Sort-array-by-increasing-frequency.csproj", "{2CEBA994-C2DE-426C-B73B-818B52C7F043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1859.Sorting-the-sentence", "1859.Sorting-the-sentence\1859.Sorting-the-sentence.csproj", "{B8922961-BD6C-4FBB-94AF-7EED19C2FD8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1859.Sorting-the-sentence", "1859.Sorting-the-sentence\1859.Sorting-the-sentence.csproj", "{B8922961-BD6C-4FBB-94AF-7EED19C2FD8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0344.Reverse-string", "0344.Reverse-string\0344.Reverse-string.csproj", "{3A734B53-7766-412A-AF1F-36D275E5A52A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{B8922961-BD6C-4FBB-94AF-7EED19C2FD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8922961-BD6C-4FBB-94AF-7EED19C2FD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8922961-BD6C-4FBB-94AF-7EED19C2FD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A734B53-7766-412A-AF1F-36D275E5A52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A734B53-7766-412A-AF1F-36D275E5A52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A734B53-7766-412A-AF1F-36D275E5A52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A734B53-7766-412A-AF1F-36D275E5A52A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

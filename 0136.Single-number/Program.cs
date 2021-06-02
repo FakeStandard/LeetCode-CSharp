@@ -15,7 +15,8 @@ namespace _0136.Single_number
             {
                 new int[]{ 2,2,1 },
                 new int[]{ 4,1,2,1,2 },
-                new int[]{ 1 }
+                new int[]{ 1 },
+                new int[]{ 1,8,9,4,3,8,1,4,3}
             };
 
             // ex

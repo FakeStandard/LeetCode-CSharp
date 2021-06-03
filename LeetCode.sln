@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0136.Single-number", "0136.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020.Valid-parentheses", "0020.Valid-parentheses\0020.Valid-parentheses.csproj", "{454FD5A9-2813-4891-97AB-50E531E24EE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0021.Merge-two-sorted-lists", "0021.Merge-two-sorted-lists\0021.Merge-two-sorted-lists.csproj", "{499C7C47-7CE7-4140-AC99-AE9F232BD6C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{454FD5A9-2813-4891-97AB-50E531E24EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{454FD5A9-2813-4891-97AB-50E531E24EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{454FD5A9-2813-4891-97AB-50E531E24EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499C7C47-7CE7-4140-AC99-AE9F232BD6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499C7C47-7CE7-4140-AC99-AE9F232BD6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499C7C47-7CE7-4140-AC99-AE9F232BD6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499C7C47-7CE7-4140-AC99-AE9F232BD6C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

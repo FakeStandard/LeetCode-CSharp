@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0027.Remove-element", "0027
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0035.Search-insert-position", "0035.Search-insert-position\0035.Search-insert-position.csproj", "{D64B68F9-7A4D-47CC-8FDD-EF5C1EBC4E12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0026.Remove-duplicates-from-sorted-array", "0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj", "{452E7D16-52A5-4E64-833D-24212704E8B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D64B68F9-7A4D-47CC-8FDD-EF5C1EBC4E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D64B68F9-7A4D-47CC-8FDD-EF5C1EBC4E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D64B68F9-7A4D-47CC-8FDD-EF5C1EBC4E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452E7D16-52A5-4E64-833D-24212704E8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452E7D16-52A5-4E64-833D-24212704E8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452E7D16-52A5-4E64-833D-24212704E8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452E7D16-52A5-4E64-833D-24212704E8B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

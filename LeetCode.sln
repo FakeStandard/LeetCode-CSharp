@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1672.Richest-customer-wealt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1470.Shuffle-the-array", "1470.Shuffle-the-array\1470.Shuffle-the-array.csproj", "{8C94D122-BE63-4FFA-A1DF-10847C711605}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0682.Baseball-game", "0682.Baseball-game\0682.Baseball-game.csproj", "{A24DC9B0-A44C-45DB-AF0F-750796623601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{8C94D122-BE63-4FFA-A1DF-10847C711605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C94D122-BE63-4FFA-A1DF-10847C711605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C94D122-BE63-4FFA-A1DF-10847C711605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

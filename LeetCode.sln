@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0035.Search-insert-position
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0026.Remove-duplicates-from-sorted-array", "0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj", "{452E7D16-52A5-4E64-833D-24212704E8B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431.Kids-with-the-greatest-number-of-candies", "1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj", "{194218E6-6414-44B2-AF07-B36E9A60DF0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{452E7D16-52A5-4E64-833D-24212704E8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{452E7D16-52A5-4E64-833D-24212704E8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{452E7D16-52A5-4E64-833D-24212704E8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{194218E6-6414-44B2-AF07-B36E9A60DF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194218E6-6414-44B2-AF07-B36E9A60DF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194218E6-6414-44B2-AF07-B36E9A60DF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194218E6-6414-44B2-AF07-B36E9A60DF0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1470.Shuffle-the-array", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0682.Baseball-game", "0682.Baseball-game\0682.Baseball-game.csproj", "{A24DC9B0-A44C-45DB-AF0F-750796623601}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1351.Count-negative-numbers-in-a-sorted-matrix", "1351.Count-negative-numbers-in-a-sorted-matrix\1351.Count-negative-numbers-in-a-sorted-matrix.csproj", "{B84A1DBF-C96B-4A97-B25A-DD500244E3C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84A1DBF-C96B-4A97-B25A-DD500244E3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84A1DBF-C96B-4A97-B25A-DD500244E3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84A1DBF-C96B-4A97-B25A-DD500244E3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84A1DBF-C96B-4A97-B25A-DD500244E3C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

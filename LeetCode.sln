@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1351.Count-negative-numbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0066.Plus-one", "0066.Plus-one\0066.Plus-one.csproj", "{C9CAA17C-EA59-4F8B-A00F-1DD821DDC0D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0069.Sqrt-x", "0069.Sqrt-x\0069.Sqrt-x.csproj", "{64F913F0-49F2-468F-8D60-2398B1FDA4EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{C9CAA17C-EA59-4F8B-A00F-1DD821DDC0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9CAA17C-EA59-4F8B-A00F-1DD821DDC0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9CAA17C-EA59-4F8B-A00F-1DD821DDC0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F913F0-49F2-468F-8D60-2398B1FDA4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F913F0-49F2-468F-8D60-2398B1FDA4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F913F0-49F2-468F-8D60-2398B1FDA4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F913F0-49F2-468F-8D60-2398B1FDA4EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

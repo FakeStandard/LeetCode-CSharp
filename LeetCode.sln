@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431.Kids-with-the-greatest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1672.Richest-customer-wealth", "1672.Richest-customer-wealth\1672.Richest-customer-wealth.csproj", "{A240248D-A6FE-4969-B971-11D3FB83D8E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1470.Shuffle-the-array", "1470.Shuffle-the-array\1470.Shuffle-the-array.csproj", "{8C94D122-BE63-4FFA-A1DF-10847C711605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{A240248D-A6FE-4969-B971-11D3FB83D8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A240248D-A6FE-4969-B971-11D3FB83D8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A240248D-A6FE-4969-B971-11D3FB83D8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C94D122-BE63-4FFA-A1DF-10847C711605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C94D122-BE63-4FFA-A1DF-10847C711605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C94D122-BE63-4FFA-A1DF-10847C711605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C94D122-BE63-4FFA-A1DF-10847C711605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

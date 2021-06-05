@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0771.Jewels-and-stones", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1512.Number-of-good-pairs", "1512.Number-of-good-pairs\1512.Number-of-good-pairs.csproj", "{463BEE4C-3B15-4D7C-9C99-A61E31A990CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0070.Climbing-stairs", "0070.Climbing-stairs\0070.Climbing-stairs.csproj", "{0670481D-9E8C-4CB2-B1A5-B9C27D788669}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{463BEE4C-3B15-4D7C-9C99-A61E31A990CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{463BEE4C-3B15-4D7C-9C99-A61E31A990CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{463BEE4C-3B15-4D7C-9C99-A61E31A990CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0670481D-9E8C-4CB2-B1A5-B9C27D788669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0670481D-9E8C-4CB2-B1A5-B9C27D788669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0670481D-9E8C-4CB2-B1A5-B9C27D788669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0670481D-9E8C-4CB2-B1A5-B9C27D788669}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

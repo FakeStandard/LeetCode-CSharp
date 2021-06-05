@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0094.Binary-tree-inorder-tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-06-02.Interleaving-string", "2021-06-02.Interleaving-string\2021-06-02.Interleaving-string.csproj", "{B8BF70AD-8553-4A1A-8161-33B34D39B66B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0100.Same-tree", "0100.Same-tree\0100.Same-tree.csproj", "{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,6 +247,10 @@ Global
 		{B8BF70AD-8553-4A1A-8161-33B34D39B66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8BF70AD-8553-4A1A-8161-33B34D39B66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8BF70AD-8553-4A1A-8161-33B34D39B66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

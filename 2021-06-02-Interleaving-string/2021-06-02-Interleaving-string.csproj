@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_2021_0603_Interleaving_string</RootNamespace>
+    <RootNamespace>_2021_06_02_Interleaving_string</RootNamespace>
   </PropertyGroup>
 
 </Project>

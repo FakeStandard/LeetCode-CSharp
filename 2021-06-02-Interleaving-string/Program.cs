@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _2021_0603_Interleaving_string
+namespace _2021_06_02_Interleaving_string
 {
     class Program
     {

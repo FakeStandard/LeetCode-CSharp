@@ -8,10 +8,42 @@ namespace _0066.Plus_one
         static void Main(string[] args)
         {
             Solution s = new Solution();
+            int[] digits;
+            int[] res;
 
-            int[] digits = { 9,8,7,6,5,4,3,2,1,0 };
+            digits = new int[] { 9 };
+            res = s.PlusOne(digits);
+            foreach (var r in res)
+                Console.Write($"{r} ");
 
-            s.PlusOne(digits);
+            Console.WriteLine();
+            // ex1
+            digits = new int[] { 1, 2, 3 };
+            res = s.PlusOne(digits);
+            foreach (var r in res)
+                Console.Write($"{r} ");
+            Console.WriteLine();
+
+            // ex2
+            digits = new int[] { 4, 3, 2, 1 };
+            res = s.PlusOne(digits);
+            foreach (var r in res)
+                Console.Write($"{r} ");
+            Console.WriteLine();
+
+            // ex3
+            digits = new int[] { 0 };
+            res = s.PlusOne(digits);
+            foreach (var r in res)
+                Console.Write($"{r} ");
+            Console.WriteLine();
+
+            // test
+            digits = new int[] { 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 };
+            res = s.PlusOne(digits);
+            foreach (var r in res)
+                Console.Write($"{r} ");
+            Console.WriteLine();
 
             Console.ReadLine();
         }
@@ -23,30 +55,50 @@ namespace _0066.Plus_one
         {
             if (digits.Length == 0) return null;
 
-            int i;
-            double nums = 0;
-
-            for (i = 1; i <= digits.Length; i++)
-                nums += digits[i - 1] * Math.Pow(10, digits.Length - i);
-
-            nums++;
-
-            List<int> arr = new List<int>();
-
-            while (nums > 0)
-            {
-                arr.Add(int.Parse(nums % (10,0)));
-                nums /= 10;
-            }
-
             List<int> res = new List<int>();
+            bool carry = false;
 
-            for (i = arr.Count - 1; i >= 0; i--)
+            for (int i = digits.Length - 1; i >= 0; i--)
             {
-                res.Add(arr[i]);
+                if (i == digits.Length - 1)
+                {
+                    if (digits[i] + 1 == 10)
+                    {
+                        res.Add(0);
+                        carry = true;
+                    }
+                    else
+                        res.Add(digits[i] + 1);
+                }
+                else
+                {
+                    if (carry)
+                    {
+                        if (digits[i] + 1 == 10)
+                        {
+                            res.Add(0);
+                            carry = true;
+                        }
+                        else
+                        {
+                            res.Add(digits[i] + 1);
+                            carry = false;
+                        }
+                    }
+                    else
+                        res.Add(digits[i]);
+
+                }
             }
 
-            return res.ToArray();
+            if (carry)
+                res.Add(1);
+
+            var r = res.ToArray();
+
+            Array.Reverse(r);
+
+            return r;
         }
     }
 }

@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-06-02.Interleaving-str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0100.Same-tree", "0100.Same-tree\0100.Same-tree.csproj", "{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0104.Maxium-depth-of-binary-tree", "0104.Maxium-depth-of-binary-tree\0104.Maxium-depth-of-binary-tree.csproj", "{0CFE03C4-5E5B-444C-AD66-FF648EC09AD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,10 @@ Global
 		{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA64E3B7-1DD1-4CD6-90C8-8470F692C877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFE03C4-5E5B-444C-AD66-FF648EC09AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFE03C4-5E5B-444C-AD66-FF648EC09AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFE03C4-5E5B-444C-AD66-FF648EC09AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFE03C4-5E5B-444C-AD66-FF648EC09AD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

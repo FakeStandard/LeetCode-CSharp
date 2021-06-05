@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-06-02-Interleaving-str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0083.Remove-duplicates-from-sorted-list", "0083.Remove-duplicates-from-sorted-list\0083.Remove-duplicates-from-sorted-list.csproj", "{0347A076-D71A-4A2F-8F08-83E08B9FCAE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0094.Binary-tree-inorder-traversal", "0094.Binary-tree-inorder-traversal\0094.Binary-tree-inorder-traversal.csproj", "{ED2BB45F-1A15-413B-84B0-04D11DE1ED06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -239,6 +241,10 @@ Global
 		{0347A076-D71A-4A2F-8F08-83E08B9FCAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0347A076-D71A-4A2F-8F08-83E08B9FCAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0347A076-D71A-4A2F-8F08-83E08B9FCAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2BB45F-1A15-413B-84B0-04D11DE1ED06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2BB45F-1A15-413B-84B0-04D11DE1ED06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2BB45F-1A15-413B-84B0-04D11DE1ED06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2BB45F-1A15-413B-84B0-04D11DE1ED06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

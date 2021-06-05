@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0066.Plus-one", "0066.Plus-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0069.Sqrt-x", "0069.Sqrt-x\0069.Sqrt-x.csproj", "{64F913F0-49F2-468F-8D60-2398B1FDA4EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0771.Jewels-and-stones", "0771.Jewels-and-stones\0771.Jewels-and-stones.csproj", "{4123FC5C-1A1B-4D3A-9C1D-130631BC58C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{64F913F0-49F2-468F-8D60-2398B1FDA4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64F913F0-49F2-468F-8D60-2398B1FDA4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64F913F0-49F2-468F-8D60-2398B1FDA4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4123FC5C-1A1B-4D3A-9C1D-130631BC58C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4123FC5C-1A1B-4D3A-9C1D-130631BC58C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4123FC5C-1A1B-4D3A-9C1D-130631BC58C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4123FC5C-1A1B-4D3A-9C1D-130631BC58C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

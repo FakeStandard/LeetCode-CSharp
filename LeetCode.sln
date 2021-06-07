@@ -123,7 +123,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1313.Decompress-run-length-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1720.Decode-XORed-array", "1720.Decode-XORed-array\1720.Decode-XORed-array.csproj", "{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1389.Create-target-array-in-the-given-order", "1389.Create-target-array-in-the-given-order\1389.Create-target-array-in-the-given-order.csproj", "{2D7F76F5-F427-4B17-A071-8E2792AF8538}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1389.Create-target-array-in-the-given-order", "1389.Create-target-array-in-the-given-order\1389.Create-target-array-in-the-given-order.csproj", "{2D7F76F5-F427-4B17-A071-8E2792AF8538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1370.Increasing-decreasin-string", "1370.Increasing-decreasin-string\1370.Increasing-decreasin-string.csproj", "{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -371,6 +373,10 @@ Global
 		{2D7F76F5-F427-4B17-A071-8E2792AF8538}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D7F76F5-F427-4B17-A071-8E2792AF8538}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D7F76F5-F427-4B17-A071-8E2792AF8538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-06-06.Longest-consecut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1313.Decompress-run-length-encoded-list", "1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj", "{7C940E26-0312-4E05-907F-13A04909C407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1720.Decode-XORed-array", "1720.Decode-XORed-array\1720.Decode-XORed-array.csproj", "{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -359,6 +361,10 @@ Global
 		{7C940E26-0312-4E05-907F-13A04909C407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C940E26-0312-4E05-907F-13A04909C407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C940E26-0312-4E05-907F-13A04909C407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

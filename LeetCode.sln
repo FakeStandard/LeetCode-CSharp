@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1603.Design-parking-system"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0155.Min-stack", "0155.Min-stack\0155.Min-stack.csproj", "{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0167.Two-sum-II-input-array-is-sorted", "0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj", "{6C93530E-9702-4587-B714-7EB0EF80024A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -323,6 +325,10 @@ Global
 		{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C93530E-9702-4587-B714-7EB0EF80024A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C93530E-9702-4587-B714-7EB0EF80024A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C93530E-9702-4587-B714-7EB0EF80024A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C93530E-9702-4587-B714-7EB0EF80024A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0144.Binary-tree-preorder-t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0145.Binary-tree-postorder-traversal", "0145.Binary-tree-postorder-traversal\0145.Binary-tree-postorder-traversal.csproj", "{42C8C973-342F-40C6-AE65-A08EC2ADE358}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1603.Design-parking-system", "1603.Design-parking-system\1603.Design-parking-system.csproj", "{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -311,6 +313,10 @@ Global
 		{42C8C973-342F-40C6-AE65-A08EC2ADE358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C8C973-342F-40C6-AE65-A08EC2ADE358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C8C973-342F-40C6-AE65-A08EC2ADE358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

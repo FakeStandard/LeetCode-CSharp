@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0155.Min-stack", "0155.Min-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0167.Two-sum-II-input-array-is-sorted", "0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj", "{6C93530E-9702-4587-B714-7EB0EF80024A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0168.Excel-sheet-column-title", "0168.Excel-sheet-column-title\0168.Excel-sheet-column-title.csproj", "{959B83BA-40AF-46D1-930E-E568696554D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -329,6 +331,10 @@ Global
 		{6C93530E-9702-4587-B714-7EB0EF80024A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C93530E-9702-4587-B714-7EB0EF80024A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C93530E-9702-4587-B714-7EB0EF80024A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959B83BA-40AF-46D1-930E-E568696554D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959B83BA-40AF-46D1-930E-E568696554D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959B83BA-40AF-46D1-930E-E568696554D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959B83BA-40AF-46D1-930E-E568696554D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

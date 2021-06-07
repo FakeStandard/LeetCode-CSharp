@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0168.Excel-sheet-column-tit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0169.Majority-element", "0169.Majority-element\0169.Majority-element.csproj", "{D557A562-0BA0-46F7-BF8E-0011E32BAC04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0172.Factorial-trailing-zeroes", "0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj", "{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -341,6 +343,10 @@ Global
 		{D557A562-0BA0-46F7-BF8E-0011E32BAC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D557A562-0BA0-46F7-BF8E-0011E32BAC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D557A562-0BA0-46F7-BF8E-0011E32BAC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

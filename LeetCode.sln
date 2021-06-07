@@ -127,6 +127,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1389.Create-target-array-in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1370.Increasing-decreasin-string", "1370.Increasing-decreasin-string\1370.Increasing-decreasin-string.csproj", "{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0897.Increasing-order-search-tree", "0897.Increasing-order-search-tree\0897.Increasing-order-search-tree.csproj", "{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -377,6 +379,10 @@ Global
 		{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

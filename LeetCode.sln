@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0125.Valid-palindrome", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0144.Binary-tree-preorder-traversal", "0144.Binary-tree-preorder-traversal\0144.Binary-tree-preorder-traversal.csproj", "{55A309B6-DDCB-48CF-8548-4FA76F1BDC5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0145.Binary-tree-postorder-traversal", "0145.Binary-tree-postorder-traversal\0145.Binary-tree-postorder-traversal.csproj", "{42C8C973-342F-40C6-AE65-A08EC2ADE358}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +307,10 @@ Global
 		{55A309B6-DDCB-48CF-8548-4FA76F1BDC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55A309B6-DDCB-48CF-8548-4FA76F1BDC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55A309B6-DDCB-48CF-8548-4FA76F1BDC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C8C973-342F-40C6-AE65-A08EC2ADE358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C8C973-342F-40C6-AE65-A08EC2ADE358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C8C973-342F-40C6-AE65-A08EC2ADE358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C8C973-342F-40C6-AE65-A08EC2ADE358}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0169.Majority-element", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0172.Factorial-trailing-zeroes", "0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj", "{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-06-06.Longest-consecutive-sequence", "2021-06-06.Longest-consecutive-sequence\2021-06-06.Longest-consecutive-sequence.csproj", "{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -347,12 +349,17 @@ Global
 		{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B8BF70AD-8553-4A1A-8161-33B34D39B66B} = {89A53479-B38D-4149-A9F4-B0A1C7CAA9BB}
+		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1} = {89A53479-B38D-4149-A9F4-B0A1C7CAA9BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

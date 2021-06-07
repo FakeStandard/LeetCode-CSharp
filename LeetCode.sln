@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0145.Binary-tree-postorder-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1603.Design-parking-system", "1603.Design-parking-system\1603.Design-parking-system.csproj", "{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0155.Min-stack", "0155.Min-stack\0155.Min-stack.csproj", "{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -317,6 +319,10 @@ Global
 		{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

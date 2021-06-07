@@ -93,35 +93,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0112.Path-sum", "0112.Path-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0118.Pascal's-triangle", "0118.Pascal's-triangle\0118.Pascal's-triangle.csproj", "{AE4124F1-CAC0-40EA-827F-3FD29753988A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1528.Shuffle-string", "1528.Shuffle-string\1528.Shuffle-string.csproj", "{DD9BECCC-9567-424C-9A94-89B988196D6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1528.Shuffle-string", "1528.Shuffle-string\1528.Shuffle-string.csproj", "{DD9BECCC-9567-424C-9A94-89B988196D6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342.Number-of-steps-to-reduce-a-number-to-zero", "1342.Number-of-steps-to-reduce-a-number-to-zero\1342.Number-of-steps-to-reduce-a-number-to-zero.csproj", "{CF1A3066-B7A2-4111-943A-8DD6E489E595}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1342.Number-of-steps-to-reduce-a-number-to-zero", "1342.Number-of-steps-to-reduce-a-number-to-zero\1342.Number-of-steps-to-reduce-a-number-to-zero.csproj", "{CF1A3066-B7A2-4111-943A-8DD6E489E595}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1281.Subtract-the-product-and-sum-of-digits-of-an-integer", "1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{E47A50E4-E7E1-4101-B126-95017AB6F0FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281.Subtract-the-product-and-sum-of-digits-of-an-integer", "1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{E47A50E4-E7E1-4101-B126-95017AB6F0FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0125.Valid-palindrome", "0125.Valid-palindrome\0125.Valid-palindrome.csproj", "{99A1C31B-46AB-4A08-8911-96E6A8E45A8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0125.Valid-palindrome", "0125.Valid-palindrome\0125.Valid-palindrome.csproj", "{99A1C31B-46AB-4A08-8911-96E6A8E45A8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0144.Binary-tree-preorder-traversal", "0144.Binary-tree-preorder-traversal\0144.Binary-tree-preorder-traversal.csproj", "{55A309B6-DDCB-48CF-8548-4FA76F1BDC5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0144.Binary-tree-preorder-traversal", "0144.Binary-tree-preorder-traversal\0144.Binary-tree-preorder-traversal.csproj", "{55A309B6-DDCB-48CF-8548-4FA76F1BDC5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0145.Binary-tree-postorder-traversal", "0145.Binary-tree-postorder-traversal\0145.Binary-tree-postorder-traversal.csproj", "{42C8C973-342F-40C6-AE65-A08EC2ADE358}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0145.Binary-tree-postorder-traversal", "0145.Binary-tree-postorder-traversal\0145.Binary-tree-postorder-traversal.csproj", "{42C8C973-342F-40C6-AE65-A08EC2ADE358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1603.Design-parking-system", "1603.Design-parking-system\1603.Design-parking-system.csproj", "{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1603.Design-parking-system", "1603.Design-parking-system\1603.Design-parking-system.csproj", "{9C549A81-7D3E-41A6-9EAC-F7FA04DB35EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0155.Min-stack", "0155.Min-stack\0155.Min-stack.csproj", "{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0155.Min-stack", "0155.Min-stack\0155.Min-stack.csproj", "{FA14E3F4-84A3-421A-B97D-8B4F94FFCE25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0167.Two-sum-II-input-array-is-sorted", "0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj", "{6C93530E-9702-4587-B714-7EB0EF80024A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0167.Two-sum-II-input-array-is-sorted", "0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj", "{6C93530E-9702-4587-B714-7EB0EF80024A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0168.Excel-sheet-column-title", "0168.Excel-sheet-column-title\0168.Excel-sheet-column-title.csproj", "{959B83BA-40AF-46D1-930E-E568696554D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0168.Excel-sheet-column-title", "0168.Excel-sheet-column-title\0168.Excel-sheet-column-title.csproj", "{959B83BA-40AF-46D1-930E-E568696554D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0169.Majority-element", "0169.Majority-element\0169.Majority-element.csproj", "{D557A562-0BA0-46F7-BF8E-0011E32BAC04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0169.Majority-element", "0169.Majority-element\0169.Majority-element.csproj", "{D557A562-0BA0-46F7-BF8E-0011E32BAC04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0172.Factorial-trailing-zeroes", "0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj", "{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0172.Factorial-trailing-zeroes", "0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj", "{C7C97E34-0A9C-452F-A02A-8A166B60B9F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-06-06.Longest-consecutive-sequence", "2021-06-06.Longest-consecutive-sequence\2021-06-06.Longest-consecutive-sequence.csproj", "{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2021-06-06.Longest-consecutive-sequence", "2021-06-06.Longest-consecutive-sequence\2021-06-06.Longest-consecutive-sequence.csproj", "{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1313.Decompress-run-length-encoded-list", "1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj", "{7C940E26-0312-4E05-907F-13A04909C407}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1313.Decompress-run-length-encoded-list", "1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj", "{7C940E26-0312-4E05-907F-13A04909C407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1720.Decode-XORed-array", "1720.Decode-XORed-array\1720.Decode-XORed-array.csproj", "{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1720.Decode-XORed-array", "1720.Decode-XORed-array\1720.Decode-XORed-array.csproj", "{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1389.Create-target-array-in-the-given-order", "1389.Create-target-array-in-the-given-order\1389.Create-target-array-in-the-given-order.csproj", "{2D7F76F5-F427-4B17-A071-8E2792AF8538}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -365,6 +367,10 @@ Global
 		{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1C5FDE1-EAFA-4067-9714-7B7A434A040D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7F76F5-F427-4B17-A071-8E2792AF8538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7F76F5-F427-4B17-A071-8E2792AF8538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7F76F5-F427-4B17-A071-8E2792AF8538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7F76F5-F427-4B17-A071-8E2792AF8538}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

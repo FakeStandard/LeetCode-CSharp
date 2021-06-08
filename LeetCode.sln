@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1678.Goal-parser-interpreta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1221.Split-a-string-in-balanced-strings", "1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj", "{A3EC5F39-80F8-4E3E-AC60-80A0883B7F36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal", "2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal\2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal.csproj", "{34764BFE-FAB3-4679-A653-FAD478575D7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -401,6 +403,10 @@ Global
 		{A3EC5F39-80F8-4E3E-AC60-80A0883B7F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3EC5F39-80F8-4E3E-AC60-80A0883B7F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3EC5F39-80F8-4E3E-AC60-80A0883B7F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34764BFE-FAB3-4679-A653-FAD478575D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34764BFE-FAB3-4679-A653-FAD478575D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34764BFE-FAB3-4679-A653-FAD478575D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34764BFE-FAB3-4679-A653-FAD478575D7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -408,6 +414,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B8BF70AD-8553-4A1A-8161-33B34D39B66B} = {89A53479-B38D-4149-A9F4-B0A1C7CAA9BB}
 		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1} = {89A53479-B38D-4149-A9F4-B0A1C7CAA9BB}
+		{34764BFE-FAB3-4679-A653-FAD478575D7E} = {89A53479-B38D-4149-A9F4-B0A1C7CAA9BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

@@ -14,6 +14,7 @@ namespace _1773.Count_items_matching_a_rule.Tests
         [TestMethod()]
         public void CountMatches_Test1()
         {
+            // Arrange
             IList<IList<string>> items = new List<IList<string>>
             {
                 new List<string>{ "phone", "blue", "pixel" },
@@ -22,8 +23,6 @@ namespace _1773.Count_items_matching_a_rule.Tests
             };
             string ruleKey = "color";
             string ruleValue = "silver";
-
-            // Arrange
             var expected = 1;
 
             // Act
@@ -36,6 +35,7 @@ namespace _1773.Count_items_matching_a_rule.Tests
         [TestMethod()]
         public void CountMatches_Test2()
         {
+            // Arrange
             IList<IList<string>> items = new List<IList<string>>
             {
                 new List<string>{ "phone", "blue", "pixel" },
@@ -44,8 +44,6 @@ namespace _1773.Count_items_matching_a_rule.Tests
             };
             string ruleKey = "type";
             string ruleValue = "phone";
-
-            // Arrange
             var expected = 2;
 
             // Act

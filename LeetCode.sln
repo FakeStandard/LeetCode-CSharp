@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1880.Check-if-word-equals-s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{E88F628F-D0A9-4E0A-9851-FA7D1BE29A8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1614.Maximum-nesting-depth-of-the-parentheses", "1614.Maximum-nesting-depth-of-the-parentheses\1614.Maximum-nesting-depth-of-the-parentheses.csproj", "{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -437,6 +439,10 @@ Global
 		{E88F628F-D0A9-4E0A-9851-FA7D1BE29A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E88F628F-D0A9-4E0A-9851-FA7D1BE29A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E88F628F-D0A9-4E0A-9851-FA7D1BE29A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -509,6 +515,7 @@ Global
 		{C55DD7E8-E39C-4246-BD15-0CE0770EEE17} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 		{6992B604-77FE-4202-9C38-F03049ED2634} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 		{264102A3-501B-4AB6-BC9C-7ACCDA021F9F} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
+		{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

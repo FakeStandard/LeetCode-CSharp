@@ -2,14 +2,6 @@
 
 namespace _1678.Goal_parser_interpretation
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public string Interpret(string command)

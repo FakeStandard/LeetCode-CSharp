@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\1678.Goal-parser-interpretation\1678.Goal-parser-interpretation.csproj" />
     <ProjectReference Include="..\1720.Decode-XORed-array\1720.Decode-XORed-array.csproj" />
     <ProjectReference Include="..\1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj" />
     <ProjectReference Include="..\1859.Sorting-the-sentence\1859.Sorting-the-sentence.csproj" />

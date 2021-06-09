@@ -163,6 +163,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1401-1500", "1401-1500", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1486.XOR-Operation-in-an-array", "1486.XOR-Operation-in-an-array\1486.XOR-Operation-in-an-array.csproj", "{02BF7ECD-0088-489B-8587-33601BC35A3D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1501-1600", "1501-1600", "{D837544F-EEED-444C-8751-796DFC7882DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1543.Count-good-triplets", "1543.Count-good-triplets\1543.Count-good-triplets.csproj", "{B7F65F53-E07E-435F-99F5-264E62D1B1CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -461,6 +465,10 @@ Global
 		{02BF7ECD-0088-489B-8587-33601BC35A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02BF7ECD-0088-489B-8587-33601BC35A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02BF7ECD-0088-489B-8587-33601BC35A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F65F53-E07E-435F-99F5-264E62D1B1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F65F53-E07E-435F-99F5-264E62D1B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F65F53-E07E-435F-99F5-264E62D1B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F65F53-E07E-435F-99F5-264E62D1B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -536,6 +544,7 @@ Global
 		{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 		{AC78B2EC-6AA8-4013-AC8B-E1B5E83F5B3E} = {A8560354-56C3-45A8-81A6-79D422038684}
 		{02BF7ECD-0088-489B-8587-33601BC35A3D} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
+		{B7F65F53-E07E-435F-99F5-264E62D1B1CE} = {D837544F-EEED-444C-8751-796DFC7882DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

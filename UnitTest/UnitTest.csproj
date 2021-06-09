@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />
     <ProjectReference Include="..\1486.XOR-Operation-in-an-array\1486.XOR-Operation-in-an-array.csproj" />
+    <ProjectReference Include="..\1543.Count-good-triplets\1543.Count-good-triplets.csproj" />
     <ProjectReference Include="..\1614.Maximum-nesting-depth-of-the-parentheses\1614.Maximum-nesting-depth-of-the-parentheses.csproj" />
     <ProjectReference Include="..\1636.Sort-array-by-increasing-frequency\1636.Sort-array-by-increasing-frequency.csproj" />
     <ProjectReference Include="..\1672.Richest-customer-wealth\1672.Richest-customer-wealth.csproj" />

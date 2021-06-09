@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\1859.Sorting-the-sentence\1859.Sorting-the-sentence.csproj" />
-    <ProjectReference Include="..\SolutionLib\SolutionLib.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SolutionLib;
+using _1859.Sorting_the_sentence;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SolutionLib.Tests
+namespace _1859.Sorting_the_sentence.Tests
 {
     [TestClass()]
-    public class _1859_Sorting_the_sentence_Tests
+    public class _1859_Sorting_the_sentence_Test
     {
-        _1859_Sorting_the_sentence s = new _1859_Sorting_the_sentence();
+        Solution s = new Solution();
 
         [TestMethod()]
         public void SortSentence_Test1()

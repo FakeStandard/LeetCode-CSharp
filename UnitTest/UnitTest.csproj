@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj" />
     <ProjectReference Include="..\1859.Sorting-the-sentence\1859.Sorting-the-sentence.csproj" />
   </ItemGroup>
 

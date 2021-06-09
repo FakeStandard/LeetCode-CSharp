@@ -3,14 +3,6 @@ using System.Collections.Generic;
 
 namespace _1773.Count_items_matching_a_rule
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int CountMatches(IList<IList<string>> items, string ruleKey, string ruleValue)

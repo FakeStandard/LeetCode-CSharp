@@ -125,17 +125,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1720.Decode-XORed-array", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1389.Create-target-array-in-the-given-order", "1389.Create-target-array-in-the-given-order\1389.Create-target-array-in-the-given-order.csproj", "{2D7F76F5-F427-4B17-A071-8E2792AF8538}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1370.Increasing-decreasin-string", "1370.Increasing-decreasin-string\1370.Increasing-decreasin-string.csproj", "{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1370.Increasing-decreasin-string", "1370.Increasing-decreasin-string\1370.Increasing-decreasin-string.csproj", "{76CE8D3D-DA1D-4314-BB44-C8BB0D66738B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0897.Increasing-order-search-tree", "0897.Increasing-order-search-tree\0897.Increasing-order-search-tree.csproj", "{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0897.Increasing-order-search-tree", "0897.Increasing-order-search-tree\0897.Increasing-order-search-tree.csproj", "{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1773.Count-items-matching-a-rule", "1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj", "{A5A99ACF-00C1-42B5-88E1-769683898A74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1773.Count-items-matching-a-rule", "1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj", "{A5A99ACF-00C1-42B5-88E1-769683898A74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1678.Goal-parser-interpretation", "1678.Goal-parser-interpretation\1678.Goal-parser-interpretation.csproj", "{FF8AA6E6-6C56-47F0-A262-53C2BC9E603B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1678.Goal-parser-interpretation", "1678.Goal-parser-interpretation\1678.Goal-parser-interpretation.csproj", "{FF8AA6E6-6C56-47F0-A262-53C2BC9E603B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1221.Split-a-string-in-balanced-strings", "1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj", "{A3EC5F39-80F8-4E3E-AC60-80A0883B7F36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1221.Split-a-string-in-balanced-strings", "1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj", "{A3EC5F39-80F8-4E3E-AC60-80A0883B7F36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal", "2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal\2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal.csproj", "{34764BFE-FAB3-4679-A653-FAD478575D7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal", "2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal\2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal.csproj", "{34764BFE-FAB3-4679-A653-FAD478575D7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{A66CE266-2E83-4602-BF4A-E94BC5D37297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionLib", "SolutionLib\SolutionLib.csproj", "{79838DE4-4BDF-4865-8077-987AE458731C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -407,6 +411,14 @@ Global
 		{34764BFE-FAB3-4679-A653-FAD478575D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34764BFE-FAB3-4679-A653-FAD478575D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34764BFE-FAB3-4679-A653-FAD478575D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66CE266-2E83-4602-BF4A-E94BC5D37297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66CE266-2E83-4602-BF4A-E94BC5D37297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66CE266-2E83-4602-BF4A-E94BC5D37297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66CE266-2E83-4602-BF4A-E94BC5D37297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79838DE4-4BDF-4865-8077-987AE458731C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79838DE4-4BDF-4865-8077-987AE458731C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79838DE4-4BDF-4865-8077-987AE458731C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79838DE4-4BDF-4865-8077-987AE458731C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

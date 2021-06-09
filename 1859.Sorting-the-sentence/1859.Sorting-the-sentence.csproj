@@ -6,4 +6,8 @@
     <RootNamespace>_1859.Sorting_the_sentence</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MSTest.TestFramework" Version="2.1.0" />
+  </ItemGroup>
+
 </Project>

@@ -36,7 +36,7 @@ namespace _1543.Count_good_triplets.Tests
             int a = 0;
             int b = 0;
             int c = 1;
-            var expected = 4;
+            var expected = 0;
 
             // Act
             var actual = solution.CountGoodTriplets(arr, a, b, c);

@@ -167,6 +167,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1543.Count-good-triplets", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1528.Shuffle-string", "1528.Shuffle-string\1528.Shuffle-string.csproj", "{127EEA53-5498-47C2-BEA6-FB7BAFE7D316}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1523.Count-odd-numbers-in-an-interval-range", "1523.Count-odd-numbers-in-an-interval-range\1523.Count-odd-numbers-in-an-interval-range.csproj", "{C6D8A7AF-F0B3-4753-9812-2E1C4BE2C122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -469,6 +471,10 @@ Global
 		{127EEA53-5498-47C2-BEA6-FB7BAFE7D316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{127EEA53-5498-47C2-BEA6-FB7BAFE7D316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{127EEA53-5498-47C2-BEA6-FB7BAFE7D316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D8A7AF-F0B3-4753-9812-2E1C4BE2C122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D8A7AF-F0B3-4753-9812-2E1C4BE2C122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D8A7AF-F0B3-4753-9812-2E1C4BE2C122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D8A7AF-F0B3-4753-9812-2E1C4BE2C122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -545,6 +551,7 @@ Global
 		{02BF7ECD-0088-489B-8587-33601BC35A3D} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
 		{B7F65F53-E07E-435F-99F5-264E62D1B1CE} = {D837544F-EEED-444C-8751-796DFC7882DC}
 		{127EEA53-5498-47C2-BEA6-FB7BAFE7D316} = {D837544F-EEED-444C-8751-796DFC7882DC}
+		{C6D8A7AF-F0B3-4753-9812-2E1C4BE2C122} = {D837544F-EEED-444C-8751-796DFC7882DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

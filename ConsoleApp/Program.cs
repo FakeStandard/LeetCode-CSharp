@@ -6,6 +6,8 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine((char)('a'+'1'));
+
             Console.ReadLine();
         }
     }

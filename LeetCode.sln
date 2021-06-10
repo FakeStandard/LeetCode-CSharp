@@ -173,6 +173,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480.Running-sum-of-1d-arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1869.Longer-contiguous-segments-of-ones-than-zeros", "1869.Longer-contiguous-segments-of-ones-than-zeros\1869.Longer-contiguous-segments-of-ones-than-zeros.csproj", "{822A8623-613A-4147-A8F1-B618EEEC53B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822.Sign-of-the-product-of-an-array", "1822.Sign-of-the-product-of-an-array\1822.Sign-of-the-product-of-an-array.csproj", "{B2BFE705-7B72-4FD6-9884-FA8824467AFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -487,6 +489,10 @@ Global
 		{822A8623-613A-4147-A8F1-B618EEEC53B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{822A8623-613A-4147-A8F1-B618EEEC53B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{822A8623-613A-4147-A8F1-B618EEEC53B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BFE705-7B72-4FD6-9884-FA8824467AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BFE705-7B72-4FD6-9884-FA8824467AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BFE705-7B72-4FD6-9884-FA8824467AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BFE705-7B72-4FD6-9884-FA8824467AFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -566,6 +572,7 @@ Global
 		{53A533E5-D62D-43EB-995E-54FC52A99C5D} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
 		{F2364D05-CE23-4B54-95F5-B55A9ED6EF68} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
 		{822A8623-613A-4147-A8F1-B618EEEC53B0} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
+		{B2BFE705-7B72-4FD6-9884-FA8824467AFB} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

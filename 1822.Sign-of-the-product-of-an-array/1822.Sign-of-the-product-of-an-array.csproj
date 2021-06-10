@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1822.Sign_of_the_product_of_an_array</RootNamespace>
+  </PropertyGroup>
+
+</Project>

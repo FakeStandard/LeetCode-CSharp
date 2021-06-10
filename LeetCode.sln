@@ -187,6 +187,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1827.Minimum-operations-to-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1848.Minimum-distance-to-the-target-element", "1848.Minimum-distance-to-the-target-element\1848.Minimum-distance-to-the-target-element.csproj", "{ABB1A5D2-E146-4D01-AF5B-8A9F37310668}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1436.Destination-city", "1436.Destination-city\1436.Destination-city.csproj", "{93E52879-DF39-4E06-841E-4120336463D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -529,6 +531,10 @@ Global
 		{ABB1A5D2-E146-4D01-AF5B-8A9F37310668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB1A5D2-E146-4D01-AF5B-8A9F37310668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB1A5D2-E146-4D01-AF5B-8A9F37310668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E52879-DF39-4E06-841E-4120336463D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E52879-DF39-4E06-841E-4120336463D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E52879-DF39-4E06-841E-4120336463D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E52879-DF39-4E06-841E-4120336463D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -615,6 +621,7 @@ Global
 		{BC55A728-6FE2-461F-AF1F-359E0BACFA53} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 		{A65084B7-3B3F-4244-9DCC-898E71F088D9} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 		{ABB1A5D2-E146-4D01-AF5B-8A9F37310668} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
+		{93E52879-DF39-4E06-841E-4120336463D4} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

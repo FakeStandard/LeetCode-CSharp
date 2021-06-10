@@ -33,6 +33,7 @@
     <ProjectReference Include="..\1720.Decode-XORed-array\1720.Decode-XORed-array.csproj" />
     <ProjectReference Include="..\1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj" />
     <ProjectReference Include="..\1822.Sign-of-the-product-of-an-array\1822.Sign-of-the-product-of-an-array.csproj" />
+    <ProjectReference Include="..\1827.Minimum-operations-to-make-the-array-increasing\1827.Minimum-operations-to-make-the-array-increasing.csproj" />
     <ProjectReference Include="..\1832.Check-if-the-sentence-is-pangram\1832.Check-if-the-sentence-is-pangram.csproj" />
     <ProjectReference Include="..\1844.Replace-all-digits-with-characters\1844.Replace-all-digits-with-characters.csproj" />
     <ProjectReference Include="..\1859.Sorting-the-sentence\1859.Sorting-the-sentence.csproj" />

@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1869.Longer_contiguous_segments_of_ones_than_zeros</RootNamespace>
+  </PropertyGroup>
+
+</Project>

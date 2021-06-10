@@ -2,20 +2,6 @@
 
 namespace _1603.Design_parking_system
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            ParkingSystem obj = new ParkingSystem(1, 1, 0);
-            obj.AddCar(1);
-            obj.AddCar(2);
-            obj.AddCar(3);
-            obj.AddCar(1);
-
-            Console.ReadLine();
-        }
-    }
-
     public class ParkingSystem
     {
         private int[] _arr;
@@ -33,8 +19,8 @@ namespace _1603.Design_parking_system
             }
 
             return false;
-
         }
+
         //private int _big;
         //private int _medium;
         //private int _small;

@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1848.Minimum_distance_to_the_target_element</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -36,6 +36,7 @@
     <ProjectReference Include="..\1827.Minimum-operations-to-make-the-array-increasing\1827.Minimum-operations-to-make-the-array-increasing.csproj" />
     <ProjectReference Include="..\1832.Check-if-the-sentence-is-pangram\1832.Check-if-the-sentence-is-pangram.csproj" />
     <ProjectReference Include="..\1844.Replace-all-digits-with-characters\1844.Replace-all-digits-with-characters.csproj" />
+    <ProjectReference Include="..\1848.Minimum-distance-to-the-target-element\1848.Minimum-distance-to-the-target-element.csproj" />
     <ProjectReference Include="..\1859.Sorting-the-sentence\1859.Sorting-the-sentence.csproj" />
     <ProjectReference Include="..\1869.Longer-contiguous-segments-of-ones-than-zeros\1869.Longer-contiguous-segments-of-ones-than-zeros.csproj" />
     <ProjectReference Include="..\1876.Substrings-of-size-three-with-distinct-characters\1876.Substrings-of-size-three-with-distinct-characters.csproj" />

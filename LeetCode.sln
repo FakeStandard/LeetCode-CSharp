@@ -179,6 +179,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1832.Check-if-the-sentence-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1662.Check-if-two-string-arrays-are-equivalent", "1662.Check-if-two-string-arrays-are-equivalent\1662.Check-if-two-string-arrays-are-equivalent.csproj", "{92143B0C-37A3-44E5-84D1-09CF2B61E040}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1876.Substrings-of-size-three-with-distinct-characters", "1876.Substrings-of-size-three-with-distinct-characters\1876.Substrings-of-size-three-with-distinct-characters.csproj", "{218358A3-D0C6-458D-B0B3-B6D23FF9F2CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -505,6 +507,10 @@ Global
 		{92143B0C-37A3-44E5-84D1-09CF2B61E040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92143B0C-37A3-44E5-84D1-09CF2B61E040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92143B0C-37A3-44E5-84D1-09CF2B61E040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218358A3-D0C6-458D-B0B3-B6D23FF9F2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218358A3-D0C6-458D-B0B3-B6D23FF9F2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218358A3-D0C6-458D-B0B3-B6D23FF9F2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218358A3-D0C6-458D-B0B3-B6D23FF9F2CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -587,6 +593,7 @@ Global
 		{87DD975C-198B-40EF-AA25-8B81069191B0} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
 		{581CD533-AFBD-4182-A8BF-0C0F3424E80E} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 		{92143B0C-37A3-44E5-84D1-09CF2B61E040} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
+		{218358A3-D0C6-458D-B0B3-B6D23FF9F2CD} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

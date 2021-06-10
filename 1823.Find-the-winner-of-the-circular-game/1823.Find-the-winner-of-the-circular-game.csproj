@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1823.Find_the_winner_of_the_circular_game</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -143,7 +143,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1614.Maximum-nesting-depth-of-the-parentheses", "1614.Maximum-nesting-depth-of-the-parentheses\1614.Maximum-nesting-depth-of-the-parentheses.csproj", "{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "901-1000", "901-1000", "{A8560354-56C3-45A8-81A6-79D422038684}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0901-1000", "0901-1000", "{A8560354-56C3-45A8-81A6-79D422038684}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0938.Range-sum-of-BST", "0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj", "{AC78B2EC-6AA8-4013-AC8B-E1B5E83F5B3E}"
 EndProject
@@ -190,6 +190,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1436.Destination-city", "1436.Destination-city\1436.Destination-city.csproj", "{93E52879-DF39-4E06-841E-4120336463D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1881.Maximum-value-after-insertion", "1881.Maximum-value-after-insertion\1881.Maximum-value-after-insertion.csproj", "{D1C888F9-A18A-48F3-9462-10E8B03AB1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1823.Find-the-winner-of-the-circular-game", "1823.Find-the-winner-of-the-circular-game\1823.Find-the-winner-of-the-circular-game.csproj", "{6F31E602-F4D3-497C-A168-E3F7C9EC3267}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -541,6 +543,10 @@ Global
 		{D1C888F9-A18A-48F3-9462-10E8B03AB1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1C888F9-A18A-48F3-9462-10E8B03AB1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1C888F9-A18A-48F3-9462-10E8B03AB1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F31E602-F4D3-497C-A168-E3F7C9EC3267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F31E602-F4D3-497C-A168-E3F7C9EC3267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F31E602-F4D3-497C-A168-E3F7C9EC3267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F31E602-F4D3-497C-A168-E3F7C9EC3267}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -629,6 +635,7 @@ Global
 		{ABB1A5D2-E146-4D01-AF5B-8A9F37310668} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 		{93E52879-DF39-4E06-841E-4120336463D4} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
 		{D1C888F9-A18A-48F3-9462-10E8B03AB1BA} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
+		{6F31E602-F4D3-497C-A168-E3F7C9EC3267} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

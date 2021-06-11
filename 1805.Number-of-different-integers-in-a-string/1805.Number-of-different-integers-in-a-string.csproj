@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1805.Number_of_different_integers_in_a_string</RootNamespace>
+  </PropertyGroup>
+
+</Project>

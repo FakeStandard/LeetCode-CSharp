@@ -36,6 +36,7 @@
     <ProjectReference Include="..\1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj" />
     <ProjectReference Include="..\1720.Decode-XORed-array\1720.Decode-XORed-array.csproj" />
     <ProjectReference Include="..\1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj" />
+    <ProjectReference Include="..\1805.Number-of-different-integers-in-a-string\1805.Number-of-different-integers-in-a-string.csproj" />
     <ProjectReference Include="..\1816.Truncate-sentence\1816.Truncate-sentence.csproj" />
     <ProjectReference Include="..\1822.Sign-of-the-product-of-an-array\1822.Sign-of-the-product-of-an-array.csproj" />
     <ProjectReference Include="..\1823.Find-the-winner-of-the-circular-game\1823.Find-the-winner-of-the-circular-game.csproj" />

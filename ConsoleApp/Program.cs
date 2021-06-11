@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ConsoleApp
 {
@@ -6,6 +7,16 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            HashSet<string> set = new HashSet<string>();
+
+            set.Add("1");
+            set.Add("2");
+            set.Add("3");
+            set.Add("1");
+            set.Add("1");
+            set.Add("1");
+
+
             // 0000 >> 0001
             Console.WriteLine(0 >> 1); //0
 

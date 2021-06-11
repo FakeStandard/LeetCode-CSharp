@@ -209,6 +209,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1816.Truncate-sentence", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1805.Number-of-different-integers-in-a-string", "1805.Number-of-different-integers-in-a-string\1805.Number-of-different-integers-in-a-string.csproj", "{6D2592D9-C8C1-4328-A257-A3B2EA77AD22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1800.Maximum-ascending-subarray-sum", "1800.Maximum-ascending-subarray-sum\1800.Maximum-ascending-subarray-sum.csproj", "{07BD1353-6E5C-469F-808C-9F6629920770}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -591,6 +593,10 @@ Global
 		{6D2592D9-C8C1-4328-A257-A3B2EA77AD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D2592D9-C8C1-4328-A257-A3B2EA77AD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D2592D9-C8C1-4328-A257-A3B2EA77AD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BD1353-6E5C-469F-808C-9F6629920770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BD1353-6E5C-469F-808C-9F6629920770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BD1353-6E5C-469F-808C-9F6629920770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BD1353-6E5C-469F-808C-9F6629920770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -687,6 +693,7 @@ Global
 		{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 		{58307D8F-2C77-4E43-B8F8-CE355E3A91D0} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 		{6D2592D9-C8C1-4328-A257-A3B2EA77AD22} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
+		{07BD1353-6E5C-469F-808C-9F6629920770} = {748907D5-EF18-437D-BF71-46E343E121CB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

@@ -25,6 +25,7 @@
     <ProjectReference Include="..\1523.Count-odd-numbers-in-an-interval-range\1523.Count-odd-numbers-in-an-interval-range.csproj" />
     <ProjectReference Include="..\1528.Shuffle-string\1528.Shuffle-string.csproj" />
     <ProjectReference Include="..\1543.Count-good-triplets\1543.Count-good-triplets.csproj" />
+    <ProjectReference Include="..\1588.Sum-of-all-odd-length-subarrays\1588.Sum-of-all-odd-length-subarrays.csproj" />
     <ProjectReference Include="..\1603.Design-parking-system\1603.Design-parking-system.csproj" />
     <ProjectReference Include="..\1614.Maximum-nesting-depth-of-the-parentheses\1614.Maximum-nesting-depth-of-the-parentheses.csproj" />
     <ProjectReference Include="..\1636.Sort-array-by-increasing-frequency\1636.Sort-array-by-increasing-frequency.csproj" />

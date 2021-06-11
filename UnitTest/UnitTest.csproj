@@ -36,6 +36,7 @@
     <ProjectReference Include="..\1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj" />
     <ProjectReference Include="..\1720.Decode-XORed-array\1720.Decode-XORed-array.csproj" />
     <ProjectReference Include="..\1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj" />
+    <ProjectReference Include="..\1790.Check-if-one-string-swap-can-make-strings-equal\1790.Check-if-one-string-swap-can-make-strings-equal.csproj" />
     <ProjectReference Include="..\1796.Second-largest-digit-in-a-string\1796.Second-largest-digit-in-a-string.csproj" />
     <ProjectReference Include="..\1800.Maximum-ascending-subarray-sum\1800.Maximum-ascending-subarray-sum.csproj" />
     <ProjectReference Include="..\1805.Number-of-different-integers-in-a-string\1805.Number-of-different-integers-in-a-string.csproj" />

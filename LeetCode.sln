@@ -203,6 +203,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1201-1300", "1201-1300", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1290.Convert-binary-number-in-a-linked-list-to-integer", "1290.Convert-binary-number-in-a-linked-list-to-integer\1290.Convert-binary-number-in-a-linked-list-to-integer.csproj", "{F3B05EAB-9B6A-498F-BA9D-8728DAD14CC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1837.Sum-of-digits-in-base-K", "1837.Sum-of-digits-in-base-K\1837.Sum-of-digits-in-base-K.csproj", "{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -573,6 +575,10 @@ Global
 		{F3B05EAB-9B6A-498F-BA9D-8728DAD14CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B05EAB-9B6A-498F-BA9D-8728DAD14CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B05EAB-9B6A-498F-BA9D-8728DAD14CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -666,6 +672,7 @@ Global
 		{F9CF3825-08C5-47BA-97FA-D16BE18CA288} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 		{7D452382-368D-4BB0-9D71-4CEA6297C562} = {D837544F-EEED-444C-8751-796DFC7882DC}
 		{F3B05EAB-9B6A-498F-BA9D-8728DAD14CC7} = {941B9C7A-286E-4F29-B406-3B274F9CF0C1}
+		{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

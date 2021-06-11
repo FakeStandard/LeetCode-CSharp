@@ -215,6 +215,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1796.Second-largest-digit-i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1790.Check-if-one-string-swap-can-make-strings-equal", "1790.Check-if-one-string-swap-can-make-strings-equal\1790.Check-if-one-string-swap-can-make-strings-equal.csproj", "{43C01B8C-91F7-445C-8EFE-759815EED053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1784.Check-if-binary-string-has-at-most-one-segment-of-ones", "1784.Check-if-binary-string-has-at-most-one-segment-of-ones\1784.Check-if-binary-string-has-at-most-one-segment-of-ones.csproj", "{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -609,6 +611,10 @@ Global
 		{43C01B8C-91F7-445C-8EFE-759815EED053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43C01B8C-91F7-445C-8EFE-759815EED053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43C01B8C-91F7-445C-8EFE-759815EED053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -708,6 +714,7 @@ Global
 		{07BD1353-6E5C-469F-808C-9F6629920770} = {748907D5-EF18-437D-BF71-46E343E121CB}
 		{9F15236B-E5CD-459E-91C2-82CD19C71258} = {748907D5-EF18-437D-BF71-46E343E121CB}
 		{43C01B8C-91F7-445C-8EFE-759815EED053} = {748907D5-EF18-437D-BF71-46E343E121CB}
+		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0} = {748907D5-EF18-437D-BF71-46E343E121CB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

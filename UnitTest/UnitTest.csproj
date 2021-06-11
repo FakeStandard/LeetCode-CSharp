@@ -31,6 +31,7 @@
     <ProjectReference Include="..\1662.Check-if-two-string-arrays-are-equivalent\1662.Check-if-two-string-arrays-are-equivalent.csproj" />
     <ProjectReference Include="..\1672.Richest-customer-wealth\1672.Richest-customer-wealth.csproj" />
     <ProjectReference Include="..\1678.Goal-parser-interpretation\1678.Goal-parser-interpretation.csproj" />
+    <ProjectReference Include="..\1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj" />
     <ProjectReference Include="..\1720.Decode-XORed-array\1720.Decode-XORed-array.csproj" />
     <ProjectReference Include="..\1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj" />
     <ProjectReference Include="..\1822.Sign-of-the-product-of-an-array\1822.Sign-of-the-product-of-an-array.csproj" />

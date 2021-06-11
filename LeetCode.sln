@@ -137,63 +137,65 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1672.Richest-customer-wealt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1636.Sort-array-by-increasing-frequency", "1636.Sort-array-by-increasing-frequency\1636.Sort-array-by-increasing-frequency.csproj", "{6992B604-77FE-4202-9C38-F03049ED2634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1880.Check-if-word-equals-summation-of-two-words", "1880.Check-if-word-equals-summation-of-two-words\1880.Check-if-word-equals-summation-of-two-words.csproj", "{264102A3-501B-4AB6-BC9C-7ACCDA021F9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1880.Check-if-word-equals-summation-of-two-words", "1880.Check-if-word-equals-summation-of-two-words\1880.Check-if-word-equals-summation-of-two-words.csproj", "{264102A3-501B-4AB6-BC9C-7ACCDA021F9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{E88F628F-D0A9-4E0A-9851-FA7D1BE29A8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{E88F628F-D0A9-4E0A-9851-FA7D1BE29A8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1614.Maximum-nesting-depth-of-the-parentheses", "1614.Maximum-nesting-depth-of-the-parentheses\1614.Maximum-nesting-depth-of-the-parentheses.csproj", "{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1614.Maximum-nesting-depth-of-the-parentheses", "1614.Maximum-nesting-depth-of-the-parentheses\1614.Maximum-nesting-depth-of-the-parentheses.csproj", "{49069A4D-D2C2-4C4C-9298-E5E1EAFFD64C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0901-1000", "0901-1000", "{A8560354-56C3-45A8-81A6-79D422038684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0938.Range-sum-of-BST", "0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj", "{AC78B2EC-6AA8-4013-AC8B-E1B5E83F5B3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0938.Range-sum-of-BST", "0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj", "{AC78B2EC-6AA8-4013-AC8B-E1B5E83F5B3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{6C6D7745-4542-4EEB-99AD-D309CA43795F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{6C6D7745-4542-4EEB-99AD-D309CA43795F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1401-1500", "1401-1500", "{6C700F70-6E10-4952-91B0-6550C3AFF60B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1486.XOR-Operation-in-an-array", "1486.XOR-Operation-in-an-array\1486.XOR-Operation-in-an-array.csproj", "{02BF7ECD-0088-489B-8587-33601BC35A3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1486.XOR-Operation-in-an-array", "1486.XOR-Operation-in-an-array\1486.XOR-Operation-in-an-array.csproj", "{02BF7ECD-0088-489B-8587-33601BC35A3D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1501-1600", "1501-1600", "{D837544F-EEED-444C-8751-796DFC7882DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1543.Count-good-triplets", "1543.Count-good-triplets\1543.Count-good-triplets.csproj", "{B7F65F53-E07E-435F-99F5-264E62D1B1CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1543.Count-good-triplets", "1543.Count-good-triplets\1543.Count-good-triplets.csproj", "{B7F65F53-E07E-435F-99F5-264E62D1B1CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1528.Shuffle-string", "1528.Shuffle-string\1528.Shuffle-string.csproj", "{127EEA53-5498-47C2-BEA6-FB7BAFE7D316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1528.Shuffle-string", "1528.Shuffle-string\1528.Shuffle-string.csproj", "{127EEA53-5498-47C2-BEA6-FB7BAFE7D316}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1523.Count-odd-numbers-in-an-interval-range", "1523.Count-odd-numbers-in-an-interval-range\1523.Count-odd-numbers-in-an-interval-range.csproj", "{C6D8A7AF-F0B3-4753-9812-2E1C4BE2C122}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1523.Count-odd-numbers-in-an-interval-range", "1523.Count-odd-numbers-in-an-interval-range\1523.Count-odd-numbers-in-an-interval-range.csproj", "{C6D8A7AF-F0B3-4753-9812-2E1C4BE2C122}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1512.Number-of-good-pairs", "1512.Number-of-good-pairs\1512.Number-of-good-pairs.csproj", "{5E55ED26-6387-49EF-BE90-549488768FDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1512.Number-of-good-pairs", "1512.Number-of-good-pairs\1512.Number-of-good-pairs.csproj", "{5E55ED26-6387-49EF-BE90-549488768FDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1491.Average-salary-excluding-the-minimum-and-maximum-salary", "1491.Average-salary-excluding-the-minimum-and-maximum-salary\1491.Average-salary-excluding-the-minimum-and-maximum-salary.csproj", "{53A533E5-D62D-43EB-995E-54FC52A99C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1491.Average-salary-excluding-the-minimum-and-maximum-salary", "1491.Average-salary-excluding-the-minimum-and-maximum-salary\1491.Average-salary-excluding-the-minimum-and-maximum-salary.csproj", "{53A533E5-D62D-43EB-995E-54FC52A99C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480.Running-sum-of-1d-array", "1480.Running-sum-of-1d-array\1480.Running-sum-of-1d-array.csproj", "{F2364D05-CE23-4B54-95F5-B55A9ED6EF68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1480.Running-sum-of-1d-array", "1480.Running-sum-of-1d-array\1480.Running-sum-of-1d-array.csproj", "{F2364D05-CE23-4B54-95F5-B55A9ED6EF68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1869.Longer-contiguous-segments-of-ones-than-zeros", "1869.Longer-contiguous-segments-of-ones-than-zeros\1869.Longer-contiguous-segments-of-ones-than-zeros.csproj", "{822A8623-613A-4147-A8F1-B618EEEC53B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1869.Longer-contiguous-segments-of-ones-than-zeros", "1869.Longer-contiguous-segments-of-ones-than-zeros\1869.Longer-contiguous-segments-of-ones-than-zeros.csproj", "{822A8623-613A-4147-A8F1-B618EEEC53B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822.Sign-of-the-product-of-an-array", "1822.Sign-of-the-product-of-an-array\1822.Sign-of-the-product-of-an-array.csproj", "{B2BFE705-7B72-4FD6-9884-FA8824467AFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1822.Sign-of-the-product-of-an-array", "1822.Sign-of-the-product-of-an-array\1822.Sign-of-the-product-of-an-array.csproj", "{B2BFE705-7B72-4FD6-9884-FA8824467AFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1603.Design-parking-system", "1603.Design-parking-system\1603.Design-parking-system.csproj", "{B0EF1516-368F-4734-B625-2AB19FB9FA01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1603.Design-parking-system", "1603.Design-parking-system\1603.Design-parking-system.csproj", "{B0EF1516-368F-4734-B625-2AB19FB9FA01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1470.Shuffle-the-array", "1470.Shuffle-the-array\1470.Shuffle-the-array.csproj", "{87DD975C-198B-40EF-AA25-8B81069191B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1470.Shuffle-the-array", "1470.Shuffle-the-array\1470.Shuffle-the-array.csproj", "{87DD975C-198B-40EF-AA25-8B81069191B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1832.Check-if-the-sentence-is-pangram", "1832.Check-if-the-sentence-is-pangram\1832.Check-if-the-sentence-is-pangram.csproj", "{581CD533-AFBD-4182-A8BF-0C0F3424E80E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1832.Check-if-the-sentence-is-pangram", "1832.Check-if-the-sentence-is-pangram\1832.Check-if-the-sentence-is-pangram.csproj", "{581CD533-AFBD-4182-A8BF-0C0F3424E80E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1662.Check-if-two-string-arrays-are-equivalent", "1662.Check-if-two-string-arrays-are-equivalent\1662.Check-if-two-string-arrays-are-equivalent.csproj", "{92143B0C-37A3-44E5-84D1-09CF2B61E040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1662.Check-if-two-string-arrays-are-equivalent", "1662.Check-if-two-string-arrays-are-equivalent\1662.Check-if-two-string-arrays-are-equivalent.csproj", "{92143B0C-37A3-44E5-84D1-09CF2B61E040}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1876.Substrings-of-size-three-with-distinct-characters", "1876.Substrings-of-size-three-with-distinct-characters\1876.Substrings-of-size-three-with-distinct-characters.csproj", "{218358A3-D0C6-458D-B0B3-B6D23FF9F2CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1876.Substrings-of-size-three-with-distinct-characters", "1876.Substrings-of-size-three-with-distinct-characters\1876.Substrings-of-size-three-with-distinct-characters.csproj", "{218358A3-D0C6-458D-B0B3-B6D23FF9F2CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1844.Replace-all-digits-with-characters", "1844.Replace-all-digits-with-characters\1844.Replace-all-digits-with-characters.csproj", "{BC55A728-6FE2-461F-AF1F-359E0BACFA53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1844.Replace-all-digits-with-characters", "1844.Replace-all-digits-with-characters\1844.Replace-all-digits-with-characters.csproj", "{BC55A728-6FE2-461F-AF1F-359E0BACFA53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1827.Minimum-operations-to-make-the-array-increasing", "1827.Minimum-operations-to-make-the-array-increasing\1827.Minimum-operations-to-make-the-array-increasing.csproj", "{A65084B7-3B3F-4244-9DCC-898E71F088D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1827.Minimum-operations-to-make-the-array-increasing", "1827.Minimum-operations-to-make-the-array-increasing\1827.Minimum-operations-to-make-the-array-increasing.csproj", "{A65084B7-3B3F-4244-9DCC-898E71F088D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1848.Minimum-distance-to-the-target-element", "1848.Minimum-distance-to-the-target-element\1848.Minimum-distance-to-the-target-element.csproj", "{ABB1A5D2-E146-4D01-AF5B-8A9F37310668}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1848.Minimum-distance-to-the-target-element", "1848.Minimum-distance-to-the-target-element\1848.Minimum-distance-to-the-target-element.csproj", "{ABB1A5D2-E146-4D01-AF5B-8A9F37310668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1436.Destination-city", "1436.Destination-city\1436.Destination-city.csproj", "{93E52879-DF39-4E06-841E-4120336463D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1436.Destination-city", "1436.Destination-city\1436.Destination-city.csproj", "{93E52879-DF39-4E06-841E-4120336463D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1881.Maximum-value-after-insertion", "1881.Maximum-value-after-insertion\1881.Maximum-value-after-insertion.csproj", "{D1C888F9-A18A-48F3-9462-10E8B03AB1BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1881.Maximum-value-after-insertion", "1881.Maximum-value-after-insertion\1881.Maximum-value-after-insertion.csproj", "{D1C888F9-A18A-48F3-9462-10E8B03AB1BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1823.Find-the-winner-of-the-circular-game", "1823.Find-the-winner-of-the-circular-game\1823.Find-the-winner-of-the-circular-game.csproj", "{6F31E602-F4D3-497C-A168-E3F7C9EC3267}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1823.Find-the-winner-of-the-circular-game", "1823.Find-the-winner-of-the-circular-game\1823.Find-the-winner-of-the-circular-game.csproj", "{6F31E602-F4D3-497C-A168-E3F7C9EC3267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1839.Longest-substring-of-all-vowels-in-order", "1839.Longest-substring-of-all-vowels-in-order\1839.Longest-substring-of-all-vowels-in-order.csproj", "{975A0D4E-6CA9-4D40-84C9-C738A1FF906D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1839.Longest-substring-of-all-vowels-in-order", "1839.Longest-substring-of-all-vowels-in-order\1839.Longest-substring-of-all-vowels-in-order.csproj", "{975A0D4E-6CA9-4D40-84C9-C738A1FF906D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1688.Count-of-matches-in-tournament", "1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj", "{F9CF3825-08C5-47BA-97FA-D16BE18CA288}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -553,6 +555,10 @@ Global
 		{975A0D4E-6CA9-4D40-84C9-C738A1FF906D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{975A0D4E-6CA9-4D40-84C9-C738A1FF906D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{975A0D4E-6CA9-4D40-84C9-C738A1FF906D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CF3825-08C5-47BA-97FA-D16BE18CA288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CF3825-08C5-47BA-97FA-D16BE18CA288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CF3825-08C5-47BA-97FA-D16BE18CA288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CF3825-08C5-47BA-97FA-D16BE18CA288}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -643,6 +649,7 @@ Global
 		{D1C888F9-A18A-48F3-9462-10E8B03AB1BA} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 		{6F31E602-F4D3-497C-A168-E3F7C9EC3267} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
 		{975A0D4E-6CA9-4D40-84C9-C738A1FF906D} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
+		{F9CF3825-08C5-47BA-97FA-D16BE18CA288} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

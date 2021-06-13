@@ -217,7 +217,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1790.Check-if-one-string-sw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1784.Check-if-binary-string-has-at-most-one-segment-of-ones", "1784.Check-if-binary-string-has-at-most-one-segment-of-ones\1784.Check-if-binary-string-has-at-most-one-segment-of-ones.csproj", "{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1684.Count-the-number-of-consistent-strings", "1684.Count-the-number-of-consistent-strings\1684.Count-the-number-of-consistent-strings.csproj", "{72BFE355-6546-434C-A32E-AF7B97AF9D93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1684.Count-the-number-of-consistent-strings", "1684.Count-the-number-of-consistent-strings\1684.Count-the-number-of-consistent-strings.csproj", "{72BFE355-6546-434C-A32E-AF7B97AF9D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1748.Sum-of-unique-elements", "1748.Sum-of-unique-elements\1748.Sum-of-unique-elements.csproj", "{0E9AFFF5-A947-40A8-8A57-883882C948CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -621,6 +623,10 @@ Global
 		{72BFE355-6546-434C-A32E-AF7B97AF9D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72BFE355-6546-434C-A32E-AF7B97AF9D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72BFE355-6546-434C-A32E-AF7B97AF9D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9AFFF5-A947-40A8-8A57-883882C948CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9AFFF5-A947-40A8-8A57-883882C948CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9AFFF5-A947-40A8-8A57-883882C948CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9AFFF5-A947-40A8-8A57-883882C948CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -722,6 +728,7 @@ Global
 		{43C01B8C-91F7-445C-8EFE-759815EED053} = {748907D5-EF18-437D-BF71-46E343E121CB}
 		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0} = {748907D5-EF18-437D-BF71-46E343E121CB}
 		{72BFE355-6546-434C-A32E-AF7B97AF9D93} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
+		{0E9AFFF5-A947-40A8-8A57-883882C948CA} = {748907D5-EF18-437D-BF71-46E343E121CB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

@@ -36,6 +36,7 @@
     <ProjectReference Include="..\1684.Count-the-number-of-consistent-strings\1684.Count-the-number-of-consistent-strings.csproj" />
     <ProjectReference Include="..\1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj" />
     <ProjectReference Include="..\1720.Decode-XORed-array\1720.Decode-XORed-array.csproj" />
+    <ProjectReference Include="..\1748.Sum-of-unique-elements\1748.Sum-of-unique-elements.csproj" />
     <ProjectReference Include="..\1773.Count-items-matching-a-rule\1773.Count-items-matching-a-rule.csproj" />
     <ProjectReference Include="..\1784.Check-if-binary-string-has-at-most-one-segment-of-ones\1784.Check-if-binary-string-has-at-most-one-segment-of-ones.csproj" />
     <ProjectReference Include="..\1790.Check-if-one-string-swap-can-make-strings-equal\1790.Check-if-one-string-swap-can-make-strings-equal.csproj" />

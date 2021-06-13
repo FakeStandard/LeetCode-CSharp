@@ -81,8 +81,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0118.Pascal's-triangle", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1342.Number-of-steps-to-reduce-a-number-to-zero", "1342.Number-of-steps-to-reduce-a-number-to-zero\1342.Number-of-steps-to-reduce-a-number-to-zero.csproj", "{CF1A3066-B7A2-4111-943A-8DD6E489E595}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281.Subtract-the-product-and-sum-of-digits-of-an-integer", "1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{E47A50E4-E7E1-4101-B126-95017AB6F0FD}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0125.Valid-palindrome", "0125.Valid-palindrome\0125.Valid-palindrome.csproj", "{99A1C31B-46AB-4A08-8911-96E6A8E45A8F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0144.Binary-tree-preorder-traversal", "0144.Binary-tree-preorder-traversal\0144.Binary-tree-preorder-traversal.csproj", "{55A309B6-DDCB-48CF-8548-4FA76F1BDC5C}"
@@ -222,6 +220,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431.Kids-with-the-greatest-number-of-candies", "1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj", "{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1221.Split-a-string-in-balanced-strings", "1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj", "{2D92E475-A900-420B-B624-853A3498FE3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1281.Subtract-the-product-and-sum-of-digits-of-an-integer", "1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -381,10 +381,6 @@ Global
 		{CF1A3066-B7A2-4111-943A-8DD6E489E595}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF1A3066-B7A2-4111-943A-8DD6E489E595}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF1A3066-B7A2-4111-943A-8DD6E489E595}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E47A50E4-E7E1-4101-B126-95017AB6F0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E47A50E4-E7E1-4101-B126-95017AB6F0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E47A50E4-E7E1-4101-B126-95017AB6F0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E47A50E4-E7E1-4101-B126-95017AB6F0FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{99A1C31B-46AB-4A08-8911-96E6A8E45A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{99A1C31B-46AB-4A08-8911-96E6A8E45A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A1C31B-46AB-4A08-8911-96E6A8E45A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -633,6 +629,10 @@ Global
 		{2D92E475-A900-420B-B624-853A3498FE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D92E475-A900-420B-B624-853A3498FE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D92E475-A900-420B-B624-853A3498FE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -676,7 +676,6 @@ Global
 		{E5337612-9F92-4D01-A1FC-4056CB1B1EE8} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{AE4124F1-CAC0-40EA-827F-3FD29753988A} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{CF1A3066-B7A2-4111-943A-8DD6E489E595} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
-		{E47A50E4-E7E1-4101-B126-95017AB6F0FD} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{99A1C31B-46AB-4A08-8911-96E6A8E45A8F} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{55A309B6-DDCB-48CF-8548-4FA76F1BDC5C} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{42C8C973-342F-40C6-AE65-A08EC2ADE358} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
@@ -736,6 +735,7 @@ Global
 		{A4FE1E4F-748A-41E3-96B2-E0C0E901270D} = {748907D5-EF18-437D-BF71-46E343E121CB}
 		{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
 		{2D92E475-A900-420B-B624-853A3498FE3E} = {941B9C7A-286E-4F29-B406-3B274F9CF0C1}
+		{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B} = {941B9C7A-286E-4F29-B406-3B274F9CF0C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

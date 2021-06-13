@@ -1,22 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace _1281.Subtract_the_product_and_sum_of_digits_of_an_integer
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-            int n;
-            n = 234;
-            // Output: 15
-            Console.WriteLine(s.SubtractProductAndSum(n));
-
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int SubtractProductAndSum(int n)

@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />
     <ProjectReference Include="..\1290.Convert-binary-number-in-a-linked-list-to-integer\1290.Convert-binary-number-in-a-linked-list-to-integer.csproj" />
+    <ProjectReference Include="..\1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj" />
     <ProjectReference Include="..\1436.Destination-city\1436.Destination-city.csproj" />
     <ProjectReference Include="..\1470.Shuffle-the-array\1470.Shuffle-the-array.csproj" />
     <ProjectReference Include="..\1480.Running-sum-of-1d-array\1480.Running-sum-of-1d-array.csproj" />

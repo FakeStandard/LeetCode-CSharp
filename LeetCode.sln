@@ -47,8 +47,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0035.Search-insert-position
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0026.Remove-duplicates-from-sorted-array", "0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj", "{452E7D16-52A5-4E64-833D-24212704E8B6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431.Kids-with-the-greatest-number-of-candies", "1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj", "{194218E6-6414-44B2-AF07-B36E9A60DF0A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0682.Baseball-game", "0682.Baseball-game\0682.Baseball-game.csproj", "{A24DC9B0-A44C-45DB-AF0F-750796623601}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1351.Count-negative-numbers-in-a-sorted-matrix", "1351.Count-negative-numbers-in-a-sorted-matrix\1351.Count-negative-numbers-in-a-sorted-matrix.csproj", "{B84A1DBF-C96B-4A97-B25A-DD500244E3C9}"
@@ -223,6 +221,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1748.Sum-of-unique-elements
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1716.Calculate-money-in-leetcode-bank", "1716.Calculate-money-in-leetcode-bank\1716.Calculate-money-in-leetcode-bank.csproj", "{A4FE1E4F-748A-41E3-96B2-E0C0E901270D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431.Kids-with-the-greatest-number-of-candies", "1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj", "{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -317,10 +317,6 @@ Global
 		{452E7D16-52A5-4E64-833D-24212704E8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{452E7D16-52A5-4E64-833D-24212704E8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{452E7D16-52A5-4E64-833D-24212704E8B6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{194218E6-6414-44B2-AF07-B36E9A60DF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{194218E6-6414-44B2-AF07-B36E9A60DF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{194218E6-6414-44B2-AF07-B36E9A60DF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{194218E6-6414-44B2-AF07-B36E9A60DF0A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A24DC9B0-A44C-45DB-AF0F-750796623601}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -633,6 +629,10 @@ Global
 		{A4FE1E4F-748A-41E3-96B2-E0C0E901270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4FE1E4F-748A-41E3-96B2-E0C0E901270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4FE1E4F-748A-41E3-96B2-E0C0E901270D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -660,7 +660,6 @@ Global
 		{D0BD7D05-5247-4239-B61B-01AD6D5115A6} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{D64B68F9-7A4D-47CC-8FDD-EF5C1EBC4E12} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{452E7D16-52A5-4E64-833D-24212704E8B6} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
-		{194218E6-6414-44B2-AF07-B36E9A60DF0A} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{A24DC9B0-A44C-45DB-AF0F-750796623601} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{B84A1DBF-C96B-4A97-B25A-DD500244E3C9} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{C9CAA17C-EA59-4F8B-A00F-1DD821DDC0D0} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
@@ -736,6 +735,7 @@ Global
 		{72BFE355-6546-434C-A32E-AF7B97AF9D93} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 		{0E9AFFF5-A947-40A8-8A57-883882C948CA} = {748907D5-EF18-437D-BF71-46E343E121CB}
 		{A4FE1E4F-748A-41E3-96B2-E0C0E901270D} = {748907D5-EF18-437D-BF71-46E343E121CB}
+		{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF} = {6C700F70-6E10-4952-91B0-6550C3AFF60B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

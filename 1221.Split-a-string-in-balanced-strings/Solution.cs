@@ -2,14 +2,6 @@
 
 namespace _1221.Split_a_string_in_balanced_strings
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int BalancedStringSplit(string s)

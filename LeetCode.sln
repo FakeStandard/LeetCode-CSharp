@@ -195,27 +195,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1823.Find-the-winner-of-the
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1839.Longest-substring-of-all-vowels-in-order", "1839.Longest-substring-of-all-vowels-in-order\1839.Longest-substring-of-all-vowels-in-order.csproj", "{975A0D4E-6CA9-4D40-84C9-C738A1FF906D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1688.Count-of-matches-in-tournament", "1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj", "{F9CF3825-08C5-47BA-97FA-D16BE18CA288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1688.Count-of-matches-in-tournament", "1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj", "{F9CF3825-08C5-47BA-97FA-D16BE18CA288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1588.Sum-of-all-odd-length-subarrays", "1588.Sum-of-all-odd-length-subarrays\1588.Sum-of-all-odd-length-subarrays.csproj", "{7D452382-368D-4BB0-9D71-4CEA6297C562}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1588.Sum-of-all-odd-length-subarrays", "1588.Sum-of-all-odd-length-subarrays\1588.Sum-of-all-odd-length-subarrays.csproj", "{7D452382-368D-4BB0-9D71-4CEA6297C562}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1201-1300", "1201-1300", "{941B9C7A-286E-4F29-B406-3B274F9CF0C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1290.Convert-binary-number-in-a-linked-list-to-integer", "1290.Convert-binary-number-in-a-linked-list-to-integer\1290.Convert-binary-number-in-a-linked-list-to-integer.csproj", "{F3B05EAB-9B6A-498F-BA9D-8728DAD14CC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1290.Convert-binary-number-in-a-linked-list-to-integer", "1290.Convert-binary-number-in-a-linked-list-to-integer\1290.Convert-binary-number-in-a-linked-list-to-integer.csproj", "{F3B05EAB-9B6A-498F-BA9D-8728DAD14CC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1837.Sum-of-digits-in-base-K", "1837.Sum-of-digits-in-base-K\1837.Sum-of-digits-in-base-K.csproj", "{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1837.Sum-of-digits-in-base-K", "1837.Sum-of-digits-in-base-K\1837.Sum-of-digits-in-base-K.csproj", "{DBCAA6CE-50D9-469F-ACBE-4546F1FFC003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1816.Truncate-sentence", "1816.Truncate-sentence\1816.Truncate-sentence.csproj", "{58307D8F-2C77-4E43-B8F8-CE355E3A91D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1816.Truncate-sentence", "1816.Truncate-sentence\1816.Truncate-sentence.csproj", "{58307D8F-2C77-4E43-B8F8-CE355E3A91D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1805.Number-of-different-integers-in-a-string", "1805.Number-of-different-integers-in-a-string\1805.Number-of-different-integers-in-a-string.csproj", "{6D2592D9-C8C1-4328-A257-A3B2EA77AD22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1805.Number-of-different-integers-in-a-string", "1805.Number-of-different-integers-in-a-string\1805.Number-of-different-integers-in-a-string.csproj", "{6D2592D9-C8C1-4328-A257-A3B2EA77AD22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1800.Maximum-ascending-subarray-sum", "1800.Maximum-ascending-subarray-sum\1800.Maximum-ascending-subarray-sum.csproj", "{07BD1353-6E5C-469F-808C-9F6629920770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1800.Maximum-ascending-subarray-sum", "1800.Maximum-ascending-subarray-sum\1800.Maximum-ascending-subarray-sum.csproj", "{07BD1353-6E5C-469F-808C-9F6629920770}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1796.Second-largest-digit-in-a-string", "1796.Second-largest-digit-in-a-string\1796.Second-largest-digit-in-a-string.csproj", "{9F15236B-E5CD-459E-91C2-82CD19C71258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1796.Second-largest-digit-in-a-string", "1796.Second-largest-digit-in-a-string\1796.Second-largest-digit-in-a-string.csproj", "{9F15236B-E5CD-459E-91C2-82CD19C71258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1790.Check-if-one-string-swap-can-make-strings-equal", "1790.Check-if-one-string-swap-can-make-strings-equal\1790.Check-if-one-string-swap-can-make-strings-equal.csproj", "{43C01B8C-91F7-445C-8EFE-759815EED053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1790.Check-if-one-string-swap-can-make-strings-equal", "1790.Check-if-one-string-swap-can-make-strings-equal\1790.Check-if-one-string-swap-can-make-strings-equal.csproj", "{43C01B8C-91F7-445C-8EFE-759815EED053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1784.Check-if-binary-string-has-at-most-one-segment-of-ones", "1784.Check-if-binary-string-has-at-most-one-segment-of-ones\1784.Check-if-binary-string-has-at-most-one-segment-of-ones.csproj", "{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1784.Check-if-binary-string-has-at-most-one-segment-of-ones", "1784.Check-if-binary-string-has-at-most-one-segment-of-ones\1784.Check-if-binary-string-has-at-most-one-segment-of-ones.csproj", "{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1684.Count-the-number-of-consistent-strings", "1684.Count-the-number-of-consistent-strings\1684.Count-the-number-of-consistent-strings.csproj", "{72BFE355-6546-434C-A32E-AF7B97AF9D93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -615,6 +617,10 @@ Global
 		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BFE355-6546-434C-A32E-AF7B97AF9D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BFE355-6546-434C-A32E-AF7B97AF9D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BFE355-6546-434C-A32E-AF7B97AF9D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BFE355-6546-434C-A32E-AF7B97AF9D93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -715,6 +721,7 @@ Global
 		{9F15236B-E5CD-459E-91C2-82CD19C71258} = {748907D5-EF18-437D-BF71-46E343E121CB}
 		{43C01B8C-91F7-445C-8EFE-759815EED053} = {748907D5-EF18-437D-BF71-46E343E121CB}
 		{9FEA4E10-799F-4EE2-A8FB-5AECF7CCDFD0} = {748907D5-EF18-437D-BF71-46E343E121CB}
+		{72BFE355-6546-434C-A32E-AF7B97AF9D93} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

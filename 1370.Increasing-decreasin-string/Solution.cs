@@ -1,26 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 
 namespace _1370.Increasing_decreasin_string
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-            s.SortString("aaaabbbbcccc");
-
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public string SortString(string s)
         {
             int[] freq = new int[26];
-            
+
             foreach (char a in s)
             {
                 freq[a - 'a']++;

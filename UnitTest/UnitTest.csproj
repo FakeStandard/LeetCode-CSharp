@@ -21,6 +21,7 @@
     <ProjectReference Include="..\1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj" />
     <ProjectReference Include="..\1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj" />
     <ProjectReference Include="..\1290.Convert-binary-number-in-a-linked-list-to-integer\1290.Convert-binary-number-in-a-linked-list-to-integer.csproj" />
+    <ProjectReference Include="..\1351.Count-negative-numbers-in-a-sorted-matrix\1351.Count-negative-numbers-in-a-sorted-matrix.csproj" />
     <ProjectReference Include="..\1365.How-many-numbers-are-smaller-than-current-number\1365.How-many-numbers-are-smaller-than-current-number.csproj" />
     <ProjectReference Include="..\1370.Increasing-decreasin-string\1370.Increasing-decreasin-string.csproj" />
     <ProjectReference Include="..\1389.Create-target-array-in-the-given-order\1389.Create-target-array-in-the-given-order.csproj" />

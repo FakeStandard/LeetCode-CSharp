@@ -27,8 +27,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0700.Search-in-a-inary-sear
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0912.Sort-an-array", "0912.Sort-an-array\0912.Sort-an-array.csproj", "{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0977.Squares-of-a-sort-array", "0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj", "{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1365.How-many-numbers-are-smaller-than-current-number", "1365.How-many-numbers-are-smaller-than-current-number\1365.How-many-numbers-are-smaller-than-current-number.csproj", "{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0344.Reverse-string", "0344.Reverse-string\0344.Reverse-string.csproj", "{3A734B53-7766-412A-AF1F-36D275E5A52A}"
@@ -213,17 +211,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1784.Check-if-binary-string
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1684.Count-the-number-of-consistent-strings", "1684.Count-the-number-of-consistent-strings\1684.Count-the-number-of-consistent-strings.csproj", "{72BFE355-6546-434C-A32E-AF7B97AF9D93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1748.Sum-of-unique-elements", "1748.Sum-of-unique-elements\1748.Sum-of-unique-elements.csproj", "{0E9AFFF5-A947-40A8-8A57-883882C948CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1748.Sum-of-unique-elements", "1748.Sum-of-unique-elements\1748.Sum-of-unique-elements.csproj", "{0E9AFFF5-A947-40A8-8A57-883882C948CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1716.Calculate-money-in-leetcode-bank", "1716.Calculate-money-in-leetcode-bank\1716.Calculate-money-in-leetcode-bank.csproj", "{A4FE1E4F-748A-41E3-96B2-E0C0E901270D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1716.Calculate-money-in-leetcode-bank", "1716.Calculate-money-in-leetcode-bank\1716.Calculate-money-in-leetcode-bank.csproj", "{A4FE1E4F-748A-41E3-96B2-E0C0E901270D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431.Kids-with-the-greatest-number-of-candies", "1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj", "{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431.Kids-with-the-greatest-number-of-candies", "1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj", "{206AA0AB-E8B1-42D4-A5A2-120D9E4C07BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1221.Split-a-string-in-balanced-strings", "1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj", "{2D92E475-A900-420B-B624-853A3498FE3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1221.Split-a-string-in-balanced-strings", "1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj", "{2D92E475-A900-420B-B624-853A3498FE3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1281.Subtract-the-product-and-sum-of-digits-of-an-integer", "1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281.Subtract-the-product-and-sum-of-digits-of-an-integer", "1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj", "{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0917.Reverse-only-letters", "0917.Reverse-only-letters\0917.Reverse-only-letters.csproj", "{C64BA15B-0CEC-4E8B-9F41-EF5DDFB380FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0917.Reverse-only-letters", "0917.Reverse-only-letters\0917.Reverse-only-letters.csproj", "{C64BA15B-0CEC-4E8B-9F41-EF5DDFB380FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0977.Squares-of-a-sort-array", "0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj", "{E742AE56-0B17-4FAF-95F6-953943814116}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,10 +279,6 @@ Global
 		{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0094455-CA93-4B59-B08A-5CE1E8E7BA57}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -639,6 +635,10 @@ Global
 		{C64BA15B-0CEC-4E8B-9F41-EF5DDFB380FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C64BA15B-0CEC-4E8B-9F41-EF5DDFB380FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C64BA15B-0CEC-4E8B-9F41-EF5DDFB380FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E742AE56-0B17-4FAF-95F6-953943814116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E742AE56-0B17-4FAF-95F6-953943814116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E742AE56-0B17-4FAF-95F6-953943814116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E742AE56-0B17-4FAF-95F6-953943814116}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -656,7 +656,6 @@ Global
 		{3308DD5E-C469-4C2B-A8A5-EB9470922A18} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{3F5510D6-4270-4324-A9B0-1E837699AB6F} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{D0094455-CA93-4B59-B08A-5CE1E8E7BA57} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
-		{E247EB1E-D887-4E58-8B4C-D3D766DF6C8D} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{335B4C3F-3AB6-4F54-970B-DFE91FBA6F44} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{3A734B53-7766-412A-AF1F-36D275E5A52A} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{C3B16F6A-4D86-4FD3-9ACD-789AB1186C00} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
@@ -743,6 +742,7 @@ Global
 		{2D92E475-A900-420B-B624-853A3498FE3E} = {941B9C7A-286E-4F29-B406-3B274F9CF0C1}
 		{6E20F4CC-1EEE-4AD3-B952-FBBCDDF67D8B} = {941B9C7A-286E-4F29-B406-3B274F9CF0C1}
 		{C64BA15B-0CEC-4E8B-9F41-EF5DDFB380FA} = {A8560354-56C3-45A8-81A6-79D422038684}
+		{E742AE56-0B17-4FAF-95F6-953943814116} = {A8560354-56C3-45A8-81A6-79D422038684}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

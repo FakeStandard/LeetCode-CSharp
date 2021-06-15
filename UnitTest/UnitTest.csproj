@@ -47,6 +47,7 @@
     <ProjectReference Include="..\1678.Goal-parser-interpretation\1678.Goal-parser-interpretation.csproj" />
     <ProjectReference Include="..\1684.Count-the-number-of-consistent-strings\1684.Count-the-number-of-consistent-strings.csproj" />
     <ProjectReference Include="..\1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj" />
+    <ProjectReference Include="..\1700.Number-of-students-unabled-to-eat-lunch\1700.Number-of-students-unabled-to-eat-lunch.csproj" />
     <ProjectReference Include="..\1716.Calculate-money-in-leetcode-bank\1716.Calculate-money-in-leetcode-bank.csproj" />
     <ProjectReference Include="..\1720.Decode-XORed-array\1720.Decode-XORed-array.csproj" />
     <ProjectReference Include="..\1748.Sum-of-unique-elements\1748.Sum-of-unique-elements.csproj" />

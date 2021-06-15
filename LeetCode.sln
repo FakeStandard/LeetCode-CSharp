@@ -91,8 +91,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0172.Factorial-trailing-zer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2021-06-06.Longest-consecutive-sequence", "2021-06-06.Longest-consecutive-sequence\2021-06-06.Longest-consecutive-sequence.csproj", "{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1313.Decompress-run-length-encoded-list", "1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj", "{7C940E26-0312-4E05-907F-13A04909C407}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0897.Increasing-order-search-tree", "0897.Increasing-order-search-tree\0897.Increasing-order-search-tree.csproj", "{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal", "2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal\2021-06-08.Construct-binary-tree-from-Preorder-and-Inorder-Traversal.csproj", "{34764BFE-FAB3-4679-A653-FAD478575D7E}"
@@ -226,6 +224,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1351.Count-negative-numbers-in-a-sorted-matrix", "1351.Count-negative-numbers-in-a-sorted-matrix\1351.Count-negative-numbers-in-a-sorted-matrix.csproj", "{5AF1D59A-41E6-48F1-9386-91C68CAAD1C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342.Number-of-steps-to-reduce-a-number-to-zero", "1342.Number-of-steps-to-reduce-a-number-to-zero\1342.Number-of-steps-to-reduce-a-number-to-zero.csproj", "{F72FA385-CE31-42AC-9244-29E980973396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1313.Decompress-run-length-encoded-list", "1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj", "{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,10 +405,6 @@ Global
 		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C940E26-0312-4E05-907F-13A04909C407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C940E26-0312-4E05-907F-13A04909C407}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C940E26-0312-4E05-907F-13A04909C407}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C940E26-0312-4E05-907F-13A04909C407}.Release|Any CPU.Build.0 = Release|Any CPU
 		{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -641,6 +637,10 @@ Global
 		{F72FA385-CE31-42AC-9244-29E980973396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F72FA385-CE31-42AC-9244-29E980973396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F72FA385-CE31-42AC-9244-29E980973396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -689,7 +689,6 @@ Global
 		{D557A562-0BA0-46F7-BF8E-0011E32BAC04} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{C7C97E34-0A9C-452F-A02A-8A166B60B9F4} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{3CF67CE6-17FF-4F4D-A98C-88A89075F2B1} = {89A53479-B38D-4149-A9F4-B0A1C7CAA9BB}
-		{7C940E26-0312-4E05-907F-13A04909C407} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{89EB5A1C-CBAD-4D90-B60C-706E7B3DB003} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{34764BFE-FAB3-4679-A653-FAD478575D7E} = {89A53479-B38D-4149-A9F4-B0A1C7CAA9BB}
 		{AB27F794-463E-466F-864F-F0E07A9886DD} = {2A4AC2E4-AB46-48ED-BAC2-AB620FFCEB07}
@@ -745,6 +744,7 @@ Global
 		{A582EA2F-7DB3-4816-AB18-680123702DCA} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
 		{5AF1D59A-41E6-48F1-9386-91C68CAAD1C4} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
 		{F72FA385-CE31-42AC-9244-29E980973396} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
+		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

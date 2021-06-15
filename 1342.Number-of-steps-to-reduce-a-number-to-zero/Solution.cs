@@ -2,14 +2,6 @@
 
 namespace _1342.Number_of_steps_to_reduce_a_number_to_zero
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int NumberOfSteps(int num)

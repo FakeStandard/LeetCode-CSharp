@@ -237,6 +237,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0801-0900", "0801-0900", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0824.Goat-latin", "0824.Goat-latin\0824.Goat-latin.csproj", "{F5DAFA65-1883-4C43-B08E-89EF31B1C2CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1380.Lucky-numbers-in-a-matrix", "1380.Lucky-numbers-in-a-matrix\1380.Lucky-numbers-in-a-matrix.csproj", "{716522CE-F82C-4BF3-9108-5E249264A4AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -663,6 +665,10 @@ Global
 		{F5DAFA65-1883-4C43-B08E-89EF31B1C2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5DAFA65-1883-4C43-B08E-89EF31B1C2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5DAFA65-1883-4C43-B08E-89EF31B1C2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716522CE-F82C-4BF3-9108-5E249264A4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716522CE-F82C-4BF3-9108-5E249264A4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716522CE-F82C-4BF3-9108-5E249264A4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716522CE-F82C-4BF3-9108-5E249264A4AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -770,6 +776,7 @@ Global
 		{4999B416-6A9A-4371-8333-13229BB76E97} = {1C780812-A10E-4C5C-9FD8-607D2278F568}
 		{CDA5F75D-7FF7-4919-A633-F284DAE88A2B} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 		{F5DAFA65-1883-4C43-B08E-89EF31B1C2CA} = {F67EBB44-3648-4E8B-8805-22C4D9AEF89F}
+		{716522CE-F82C-4BF3-9108-5E249264A4AB} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

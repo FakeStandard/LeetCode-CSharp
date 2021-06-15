@@ -28,6 +28,7 @@
     <ProjectReference Include="..\1351.Count-negative-numbers-in-a-sorted-matrix\1351.Count-negative-numbers-in-a-sorted-matrix.csproj" />
     <ProjectReference Include="..\1365.How-many-numbers-are-smaller-than-current-number\1365.How-many-numbers-are-smaller-than-current-number.csproj" />
     <ProjectReference Include="..\1370.Increasing-decreasin-string\1370.Increasing-decreasin-string.csproj" />
+    <ProjectReference Include="..\1380.Lucky-numbers-in-a-matrix\1380.Lucky-numbers-in-a-matrix.csproj" />
     <ProjectReference Include="..\1389.Create-target-array-in-the-given-order\1389.Create-target-array-in-the-given-order.csproj" />
     <ProjectReference Include="..\1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj" />
     <ProjectReference Include="..\1436.Destination-city\1436.Destination-city.csproj" />

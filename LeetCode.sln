@@ -227,6 +227,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342.Number-of-steps-to-red
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1313.Decompress-run-length-encoded-list", "1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj", "{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1101-1200", "1101-1200", "{1C780812-A10E-4C5C-9FD8-607D2278F568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1108.Defanging-an-IP-address", "1108.Defanging-an-IP-address\1108.Defanging-an-IP-address.csproj", "{4999B416-6A9A-4371-8333-13229BB76E97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -641,6 +645,10 @@ Global
 		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4999B416-6A9A-4371-8333-13229BB76E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4999B416-6A9A-4371-8333-13229BB76E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4999B416-6A9A-4371-8333-13229BB76E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4999B416-6A9A-4371-8333-13229BB76E97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -745,6 +753,7 @@ Global
 		{5AF1D59A-41E6-48F1-9386-91C68CAAD1C4} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
 		{F72FA385-CE31-42AC-9244-29E980973396} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
 		{5417FC96-B11E-4689-AFCD-DA4D7271E8E1} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
+		{4999B416-6A9A-4371-8333-13229BB76E97} = {1C780812-A10E-4C5C-9FD8-607D2278F568}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

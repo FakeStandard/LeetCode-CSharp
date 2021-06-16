@@ -2,16 +2,6 @@
 
 namespace _0027.Remove_element
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int RemoveElement(int[] nums, int val)

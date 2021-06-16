@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\0001.Two-sum\0001.Two-sum.csproj" />
     <ProjectReference Include="..\0007.Reverse-integer\0007.Reverse-integer.csproj" />
+    <ProjectReference Include="..\0009.Palindrome-number\0009.Palindrome-number.csproj" />
     <ProjectReference Include="..\0824.Goat-latin\0824.Goat-latin.csproj" />
     <ProjectReference Include="..\0917.Reverse-only-letters\0917.Reverse-only-letters.csproj" />
     <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />

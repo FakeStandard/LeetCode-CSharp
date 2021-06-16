@@ -1,37 +1,8 @@
-﻿using System;
+﻿using Common;
+using System;
 
 namespace _0021.Merge_two_sorted_lists
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-
-    /**
-     * Definition for singly-linked list.
-     * public class ListNode {
-     *     public int val;
-     *     public ListNode next;
-     *     public ListNode(int val=0, ListNode next=null) {
-     *         this.val = val;
-     *         this.next = next;
-     *     }
-     * }
-     */
-    public class ListNode
-    {
-        public int val;
-        public ListNode next;
-        public ListNode(int val = 0, ListNode next = null)
-        {
-            this.val = val;
-            this.next = next;
-        }
-    }
-
     public class Solution
     {
         public ListNode MergeTwoLists(ListNode l1, ListNode l2)

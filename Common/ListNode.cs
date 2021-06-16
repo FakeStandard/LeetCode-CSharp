@@ -17,5 +17,4 @@ namespace Common
             this.next = next;
         }
     }
-
 }

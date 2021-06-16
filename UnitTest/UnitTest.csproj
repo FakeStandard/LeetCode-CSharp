@@ -22,6 +22,7 @@
     <ProjectReference Include="..\0021.Merge-two-sorted-lists\0021.Merge-two-sorted-lists.csproj" />
     <ProjectReference Include="..\0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj" />
     <ProjectReference Include="..\0027.Remove-element\0027.Remove-element.csproj" />
+    <ProjectReference Include="..\0028.Implement-strStr\0028.Implement-strStr.csproj" />
     <ProjectReference Include="..\0824.Goat-latin\0824.Goat-latin.csproj" />
     <ProjectReference Include="..\0917.Reverse-only-letters\0917.Reverse-only-letters.csproj" />
     <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />

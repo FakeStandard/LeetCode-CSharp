@@ -2,18 +2,6 @@
 
 namespace _0026.Remove_duplicates_from_sorted_array
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-
-            Console.WriteLine(s.RemoveDuplicates(new int[] { 1,1,2 }));
-
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int RemoveDuplicates(int[] nums)

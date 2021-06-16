@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001.Two-sum", "0001.Two-sum\0001.Two-sum.csproj", "{454F551B-CECA-43FB-9B9E-579066F85E14}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0007.Reverse-integer", "0007.Reverse-integer\0007.Reverse-integer.csproj", "{498DBEE3-9088-4F66-B85C-A25498A1DFBA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0009.Palindrome-number", "0009.Palindrome-number\0009.Palindrome-number.csproj", "{DEADC456-9CB2-4201-9D35-2A801411341A}"
@@ -211,33 +209,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281.Subtract-the-product-a
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0917.Reverse-only-letters", "0917.Reverse-only-letters\0917.Reverse-only-letters.csproj", "{C64BA15B-0CEC-4E8B-9F41-EF5DDFB380FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0977.Squares-of-a-sort-array", "0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj", "{E742AE56-0B17-4FAF-95F6-953943814116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0977.Squares-of-a-sort-array", "0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj", "{E742AE56-0B17-4FAF-95F6-953943814116}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1301-1400", "1301-1400", "{24A43390-CE33-46FD-859E-2CD8545CEC00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1389.Create-target-array-in-the-given-order", "1389.Create-target-array-in-the-given-order\1389.Create-target-array-in-the-given-order.csproj", "{A2EC7EE2-9E60-4440-8A6E-3256FB5A3E9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1389.Create-target-array-in-the-given-order", "1389.Create-target-array-in-the-given-order\1389.Create-target-array-in-the-given-order.csproj", "{A2EC7EE2-9E60-4440-8A6E-3256FB5A3E9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1370.Increasing-decreasin-string", "1370.Increasing-decreasin-string\1370.Increasing-decreasin-string.csproj", "{6C673E52-52B1-4952-AF4C-3FFFD8B153EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1370.Increasing-decreasin-string", "1370.Increasing-decreasin-string\1370.Increasing-decreasin-string.csproj", "{6C673E52-52B1-4952-AF4C-3FFFD8B153EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1365.How-many-numbers-are-smaller-than-current-number", "1365.How-many-numbers-are-smaller-than-current-number\1365.How-many-numbers-are-smaller-than-current-number.csproj", "{A582EA2F-7DB3-4816-AB18-680123702DCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1365.How-many-numbers-are-smaller-than-current-number", "1365.How-many-numbers-are-smaller-than-current-number\1365.How-many-numbers-are-smaller-than-current-number.csproj", "{A582EA2F-7DB3-4816-AB18-680123702DCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1351.Count-negative-numbers-in-a-sorted-matrix", "1351.Count-negative-numbers-in-a-sorted-matrix\1351.Count-negative-numbers-in-a-sorted-matrix.csproj", "{5AF1D59A-41E6-48F1-9386-91C68CAAD1C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1351.Count-negative-numbers-in-a-sorted-matrix", "1351.Count-negative-numbers-in-a-sorted-matrix\1351.Count-negative-numbers-in-a-sorted-matrix.csproj", "{5AF1D59A-41E6-48F1-9386-91C68CAAD1C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1342.Number-of-steps-to-reduce-a-number-to-zero", "1342.Number-of-steps-to-reduce-a-number-to-zero\1342.Number-of-steps-to-reduce-a-number-to-zero.csproj", "{F72FA385-CE31-42AC-9244-29E980973396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1342.Number-of-steps-to-reduce-a-number-to-zero", "1342.Number-of-steps-to-reduce-a-number-to-zero\1342.Number-of-steps-to-reduce-a-number-to-zero.csproj", "{F72FA385-CE31-42AC-9244-29E980973396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1313.Decompress-run-length-encoded-list", "1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj", "{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1313.Decompress-run-length-encoded-list", "1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj", "{5417FC96-B11E-4689-AFCD-DA4D7271E8E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1101-1200", "1101-1200", "{1C780812-A10E-4C5C-9FD8-607D2278F568}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1108.Defanging-an-IP-address", "1108.Defanging-an-IP-address\1108.Defanging-an-IP-address.csproj", "{4999B416-6A9A-4371-8333-13229BB76E97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1108.Defanging-an-IP-address", "1108.Defanging-an-IP-address\1108.Defanging-an-IP-address.csproj", "{4999B416-6A9A-4371-8333-13229BB76E97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1700.Number-of-students-unabled-to-eat-lunch", "1700.Number-of-students-unabled-to-eat-lunch\1700.Number-of-students-unabled-to-eat-lunch.csproj", "{CDA5F75D-7FF7-4919-A633-F284DAE88A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1700.Number-of-students-unabled-to-eat-lunch", "1700.Number-of-students-unabled-to-eat-lunch\1700.Number-of-students-unabled-to-eat-lunch.csproj", "{CDA5F75D-7FF7-4919-A633-F284DAE88A2B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0801-0900", "0801-0900", "{F67EBB44-3648-4E8B-8805-22C4D9AEF89F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0824.Goat-latin", "0824.Goat-latin\0824.Goat-latin.csproj", "{F5DAFA65-1883-4C43-B08E-89EF31B1C2CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0824.Goat-latin", "0824.Goat-latin\0824.Goat-latin.csproj", "{F5DAFA65-1883-4C43-B08E-89EF31B1C2CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1380.Lucky-numbers-in-a-matrix", "1380.Lucky-numbers-in-a-matrix\1380.Lucky-numbers-in-a-matrix.csproj", "{716522CE-F82C-4BF3-9108-5E249264A4AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1380.Lucky-numbers-in-a-matrix", "1380.Lucky-numbers-in-a-matrix\1380.Lucky-numbers-in-a-matrix.csproj", "{716522CE-F82C-4BF3-9108-5E249264A4AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0001-0100", "0001-0100", "{E27743F4-6ACE-4044-A526-A73541873A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001.Two-sum", "0001.Two-sum\0001.Two-sum.csproj", "{2DE9E149-8048-43E1-87B9-E5BED25F31D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -245,10 +247,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{454F551B-CECA-43FB-9B9E-579066F85E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{454F551B-CECA-43FB-9B9E-579066F85E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{454F551B-CECA-43FB-9B9E-579066F85E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{454F551B-CECA-43FB-9B9E-579066F85E14}.Release|Any CPU.Build.0 = Release|Any CPU
 		{498DBEE3-9088-4F66-B85C-A25498A1DFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{498DBEE3-9088-4F66-B85C-A25498A1DFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{498DBEE3-9088-4F66-B85C-A25498A1DFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -669,12 +667,15 @@ Global
 		{716522CE-F82C-4BF3-9108-5E249264A4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{716522CE-F82C-4BF3-9108-5E249264A4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{716522CE-F82C-4BF3-9108-5E249264A4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE9E149-8048-43E1-87B9-E5BED25F31D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE9E149-8048-43E1-87B9-E5BED25F31D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE9E149-8048-43E1-87B9-E5BED25F31D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE9E149-8048-43E1-87B9-E5BED25F31D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{454F551B-CECA-43FB-9B9E-579066F85E14} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{498DBEE3-9088-4F66-B85C-A25498A1DFBA} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{DEADC456-9CB2-4201-9D35-2A801411341A} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{2BE0D93E-F13A-4584-8E35-60905FB87388} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
@@ -777,6 +778,7 @@ Global
 		{CDA5F75D-7FF7-4919-A633-F284DAE88A2B} = {7E38FE66-66FD-428C-BFA6-78B8D0ED7360}
 		{F5DAFA65-1883-4C43-B08E-89EF31B1C2CA} = {F67EBB44-3648-4E8B-8805-22C4D9AEF89F}
 		{716522CE-F82C-4BF3-9108-5E249264A4AB} = {24A43390-CE33-46FD-859E-2CD8545CEC00}
+		{2DE9E149-8048-43E1-87B9-E5BED25F31D3} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

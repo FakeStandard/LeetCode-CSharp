@@ -241,6 +241,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0035.Search-insert-position
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0058.Length-of-last-word", "0058.Length-of-last-word\0058.Length-of-last-word.csproj", "{8D992046-D656-4666-ADD0-03238FC1DA14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0053.Maximum-subarray", "0053.Maximum-subarray\0053.Maximum-subarray.csproj", "{0AC0CF3A-3F6B-4C55-8C68-3404DB54AE05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -671,6 +673,10 @@ Global
 		{8D992046-D656-4666-ADD0-03238FC1DA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D992046-D656-4666-ADD0-03238FC1DA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D992046-D656-4666-ADD0-03238FC1DA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC0CF3A-3F6B-4C55-8C68-3404DB54AE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC0CF3A-3F6B-4C55-8C68-3404DB54AE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC0CF3A-3F6B-4C55-8C68-3404DB54AE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC0CF3A-3F6B-4C55-8C68-3404DB54AE05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -779,6 +785,7 @@ Global
 		{A98E4FE5-F066-42E4-B3E7-7F08587E188D} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 		{9D0A82B4-6B09-4781-B62F-1ACB4118722B} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 		{8D992046-D656-4666-ADD0-03238FC1DA14} = {E27743F4-6ACE-4044-A526-A73541873A1A}
+		{0AC0CF3A-3F6B-4C55-8C68-3404DB54AE05} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

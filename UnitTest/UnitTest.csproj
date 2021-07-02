@@ -20,6 +20,7 @@
     <ProjectReference Include="..\0009.Palindrome-number\0009.Palindrome-number.csproj" />
     <ProjectReference Include="..\0013.Roman-to-integer\0013.Roman-to-integer.csproj" />
     <ProjectReference Include="..\0014.Longest-common-prefix\0014.Longest-common-prefix.csproj" />
+    <ProjectReference Include="..\0020.Valid-parentheses\0020.Valid-parentheses.csproj" />
     <ProjectReference Include="..\0021.Merge-two-sorted-lists\0021.Merge-two-sorted-lists.csproj" />
     <ProjectReference Include="..\0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj" />
     <ProjectReference Include="..\0027.Remove-element\0027.Remove-element.csproj" />

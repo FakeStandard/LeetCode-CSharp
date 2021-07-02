@@ -7,6 +7,13 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("=====");
+            Console.WriteLine(16 & 15);
+            Console.WriteLine(15 & 14);
+            Console.WriteLine(14 & 13);
+            Console.WriteLine(1 & 0);
+            Console.WriteLine("=====");
+
             HashSet<string> set = new HashSet<string>();
 
             set.Add("1");

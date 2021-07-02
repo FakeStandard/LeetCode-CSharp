@@ -18,6 +18,7 @@
     <ProjectReference Include="..\0001.Two-sum\0001.Two-sum.csproj" />
     <ProjectReference Include="..\0007.Reverse-integer\0007.Reverse-integer.csproj" />
     <ProjectReference Include="..\0009.Palindrome-number\0009.Palindrome-number.csproj" />
+    <ProjectReference Include="..\0013.Roman-to-integer\0013.Roman-to-integer.csproj" />
     <ProjectReference Include="..\0014.Longest-common-prefix\0014.Longest-common-prefix.csproj" />
     <ProjectReference Include="..\0021.Merge-two-sorted-lists\0021.Merge-two-sorted-lists.csproj" />
     <ProjectReference Include="..\0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj" />

@@ -4,47 +4,9 @@ using System.Collections.Generic;
 
 namespace _0013.Roman_to_integer
 {
-    class Program
+    public class Solution
     {
-        static void Main(string[] args)
-        {
-            string s;
-            int r;
-
-            // Ex1
-            s = "III";
-            r = RomanToInt(s);
-            Console.WriteLine(r);
-
-            // Ex2
-            s = "IV";
-            r = RomanToInt(s);
-            Console.WriteLine(r);
-
-            // Ex3
-            s = "IX";
-            r = RomanToInt(s);
-            Console.WriteLine(r);
-
-            // Ex4
-            s = "LVIII";
-            r = RomanToInt(s);
-            Console.WriteLine(r);
-
-            // Ex5
-            s = "MCMXCIV";
-            r = RomanToInt(s);
-            Console.WriteLine(r);
-
-            Console.ReadLine();
-        }
-
-        /// <summary>
-        /// 將羅馬值轉換成十進位數值
-        /// </summary>
-        /// <param name="s"></param>
-        /// <returns></returns>
-        public static int RomanToInt(string s)
+        public int RomanToInt(string s)
         {
             if (s == null || s == String.Empty)
                 return 0;

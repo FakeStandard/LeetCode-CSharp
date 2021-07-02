@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0013.Roman-to-integer", "0013.Roman-to-integer\0013.Roman-to-integer.csproj", "{2BE0D93E-F13A-4584-8E35-60905FB87388}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0058.Length-of-last-word", "0058.Length-of-last-word\0058.Length-of-last-word.csproj", "{B54BC771-E3FD-41C5-B515-72C826E9AFF9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0067.Add-binary", "0067.Add-binary\0067.Add-binary.csproj", "{0239CE11-09F5-47AF-AF52-907F05667417}"
@@ -225,21 +223,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1380.Lucky-numbers-in-a-mat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0001-0100", "0001-0100", "{E27743F4-6ACE-4044-A526-A73541873A1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001.Two-sum", "0001.Two-sum\0001.Two-sum.csproj", "{2DE9E149-8048-43E1-87B9-E5BED25F31D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001.Two-sum", "0001.Two-sum\0001.Two-sum.csproj", "{2DE9E149-8048-43E1-87B9-E5BED25F31D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0007.Reverse-integer", "0007.Reverse-integer\0007.Reverse-integer.csproj", "{98A25DD8-6C69-47CD-A635-0EFD643EB86E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0007.Reverse-integer", "0007.Reverse-integer\0007.Reverse-integer.csproj", "{98A25DD8-6C69-47CD-A635-0EFD643EB86E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009.Palindrome-number", "0009.Palindrome-number\0009.Palindrome-number.csproj", "{F717EC90-A816-4B98-87D5-811445334B46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0009.Palindrome-number", "0009.Palindrome-number\0009.Palindrome-number.csproj", "{F717EC90-A816-4B98-87D5-811445334B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0014.Longest-common-prefix", "0014.Longest-common-prefix\0014.Longest-common-prefix.csproj", "{BDD4F6D5-1E15-4D13-9EBF-5405239397C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0014.Longest-common-prefix", "0014.Longest-common-prefix\0014.Longest-common-prefix.csproj", "{BDD4F6D5-1E15-4D13-9EBF-5405239397C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0021.Merge-two-sorted-lists", "0021.Merge-two-sorted-lists\0021.Merge-two-sorted-lists.csproj", "{14A37E91-7BBF-473E-BE2E-85ADC6077E51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0021.Merge-two-sorted-lists", "0021.Merge-two-sorted-lists\0021.Merge-two-sorted-lists.csproj", "{14A37E91-7BBF-473E-BE2E-85ADC6077E51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0026.Remove-duplicates-from-sorted-array", "0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj", "{86B42C7C-3D73-48F7-8138-B1249C43A0E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0026.Remove-duplicates-from-sorted-array", "0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj", "{86B42C7C-3D73-48F7-8138-B1249C43A0E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0027.Remove-element", "0027.Remove-element\0027.Remove-element.csproj", "{88E1DDE9-F695-40BE-A948-C0384F303C45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0027.Remove-element", "0027.Remove-element\0027.Remove-element.csproj", "{88E1DDE9-F695-40BE-A948-C0384F303C45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0028.Implement-strStr", "0028.Implement-strStr\0028.Implement-strStr.csproj", "{542E550A-1C24-41C2-8727-83C3B1CFA97F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0028.Implement-strStr", "0028.Implement-strStr\0028.Implement-strStr.csproj", "{542E550A-1C24-41C2-8727-83C3B1CFA97F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0013.Roman-to-integer", "0013.Roman-to-integer\0013.Roman-to-integer.csproj", "{C2EC462E-A5AB-452C-96B7-EFB57128F97A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -247,10 +247,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2BE0D93E-F13A-4584-8E35-60905FB87388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2BE0D93E-F13A-4584-8E35-60905FB87388}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2BE0D93E-F13A-4584-8E35-60905FB87388}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2BE0D93E-F13A-4584-8E35-60905FB87388}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B54BC771-E3FD-41C5-B515-72C826E9AFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B54BC771-E3FD-41C5-B515-72C826E9AFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B54BC771-E3FD-41C5-B515-72C826E9AFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -671,12 +667,15 @@ Global
 		{542E550A-1C24-41C2-8727-83C3B1CFA97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{542E550A-1C24-41C2-8727-83C3B1CFA97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{542E550A-1C24-41C2-8727-83C3B1CFA97F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EC462E-A5AB-452C-96B7-EFB57128F97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EC462E-A5AB-452C-96B7-EFB57128F97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EC462E-A5AB-452C-96B7-EFB57128F97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EC462E-A5AB-452C-96B7-EFB57128F97A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2BE0D93E-F13A-4584-8E35-60905FB87388} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{B54BC771-E3FD-41C5-B515-72C826E9AFF9} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{0239CE11-09F5-47AF-AF52-907F05667417} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{90E6096F-1CDE-46EE-A0D5-11766AC133FF} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
@@ -779,6 +778,7 @@ Global
 		{86B42C7C-3D73-48F7-8138-B1249C43A0E9} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 		{88E1DDE9-F695-40BE-A948-C0384F303C45} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 		{542E550A-1C24-41C2-8727-83C3B1CFA97F} = {E27743F4-6ACE-4044-A526-A73541873A1A}
+		{C2EC462E-A5AB-452C-96B7-EFB57128F97A} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

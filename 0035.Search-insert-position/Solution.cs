@@ -2,16 +2,6 @@
 
 namespace _0035.Search_insert_position
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int SearchInsert(int[] nums, int target)

@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0058.Length-of-last-word", "0058.Length-of-last-word\0058.Length-of-last-word.csproj", "{B54BC771-E3FD-41C5-B515-72C826E9AFF9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0067.Add-binary", "0067.Add-binary\0067.Add-binary.csproj", "{0239CE11-09F5-47AF-AF52-907F05667417}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0147.Insertion-sort-list", "0147.Insertion-sort-list\0147.Insertion-sort-list.csproj", "{90E6096F-1CDE-46EE-A0D5-11766AC133FF}"
@@ -241,16 +239,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0020.Valid-parentheses", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0035.Search-insert-position", "0035.Search-insert-position\0035.Search-insert-position.csproj", "{9D0A82B4-6B09-4781-B62F-1ACB4118722B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0058.Length-of-last-word", "0058.Length-of-last-word\0058.Length-of-last-word.csproj", "{8D992046-D656-4666-ADD0-03238FC1DA14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B54BC771-E3FD-41C5-B515-72C826E9AFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B54BC771-E3FD-41C5-B515-72C826E9AFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B54BC771-E3FD-41C5-B515-72C826E9AFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B54BC771-E3FD-41C5-B515-72C826E9AFF9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0239CE11-09F5-47AF-AF52-907F05667417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0239CE11-09F5-47AF-AF52-907F05667417}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0239CE11-09F5-47AF-AF52-907F05667417}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -671,12 +667,15 @@ Global
 		{9D0A82B4-6B09-4781-B62F-1ACB4118722B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D0A82B4-6B09-4781-B62F-1ACB4118722B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D0A82B4-6B09-4781-B62F-1ACB4118722B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D992046-D656-4666-ADD0-03238FC1DA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D992046-D656-4666-ADD0-03238FC1DA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D992046-D656-4666-ADD0-03238FC1DA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D992046-D656-4666-ADD0-03238FC1DA14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B54BC771-E3FD-41C5-B515-72C826E9AFF9} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{0239CE11-09F5-47AF-AF52-907F05667417} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{90E6096F-1CDE-46EE-A0D5-11766AC133FF} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{6BBAB4D3-56E7-435F-887F-43FEE5A156BA} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
@@ -779,6 +778,7 @@ Global
 		{C2EC462E-A5AB-452C-96B7-EFB57128F97A} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 		{A98E4FE5-F066-42E4-B3E7-7F08587E188D} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 		{9D0A82B4-6B09-4781-B62F-1ACB4118722B} = {E27743F4-6ACE-4044-A526-A73541873A1A}
+		{8D992046-D656-4666-ADD0-03238FC1DA14} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

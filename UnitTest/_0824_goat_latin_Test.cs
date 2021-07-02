@@ -7,7 +7,7 @@ using System.Text;
 namespace _0824.Goat_latin.Tests
 {
     [TestClass()]
-    public class _0824_goat_latin_Test
+    public class _0824_Goat_latin_Test
     {
         Solution solution = new Solution();
 

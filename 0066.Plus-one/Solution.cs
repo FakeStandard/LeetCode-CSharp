@@ -3,52 +3,6 @@ using System.Collections.Generic;
 
 namespace _0066.Plus_one
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-            int[] digits;
-            int[] res;
-
-            digits = new int[] { 9 };
-            res = s.PlusOne(digits);
-            foreach (var r in res)
-                Console.Write($"{r} ");
-
-            Console.WriteLine();
-            // ex1
-            digits = new int[] { 1, 2, 3 };
-            res = s.PlusOne(digits);
-            foreach (var r in res)
-                Console.Write($"{r} ");
-            Console.WriteLine();
-
-            // ex2
-            digits = new int[] { 4, 3, 2, 1 };
-            res = s.PlusOne(digits);
-            foreach (var r in res)
-                Console.Write($"{r} ");
-            Console.WriteLine();
-
-            // ex3
-            digits = new int[] { 0 };
-            res = s.PlusOne(digits);
-            foreach (var r in res)
-                Console.Write($"{r} ");
-            Console.WriteLine();
-
-            // test
-            digits = new int[] { 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 };
-            res = s.PlusOne(digits);
-            foreach (var r in res)
-                Console.Write($"{r} ");
-            Console.WriteLine();
-
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int[] PlusOne(int[] digits)

@@ -29,6 +29,7 @@
     <ProjectReference Include="..\0053.Maximum-subarray\0053.Maximum-subarray.csproj" />
     <ProjectReference Include="..\0058.Length-of-last-word\0058.Length-of-last-word.csproj" />
     <ProjectReference Include="..\0066.Plus-one\0066.Plus-one.csproj" />
+    <ProjectReference Include="..\0067.Add-binary\0067.Add-binary.csproj" />
     <ProjectReference Include="..\0824.Goat-latin\0824.Goat-latin.csproj" />
     <ProjectReference Include="..\0917.Reverse-only-letters\0917.Reverse-only-letters.csproj" />
     <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />

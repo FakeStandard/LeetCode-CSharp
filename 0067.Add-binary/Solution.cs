@@ -4,36 +4,9 @@ using System.Text;
 
 namespace _0067.Add_binary
 {
-    class Program
+    public class Solution
     {
-        static void Main(string[] args)
-        {
-            string a;
-            string b;
-            string r;
-
-            // Ex1
-            a = "11";
-            b = "1";
-            r = AddBinary(a, b);
-            Console.WriteLine(r);
-
-            // Ex2
-            a = "1010";
-            b = "1011";
-            r = AddBinary(a, b);
-            Console.WriteLine(r);
-
-            Console.ReadLine();
-        }
-
-        /// <summary>
-        /// 將兩字串以二進位方式相加
-        /// </summary>
-        /// <param name="a"></param>
-        /// <param name="b"></param>
-        /// <returns>回傳字串</returns>
-        public static string AddBinary(string a, string b)
+        public string AddBinary(string a, string b)
         {
             if (a == null || a == string.Empty || b == null || b == string.Empty)
                 return a == null || a == string.Empty ? b : a;

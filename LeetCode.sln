@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0067.Add-binary", "0067.Add-binary\0067.Add-binary.csproj", "{0239CE11-09F5-47AF-AF52-907F05667417}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0147.Insertion-sort-list", "0147.Insertion-sort-list\0147.Insertion-sort-list.csproj", "{90E6096F-1CDE-46EE-A0D5-11766AC133FF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0257.Binary-tree-paths", "0257.Binary-tree-paths\0257.Binary-tree-paths.csproj", "{6BBAB4D3-56E7-435F-887F-43FEE5A156BA}"
@@ -243,16 +241,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0053.Maximum-subarray", "00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0066.Plus-one", "0066.Plus-one\0066.Plus-one.csproj", "{B7352A7C-6C88-415D-AFD7-EDD79B75E9AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0067.Add-binary", "0067.Add-binary\0067.Add-binary.csproj", "{ADC884F9-CE8D-4DCD-945D-15768A73E426}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0239CE11-09F5-47AF-AF52-907F05667417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0239CE11-09F5-47AF-AF52-907F05667417}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0239CE11-09F5-47AF-AF52-907F05667417}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0239CE11-09F5-47AF-AF52-907F05667417}.Release|Any CPU.Build.0 = Release|Any CPU
 		{90E6096F-1CDE-46EE-A0D5-11766AC133FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{90E6096F-1CDE-46EE-A0D5-11766AC133FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E6096F-1CDE-46EE-A0D5-11766AC133FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -677,12 +673,15 @@ Global
 		{B7352A7C-6C88-415D-AFD7-EDD79B75E9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7352A7C-6C88-415D-AFD7-EDD79B75E9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7352A7C-6C88-415D-AFD7-EDD79B75E9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC884F9-CE8D-4DCD-945D-15768A73E426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC884F9-CE8D-4DCD-945D-15768A73E426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC884F9-CE8D-4DCD-945D-15768A73E426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC884F9-CE8D-4DCD-945D-15768A73E426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{0239CE11-09F5-47AF-AF52-907F05667417} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{90E6096F-1CDE-46EE-A0D5-11766AC133FF} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{6BBAB4D3-56E7-435F-887F-43FEE5A156BA} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{46FABD73-6CC6-43F3-9F9C-2C24C08074FA} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
@@ -786,6 +785,7 @@ Global
 		{8D992046-D656-4666-ADD0-03238FC1DA14} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 		{0AC0CF3A-3F6B-4C55-8C68-3404DB54AE05} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 		{B7352A7C-6C88-415D-AFD7-EDD79B75E9AD} = {E27743F4-6ACE-4044-A526-A73541873A1A}
+		{ADC884F9-CE8D-4DCD-945D-15768A73E426} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

@@ -2,32 +2,6 @@
 
 namespace _0070.Climbing_stairs
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-            int n;
-
-            // ex1
-            n = 2;
-            // Output: 2
-            Console.WriteLine(s.ClimbStairs(n));
-
-            // ex2
-            n = 3;
-            // Output: 3
-            Console.WriteLine(s.ClimbStairs(n));
-
-            // test
-            n = 10;
-            // Output: 
-            Console.WriteLine(s.ClimbStairs(n));
-
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int ClimbStairs(int n)

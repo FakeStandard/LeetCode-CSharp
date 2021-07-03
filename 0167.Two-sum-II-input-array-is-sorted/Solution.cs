@@ -2,14 +2,6 @@
 
 namespace _0167.Two_sum_II_input_array_is_sorted
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public int[] TwoSum(int[] numbers, int target)

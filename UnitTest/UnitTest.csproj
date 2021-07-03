@@ -44,6 +44,7 @@
     <ProjectReference Include="..\0231.Power-of-two\0231.Power-of-two.csproj" />
     <ProjectReference Include="..\0242.Valid-anagram\0242.Valid-anagram.csproj" />
     <ProjectReference Include="..\0824.Goat-latin\0824.Goat-latin.csproj" />
+    <ProjectReference Include="..\0852.Peak-index-in-a-mountain-array\0852.Peak-index-in-a-mountain-array.csproj" />
     <ProjectReference Include="..\0917.Reverse-only-letters\0917.Reverse-only-letters.csproj" />
     <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />
     <ProjectReference Include="..\0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj" />

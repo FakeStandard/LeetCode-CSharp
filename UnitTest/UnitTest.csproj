@@ -34,6 +34,7 @@
     <ProjectReference Include="..\0083.Remove-duplicates-from-sorted-list\0083.Remove-duplicates-from-sorted-list.csproj" />
     <ProjectReference Include="..\0094.Binary-tree-inorder-traversal\0094.Binary-tree-inorder-traversal.csproj" />
     <ProjectReference Include="..\0100.Same-tree\0100.Same-tree.csproj" />
+    <ProjectReference Include="..\0104.Maxium-depth-of-binary-tree\0104.Maxium-depth-of-binary-tree.csproj" />
     <ProjectReference Include="..\0204.Count-primes\0204.Count-primes.csproj" />
     <ProjectReference Include="..\0217.Contains-Duplicate\0217.Contains-Duplicate.csproj" />
     <ProjectReference Include="..\0231.Power-of-two\0231.Power-of-two.csproj" />

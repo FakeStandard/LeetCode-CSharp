@@ -20,7 +20,7 @@ namespace _0728.Self_dividing_numbers
                     {
                         int d = num % 10;
 
-                        if (left % d != 0)
+                        if (d == 0 || left % d != 0)
                             break;
                         num /= 10;
                     }

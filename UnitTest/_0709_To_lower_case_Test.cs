@@ -1,0 +1,56 @@
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using _0709.To_lower_case;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace _0709.To_lower_case.Tests
+{
+    [TestClass()]
+    public class _0709_To_lower_case_Test
+    {
+        Solution solution = new Solution();
+
+        [TestMethod()]
+        public void ToLowerCase_Test1()
+        {
+            // Arrange
+            string s = "Hello";
+            var expected = "hello";
+
+            // Act
+            var actual = solution.ToLowerCase(s);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void ToLowerCase_Test2()
+        {
+            // Arrange
+            string s = "here";
+            var expected = "here";
+
+            // Act
+            var actual = solution.ToLowerCase(s);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void ToLowerCase_Test3()
+        {
+            // Arrange
+            string s = "LOVELY";
+            var expected = "lovely";
+
+            // Act
+            var actual = solution.ToLowerCase(s);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+    }
+}

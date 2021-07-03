@@ -32,6 +32,7 @@
     <ProjectReference Include="..\0067.Add-binary\0067.Add-binary.csproj" />
     <ProjectReference Include="..\0070.Climbing-stairs\0070.Climbing-stairs.csproj" />
     <ProjectReference Include="..\0083.Remove-duplicates-from-sorted-list\0083.Remove-duplicates-from-sorted-list.csproj" />
+    <ProjectReference Include="..\0094.Binary-tree-inorder-traversal\0094.Binary-tree-inorder-traversal.csproj" />
     <ProjectReference Include="..\0204.Count-primes\0204.Count-primes.csproj" />
     <ProjectReference Include="..\0217.Contains-Duplicate\0217.Contains-Duplicate.csproj" />
     <ProjectReference Include="..\0231.Power-of-two\0231.Power-of-two.csproj" />

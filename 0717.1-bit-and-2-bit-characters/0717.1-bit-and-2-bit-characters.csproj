@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_0717._1_bit_and_2_bit_characters</RootNamespace>
+  </PropertyGroup>
+
+</Project>

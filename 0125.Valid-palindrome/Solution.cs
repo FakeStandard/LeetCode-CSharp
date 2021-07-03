@@ -2,20 +2,6 @@
 
 namespace _0125.Valid_palindrome
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-
-            string str = "A man, a plan, a canal: Panama";
-
-            s.IsPalindrome(str);
-
-            Console.ReadLine();
-        }
-    }
-
     public class Solution
     {
         public bool IsPalindrome(string s)

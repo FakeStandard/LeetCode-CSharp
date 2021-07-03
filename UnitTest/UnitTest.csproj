@@ -37,6 +37,7 @@
     <ProjectReference Include="..\0104.Maxium-depth-of-binary-tree\0104.Maxium-depth-of-binary-tree.csproj" />
     <ProjectReference Include="..\0112.Path-sum\0112.Path-sum.csproj" />
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
+    <ProjectReference Include="..\0125.Valid-palindrome\0125.Valid-palindrome.csproj" />
     <ProjectReference Include="..\0204.Count-primes\0204.Count-primes.csproj" />
     <ProjectReference Include="..\0217.Contains-Duplicate\0217.Contains-Duplicate.csproj" />
     <ProjectReference Include="..\0231.Power-of-two\0231.Power-of-two.csproj" />

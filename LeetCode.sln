@@ -251,9 +251,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0112.Path-sum", "0112.Path-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0118.Pascal's-triangle", "0118.Pascal's-triangle\0118.Pascal's-triangle.csproj", "{B9BC5BAE-4947-40A7-878A-03F9C9A065D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0125.Valid-palindrome", "0125.Valid-palindrome\0125.Valid-palindrome.csproj", "{2BC436BD-14AB-4164-BE0C-A1FD41D10CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0125.Valid-palindrome", "0125.Valid-palindrome\0125.Valid-palindrome.csproj", "{2BC436BD-14AB-4164-BE0C-A1FD41D10CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0167.Two-sum-II-input-array-is-sorted", "0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj", "{B50971A8-3065-4434-9DDE-45C850F1D154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0167.Two-sum-II-input-array-is-sorted", "0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj", "{B50971A8-3065-4434-9DDE-45C850F1D154}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1001-1100", "1001-1100", "{BA5F2DBC-65E9-468E-AC65-B46F574596B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1047.Remove-all-adjacent-duplicates-in-string", "1047.Remove-all-adjacent-duplicates-in-string\1047.Remove-all-adjacent-duplicates-in-string.csproj", "{C8687F74-B7EC-4CA8-9B34-BB37917EAEDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -705,6 +709,10 @@ Global
 		{B50971A8-3065-4434-9DDE-45C850F1D154}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B50971A8-3065-4434-9DDE-45C850F1D154}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B50971A8-3065-4434-9DDE-45C850F1D154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8687F74-B7EC-4CA8-9B34-BB37917EAEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8687F74-B7EC-4CA8-9B34-BB37917EAEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8687F74-B7EC-4CA8-9B34-BB37917EAEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8687F74-B7EC-4CA8-9B34-BB37917EAEDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -818,6 +826,7 @@ Global
 		{B9BC5BAE-4947-40A7-878A-03F9C9A065D7} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
 		{2BC436BD-14AB-4164-BE0C-A1FD41D10CEB} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
 		{B50971A8-3065-4434-9DDE-45C850F1D154} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
+		{C8687F74-B7EC-4CA8-9B34-BB37917EAEDF} = {BA5F2DBC-65E9-468E-AC65-B46F574596B1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

@@ -257,25 +257,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0728.Self-dividing-numbers"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0717.1-bit-and-2-bit-characters", "0717.1-bit-and-2-bit-characters\0717.1-bit-and-2-bit-characters.csproj", "{B8F56D0A-C79C-4C69-9E76-34AEE91E7208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0088.Merge-sorted-array", "0088.Merge-sorted-array\0088.Merge-sorted-array.csproj", "{E337520B-33C9-4F51-9276-2195C24B76BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0088.Merge-sorted-array", "0088.Merge-sorted-array\0088.Merge-sorted-array.csproj", "{E337520B-33C9-4F51-9276-2195C24B76BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0121.Best-time-to-buy-and-shell-stock", "0121.Best-time-to-buy-and-shell-stock\0121.Best-time-to-buy-and-shell-stock.csproj", "{F6A27BA0-55E2-462F-BD83-447E292EB9B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0121.Best-time-to-buy-and-shell-stock", "0121.Best-time-to-buy-and-shell-stock\0121.Best-time-to-buy-and-shell-stock.csproj", "{F6A27BA0-55E2-462F-BD83-447E292EB9B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0136.Single-number", "0136.Single-number\0136.Single-number.csproj", "{91F1FE5D-CCA1-4C5B-8E33-C6F405C0011C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0136.Single-number", "0136.Single-number\0136.Single-number.csproj", "{91F1FE5D-CCA1-4C5B-8E33-C6F405C0011C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0144.Binary-tree-preorder-traversal", "0144.Binary-tree-preorder-traversal\0144.Binary-tree-preorder-traversal.csproj", "{158CB939-C3D5-4A7E-9306-1CD9AD2A571F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0144.Binary-tree-preorder-traversal", "0144.Binary-tree-preorder-traversal\0144.Binary-tree-preorder-traversal.csproj", "{158CB939-C3D5-4A7E-9306-1CD9AD2A571F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0145.Binary-tree-postorder-traversal", "0145.Binary-tree-postorder-traversal\0145.Binary-tree-postorder-traversal.csproj", "{3ECDB273-21A3-41BC-9631-4B849AA11C66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0145.Binary-tree-postorder-traversal", "0145.Binary-tree-postorder-traversal\0145.Binary-tree-postorder-traversal.csproj", "{3ECDB273-21A3-41BC-9631-4B849AA11C66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0155.Min-stack", "0155.Min-stack\0155.Min-stack.csproj", "{975A22B7-E55F-4B2F-8C25-AB937906CF93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0155.Min-stack", "0155.Min-stack\0155.Min-stack.csproj", "{975A22B7-E55F-4B2F-8C25-AB937906CF93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0169.Majority-element", "0169.Majority-element\0169.Majority-element.csproj", "{39D551B3-C489-42D4-858D-FA112552D49C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0169.Majority-element", "0169.Majority-element\0169.Majority-element.csproj", "{39D551B3-C489-42D4-858D-FA112552D49C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0172.Factorial-trailing-zeroes", "0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj", "{FEF13AEA-A133-4F2A-8C0A-B3BE23CEAF8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0172.Factorial-trailing-zeroes", "0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj", "{FEF13AEA-A133-4F2A-8C0A-B3BE23CEAF8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0202.Happy-number", "0202.Happy-number\0202.Happy-number.csproj", "{846887AF-24B1-4125-A75F-058B3759E483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0202.Happy-number", "0202.Happy-number\0202.Happy-number.csproj", "{846887AF-24B1-4125-A75F-058B3759E483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0203.Remove-linked-list-elements", "0203.Remove-linked-list-elements\0203.Remove-linked-list-elements.csproj", "{BDD69A6D-64F1-4D54-BE9D-B836412E0213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0203.Remove-linked-list-elements", "0203.Remove-linked-list-elements\0203.Remove-linked-list-elements.csproj", "{BDD69A6D-64F1-4D54-BE9D-B836412E0213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0258.Add-digits", "0258.Add-digits\0258.Add-digits.csproj", "{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -763,6 +765,10 @@ Global
 		{BDD69A6D-64F1-4D54-BE9D-B836412E0213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDD69A6D-64F1-4D54-BE9D-B836412E0213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDD69A6D-64F1-4D54-BE9D-B836412E0213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -885,6 +891,7 @@ Global
 		{FEF13AEA-A133-4F2A-8C0A-B3BE23CEAF8A} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
 		{846887AF-24B1-4125-A75F-058B3759E483} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 		{BDD69A6D-64F1-4D54-BE9D-B836412E0213} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
+		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

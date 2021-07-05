@@ -49,6 +49,7 @@
     <ProjectReference Include="..\0217.Contains-Duplicate\0217.Contains-Duplicate.csproj" />
     <ProjectReference Include="..\0231.Power-of-two\0231.Power-of-two.csproj" />
     <ProjectReference Include="..\0242.Valid-anagram\0242.Valid-anagram.csproj" />
+    <ProjectReference Include="..\0258.Add-digits\0258.Add-digits.csproj" />
     <ProjectReference Include="..\0709.To-lower-case\0709.To-lower-case.csproj" />
     <ProjectReference Include="..\0717.1-bit-and-2-bit-characters\0717.1-bit-and-2-bit-characters.csproj" />
     <ProjectReference Include="..\0728.Self-dividing-numbers\0728.Self-dividing-numbers.csproj" />

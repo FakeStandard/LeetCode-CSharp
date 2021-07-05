@@ -271,6 +271,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0717.1-bit-and-2-bit-charac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0088.Merge-sorted-array", "0088.Merge-sorted-array\0088.Merge-sorted-array.csproj", "{E337520B-33C9-4F51-9276-2195C24B76BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0121.Best-time-to-buy-and-shell-stock", "0121.Best-time-to-buy-and-shell-stock\0121.Best-time-to-buy-and-shell-stock.csproj", "{F6A27BA0-55E2-462F-BD83-447E292EB9B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -745,6 +747,10 @@ Global
 		{E337520B-33C9-4F51-9276-2195C24B76BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E337520B-33C9-4F51-9276-2195C24B76BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E337520B-33C9-4F51-9276-2195C24B76BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A27BA0-55E2-462F-BD83-447E292EB9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A27BA0-55E2-462F-BD83-447E292EB9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A27BA0-55E2-462F-BD83-447E292EB9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A27BA0-55E2-462F-BD83-447E292EB9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -864,6 +870,7 @@ Global
 		{DAE46222-632D-4627-968D-CC4E388BAEE0} = {BB00A7B7-CBDE-4817-9798-0B217F1DC559}
 		{B8F56D0A-C79C-4C69-9E76-34AEE91E7208} = {BB00A7B7-CBDE-4817-9798-0B217F1DC559}
 		{E337520B-33C9-4F51-9276-2195C24B76BE} = {E27743F4-6ACE-4044-A526-A73541873A1A}
+		{F6A27BA0-55E2-462F-BD83-447E292EB9B7} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

@@ -10,9 +10,6 @@ namespace _0169.Majority_element
         {
             Dictionary<int, int> dic = new Dictionary<int, int>();
 
-            int max = int.MinValue;
-            int key = 0;
-
             foreach (int num in nums)
             {
                 if (dic.ContainsKey(num))
@@ -20,14 +17,11 @@ namespace _0169.Majority_element
                 else
                     dic.Add(num, 1);
 
-                if (dic[num] > max)
-                {
-                    max = dic[num];
-                    key = num;
-                }
+                if (dic[num] > nums.Length / 2)
+                    return num;
             }
 
-            return key;
+            return -1;
         }
     }
 }

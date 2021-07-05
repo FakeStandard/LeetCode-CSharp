@@ -8,6 +8,13 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("=====");
+            Console.WriteLine(2 ^ 3);
+            Console.WriteLine(4 ^ 1);
+            Console.WriteLine((4 ^ 1) ^ 2);
+            Console.WriteLine(((4 ^ 1) ^ 2) ^ 1);
+            Console.WriteLine((((4 ^ 1) ^ 2) ^ 1) ^ 2);
+            Console.WriteLine("=====");
+            Console.WriteLine("=====");
             Console.WriteLine(16 & 15);
             Console.WriteLine(15 & 14);
             Console.WriteLine(14 & 13);

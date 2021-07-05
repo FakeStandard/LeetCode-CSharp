@@ -273,6 +273,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0169.Majority-element", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0172.Factorial-trailing-zeroes", "0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj", "{FEF13AEA-A133-4F2A-8C0A-B3BE23CEAF8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0202.Happy-number", "0202.Happy-number\0202.Happy-number.csproj", "{846887AF-24B1-4125-A75F-058B3759E483}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -751,6 +753,10 @@ Global
 		{FEF13AEA-A133-4F2A-8C0A-B3BE23CEAF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEF13AEA-A133-4F2A-8C0A-B3BE23CEAF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEF13AEA-A133-4F2A-8C0A-B3BE23CEAF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846887AF-24B1-4125-A75F-058B3759E483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846887AF-24B1-4125-A75F-058B3759E483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846887AF-24B1-4125-A75F-058B3759E483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846887AF-24B1-4125-A75F-058B3759E483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -871,6 +877,7 @@ Global
 		{975A22B7-E55F-4B2F-8C25-AB937906CF93} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
 		{39D551B3-C489-42D4-858D-FA112552D49C} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
 		{FEF13AEA-A133-4F2A-8C0A-B3BE23CEAF8A} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
+		{846887AF-24B1-4125-A75F-058B3759E483} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

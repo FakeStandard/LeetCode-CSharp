@@ -257,17 +257,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0167.Two-sum-II-input-array
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1001-1100", "1001-1100", "{BA5F2DBC-65E9-468E-AC65-B46F574596B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1047.Remove-all-adjacent-duplicates-in-string", "1047.Remove-all-adjacent-duplicates-in-string\1047.Remove-all-adjacent-duplicates-in-string.csproj", "{C8687F74-B7EC-4CA8-9B34-BB37917EAEDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1047.Remove-all-adjacent-duplicates-in-string", "1047.Remove-all-adjacent-duplicates-in-string\1047.Remove-all-adjacent-duplicates-in-string.csproj", "{C8687F74-B7EC-4CA8-9B34-BB37917EAEDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0852.Peak-index-in-a-mountain-array", "0852.Peak-index-in-a-mountain-array\0852.Peak-index-in-a-mountain-array.csproj", "{26134F13-F192-4D71-9493-461C21456D25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0852.Peak-index-in-a-mountain-array", "0852.Peak-index-in-a-mountain-array\0852.Peak-index-in-a-mountain-array.csproj", "{26134F13-F192-4D71-9493-461C21456D25}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0701-0800", "0701-0800", "{BB00A7B7-CBDE-4817-9798-0B217F1DC559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0709.To-lower-case", "0709.To-lower-case\0709.To-lower-case.csproj", "{C0743484-B91A-4A4B-9E3D-D6CF1870478D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0709.To-lower-case", "0709.To-lower-case\0709.To-lower-case.csproj", "{C0743484-B91A-4A4B-9E3D-D6CF1870478D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0728.Self-dividing-numbers", "0728.Self-dividing-numbers\0728.Self-dividing-numbers.csproj", "{DAE46222-632D-4627-968D-CC4E388BAEE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0728.Self-dividing-numbers", "0728.Self-dividing-numbers\0728.Self-dividing-numbers.csproj", "{DAE46222-632D-4627-968D-CC4E388BAEE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0717.1-bit-and-2-bit-characters", "0717.1-bit-and-2-bit-characters\0717.1-bit-and-2-bit-characters.csproj", "{B8F56D0A-C79C-4C69-9E76-34AEE91E7208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0717.1-bit-and-2-bit-characters", "0717.1-bit-and-2-bit-characters\0717.1-bit-and-2-bit-characters.csproj", "{B8F56D0A-C79C-4C69-9E76-34AEE91E7208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0088.Merge-sorted-array", "0088.Merge-sorted-array\0088.Merge-sorted-array.csproj", "{E337520B-33C9-4F51-9276-2195C24B76BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -739,6 +741,10 @@ Global
 		{B8F56D0A-C79C-4C69-9E76-34AEE91E7208}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8F56D0A-C79C-4C69-9E76-34AEE91E7208}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8F56D0A-C79C-4C69-9E76-34AEE91E7208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E337520B-33C9-4F51-9276-2195C24B76BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E337520B-33C9-4F51-9276-2195C24B76BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E337520B-33C9-4F51-9276-2195C24B76BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E337520B-33C9-4F51-9276-2195C24B76BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -857,6 +863,7 @@ Global
 		{C0743484-B91A-4A4B-9E3D-D6CF1870478D} = {BB00A7B7-CBDE-4817-9798-0B217F1DC559}
 		{DAE46222-632D-4627-968D-CC4E388BAEE0} = {BB00A7B7-CBDE-4817-9798-0B217F1DC559}
 		{B8F56D0A-C79C-4C69-9E76-34AEE91E7208} = {BB00A7B7-CBDE-4817-9798-0B217F1DC559}
+		{E337520B-33C9-4F51-9276-2195C24B76BE} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

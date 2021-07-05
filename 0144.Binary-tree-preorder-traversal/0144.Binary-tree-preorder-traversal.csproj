@@ -5,4 +5,8 @@
     <RootNamespace>_0144.Binary_tree_preorder_traversal</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
 </Project>

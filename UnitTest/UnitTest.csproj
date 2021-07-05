@@ -30,6 +30,7 @@
     <ProjectReference Include="..\0058.Length-of-last-word\0058.Length-of-last-word.csproj" />
     <ProjectReference Include="..\0066.Plus-one\0066.Plus-one.csproj" />
     <ProjectReference Include="..\0067.Add-binary\0067.Add-binary.csproj" />
+    <ProjectReference Include="..\0069.Sqrt-x\0069.Sqrt-x.csproj" />
     <ProjectReference Include="..\0070.Climbing-stairs\0070.Climbing-stairs.csproj" />
     <ProjectReference Include="..\0083.Remove-duplicates-from-sorted-list\0083.Remove-duplicates-from-sorted-list.csproj" />
     <ProjectReference Include="..\0094.Binary-tree-inorder-traversal\0094.Binary-tree-inorder-traversal.csproj" />

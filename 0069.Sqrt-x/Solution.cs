@@ -6,7 +6,13 @@ namespace _0069.Sqrt_x
     {
         public int MySqrt(int x)
         {
-            return 0;
+            int i = 1;
+
+            while (i < x / i)
+                i++;
+
+            if (i > x / i) return --i;
+            else return i;
         }
     }
 }

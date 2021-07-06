@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0257.Binary-tree-paths", "0257.Binary-tree-paths\0257.Binary-tree-paths.csproj", "{6BBAB4D3-56E7-435F-887F-43FEE5A156BA}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0509.Fibonacci-number", "0509.Fibonacci-number\0509.Fibonacci-number.csproj", "{46FABD73-6CC6-43F3-9F9C-2C24C08074FA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0617.Merge-two-binary-trees", "0617.Merge-two-binary-trees\0617.Merge-two-binary-trees.csproj", "{3308DD5E-C469-4C2B-A8A5-EB9470922A18}"
@@ -277,7 +275,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0202.Happy-number", "0202.H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0203.Remove-linked-list-elements", "0203.Remove-linked-list-elements\0203.Remove-linked-list-elements.csproj", "{BDD69A6D-64F1-4D54-BE9D-B836412E0213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0258.Add-digits", "0258.Add-digits\0258.Add-digits.csproj", "{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0258.Add-digits", "0258.Add-digits\0258.Add-digits.csproj", "{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0257.Binary-tree-paths", "0257.Binary-tree-paths\0257.Binary-tree-paths.csproj", "{84D6285D-3B05-49AD-9355-CEF93141B8FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,10 +285,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6BBAB4D3-56E7-435F-887F-43FEE5A156BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6BBAB4D3-56E7-435F-887F-43FEE5A156BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6BBAB4D3-56E7-435F-887F-43FEE5A156BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6BBAB4D3-56E7-435F-887F-43FEE5A156BA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{46FABD73-6CC6-43F3-9F9C-2C24C08074FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{46FABD73-6CC6-43F3-9F9C-2C24C08074FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46FABD73-6CC6-43F3-9F9C-2C24C08074FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -769,12 +765,15 @@ Global
 		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D6285D-3B05-49AD-9355-CEF93141B8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D6285D-3B05-49AD-9355-CEF93141B8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D6285D-3B05-49AD-9355-CEF93141B8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D6285D-3B05-49AD-9355-CEF93141B8FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{6BBAB4D3-56E7-435F-887F-43FEE5A156BA} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{46FABD73-6CC6-43F3-9F9C-2C24C08074FA} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{3308DD5E-C469-4C2B-A8A5-EB9470922A18} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
 		{3F5510D6-4270-4324-A9B0-1E837699AB6F} = {61F8DB25-91CF-4CBD-894D-F7FBC3DAEE12}
@@ -892,6 +891,7 @@ Global
 		{846887AF-24B1-4125-A75F-058B3759E483} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 		{BDD69A6D-64F1-4D54-BE9D-B836412E0213} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 		{10E2703C-1EBA-4CA2-BEE0-FA853CB76979} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
+		{84D6285D-3B05-49AD-9355-CEF93141B8FD} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

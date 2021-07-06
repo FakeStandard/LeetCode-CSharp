@@ -42,6 +42,7 @@
     <ProjectReference Include="..\0125.Valid-palindrome\0125.Valid-palindrome.csproj" />
     <ProjectReference Include="..\0136.Single-number\0136.Single-number.csproj" />
     <ProjectReference Include="..\0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj" />
+    <ProjectReference Include="..\0168.Excel-sheet-column-title\0168.Excel-sheet-column-title.csproj" />
     <ProjectReference Include="..\0169.Majority-element\0169.Majority-element.csproj" />
     <ProjectReference Include="..\0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj" />
     <ProjectReference Include="..\0203.Remove-linked-list-elements\0203.Remove-linked-list-elements.csproj" />

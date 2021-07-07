@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_0232.Implement_queue_using_stacks</RootNamespace>
+  </PropertyGroup>
+
+</Project>

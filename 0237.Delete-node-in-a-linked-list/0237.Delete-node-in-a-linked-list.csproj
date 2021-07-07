@@ -5,4 +5,8 @@
     <RootNamespace>_0237.Delete_node_in_a_linked_list</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
 </Project>

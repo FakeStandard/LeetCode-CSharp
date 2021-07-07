@@ -47,6 +47,7 @@
     <ProjectReference Include="..\0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj" />
     <ProjectReference Include="..\0203.Remove-linked-list-elements\0203.Remove-linked-list-elements.csproj" />
     <ProjectReference Include="..\0204.Count-primes\0204.Count-primes.csproj" />
+    <ProjectReference Include="..\0206.Reverse-linked-list\0206.Reverse-linked-list.csproj" />
     <ProjectReference Include="..\0217.Contains-Duplicate\0217.Contains-Duplicate.csproj" />
     <ProjectReference Include="..\0231.Power-of-two\0231.Power-of-two.csproj" />
     <ProjectReference Include="..\0242.Valid-anagram\0242.Valid-anagram.csproj" />

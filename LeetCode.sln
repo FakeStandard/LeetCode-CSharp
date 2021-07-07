@@ -287,6 +287,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0206.Reverse-linked-list", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0219.Contains-duplicate-II", "0219.Contains-duplicate-II\0219.Contains-duplicate-II.csproj", "{BFA60D8D-B102-41C4-BEA5-4B05F8A4B0F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0225.Implement-stack-using-queues", "0225.Implement-stack-using-queues\0225.Implement-stack-using-queues.csproj", "{C4278BCB-5F53-4AE1-8DFE-9B1711B01981}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -785,6 +787,10 @@ Global
 		{BFA60D8D-B102-41C4-BEA5-4B05F8A4B0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFA60D8D-B102-41C4-BEA5-4B05F8A4B0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFA60D8D-B102-41C4-BEA5-4B05F8A4B0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4278BCB-5F53-4AE1-8DFE-9B1711B01981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4278BCB-5F53-4AE1-8DFE-9B1711B01981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4278BCB-5F53-4AE1-8DFE-9B1711B01981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4278BCB-5F53-4AE1-8DFE-9B1711B01981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -910,6 +916,7 @@ Global
 		{4C12609A-59E7-42E1-9815-D5F240564053} = {A8560354-56C3-45A8-81A6-79D422038684}
 		{4B13878E-ECA0-449D-BA41-B533F833CE2B} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 		{BFA60D8D-B102-41C4-BEA5-4B05F8A4B0F8} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
+		{C4278BCB-5F53-4AE1-8DFE-9B1711B01981} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

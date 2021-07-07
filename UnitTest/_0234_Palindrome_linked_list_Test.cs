@@ -1,0 +1,43 @@
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using _0234.Palindrome_linked_list;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using Common;
+
+namespace _0234.Palindrome_linked_list.Tests
+{
+    [TestClass()]
+    public class _0234_Palindrome_linked_list_Test
+    {
+        Solution solution = new Solution();
+
+        [TestMethod()]
+        public void IsPalindrome_Test1()
+        {
+            // Arrange
+            ListNode head = new ListNode();
+            head = head.AddNode(new int[] { 1, 2, 2, 1 });
+
+            // Act
+            var actual = solution.IsPalindrome(head);
+
+            // Assert
+            Assert.IsTrue(actual);
+        }
+
+        [TestMethod()]
+        public void IsPalindrome_Test2()
+        {
+            // Arrange
+            ListNode head = new ListNode();
+            head = head.AddNode(new int[] { 1, 2 });
+
+            // Act
+            var actual = solution.IsPalindrome(head);
+
+            // Assert
+            Assert.IsFalse(actual);
+        }
+    }
+}

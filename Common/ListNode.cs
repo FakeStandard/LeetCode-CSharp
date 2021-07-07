@@ -16,5 +16,24 @@ namespace Common
             this.val = val;
             this.next = next;
         }
+
+        public ListNode AddNode(int[] arr)
+        {
+            if (arr.Length <= 0)
+                return new ListNode();
+
+            ListNode res = new ListNode(arr[0]);
+            ListNode current = res;
+
+            for (int i = 1; i < arr.Length; i++)
+            {
+                ListNode newNode = new ListNode(arr[i]);
+
+                current.next = newNode;
+                current = current.next;
+            }
+
+            return res;
+        }
     }
 }

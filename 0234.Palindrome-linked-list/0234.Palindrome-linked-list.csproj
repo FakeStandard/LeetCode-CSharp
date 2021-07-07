@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0226.Invert_binary_tree</RootNamespace>
+    <RootNamespace>_0234.Palindrome_linked_list</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

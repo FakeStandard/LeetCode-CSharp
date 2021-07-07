@@ -13,7 +13,8 @@ namespace _0206.Reverse_linked_list
         /// <returns></returns>
         public ListNode ReverseList(ListNode head)
         {
-            if (head == null) return head;
+            if (head == null || head.next == null)
+                return head;
 
             ListNode node = ReverseList(head.next);
             head.next.next = head;

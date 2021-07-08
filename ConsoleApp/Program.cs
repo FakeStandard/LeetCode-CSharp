@@ -8,6 +8,19 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            {
+                string a = "first";
+                Console.WriteLine(a);
+            }
+            
+
+            {
+                string a = "scope";
+                Console.WriteLine(a);
+            }
+
+            Console.WriteLine("=====");
+
             // Your MyStack object will be instantiated and called as such:
             MyStack obj = new MyStack();
             obj.Push(1);

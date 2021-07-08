@@ -307,6 +307,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0392.Is-subsequence", "0392
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0389.Find-the-difference", "0389.Find-the-difference\0389.Find-the-difference.csproj", "{9118EDCC-2B97-435C-95E6-C9C8729C136E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0387.First-unique-character-in-a-string", "0387.First-unique-character-in-a-string\0387.First-unique-character-in-a-string.csproj", "{6963BFC8-8A24-4EBD-B274-F32357DDC505}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -845,6 +847,10 @@ Global
 		{9118EDCC-2B97-435C-95E6-C9C8729C136E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9118EDCC-2B97-435C-95E6-C9C8729C136E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9118EDCC-2B97-435C-95E6-C9C8729C136E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6963BFC8-8A24-4EBD-B274-F32357DDC505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6963BFC8-8A24-4EBD-B274-F32357DDC505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6963BFC8-8A24-4EBD-B274-F32357DDC505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6963BFC8-8A24-4EBD-B274-F32357DDC505}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -980,6 +986,7 @@ Global
 		{F9D21439-DCBE-4441-9C1A-7691289F2C04} = {9308843A-9FDC-4503-B299-BB9E37FFF430}
 		{65D6121D-637E-4394-9482-37889F1FD40F} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
 		{9118EDCC-2B97-435C-95E6-C9C8729C136E} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
+		{6963BFC8-8A24-4EBD-B274-F32357DDC505} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

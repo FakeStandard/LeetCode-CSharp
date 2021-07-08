@@ -55,6 +55,7 @@
     <ProjectReference Include="..\0242.Valid-anagram\0242.Valid-anagram.csproj" />
     <ProjectReference Include="..\0257.Binary-tree-paths\0257.Binary-tree-paths.csproj" />
     <ProjectReference Include="..\0258.Add-digits\0258.Add-digits.csproj" />
+    <ProjectReference Include="..\0326.Power-of-three\0326.Power-of-three.csproj" />
     <ProjectReference Include="..\0344.Reverse-string\0344.Reverse-string.csproj" />
     <ProjectReference Include="..\0378.Kth-smallest-element-in-a-sorted-matrix\0378.Kth-smallest-element-in-a-sorted-matrix.csproj" />
     <ProjectReference Include="..\0509.Fibonacci-number\0509.Fibonacci-number.csproj" />

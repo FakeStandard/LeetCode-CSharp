@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0001.Two_sum;
+using Solution;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0001.Two_sum.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0001_Two_sum_Test
     {
-        Solution solution = new Solution();
+        _0001_Two_sum solution = new _0001_Two_sum();
 
         [TestMethod()]
         public void TwoSum_Test1()

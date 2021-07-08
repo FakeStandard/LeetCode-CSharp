@@ -61,6 +61,7 @@
     <ProjectReference Include="..\0682.Baseball-game\0682.Baseball-game.csproj" />
     <ProjectReference Include="..\0709.To-lower-case\0709.To-lower-case.csproj" />
     <ProjectReference Include="..\0717.1-bit-and-2-bit-characters\0717.1-bit-and-2-bit-characters.csproj" />
+    <ProjectReference Include="..\0718.Maximum-length-of-repeated-subarray\0718.Maximum-length-of-repeated-subarray.csproj" />
     <ProjectReference Include="..\0728.Self-dividing-numbers\0728.Self-dividing-numbers.csproj" />
     <ProjectReference Include="..\0771.Jewels-and-stones\0771.Jewels-and-stones.csproj" />
     <ProjectReference Include="..\0824.Goat-latin\0824.Goat-latin.csproj" />

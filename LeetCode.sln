@@ -295,6 +295,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1220.Count-vowels-permutati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0378.Kth-smallest-element-in-a-sorted-matrix", "0378.Kth-smallest-element-in-a-sorted-matrix\0378.Kth-smallest-element-in-a-sorted-matrix.csproj", "{A2BCFD9A-485A-46CD-B599-F0AD0E59A91C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0718.Maximum-length-of-repeated-subarray", "0718.Maximum-length-of-repeated-subarray\0718.Maximum-length-of-repeated-subarray.csproj", "{2E7D038E-2051-485F-8B8D-96ADB38E6918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -813,6 +815,10 @@ Global
 		{A2BCFD9A-485A-46CD-B599-F0AD0E59A91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2BCFD9A-485A-46CD-B599-F0AD0E59A91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2BCFD9A-485A-46CD-B599-F0AD0E59A91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7D038E-2051-485F-8B8D-96ADB38E6918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7D038E-2051-485F-8B8D-96ADB38E6918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7D038E-2051-485F-8B8D-96ADB38E6918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7D038E-2051-485F-8B8D-96ADB38E6918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -943,6 +949,7 @@ Global
 		{02DE5736-5F3C-4E5D-A42D-CED1C041AFD3} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 		{39A2599E-40D3-429D-ADBC-CE0B7CC63D1E} = {941B9C7A-286E-4F29-B406-3B274F9CF0C1}
 		{A2BCFD9A-485A-46CD-B599-F0AD0E59A91C} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
+		{2E7D038E-2051-485F-8B8D-96ADB38E6918} = {BB00A7B7-CBDE-4817-9798-0B217F1DC559}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

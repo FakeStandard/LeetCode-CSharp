@@ -70,6 +70,7 @@
     <ProjectReference Include="..\0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj" />
     <ProjectReference Include="..\1047.Remove-all-adjacent-duplicates-in-string\1047.Remove-all-adjacent-duplicates-in-string.csproj" />
     <ProjectReference Include="..\1108.Defanging-an-IP-address\1108.Defanging-an-IP-address.csproj" />
+    <ProjectReference Include="..\1220.Count-vowels-permutation\1220.Count-vowels-permutation.csproj" />
     <ProjectReference Include="..\1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj" />
     <ProjectReference Include="..\1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj" />
     <ProjectReference Include="..\1290.Convert-binary-number-in-a-linked-list-to-integer\1290.Convert-binary-number-in-a-linked-list-to-integer.csproj" />

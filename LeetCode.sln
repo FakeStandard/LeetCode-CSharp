@@ -291,23 +291,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0237.Delete-node-in-a-linke
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0283.Move-zeroes", "0283.Move-zeroes\0283.Move-zeroes.csproj", "{02DE5736-5F3C-4E5D-A42D-CED1C041AFD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1220.Count-vowels-permutation", "1220.Count-vowels-permutation\1220.Count-vowels-permutation.csproj", "{39A2599E-40D3-429D-ADBC-CE0B7CC63D1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1220.Count-vowels-permutation", "1220.Count-vowels-permutation\1220.Count-vowels-permutation.csproj", "{39A2599E-40D3-429D-ADBC-CE0B7CC63D1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0378.Kth-smallest-element-in-a-sorted-matrix", "0378.Kth-smallest-element-in-a-sorted-matrix\0378.Kth-smallest-element-in-a-sorted-matrix.csproj", "{A2BCFD9A-485A-46CD-B599-F0AD0E59A91C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0378.Kth-smallest-element-in-a-sorted-matrix", "0378.Kth-smallest-element-in-a-sorted-matrix\0378.Kth-smallest-element-in-a-sorted-matrix.csproj", "{A2BCFD9A-485A-46CD-B599-F0AD0E59A91C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0718.Maximum-length-of-repeated-subarray", "0718.Maximum-length-of-repeated-subarray\0718.Maximum-length-of-repeated-subarray.csproj", "{2E7D038E-2051-485F-8B8D-96ADB38E6918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0718.Maximum-length-of-repeated-subarray", "0718.Maximum-length-of-repeated-subarray\0718.Maximum-length-of-repeated-subarray.csproj", "{2E7D038E-2051-485F-8B8D-96ADB38E6918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0326.Power-of-three", "0326.Power-of-three\0326.Power-of-three.csproj", "{1D491670-87FC-471F-8341-DDAD105B11AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0326.Power-of-three", "0326.Power-of-three\0326.Power-of-three.csproj", "{1D491670-87FC-471F-8341-DDAD105B11AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0401-0500", "0401-0500", "{9308843A-9FDC-4503-B299-BB9E37FFF430}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0404.Sum-of-left-leaves", "0404.Sum-of-left-leaves\0404.Sum-of-left-leaves.csproj", "{F9D21439-DCBE-4441-9C1A-7691289F2C04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0404.Sum-of-left-leaves", "0404.Sum-of-left-leaves\0404.Sum-of-left-leaves.csproj", "{F9D21439-DCBE-4441-9C1A-7691289F2C04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0392.Is-subsequence", "0392.Is-subsequence\0392.Is-subsequence.csproj", "{65D6121D-637E-4394-9482-37889F1FD40F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0392.Is-subsequence", "0392.Is-subsequence\0392.Is-subsequence.csproj", "{65D6121D-637E-4394-9482-37889F1FD40F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0389.Find-the-difference", "0389.Find-the-difference\0389.Find-the-difference.csproj", "{9118EDCC-2B97-435C-95E6-C9C8729C136E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0389.Find-the-difference", "0389.Find-the-difference\0389.Find-the-difference.csproj", "{9118EDCC-2B97-435C-95E6-C9C8729C136E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0387.First-unique-character-in-a-string", "0387.First-unique-character-in-a-string\0387.First-unique-character-in-a-string.csproj", "{6963BFC8-8A24-4EBD-B274-F32357DDC505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0387.First-unique-character-in-a-string", "0387.First-unique-character-in-a-string\0387.First-unique-character-in-a-string.csproj", "{6963BFC8-8A24-4EBD-B274-F32357DDC505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0032.Longest-valid-parentheses", "0032.Longest-valid-parentheses\0032.Longest-valid-parentheses.csproj", "{7FA4FAE0-078F-4CD5-8330-DC1E97B77443}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -851,6 +853,10 @@ Global
 		{6963BFC8-8A24-4EBD-B274-F32357DDC505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6963BFC8-8A24-4EBD-B274-F32357DDC505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6963BFC8-8A24-4EBD-B274-F32357DDC505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA4FAE0-078F-4CD5-8330-DC1E97B77443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA4FAE0-078F-4CD5-8330-DC1E97B77443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA4FAE0-078F-4CD5-8330-DC1E97B77443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA4FAE0-078F-4CD5-8330-DC1E97B77443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -987,6 +993,7 @@ Global
 		{65D6121D-637E-4394-9482-37889F1FD40F} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
 		{9118EDCC-2B97-435C-95E6-C9C8729C136E} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
 		{6963BFC8-8A24-4EBD-B274-F32357DDC505} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
+		{7FA4FAE0-078F-4CD5-8330-DC1E97B77443} = {E27743F4-6ACE-4044-A526-A73541873A1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

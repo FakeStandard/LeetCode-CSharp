@@ -25,6 +25,7 @@
     <ProjectReference Include="..\0026.Remove-duplicates-from-sorted-array\0026.Remove-duplicates-from-sorted-array.csproj" />
     <ProjectReference Include="..\0027.Remove-element\0027.Remove-element.csproj" />
     <ProjectReference Include="..\0028.Implement-strStr\0028.Implement-strStr.csproj" />
+    <ProjectReference Include="..\0032.Longest-valid-parentheses\0032.Longest-valid-parentheses.csproj" />
     <ProjectReference Include="..\0035.Search-insert-position\0035.Search-insert-position.csproj" />
     <ProjectReference Include="..\0053.Maximum-subarray\0053.Maximum-subarray.csproj" />
     <ProjectReference Include="..\0058.Length-of-last-word\0058.Length-of-last-word.csproj" />

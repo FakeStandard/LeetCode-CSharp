@@ -305,6 +305,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0404.Sum-of-left-leaves", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0392.Is-subsequence", "0392.Is-subsequence\0392.Is-subsequence.csproj", "{65D6121D-637E-4394-9482-37889F1FD40F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0389.Find-the-difference", "0389.Find-the-difference\0389.Find-the-difference.csproj", "{9118EDCC-2B97-435C-95E6-C9C8729C136E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -839,6 +841,10 @@ Global
 		{65D6121D-637E-4394-9482-37889F1FD40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65D6121D-637E-4394-9482-37889F1FD40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65D6121D-637E-4394-9482-37889F1FD40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9118EDCC-2B97-435C-95E6-C9C8729C136E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9118EDCC-2B97-435C-95E6-C9C8729C136E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9118EDCC-2B97-435C-95E6-C9C8729C136E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9118EDCC-2B97-435C-95E6-C9C8729C136E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -973,6 +979,7 @@ Global
 		{1D491670-87FC-471F-8341-DDAD105B11AC} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
 		{F9D21439-DCBE-4441-9C1A-7691289F2C04} = {9308843A-9FDC-4503-B299-BB9E37FFF430}
 		{65D6121D-637E-4394-9482-37889F1FD40F} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
+		{9118EDCC-2B97-435C-95E6-C9C8729C136E} = {F0C268FE-F1DF-4AA0-A648-7A7A8E0F70EC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F64026E2-824F-4FF4-8CD0-9EBC5CD01BD0}

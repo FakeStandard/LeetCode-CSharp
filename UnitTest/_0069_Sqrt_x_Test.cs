@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0069.Sqrt_x;
+using Solution._0069.Sqrt_x;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0069.Sqrt_x.Tests
+namespace Solution._0069.Sqrt_x.Tests
 {
     [TestClass()]
     public class _0069_Sqrt_x_Test
     {
-        Solution solution = new Solution();
+        _0069_Sqrt_x solution = new _0069_Sqrt_x();
 
         [TestMethod()]
         public void MySqrt_Test1()

@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0027.Remove_element;
+using Solution._0027.Remove_element;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0027.Remove_element.Tests
+namespace Solution._0027.Remove_element.Tests
 {
     [TestClass()]
     public class _0027_Remove_element_Test
     {
-        Solution solution = new Solution();
+        _0027_Remove_element solution = new _0027_Remove_element();
 
         [TestMethod()]
         public void RemoveElement_Test1()

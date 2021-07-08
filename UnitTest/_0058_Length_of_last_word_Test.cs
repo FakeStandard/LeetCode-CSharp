@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0058.Length_of_last_word;
+using Solution._0058.Length_of_last_word;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0058.Length_of_last_word.Tests
+namespace Solution._0058.Length_of_last_word.Tests
 {
     [TestClass()]
     public class _0058_Length_of_last_word_Test
     {
-        Solution solution = new Solution();
+        _0058_Length_of_last_word solution = new _0058_Length_of_last_word();
 
         [TestMethod()]
         public void LengthOfLastWord_Test1()

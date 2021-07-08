@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0013.Roman_to_integer;
+using Solution._0013.Roman_to_integer;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0013.Roman_to_integer.Tests
+namespace Solution._0013.Roman_to_integer.Tests
 {
     [TestClass()]
     public class _0013_Roman_to_integer_Test
     {
-        Solution solution = new Solution();
+        _0013_Roman_to_integer solution = new _0013_Roman_to_integer();
 
         [TestMethod()]
         public void RomanToInt_Test1()

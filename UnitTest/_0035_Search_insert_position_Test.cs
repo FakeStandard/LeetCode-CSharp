@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0035.Search_insert_position;
+using Solution._0035.Search_insert_position;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0035.Search_insert_position.Tests
+namespace Solution._0035.Search_insert_position.Tests
 {
     [TestClass()]
     public class _0035_Search_insert_position_Test
     {
-        Solution solution = new Solution();
+        _0035_Search_insert_position solution = new _0035_Search_insert_position();
 
         [TestMethod()]
         public void SearchInsert_Test1()

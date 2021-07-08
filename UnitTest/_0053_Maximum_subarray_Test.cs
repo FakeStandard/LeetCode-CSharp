@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0053.Maximum_subarray;
+using Solution._0053.Maximum_subarray;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0053.Maximum_subarray.Tests
+namespace Solution._0053.Maximum_subarray.Tests
 {
     [TestClass()]
     public class _0053_Maximum_subarray_Test
     {
-        Solution solution = new Solution();
+        _0053_Maximum_subarray solution = new _0053_Maximum_subarray();
 
         [TestMethod()]
         public void MaxSubArray_Test1()

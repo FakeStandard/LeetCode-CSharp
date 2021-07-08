@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0067.Add_binary;
+using Solution._0067.Add_binary;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0067.Add_binary.Tests
+namespace Solution._0067.Add_binary.Tests
 {
     [TestClass()]
     public class _0067_Add_binary_Test
     {
-        Solution solution = new Solution();
+        _0067_Add_binary solution = new _0067_Add_binary();
 
         [TestMethod()]
         public void AddBinary_Test1()

@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0070.Climbing_stairs;
+using Solution._0070.Climbing_stairs;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0070.Climbing_stairs.Tests
+namespace Solution._0070.Climbing_stairs.Tests
 {
     [TestClass()]
     public class _0070_Climbing_stairs_Test
     {
-        Solution solution = new Solution();
+        _0070_Climbing_stairs solution = new _0070_Climbing_stairs();
 
         [TestMethod()]
         public void ClimbStairs_Test1()

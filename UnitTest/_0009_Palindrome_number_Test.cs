@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0009.Palindrome_number;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Solution._0009.Palindrome_number;
 
-namespace _0009.Palindrome_number.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0009_Palindrome_number_Test
     {
-        Solution solution = new Solution();
+        _0009_Palindrome_number solution = new _0009_Palindrome_number();
 
         [TestMethod()]
         public void IsPalindrome_Test1()

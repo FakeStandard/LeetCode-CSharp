@@ -1,16 +1,16 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0021.Merge_two_sorted_lists;
+using Solution._0021.Merge_two_sorted_lists;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using Common;
 
-namespace _0021.Merge_two_sorted_lists.Tests
+namespace Solution._0021.Merge_two_sorted_lists.Tests
 {
     [TestClass()]
     public class _0021_Merge_two_sorted_lists_Test
     {
-        Solution solution = new Solution();
+        _0021_Merge_two_sorted_lists solution = new _0021_Merge_two_sorted_lists();
 
         [TestMethod()]
         public void MergeTwoLists_Test1()

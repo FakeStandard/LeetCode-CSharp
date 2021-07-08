@@ -1,16 +1,16 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0083.Remove_duplicates_from_sorted_list;
+using Solution._0083.Remove_duplicates_from_sorted_list;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using Common;
 
-namespace _0083.Remove_duplicates_from_sorted_list.Tests
+namespace Solution._0083.Remove_duplicates_from_sorted_list.Tests
 {
     [TestClass()]
     public class _0083_Remove_duplicates_from_sorted_list_Test
     {
-        Solution solution = new Solution();
+        _0083_Remove_duplicates_from_sorted_list solution = new _0083_Remove_duplicates_from_sorted_list();
 
         [TestMethod()]
         public void DeleteDuplicates_Test1()

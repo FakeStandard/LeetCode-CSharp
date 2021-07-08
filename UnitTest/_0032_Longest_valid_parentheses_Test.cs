@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0032.Longest_valid_parentheses;
+using Solution._0032.Longest_valid_parentheses;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0032.Longest_valid_parentheses.Tests
+namespace Solution._0032.Longest_valid_parentheses.Tests
 {
     [TestClass()]
     public class _0032_Longest_valid_parentheses_Test
     {
-        Solution solution = new Solution();
+        _0032_Longest_valid_parentheses solution = new _0032_Longest_valid_parentheses();
 
         [TestMethod()]
         public void LongestValidParentheses_Test1()

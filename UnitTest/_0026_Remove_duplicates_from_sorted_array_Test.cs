@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0026.Remove_duplicates_from_sorted_array;
+using Solution._0026.Remove_duplicates_from_sorted_array;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0026.Remove_duplicates_from_sorted_array.Tests
+namespace Solution._0026.Remove_duplicates_from_sorted_array.Tests
 {
     [TestClass()]
     public class _0026_Remove_duplicates_from_sorted_array_Test
     {
-        Solution solution = new Solution();
+        _0026_Remove_duplicates_from_sorted_array solution = new _0026_Remove_duplicates_from_sorted_array();
 
         [TestMethod()]
         public void RemoveDuplicates_Test1()

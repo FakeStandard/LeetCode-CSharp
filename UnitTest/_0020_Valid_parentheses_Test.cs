@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0020.Valid_parentheses;
+using Solution._0020.Valid_parentheses;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0020.Valid_parentheses.Tests
+namespace Solution._0020.Valid_parentheses.Tests
 {
     [TestClass()]
     public class _0020_Valid_parentheses_Test
     {
-        Solution solution = new Solution();
+        _0020_Valid_parentheses solution = new _0020_Valid_parentheses();
 
         [TestMethod()]
         public void IsValid_Test1()

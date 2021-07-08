@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0028.Implement_strStr;
+using Solution._0028.Implement_strStr;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0028.Implement_strStr.Tests
+namespace Solution._0028.Implement_strStr.Tests
 {
     [TestClass()]
     public class _0028_Implement_strStr_Test
     {
-        Solution solution = new Solution();
+        _0028_Implement_strStr solution = new _0028_Implement_strStr();
 
         [TestMethod()]
         public void StrStr_Test1()

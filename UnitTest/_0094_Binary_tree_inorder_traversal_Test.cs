@@ -1,16 +1,16 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0094.Binary_tree_inorder_traversal;
+using Solution._0094.Binary_tree_inorder_traversal;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using Common;
 
-namespace _0094.Binary_tree_inorder_traversal.Tests
+namespace Solution._0094.Binary_tree_inorder_traversal.Tests
 {
     [TestClass()]
     public class _0094_Binary_tree_inorder_traversal_Test
     {
-        Solution solution = new Solution();
+        _0094_Binary_tree_inorder_traversal solution = new _0094_Binary_tree_inorder_traversal();
 
         [TestMethod()]
         public void InorderTraversal_Test1()

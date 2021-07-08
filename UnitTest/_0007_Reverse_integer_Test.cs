@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0007.Reverse_integer;
+using Solution._0007.Reverse_integer;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0007.Reverse_integer.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0007_Reverse_integer_Test
     {
-        Solution solution = new Solution();
+        _0007_Reverse_integer solution = new _0007_Reverse_integer();
 
         [TestMethod()]
         public void Reverse_Test1()

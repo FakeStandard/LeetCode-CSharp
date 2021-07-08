@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0066.Plus_one;
+using Solution._0066.Plus_one;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _0066.Plus_one.Tests
+namespace Solution._0066.Plus_one.Tests
 {
     [TestClass()]
     public class _0066_Plus_one_Test
     {
-        Solution solution = new Solution();
+        _0066_Plus_one solution = new _0066_Plus_one();
 
         [TestMethod()]
         public void PlusOne_Test1()

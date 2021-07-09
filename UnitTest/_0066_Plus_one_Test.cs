@@ -1,10 +1,11 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using FluentAssertions;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0066.Plus_one;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0066.Plus_one.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0066_Plus_one_Test
@@ -22,7 +23,7 @@ namespace Solution._0066.Plus_one.Tests
             var actual = solution.PlusOne(digits);
 
             // Assert
-            Assert.ReferenceEquals(expected, actual);
+            actual.Should().BeEquivalentTo(expected);
         }
 
         [TestMethod()]
@@ -36,7 +37,7 @@ namespace Solution._0066.Plus_one.Tests
             var actual = solution.PlusOne(digits);
 
             // Assert
-            Assert.ReferenceEquals(expected, actual);
+            actual.Should().BeEquivalentTo(expected);
         }
 
         [TestMethod()]
@@ -50,7 +51,7 @@ namespace Solution._0066.Plus_one.Tests
             var actual = solution.PlusOne(digits);
 
             // Assert
-            Assert.ReferenceEquals(expected, actual);
+            actual.Should().BeEquivalentTo(expected);
         }
     }
 }

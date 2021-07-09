@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0032.Longest_valid_parentheses.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0032_Longest_valid_parentheses_Test

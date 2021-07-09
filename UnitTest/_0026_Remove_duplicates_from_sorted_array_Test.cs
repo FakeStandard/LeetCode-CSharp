@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0026.Remove_duplicates_from_sorted_array.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0026_Remove_duplicates_from_sorted_array_Test

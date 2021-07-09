@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0028.Implement_strStr.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0028_Implement_strStr_Test

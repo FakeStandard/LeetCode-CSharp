@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0069.Sqrt_x.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0069_Sqrt_x_Test

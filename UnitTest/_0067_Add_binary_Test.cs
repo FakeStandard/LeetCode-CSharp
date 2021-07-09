@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0067.Add_binary.Tests
+namespace Solution.Tests
 {
     [TestClass()]
     public class _0067_Add_binary_Test

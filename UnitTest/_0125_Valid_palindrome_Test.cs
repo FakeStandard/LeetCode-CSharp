@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0125.Valid_palindrome;
+using Solution._0125.Valid_palindrome;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0125.Valid_palindrome.Tests
     [TestClass()]
     public class _0125_Valid_palindrome_Test
     {
-        Solution solution = new Solution();
+        _0125_Valid_palindrome solution = new _0125_Valid_palindrome();
 
         [TestMethod()]
         public void IsPalindrome_Test1()

@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0125.Valid_palindrome
+namespace Solution._0125.Valid_palindrome
 {
-    public class Solution
+    public class _0125_Valid_palindrome
     {
         public bool IsPalindrome(string s)
         {

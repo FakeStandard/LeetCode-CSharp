@@ -24,3 +24,4 @@
 | 0088 | [Merge Sorted Array](/Solution/0088.Merge-sorted-array/) | Iteration, Array.Sort | C# | [Merge](/Solution/0088.Merge-sorted-array/0088-Merge-sorted-array.cs/) | Easy |
 | 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Binary Tree, Inorder Traversal | C# | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
 | 0100 | [Same Tree](/Solution/0100.Same-tree/) | Binary Tree | C# | [IsSameTree](/Solution/0100.Same-tree/0100-Same-tree.cs/) | Easy |
+| 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Binary Tree | C# | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |

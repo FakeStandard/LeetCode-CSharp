@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0136.Single_number
+namespace Solution._0136.Single_number
 {
-    public class Solution
+    public class _0136_Single_number
     {
         public int SingleNumber(int[] nums)
         {

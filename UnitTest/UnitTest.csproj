@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\0136.Single-number\0136.Single-number.csproj" />
     <ProjectReference Include="..\0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj" />
     <ProjectReference Include="..\0168.Excel-sheet-column-title\0168.Excel-sheet-column-title.csproj" />
     <ProjectReference Include="..\0169.Majority-element\0169.Majority-element.csproj" />

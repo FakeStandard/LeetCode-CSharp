@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0167.Two_sum_II_input_array_is_sorted
+namespace Solution._0167.Two_sum_II_input_array_is_sorted
 {
-    public class Solution
+    public class _0167_Two_sum_II_input_array_is_sorted
     {
         public int[] TwoSum(int[] numbers, int target)
         {

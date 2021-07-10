@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0167.Two_sum_II_input_array_is_sorted</RootNamespace>
-  </PropertyGroup>
-
-</Project>

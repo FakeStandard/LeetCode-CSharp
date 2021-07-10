@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0167.Two_sum_II_input_array_is_sorted;
+using Solution._0167.Two_sum_II_input_array_is_sorted;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0167.Two_sum_II_input_array_is_sorted.Tests
     [TestClass()]
     public class _0167_Two_sum_II_input_array_is_sorted_Test
     {
-        Solution solution = new Solution();
+        _0167_Two_sum_II_input_array_is_sorted solution = new _0167_Two_sum_II_input_array_is_sorted();
 
         [TestMethod()]
         public void TwoSum_Test1()

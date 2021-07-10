@@ -25,3 +25,13 @@
 | 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Binary Tree, Inorder Traversal | C# | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
 | 0100 | [Same Tree](/Solution/0100.Same-tree/) | Binary Tree | C# | [IsSameTree](/Solution/0100.Same-tree/0100-Same-tree.cs/) | Easy |
 | 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Binary Tree | C# | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |
+| 0121 | [Best Time to Buy and Sell Stock](/Solution/0121.Best-time-to-buy-and-shell-stock/) | Math | C# | [MaxProfit](/Solution/0121.Best-time-to-buy-and-shell-stock/0121-Best-time-to-buy-and-shell-stock.cs/) | Easy | [:bulb:](/UnitTest/_0121_Bset_time_to_buy_and_shell_stock_Test.cs/) |
+| 0125 | [Valid Palindrome](/Solution/0125.Valid-palindrome/) | | C# | [IsPalindrome](/Solution/0125.Valid-palindrome/0125-Valid-palindrome.cs/) | Easy | [:bulb:](/UnitTest/_0125_Valid_palindrome_Test.cs/) |
+| 0136 | [Single Number](/Solution/0136.Single-number/) | XOR | C# | [SingleNumber](/Solution/0136.Single-number/0136-Single-number.cs/) | Easy | [:bulb:](/UnitTest/_0136_Single_number_Test.cs/) |
+| 0144 | [Binary Tree Preorder Traversal](/Solution/0144.Binary-tree-preorder-traversal/) | Binary Tree | C# | [PreorderTraversal](/Solution/0144.Binary-tree-preorder-traversal/0144-Binary-tree-preorder-traversal.cs/) | Easy |
+| 0145 | [Binary Tree Postorder Traversal](/Solution/0145.Binary-tree-postorder-traversal/) | Binary Tree | C# | [PostorderTraversal](/Solution/0145.Binary-tree-postorder-traversal/0145-Binary-tree-postorder-traversal.cs/) | Easy |
+| 0155 | [Min Stack](/Solution/0155.Min-stack/) | Stack | C# | [MinStack](/Solution/0155.Min-stack/0155-Min-stack.cs/) | Easy |
+| 0167 | [Two Sum II - Input array is sorted](/Solution/0167.Two-sum-II-input-array-is-sorted/) |  | C# | [TwoSum](/Solution/0167.Two-sum-II-input-array-is-sorted/0167-Two-sum-II-input-array-is-sorted.cs/) | Easy | [:bulb:](/UnitTest/_0167_Two_sum_II_input_array_is_sorted_Test.cs/) |
+| 0168 | [Excel Sheet Column Title](/Solution/0168.Excel-sheet-column-title/) | Array, char | C# | [ConvertToTitle](/Solution/0168.Excel-sheet-column-title/0168-Excel-sheet-column-title.cs/) | Easy | [:bulb:](/UnitTest/_0168_Excel_sheet_column_title_Test.cs/) |
+| 0169 | [Majority Element](/Solution//) | Dictionary | C# | [MajorityElement](/Solution///) | Easy | [:bulb:](/UnitTest/_0169_Majority_element_Test.cs/) |
+| 0172 | [Factorial Trailing Zeroes](/Solution//) | | C# | [TrailingZeroes](/Solution///) | Easy | [:bulb:](/UnitTest/_0172_Factorial_trailing_zeroes_Test.cs/) |

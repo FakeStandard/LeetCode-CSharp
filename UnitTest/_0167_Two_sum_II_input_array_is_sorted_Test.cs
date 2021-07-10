@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using FluentAssertions;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0167.Two_sum_II_input_array_is_sorted;
 using System;
 using System.Collections.Generic;
@@ -23,7 +24,7 @@ namespace _0167.Two_sum_II_input_array_is_sorted.Tests
             var actual = solution.TwoSum(numbers, target);
 
             // Assert
-            Assert.ReferenceEquals(expected, actual);
+            actual.Should().BeEquivalentTo(expected);
         }
 
         [TestMethod()]
@@ -38,7 +39,7 @@ namespace _0167.Two_sum_II_input_array_is_sorted.Tests
             var actual = solution.TwoSum(numbers, target);
 
             // Assert
-            Assert.ReferenceEquals(expected, actual);
+            actual.Should().BeEquivalentTo(expected);
         }
 
         [TestMethod()]
@@ -53,7 +54,7 @@ namespace _0167.Two_sum_II_input_array_is_sorted.Tests
             var actual = solution.TwoSum(numbers, target);
 
             // Assert
-            Assert.ReferenceEquals(expected, actual);
+            actual.Should().BeEquivalentTo(expected);
         }
     }
 }

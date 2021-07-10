@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\0121.Best-time-to-buy-and-shell-stock\0121.Best-time-to-buy-and-shell-stock.csproj" />
     <ProjectReference Include="..\0125.Valid-palindrome\0125.Valid-palindrome.csproj" />
     <ProjectReference Include="..\0136.Single-number\0136.Single-number.csproj" />
     <ProjectReference Include="..\0167.Two-sum-II-input-array-is-sorted\0167.Two-sum-II-input-array-is-sorted.csproj" />

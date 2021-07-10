@@ -1,7 +1,10 @@
 ﻿using System;
-namespace _0121.Best_time_to_buy_and_shell_stock
+using System.Collections.Generic;
+using System.Text;
+
+namespace Solution._0121.Best_time_to_buy_and_shell_stock
 {
-    public class Solution
+    public class _0121_Best_time_to_buy_and_shell_stock
     {
         public int MaxProfit(int[] prices)
         {
@@ -10,7 +13,7 @@ namespace _0121.Best_time_to_buy_and_shell_stock
             int min = int.MaxValue;
             int max = int.MinValue;
 
-            for(int i = 0; i < prices.Length; i++)
+            for (int i = 0; i < prices.Length; i++)
             {
                 min = Math.Min(min, prices[i]);
                 max = Math.Max(max, prices[i] - min);

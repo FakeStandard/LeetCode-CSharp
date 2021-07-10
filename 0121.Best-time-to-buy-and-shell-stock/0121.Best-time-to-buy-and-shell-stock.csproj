@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0121.Best_time_to_buy_and_shell_stock</RootNamespace>
-  </PropertyGroup>
-
-</Project>

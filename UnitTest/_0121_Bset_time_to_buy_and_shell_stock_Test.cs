@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0121.Best_time_to_buy_and_shell_stock;
+using Solution._0121.Best_time_to_buy_and_shell_stock;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0121.Best_time_to_buy_and_shell_stock.Tests
     [TestClass()]
     public class _0121_Bset_time_to_buy_and_shell_stock_Test
     {
-        Solution solution = new Solution();
+        _0121_Best_time_to_buy_and_shell_stock solution = new _0121_Best_time_to_buy_and_shell_stock();
 
         [TestMethod()]
         public void MaxProfit_Test1()

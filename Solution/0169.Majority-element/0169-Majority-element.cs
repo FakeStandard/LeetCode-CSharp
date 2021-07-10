@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Text;
 
-namespace _0169.Majority_element
+namespace Solution._0169.Majority_element
 {
-    public class Solution
+    public class _0169_Majority_element
     {
         public int MajorityElement(int[] nums)
         {

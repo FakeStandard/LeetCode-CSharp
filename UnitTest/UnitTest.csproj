@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\0169.Majority-element\0169.Majority-element.csproj" />
     <ProjectReference Include="..\0172.Factorial-trailing-zeroes\0172.Factorial-trailing-zeroes.csproj" />
     <ProjectReference Include="..\0203.Remove-linked-list-elements\0203.Remove-linked-list-elements.csproj" />
     <ProjectReference Include="..\0204.Count-primes\0204.Count-primes.csproj" />

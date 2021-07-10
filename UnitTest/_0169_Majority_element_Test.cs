@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0169.Majority_element;
+using Solution._0169.Majority_element;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0169.Majority_element.Tests
     [TestClass()]
     public class _0169_Majority_element_Test
     {
-        Solution solution = new Solution();
+        _0169_Majority_element solution = new _0169_Majority_element();
 
         [TestMethod()]
         public void MajorityElement_Test1()

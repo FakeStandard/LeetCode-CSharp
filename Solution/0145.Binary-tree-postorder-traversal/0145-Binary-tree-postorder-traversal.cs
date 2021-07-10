@@ -2,12 +2,17 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
-namespace _0145.Binary_tree_postorder_traversal
+namespace Solution._0145.Binary_tree_postorder_traversal
 {
-    public class Solution
+    public class _0145_Binary_tree_postorder_traversal
     {
-        // Iteratively solution
+        /// <summary>
+        /// Iteratively solution
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
         public IList<int> PostorderTraversal(TreeNode root)
         {
             IList<int> result = new List<int>();
@@ -36,7 +41,11 @@ namespace _0145.Binary_tree_postorder_traversal
             return result;
         }
 
-        // Recursive solution
+        /// <summary>
+        /// Recursive solution
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
         //public IList<int> PostorderTraversal(TreeNode root)
         //{
         //    IList<int> res = new List<int>();

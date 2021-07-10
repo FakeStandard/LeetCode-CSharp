@@ -16,11 +16,11 @@ namespace Solution._0114.Flatten_binary_tree_to_linked_list
 
                 PreOrder(root);
 
-                foreach(TreeNode node in list)
+                for(int i = 1; i < list.Count; i++)
                 {
                     root.left = null;
-                    node.left = null;
-                    root.right = node;
+                    list[i].left = null;
+                    root.right = list[i];
                     root = root.right;
                 }
             }

@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0172.Factorial_trailing_zeroes
+namespace Solution._0172.Factorial_trailing_zeroes
 {
-    public class Solution
+    public class _0172_Factorial_trailing_zeroes
     {
         public int TrailingZeroes(int n)
         {

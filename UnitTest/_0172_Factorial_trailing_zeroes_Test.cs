@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0172.Factorial_trailing_zeroes;
+using Solution._0172.Factorial_trailing_zeroes;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0172.Factorial_trailing_zeroes.Tests
     [TestClass()]
     public class _0172_Factorial_trailing_zeroes_Test
     {
-        Solution solution = new Solution();
+        _0172_Factorial_trailing_zeroes solution = new _0172_Factorial_trailing_zeroes();
 
         [TestMethod()]
         public void TrailingZeroes_Test1()

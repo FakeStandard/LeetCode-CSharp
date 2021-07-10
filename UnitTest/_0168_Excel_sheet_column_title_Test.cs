@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0168.Excel_sheet_column_title;
+using Solution._0168.Excel_sheet_column_title;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0168.Excel_sheet_column_title.Tests
     [TestClass()]
     public class _0168_Excel_sheet_column_title_Test
     {
-        Solution solution = new Solution();
+        _0168_Excel_sheet_column_title solution = new _0168_Excel_sheet_column_title();
 
         [TestMethod()]
         public void ConvertToTitle_Test1()

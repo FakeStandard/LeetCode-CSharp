@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
-namespace _0168.Excel_sheet_column_title
+namespace Solution._0168.Excel_sheet_column_title
 {
-    public class Solution
+    public class _0168_Excel_sheet_column_title
     {
         public string ConvertToTitle(int columnNumber)
         {

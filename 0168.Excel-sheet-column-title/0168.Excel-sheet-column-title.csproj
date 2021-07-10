@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0168.Excel_sheet_column_title</RootNamespace>
-  </PropertyGroup>
-
-</Project>

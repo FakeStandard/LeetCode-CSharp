@@ -1,13 +1,17 @@
 ﻿using Common;
 using System;
-using System.Collections;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _0144.Binary_tree_preorder_traversal
+namespace Solution._0144.Binary_tree_preorder_traversal
 {
-    public class Solution
+    public class _0144_Binary_tree_preorder_traversal
     {
-        // Iterativeley solution
+        /// <summary>
+        /// Iterativeley solution
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
         public IList<int> PreorderTraversal(TreeNode root)
         {
             IList<int> result = new List<int>();
@@ -32,8 +36,11 @@ namespace _0144.Binary_tree_preorder_traversal
             return result;
         }
 
-
-        // Recursive solution
+        /// <summary>
+        /// Recursive solution
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
         //public IList<int> PreorderTraversal(TreeNode root)
         //{
         //    IList<int> res = new List<int>();

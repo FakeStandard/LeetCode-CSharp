@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0112.Path_sum
+namespace Solution._0112.Path_sum
 {
-    public class Solution
+    public class _0112_Path_sum
     {
         public bool HasPathSum(TreeNode root, int targetSum)
         {

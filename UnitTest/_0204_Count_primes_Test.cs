@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0204.Count_primes;
+using Solution._0204.Count_primes;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0204.Count_primes.Tests
     [TestClass()]
     public class _0204_Count_primes_Test
     {
-        Solution solution = new Solution();
+        _0204_Count_primes solution = new _0204_Count_primes();
 
         [TestMethod()]
         public void CountPrimes_Test1()

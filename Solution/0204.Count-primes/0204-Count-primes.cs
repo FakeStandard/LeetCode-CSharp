@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0204.Count_primes
+namespace Solution._0204.Count_primes
 {
-    public class Solution
+    public class _0204_Count_primes
     {
         public int CountPrimes(int n)
         {

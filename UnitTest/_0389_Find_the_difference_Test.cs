@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0389.Find_the_difference;
+using Solution._0389.Find_the_difference;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0389.Find_the_difference.Tests
     [TestClass()]
     public class _0389_Find_the_difference_Test
     {
-        Solution solution = new Solution();
+        _0389_Find_the_difference solution = new _0389_Find_the_difference();
 
         [TestMethod()]
         public void FindTheDifference_Test1()

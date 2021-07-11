@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0392.Is_subsequence;
+using Solution._0392.Is_subsequence;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0392.Is_subsequence.Tests
     [TestClass()]
     public class _0392_Is_subsequence_Test
     {
-        Solution solution = new Solution();
+        _0392_Is_subsequence solution = new _0392_Is_subsequence();
 
         [TestMethod()]
         public void IsSubsequence_Test1()

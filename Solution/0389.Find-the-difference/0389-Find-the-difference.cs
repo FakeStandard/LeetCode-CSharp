@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0389.Find_the_difference
+namespace Solution._0389.Find_the_difference
 {
-    public class Solution
+    public class _0389_Find_the_difference
     {
         public char FindTheDifference(string s, string t)
         {

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0219.Contains_duplicate_II;
+using Solution._0219.Contains_duplicate_II;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0219.Contains_duplicate_II.Tests
     [TestClass()]
     public class _0219_Contains_duplicate_II_Test
     {
-        Solution solution = new Solution();
+        _0219_Contains_duplicate_II solution = new _0219_Contains_duplicate_II();
 
         [TestMethod()]
         public void ContainsNearbyDuplicate_Test1()

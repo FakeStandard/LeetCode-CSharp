@@ -1,10 +1,11 @@
 ﻿using Common;
 using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _0257.Binary_tree_paths
+namespace Solution._0257.Binary_tree_paths
 {
-    public class Solution
+    public class _0257_Binary_tree_paths
     {
         public IList<string> BinaryTreePaths(TreeNode root)
         {

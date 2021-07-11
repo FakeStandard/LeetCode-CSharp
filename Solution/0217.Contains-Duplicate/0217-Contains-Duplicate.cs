@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _0217.Contains_Duplicate
+namespace Solution._0217.Contains_Duplicate
 {
-    public class Solution
+    public class _0217_Contains_Duplicate
     {
         public bool ContainsDuplicate(int[] nums)
         {
             HashSet<int> hash = new HashSet<int>();
 
-            foreach(var num in nums)
+            foreach (var num in nums)
             {
                 if (!hash.Add(num))
                     return true;
@@ -18,8 +19,8 @@ namespace _0217.Contains_Duplicate
             return false;
 
             // Solution 1
-             /* Runtime: 2388 ms, faster than 5.19% of C# online submissions for Contains Duplicate.
-Memory Usage: 29.5 MB, less than 79.02% of C# online submissions for Contains Duplicate.
+            /* Runtime: 2388 ms, faster than 5.19% of C# online submissions for Contains Duplicate.
+             * Memory Usage: 29.5 MB, less than 79.02% of C# online submissions for Contains Duplicate.
              */
             //for (int i = 0; i < nums.Length; i++)
             //{

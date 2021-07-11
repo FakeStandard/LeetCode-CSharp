@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0217.Contains_Duplicate;
+using Solution._0217.Contains_Duplicate;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0217.Contains_Duplicate.Tests
     [TestClass()]
     public class _0217_Contains_duplicate_Test
     {
-        Solution solution = new Solution();
+        _0217_Contains_Duplicate solution = new _0217_Contains_Duplicate();
 
         [TestMethod()]
         public void ContainsDuplicate_Test1()

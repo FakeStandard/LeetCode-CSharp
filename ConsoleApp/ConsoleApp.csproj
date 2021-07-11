@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\0225.Implement-stack-using-queues\0225.Implement-stack-using-queues.csproj" />
     <ProjectReference Include="..\1880.Check-if-word-equals-summation-of-two-words\1880.Check-if-word-equals-summation-of-two-words.csproj" />
   </ItemGroup>
 

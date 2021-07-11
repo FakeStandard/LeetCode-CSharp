@@ -1,5 +1,4 @@
-﻿using _0225.Implement_stack_using_queues;
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace ConsoleApp
@@ -20,15 +19,6 @@ namespace ConsoleApp
             }
 
             Console.WriteLine("=====");
-
-            // Your MyStack object will be instantiated and called as such:
-            MyStack obj = new MyStack();
-            obj.Push(1);
-            obj.Push(2);
-            obj.Top();
-            obj.Pop();
-            obj.Empty();
-
 
             Console.WriteLine("=====");
             Console.WriteLine(2 ^ 3);

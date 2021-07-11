@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0326.Power_of_three;
+using Solution._0326.Power_of_three;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0326.Power_of_three.Tests
     [TestClass()]
     public class _0326_Power_of_three_Test
     {
-        Solution solution = new Solution();
+        _0326_Power_of_three solution = new _0326_Power_of_three();
 
         [TestMethod()]
         public void IsPowerOfThree_Test1()

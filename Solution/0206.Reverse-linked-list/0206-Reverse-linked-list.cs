@@ -1,10 +1,11 @@
 ﻿using Common;
 using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _0206.Reverse_linked_list
+namespace Solution._0206.Reverse_linked_list
 {
-    public class Solution
+    public class _0206_Reverse_linked_list
     {
         /// <summary>
         /// Recursively Solution

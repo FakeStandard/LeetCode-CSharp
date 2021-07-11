@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0206.Reverse_linked_list;
+using Solution._0206.Reverse_linked_list;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,7 +11,7 @@ namespace _0206.Reverse_linked_list.Tests
     [TestClass()]
     public class _0206_Reverse_linked_list_Test
     {
-        Solution solution = new Solution();
+        _0206_Reverse_linked_list solution = new _0206_Reverse_linked_list();
 
         [TestMethod()]
         public void ReverseList_Test1()

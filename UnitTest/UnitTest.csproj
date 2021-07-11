@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\0206.Reverse-linked-list\0206.Reverse-linked-list.csproj" />
     <ProjectReference Include="..\0217.Contains-Duplicate\0217.Contains-Duplicate.csproj" />
     <ProjectReference Include="..\0219.Contains-duplicate-II\0219.Contains-duplicate-II.csproj" />
     <ProjectReference Include="..\0231.Power-of-two\0231.Power-of-two.csproj" />

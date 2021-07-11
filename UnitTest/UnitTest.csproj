@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\0258.Add-digits\0258.Add-digits.csproj" />
     <ProjectReference Include="..\0326.Power-of-three\0326.Power-of-three.csproj" />
     <ProjectReference Include="..\0344.Reverse-string\0344.Reverse-string.csproj" />
     <ProjectReference Include="..\0378.Kth-smallest-element-in-a-sorted-matrix\0378.Kth-smallest-element-in-a-sorted-matrix.csproj" />

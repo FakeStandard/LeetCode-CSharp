@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0258.Add_digits;
+using Solution._0258.Add_digits;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0258.Add_digits.Tests
     [TestClass()]
     public class _0258_Add_digits_Test
     {
-        Solution solution = new Solution();
+        _0258_Add_digits solution = new _0258_Add_digits();
 
         [TestMethod()]
         public void AddDigits_Test1()

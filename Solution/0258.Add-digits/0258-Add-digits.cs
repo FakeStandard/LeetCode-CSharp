@@ -1,10 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0258.Add_digits
+namespace Solution._0258.Add_digits
 {
-    public class Solution
+    public class _0258_Add_digits
     {
-        // Solution 2
+        /// <summary>
+        /// Solution 2
+        /// </summary>
+        /// <param name="num"></param>
+        /// <returns></returns>
         public int AddDigits(int num)
         {
             if (num < 10) return num;
@@ -12,7 +18,11 @@ namespace _0258.Add_digits
             return num % 9;
         }
 
-        // Solution 1
+        /// <summary>
+        /// Solution 1
+        /// </summary>
+        /// <param name="num"></param>
+        /// <returns></returns>
         //public int AddDigits(int num)
         //{
         //    while (num > 9)

@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0226.Invert_binary_tree
+namespace Solution._0226.Invert_binary_tree
 {
-    public class Solution
+    public class _0226_Invert_binary_tree
     {
         public TreeNode InvertTree(TreeNode root)
         {

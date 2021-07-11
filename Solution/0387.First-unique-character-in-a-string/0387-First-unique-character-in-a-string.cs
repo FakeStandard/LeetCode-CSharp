@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Text;
 
-namespace _0387.First_unique_character_in_a_string
+namespace Solution._0387.First_unique_character_in_a_string
 {
-    public class Solution
+    public class _0387_First_unique_character_in_a_string
     {
         public int FirstUniqChar(string s)
         {
@@ -18,7 +18,7 @@ namespace _0387.First_unique_character_in_a_string
                     dic.Add(c, 1);
             }
 
-            for(int i = 0; i < s.Length; i++)
+            for (int i = 0; i < s.Length; i++)
                 if (dic[s[i]] == 1)
                     return i;
 

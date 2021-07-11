@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0387.First_unique_character_in_a_string;
+using Solution._0387.First_unique_character_in_a_string;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0387.First_unique_character_in_a_string.Tests
     [TestClass()]
     public class _0387_First_unique_character_in_a_string_Test
     {
-        Solution solution = new Solution();
+        _0387_First_unique_character_in_a_string solution = new _0387_First_unique_character_in_a_string();
 
         [TestMethod()]
         public void FirstUniqChar_Test1()

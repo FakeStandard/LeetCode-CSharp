@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
+using System.Text;
 
-namespace _0378.Kth_smallest_element_in_a_sorted_matrix
+namespace Solution._0378.Kth_smallest_element_in_a_sorted_matrix
 {
-    public class Solution
+    public class _0378_Kth_smallest_element_in_a_sorted_matrix
     {
         public int KthSmallest(int[][] matrix, int k)
         {

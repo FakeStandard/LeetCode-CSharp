@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0387.First_unique_character_in_a_string</RootNamespace>
-  </PropertyGroup>
-
-</Project>

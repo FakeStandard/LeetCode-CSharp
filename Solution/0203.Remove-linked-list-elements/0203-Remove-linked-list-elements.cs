@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0203.Remove_linked_list_elements
+namespace Solution._0203.Remove_linked_list_elements
 {
-    public class Solution
+    public class _0203_Remove_linked_list_elements
     {
         public ListNode RemoveElements(ListNode head, int val)
         {

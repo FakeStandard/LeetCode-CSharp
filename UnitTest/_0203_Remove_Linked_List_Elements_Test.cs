@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0203.Remove_linked_list_elements;
+using Solution._0203.Remove_linked_list_elements;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -11,7 +11,7 @@ namespace _0203.Remove_linked_list_elements.Tests
     [TestClass()]
     public class _0203_Remove_Linked_List_Elements_Test
     {
-        Solution solution = new Solution();
+        _0203_Remove_linked_list_elements solution = new _0203_Remove_linked_list_elements();
 
         [TestMethod()]
         public void RemoveElements_Test1()

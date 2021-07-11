@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0283.Move_zeroes
+namespace Solution._0283.Move_zeroes
 {
-    public class Solution
+    public class _0283_Move_zeroes
     {
         public void MoveZeroes(int[] nums)
         {

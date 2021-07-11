@@ -1,10 +1,11 @@
 ﻿using Common;
 using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _0234.Palindrome_linked_list
+namespace Solution._0234.Palindrome_linked_list
 {
-    public class Solution
+    public class _0234_Palindrome_linked_list
     {
         public bool IsPalindrome(ListNode head)
         {

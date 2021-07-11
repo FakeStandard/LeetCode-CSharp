@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0234.Palindrome_linked_list;
+using Solution._0234.Palindrome_linked_list;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _0234.Palindrome_linked_list.Tests
     [TestClass()]
     public class _0234_Palindrome_linked_list_Test
     {
-        Solution solution = new Solution();
+        _0234_Palindrome_linked_list solution = new _0234_Palindrome_linked_list();
 
         [TestMethod()]
         public void IsPalindrome_Test1()

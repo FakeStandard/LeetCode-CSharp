@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\0234.Palindrome-linked-list\0234.Palindrome-linked-list.csproj" />
     <ProjectReference Include="..\0242.Valid-anagram\0242.Valid-anagram.csproj" />
     <ProjectReference Include="..\0257.Binary-tree-paths\0257.Binary-tree-paths.csproj" />
     <ProjectReference Include="..\0258.Add-digits\0258.Add-digits.csproj" />

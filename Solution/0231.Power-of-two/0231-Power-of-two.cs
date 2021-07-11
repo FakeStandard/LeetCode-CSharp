@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0231.Power_of_two
+namespace Solution._0231.Power_of_two
 {
-    public class Solution
+    public class _0231_Power_of_two
     {
         public bool IsPowerOfTwo(int n)
         {

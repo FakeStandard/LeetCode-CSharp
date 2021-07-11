@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0231.Power_of_two;
+using Solution._0231.Power_of_two;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0231.Power_of_two.Tests
     [TestClass()]
     public class _0231_Power_of_two_Test
     {
-        Solution solution = new Solution();
+        _0231_Power_of_two solution = new _0231_Power_of_two();
 
         [TestMethod()]
         public void IsPowerOfTwo_Test1()

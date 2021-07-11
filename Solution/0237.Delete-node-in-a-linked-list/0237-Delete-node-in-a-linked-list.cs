@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0237.Delete_node_in_a_linked_list
+namespace Solution._0237.Delete_node_in_a_linked_list
 {
-    public class Solution
+    public class _0237_Delete_node_in_a_linked_list
     {
         public void DeleteNode(ListNode node)
         {

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0242.Valid_anagram;
+using Solution._0242.Valid_anagram;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0242.Valid_anagram.Tests
     [TestClass()]
     public class _0242_Valid_anagram_Test
     {
-        Solution solution = new Solution();
+        _0242_Valid_anagram solution = new _0242_Valid_anagram();
 
         [TestMethod()]
         public void IsAnagram_Test1()

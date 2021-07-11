@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0242.Valid_anagram
+namespace Solution._0242.Valid_anagram
 {
-    public class Solution
+    public class _0242_Valid_anagram
     {
         public bool IsAnagram(string s, string t)
         {

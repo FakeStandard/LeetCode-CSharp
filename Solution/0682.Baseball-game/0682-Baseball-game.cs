@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 using System.Linq;
 
-namespace _0682.Baseball_game
+namespace Solution._0682.Baseball_game
 {
-    public class Solution
+    public class _0682_Baseball_game
     {
         public int CalPoints(string[] ops)
         {
@@ -37,7 +38,7 @@ namespace _0682.Baseball_game
 
             int sum = 0;
 
-            while (stack.Count() > 0)
+            while (stack.Count > 0)
                 sum += stack.Pop();
 
             return sum;

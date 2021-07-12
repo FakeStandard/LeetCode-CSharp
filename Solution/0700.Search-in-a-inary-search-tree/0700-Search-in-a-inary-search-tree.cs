@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0700.Search_in_a_inary_search_tree
+namespace Solution._0700.Search_in_a_inary_search_tree
 {
-    public class Solution
+    public class _0700_Search_in_a_inary_search_tree
     {
         public TreeNode SearchBST(TreeNode root, int val)
         {

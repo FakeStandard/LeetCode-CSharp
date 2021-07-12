@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0617.Merge_two_binary_trees
+namespace Solution._0617.Merge_two_binary_trees
 {
-    public class Solution
+    public class _0617_Merge_two_binary_trees
     {
         public TreeNode MergeTrees(TreeNode root1, TreeNode root2)
         {

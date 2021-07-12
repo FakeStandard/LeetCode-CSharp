@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0682.Baseball_game;
+using Solution._0682.Baseball_game;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0682.Baseball_game.Tests
     [TestClass()]
     public class _0682_Baseball_game_Test
     {
-        Solution solution = new Solution();
+        _0682_Baseball_game solution = new _0682_Baseball_game();
 
         [TestMethod()]
         public void CalPoints_Test1()

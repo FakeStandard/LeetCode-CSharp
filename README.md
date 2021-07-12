@@ -57,3 +57,5 @@
 | 0387 | [First Unique Character in a String](/Solution/0387.First-unique-character-in-a-string/) | Dictionary | C# | [FirstUniqChar](/Solution/0387.First-unique-character-in-a-string/0387-First-unique-character-in-a-string.cs/) | Easy | [:bulb:](/UnitTest/_0387_First_unique_character_in_a_string_Test.cs/) |
 | 0389 | [Find the Difference](/Solution/0389.Find-the-difference/) | XOR | C# | [FindTheDifference](/Solution/0389.Find-the-difference/0389-Find-the-difference.cs/) | Easy | [:bulb:](/UnitTest/_0389_Find_the_difference_Test.cs/) |
 | 0392 | [Is Subsequence](/Solution/0392.Is-subsequence/) | Enumeration | C# | [IsSubsequence](/Solution/0392.Is-subsequence/0392-Is-subsequence.cs/) | Easy | [:bulb:](/UnitTest/_0392_Is_subsequence_Test.cs/) |
+| 0404 |
+| 0509 |

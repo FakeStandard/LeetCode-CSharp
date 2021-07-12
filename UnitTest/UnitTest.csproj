@@ -25,8 +25,6 @@
     <ProjectReference Include="..\0718.Maximum-length-of-repeated-subarray\0718.Maximum-length-of-repeated-subarray.csproj" />
     <ProjectReference Include="..\0728.Self-dividing-numbers\0728.Self-dividing-numbers.csproj" />
     <ProjectReference Include="..\0771.Jewels-and-stones\0771.Jewels-and-stones.csproj" />
-    <ProjectReference Include="..\0824.Goat-latin\0824.Goat-latin.csproj" />
-    <ProjectReference Include="..\0852.Peak-index-in-a-mountain-array\0852.Peak-index-in-a-mountain-array.csproj" />
     <ProjectReference Include="..\0912.Sort-an-array\0912.Sort-an-array.csproj" />
     <ProjectReference Include="..\0917.Reverse-only-letters\0917.Reverse-only-letters.csproj" />
     <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />

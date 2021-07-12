@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
-namespace _0824.Goat_latin
+namespace Solution._0824.Goat_latin
 {
-    public class Solution
+    public class _0824_Goat_latin
     {
         public string ToGoatLatin(string sentence)
         {

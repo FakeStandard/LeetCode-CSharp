@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0824.Goat_latin;
+using Solution._0824.Goat_latin;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0824.Goat_latin.Tests
     [TestClass()]
     public class _0824_Goat_latin_Test
     {
-        Solution solution = new Solution();
+        _0824_Goat_latin solution = new _0824_Goat_latin();
 
         [TestMethod()]
         public void ToGoatLatin_Test1()

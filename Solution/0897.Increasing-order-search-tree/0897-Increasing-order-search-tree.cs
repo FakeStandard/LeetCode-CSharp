@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0897.Increasing_order_search_tree
+namespace Solution._0897.Increasing_order_search_tree
 {
-    public class Solution
+    public class _0897_Increasing_order_search_tree
     {
         private TreeNode res;
         private TreeNode cur;

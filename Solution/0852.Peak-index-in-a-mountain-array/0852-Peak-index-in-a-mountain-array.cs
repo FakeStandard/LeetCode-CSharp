@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0852.Peak_index_in_a_mountain_array
+namespace Solution._0852.Peak_index_in_a_mountain_array
 {
-    public class Solution
+    public class _0852_Peak_index_in_a_mountain_array
     {
         public int PeakIndexInMountainArray(int[] arr)
         {

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0852.Peak_index_in_a_mountain_array;
+using Solution._0852.Peak_index_in_a_mountain_array;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0852.Peak_index_in_a_mountain_array.Tests
     [TestClass()]
     public class _0852_Peak_index_in_a_mountain_array_Test
     {
-        Solution solution = new Solution();
+        _0852_Peak_index_in_a_mountain_array solution = new _0852_Peak_index_in_a_mountain_array();
 
         [TestMethod()]
         public void PeakIndexInMountainArray_Test1()

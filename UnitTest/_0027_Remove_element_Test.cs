@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0027.Remove_element.Tests
 {
     [TestClass()]
     public class _0027_Remove_element_Test

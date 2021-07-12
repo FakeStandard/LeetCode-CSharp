@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0013.Roman_to_integer.Tests
 {
     [TestClass()]
     public class _0013_Roman_to_integer_Test

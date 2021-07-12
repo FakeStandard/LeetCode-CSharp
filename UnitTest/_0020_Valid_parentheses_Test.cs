@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0020.Valid_parentheses.Tests
 {
     [TestClass()]
     public class _0020_Valid_parentheses_Test

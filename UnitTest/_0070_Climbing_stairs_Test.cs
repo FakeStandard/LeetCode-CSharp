@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0070.Climbing_stairs.Tests
 {
     [TestClass()]
     public class _0070_Climbing_stairs_Test

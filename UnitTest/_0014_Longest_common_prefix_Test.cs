@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0014.Longest_common_prefix.Tests
 {
     [TestClass()]
     public class _0014_Longest_common_prefix_Test

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0035.Search_insert_position.Tests
 {
     [TestClass()]
     public class _0035_Search_insert_position_Test

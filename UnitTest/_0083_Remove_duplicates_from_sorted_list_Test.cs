@@ -6,7 +6,7 @@ using System.Text;
 using Common;
 using FluentAssertions;
 
-namespace Solution.Tests
+namespace _0083.Remove_duplicates_from_sorted_list.Tests
 {
     [TestClass()]
     public class _0083_Remove_duplicates_from_sorted_list_Test

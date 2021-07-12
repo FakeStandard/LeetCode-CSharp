@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using Solution._0009.Palindrome_number;
 
-namespace Solution.Tests
+namespace _0009.Palindrome_number.Tests
 {
     [TestClass()]
     public class _0009_Palindrome_number_Test

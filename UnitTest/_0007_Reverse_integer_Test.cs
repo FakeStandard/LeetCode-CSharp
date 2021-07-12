@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0007.Reverse_integer.Tests
 {
     [TestClass()]
     public class _0007_Reverse_integer_Test

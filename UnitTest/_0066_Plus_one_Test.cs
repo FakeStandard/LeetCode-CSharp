@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0066.Plus_one.Tests
 {
     [TestClass()]
     public class _0066_Plus_one_Test

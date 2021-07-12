@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0058.Length_of_last_word.Tests
 {
     [TestClass()]
     public class _0058_Length_of_last_word_Test

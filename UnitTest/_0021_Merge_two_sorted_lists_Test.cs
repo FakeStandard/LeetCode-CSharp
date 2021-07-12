@@ -6,7 +6,7 @@ using System.Text;
 using Common;
 using FluentAssertions;
 
-namespace Solution.Tests
+namespace _0021.Merge_two_sorted_lists.Tests
 {
     [TestClass()]
     public class _0021_Merge_two_sorted_lists_Test

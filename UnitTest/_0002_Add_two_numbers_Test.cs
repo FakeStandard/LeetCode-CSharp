@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0002.Add_two_numbers.Tests
 {
     [TestClass()]
     public class _0002_Add_two_numbers_Test

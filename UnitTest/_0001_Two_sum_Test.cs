@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0001.Two_sum.Tests
 {
     [TestClass()]
     public class _0001_Two_sum_Test

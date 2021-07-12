@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution.Tests
+namespace _0053.Maximum_subarray.Tests
 {
     [TestClass()]
     public class _0053_Maximum_subarray_Test

@@ -1,15 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
-namespace _1108.Defanging_an_IP_address
+namespace Solution._1108.Defanging_an_IP_address
 {
-    public class Solution
+    public class _1108_Defanging_an_IP_address
     {
         public string DefangIPaddr(string address)
         {
             StringBuilder sb = new StringBuilder();
 
-            foreach(var s in address)
+            foreach (var s in address)
             {
                 if (s == '.')
                     sb.Append("[.]");

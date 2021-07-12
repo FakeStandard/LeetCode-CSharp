@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
-namespace _1047.Remove_all_adjacent_duplicates_in_string
+namespace Solution._1047.Remove_all_adjacent_duplicates_in_string
 {
-    public class Solution
+    public class _1047_Remove_all_adjacent_duplicates_in_string
     {
         public string RemoveDuplicates(string s)
         {

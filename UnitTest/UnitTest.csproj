@@ -20,8 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\1047.Remove-all-adjacent-duplicates-in-string\1047.Remove-all-adjacent-duplicates-in-string.csproj" />
-    <ProjectReference Include="..\1108.Defanging-an-IP-address\1108.Defanging-an-IP-address.csproj" />
     <ProjectReference Include="..\1220.Count-vowels-permutation\1220.Count-vowels-permutation.csproj" />
     <ProjectReference Include="..\1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj" />
     <ProjectReference Include="..\1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj" />

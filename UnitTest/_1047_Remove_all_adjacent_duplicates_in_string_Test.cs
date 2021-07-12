@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1047.Remove_all_adjacent_duplicates_in_string;
+using Solution._1047.Remove_all_adjacent_duplicates_in_string;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1047.Remove_all_adjacent_duplicates_in_string.Tests
     [TestClass()]
     public class _1047_Remove_all_adjacent_duplicates_in_string_Test
     {
-        Solution solution = new Solution();
+        _1047_Remove_all_adjacent_duplicates_in_string solution = new _1047_Remove_all_adjacent_duplicates_in_string();
 
         [TestMethod()]
         public void RemoveDuplicates_Test1()

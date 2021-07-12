@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0977.Squares_of_a_sort_array</RootNamespace>
-  </PropertyGroup>
-
-</Project>

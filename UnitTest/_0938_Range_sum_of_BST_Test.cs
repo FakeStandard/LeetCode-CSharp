@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0938.Range_sum_of_BST;
+using Solution._0938.Range_sum_of_BST;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _0938.Range_sum_of_BST.Tests
     [TestClass()]
     public class _0938_Range_sum_of_BST_Test
     {
-        Solution solution = new Solution();
+        _0938_Range_sum_of_BST solution = new _0938_Range_sum_of_BST();
 
         [TestMethod()]
         public void RangeSumBST_Test1()

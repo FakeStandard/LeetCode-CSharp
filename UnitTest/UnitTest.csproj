@@ -20,10 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\0912.Sort-an-array\0912.Sort-an-array.csproj" />
-    <ProjectReference Include="..\0917.Reverse-only-letters\0917.Reverse-only-letters.csproj" />
-    <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />
-    <ProjectReference Include="..\0977.Squares-of-a-sort-array\0977.Squares-of-a-sort-array.csproj" />
     <ProjectReference Include="..\1047.Remove-all-adjacent-duplicates-in-string\1047.Remove-all-adjacent-duplicates-in-string.csproj" />
     <ProjectReference Include="..\1108.Defanging-an-IP-address\1108.Defanging-an-IP-address.csproj" />
     <ProjectReference Include="..\1220.Count-vowels-permutation\1220.Count-vowels-permutation.csproj" />

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0977.Squares_of_a_sort_array;
+using Solution._0977.Squares_of_a_sort_array;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _0977.Squares_of_a_sort_array.Tests
     [TestClass()]
     public class _0977_Squares_of_a_sort_array_Test
     {
-        Solution solution = new Solution();
+        _0977_Squares_of_a_sort_array solution = new _0977_Squares_of_a_sort_array();
 
         [TestMethod()]
         public void SortedSquares_Test1()

@@ -1,9 +1,11 @@
-﻿using System;
-using Common;
+﻿using Common;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0938.Range_sum_of_BST
+namespace Solution._0938.Range_sum_of_BST
 {
-    public class Solution
+    public class _0938_Range_sum_of_BST
     {
         public int RangeSumBST(TreeNode root, int low, int high)
         {

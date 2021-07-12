@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0917.Reverse_only_letters;
+using Solution._0917.Reverse_only_letters;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0917.Reverse_only_letters.Tests
     [TestClass()]
     public class _0917_Reverse_only_letters_Test
     {
-        Solution solution = new Solution();
+        _0917_Reverse_only_letters solution = new _0917_Reverse_only_letters();
 
         [TestMethod()]
         public void ReverseOnlyLetters_Test1()

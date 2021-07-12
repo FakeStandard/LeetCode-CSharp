@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0912.Sort_an_array</RootNamespace>
-  </PropertyGroup>
-
-</Project>

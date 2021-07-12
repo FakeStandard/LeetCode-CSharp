@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0912.Sort_an_array;
+using Solution._0912.Sort_an_array;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _0912.Sort_an_array.Tests
     [TestClass()]
     public class _0912_Sort_an_array_Test
     {
-        Solution solution = new Solution();
+        _0912_Sort_an_array solution = new _0912_Sort_an_array();
 
         [TestMethod()]
         public void SortArray_Test1()

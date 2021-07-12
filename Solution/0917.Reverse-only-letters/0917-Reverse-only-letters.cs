@@ -1,13 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0917.Reverse_only_letters
+namespace Solution._0917.Reverse_only_letters
 {
-    public class Solution
+    public class _0917_Reverse_only_letters
     {
         public string ReverseOnlyLetters(string s)
         {
             int left = 0;
-            int right = s.Length-1;
+            int right = s.Length - 1;
             char temp;
             var res = s.ToCharArray();
 

@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0912.Sort_an_array
+namespace Solution._0912.Sort_an_array
 {
-    public class Solution
+    public class _0912_Sort_an_array
     {
         public int[] SortArray(int[] nums)
         {
@@ -29,7 +31,7 @@ namespace _0912.Sort_an_array
             int i = left;
             int pivot = data[right];
 
-            for(int j = left; j < right; j++)
+            for (int j = left; j < right; j++)
             {
                 if (data[j] < pivot)
                 {

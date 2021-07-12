@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0728.Self_dividing_numbers;
+using Solution._0728.Self_dividing_numbers;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _0728.Self_dividing_numbers.Tests
     [TestClass()]
     public class _0728_Self_dividing_numbers_Test
     {
-        Solution solution = new Solution();
+        _0728_Self_dividing_numbers solution = new _0728_Self_dividing_numbers();
 
         [TestMethod()]
         public void SelfDividingNumbers_Test1()

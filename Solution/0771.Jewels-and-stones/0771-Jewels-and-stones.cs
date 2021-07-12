@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0771.Jewels_and_stones
+namespace Solution._0771.Jewels_and_stones
 {
-    public class Solution
+    public class _0771_Jewels_and_stones
     {
         public int NumJewelsInStones(string jewels, string stones)
         {

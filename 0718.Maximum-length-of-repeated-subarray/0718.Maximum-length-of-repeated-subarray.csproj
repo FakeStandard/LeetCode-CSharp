@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_0718.Maximum_length_of_repeated_subarray</RootNamespace>
-  </PropertyGroup>
-
-</Project>

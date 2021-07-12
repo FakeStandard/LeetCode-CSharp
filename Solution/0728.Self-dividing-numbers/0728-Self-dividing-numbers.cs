@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _0728.Self_dividing_numbers
+namespace Solution._0728.Self_dividing_numbers
 {
-    public class Solution
+    public class _0728_Self_dividing_numbers
     {
         public IList<int> SelfDividingNumbers(int left, int right)
         {

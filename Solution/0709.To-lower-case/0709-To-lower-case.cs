@@ -1,9 +1,10 @@
 ﻿using System;
-using System.Linq;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0709.To_lower_case
+namespace Solution._0709.To_lower_case
 {
-    public class Solution
+    public class _0709_To_lower_case
     {
         public string ToLowerCase(string s)
         {

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0717._1_bit_and_2_bit_characters;
+using Solution._0717._1_bit_and_2_bit_characters;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0717._1_bit_and_2_bit_characters.Tests
     [TestClass()]
     public class _0717_1_bit_and_2_bit_characters_Test
     {
-        Solution solution = new Solution();
+        _0717_1_bit_and_2_bit_characters solution = new _0717_1_bit_and_2_bit_characters();
 
         [TestMethod()]
         public void IsOneBitCharacter_Test1()

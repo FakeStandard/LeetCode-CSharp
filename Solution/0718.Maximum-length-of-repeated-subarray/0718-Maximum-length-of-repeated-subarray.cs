@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0718.Maximum_length_of_repeated_subarray
+namespace Solution._0718.Maximum_length_of_repeated_subarray
 {
-    public class Solution
+    public class _0718_Maximum_length_of_repeated_subarray
     {
         public int FindLength(int[] nums1, int[] nums2)
         {

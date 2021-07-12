@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0718.Maximum_length_of_repeated_subarray;
+using Solution._0718.Maximum_length_of_repeated_subarray;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0718.Maximum_length_of_repeated_subarray.Tests
     [TestClass()]
     public class _0718_Maximum_length_of_repeated_subarray_Test
     {
-        Solution solution = new Solution();
+        _0718_Maximum_length_of_repeated_subarray solution = new _0718_Maximum_length_of_repeated_subarray();
 
         [TestMethod()]
         public void FindLength_Test1()

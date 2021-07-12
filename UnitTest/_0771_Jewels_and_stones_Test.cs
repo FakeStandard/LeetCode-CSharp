@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0771.Jewels_and_stones;
+using Solution._0771.Jewels_and_stones;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0771.Jewels_and_stones.Tests
     [TestClass()]
     public class _0771_Jewels_and_stones_Test
     {
-        Solution solution = new Solution();
+        _0771_Jewels_and_stones solution = new _0771_Jewels_and_stones();
 
         [TestMethod()]
         public void NumJewelsInStones_Test1()

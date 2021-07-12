@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0709.To_lower_case;
+using Solution._0709.To_lower_case;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0709.To_lower_case.Tests
     [TestClass()]
     public class _0709_To_lower_case_Test
     {
-        Solution solution = new Solution();
+        _0709_To_lower_case solution = new _0709_To_lower_case();
 
         [TestMethod()]
         public void ToLowerCase_Test1()

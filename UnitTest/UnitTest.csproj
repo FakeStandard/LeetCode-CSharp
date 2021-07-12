@@ -20,11 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\0709.To-lower-case\0709.To-lower-case.csproj" />
-    <ProjectReference Include="..\0717.1-bit-and-2-bit-characters\0717.1-bit-and-2-bit-characters.csproj" />
-    <ProjectReference Include="..\0718.Maximum-length-of-repeated-subarray\0718.Maximum-length-of-repeated-subarray.csproj" />
-    <ProjectReference Include="..\0728.Self-dividing-numbers\0728.Self-dividing-numbers.csproj" />
-    <ProjectReference Include="..\0771.Jewels-and-stones\0771.Jewels-and-stones.csproj" />
     <ProjectReference Include="..\0912.Sort-an-array\0912.Sort-an-array.csproj" />
     <ProjectReference Include="..\0917.Reverse-only-letters\0917.Reverse-only-letters.csproj" />
     <ProjectReference Include="..\0938.Range-sum-of-BST\0938.Range-sum-of-BST.csproj" />

@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0717._1_bit_and_2_bit_characters
+namespace Solution._0717._1_bit_and_2_bit_characters
 {
-    public class Solution
+    public class _0717_1_bit_and_2_bit_characters
     {
         public bool IsOneBitCharacter(int[] bits)
         {

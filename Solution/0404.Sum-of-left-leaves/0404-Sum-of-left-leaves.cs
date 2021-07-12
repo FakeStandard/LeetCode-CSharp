@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0404.Sum_of_left_leaves
+namespace Solution._0404.Sum_of_left_leaves
 {
-    public class Solution
+    public class _0404_Sum_of_left_leaves
     {
         private int sum = 0;
         public int SumOfLeftLeaves(TreeNode root)

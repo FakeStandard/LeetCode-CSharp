@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _0509.Fibonacci_number;
+using Solution._0509.Fibonacci_number;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _0509.Fibonacci_number.Tests
     [TestClass()]
     public class _0509_Fibonacci_number_Test
     {
-        Solution solution = new Solution();
+        _0509_Fibonacci_number solution = new _0509_Fibonacci_number();
 
         [TestMethod()]
         public void Fib_Test1()

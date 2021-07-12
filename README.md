@@ -37,6 +37,7 @@
 | 0172 | [Factorial Trailing Zeroes](/Solution/0172.Factorial-trailing-zeroes/) | Enumeration | C# | [TrailingZeroes](/Solution/0172.Factorial-trailing-zeroes/0172-Factorial-trailing-zeroes.cs/) | Easy | [:bulb:](/UnitTest/_0172_Factorial_trailing_zeroes_Test.cs/) |
 | 0203 | [Remove Linked List Elements](/Solution/0203.Remove-linked-list-elements/) | Linked List | C# | [RemoveElements](/Solution/0203.Remove-linked-list-elements/0203-Remove-linked-list-elements.cs/) | Easy | [:bulb:](/UnitTest/_0203_Remove_Linked_List_Elements_Test.cs/) |
 | 0204 | [Count Primes](/Solution/0204.Count-primes/) | Array | C# | [CountPrimes](/Solution/0204.Count-primes/0204-Count-primes.cs/) | Easy | [:bulb:](/UnitTest/_0204_Count_primes_Test.cs/) |
+| 0205 |
 | 0206 | [Reverse Linked List](/Solution/0206.Reverse-linked-list/) | Linked List | C# | [ReverseList](/Solution/0206.Reverse-linked-list/0206-Reverse-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0206_Reverse_linked_list_Test.cs/) |
 | 0217 | [Contains Duplicate](/Solution/0217.Contains-Duplicate/) | HashSet | C# | [ContainsDuplicate](/Solution/0217.Contains-Duplicate/0217-Contains-Duplicate.cs/) | Easy | [:bulb:](/UnitTest/_0217_Contains_duplicate_Test.cs/) |
 | 0219 | [Contains Duplicate II](/Solution/0219.Contains-duplicate-II/) | Dictionary | C# | [ContainsNearbyDuplicate](/Solution/0219.Contains-duplicate-II/0219-Contains-duplicate-II.cs/) | Easy | [:bulb:](/UnitTest/_0219_Contains_duplicate_II_Test.cs/) |

@@ -20,10 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\1220.Count-vowels-permutation\1220.Count-vowels-permutation.csproj" />
-    <ProjectReference Include="..\1221.Split-a-string-in-balanced-strings\1221.Split-a-string-in-balanced-strings.csproj" />
-    <ProjectReference Include="..\1281.Subtract-the-product-and-sum-of-digits-of-an-integer\1281.Subtract-the-product-and-sum-of-digits-of-an-integer.csproj" />
-    <ProjectReference Include="..\1290.Convert-binary-number-in-a-linked-list-to-integer\1290.Convert-binary-number-in-a-linked-list-to-integer.csproj" />
     <ProjectReference Include="..\1313.Decompress-run-length-encoded-list\1313.Decompress-run-length-encoded-list.csproj" />
     <ProjectReference Include="..\1342.Number-of-steps-to-reduce-a-number-to-zero\1342.Number-of-steps-to-reduce-a-number-to-zero.csproj" />
     <ProjectReference Include="..\1351.Count-negative-numbers-in-a-sorted-matrix\1351.Count-negative-numbers-in-a-sorted-matrix.csproj" />

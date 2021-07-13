@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1290.Convert_binary_number_in_a_linked_list_to_integer;
+using Solution._1290.Convert_binary_number_in_a_linked_list_to_integer;
 using Common;
 
 namespace _1290.Convert_binary_number_in_a_linked_list_to_integer.Tests
@@ -7,7 +7,7 @@ namespace _1290.Convert_binary_number_in_a_linked_list_to_integer.Tests
     [TestClass()]
     public class _1290_Convert_binary_number_in_a_linked_list_to_integer_Test
     {
-        Solution solution = new Solution();
+        _1290_Convert_binary_number_in_a_linked_list_to_integer solution = new _1290_Convert_binary_number_in_a_linked_list_to_integer();
 
         [TestMethod()]
         public void GetDecimalValue_Test1()

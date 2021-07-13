@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1281.Subtract_the_product_and_sum_of_digits_of_an_integer</RootNamespace>
-  </PropertyGroup>
-
-</Project>

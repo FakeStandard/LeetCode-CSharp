@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1221.Split_a_string_in_balanced_strings;
+using Solution._1221.Split_a_string_in_balanced_strings;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1221.Split_a_string_in_balanced_strings.Tests
     [TestClass()]
     public class _1221_Split_a_string_in_balanced_strings_Test
     {
-        Solution solution = new Solution();
+        _1221_Split_a_string_in_balanced_strings solution = new _1221_Split_a_string_in_balanced_strings();
 
         [TestMethod()]
         public void BalancedStringSplit_Test1()

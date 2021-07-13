@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1220.Count_vowels_permutation
+namespace Solution._1220.Count_vowels_permutation
 {
-    public class Solution
+    public class _1220_Count_vowels_permutation
     {
         public int CountVowelPermutation(int n)
         {

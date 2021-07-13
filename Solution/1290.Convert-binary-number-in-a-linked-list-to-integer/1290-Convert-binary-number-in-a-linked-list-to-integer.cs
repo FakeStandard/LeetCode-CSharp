@@ -1,10 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
 using System.Text;
 
-namespace _1290.Convert_binary_number_in_a_linked_list_to_integer
+namespace Solution._1290.Convert_binary_number_in_a_linked_list_to_integer
 {
-    public class Solution
+    public class _1290_Convert_binary_number_in_a_linked_list_to_integer
     {
         public int GetDecimalValue(ListNode head)
         {

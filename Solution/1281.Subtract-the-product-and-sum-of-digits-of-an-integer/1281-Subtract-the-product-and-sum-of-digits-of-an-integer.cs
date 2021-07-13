@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1281.Subtract_the_product_and_sum_of_digits_of_an_integer
+namespace Solution._1281.Subtract_the_product_and_sum_of_digits_of_an_integer
 {
-    public class Solution
+    public class _1281_Subtract_the_product_and_sum_of_digits_of_an_integer
     {
         public int SubtractProductAndSum(int n)
         {

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1281.Subtract_the_product_and_sum_of_digits_of_an_integer;
+using Solution._1281.Subtract_the_product_and_sum_of_digits_of_an_integer;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1281.Subtract_the_product_and_sum_of_digits_of_an_integer.Tests
     [TestClass()]
     public class _1281_Subtract_the_product_and_sum_of_digits_of_an_integer_Test
     {
-        Solution solution = new Solution();
+        _1281_Subtract_the_product_and_sum_of_digits_of_an_integer solution = new _1281_Subtract_the_product_and_sum_of_digits_of_an_integer();
 
         [TestMethod()]
         public void SubtractProductAndSum_Test1()

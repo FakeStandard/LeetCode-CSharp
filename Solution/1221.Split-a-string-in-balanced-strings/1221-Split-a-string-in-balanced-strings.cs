@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1221.Split_a_string_in_balanced_strings
+namespace Solution._1221.Split_a_string_in_balanced_strings
 {
-    public class Solution
+    public class _1221_Split_a_string_in_balanced_strings
     {
         public int BalancedStringSplit(string s)
         {

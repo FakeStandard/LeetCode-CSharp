@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1221.Split_a_string_in_balanced_strings</RootNamespace>
-  </PropertyGroup>
-
-</Project>

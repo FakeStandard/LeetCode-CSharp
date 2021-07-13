@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1220.Count_vowels_permutation;
+using Solution._1220.Count_vowels_permutation;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1220.Count_vowels_permutation.Tests
     [TestClass()]
     public class _1220_Count_vowels_permutation_Test
     {
-        Solution solution = new Solution();
+        _1220_Count_vowels_permutation solution = new _1220_Count_vowels_permutation();
 
         [TestMethod()]
         public void CountVowelPermutation_Test1()

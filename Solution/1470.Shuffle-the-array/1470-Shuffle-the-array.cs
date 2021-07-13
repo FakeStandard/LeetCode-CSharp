@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1470.Shuffle_the_array
+namespace Solution._1470.Shuffle_the_array
 {
-    public class Solution
+    public class _1470_Shuffle_the_array
     {
         public int[] Shuffle(int[] nums, int n)
         {

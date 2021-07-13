@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1436.Destination_city
+namespace Solution._1436.Destination_city
 {
-    public class Solution
+    public class _1436_Destination_city
     {
         public string DestCity(IList<IList<string>> paths)
         {

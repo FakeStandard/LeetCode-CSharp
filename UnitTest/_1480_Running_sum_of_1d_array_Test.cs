@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1480.Running_sum_of_1d_array;
+using Solution._1480.Running_sum_of_1d_array;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _1480.Running_sum_of_1d_array.Tests
     [TestClass()]
     public class _1480_Running_sum_of_1d_array_Test
     {
-        Solution solution = new Solution();
+        _1480_Running_sum_of_1d_array solution = new _1480_Running_sum_of_1d_array();
 
         [TestMethod()]
         public void RunningSum_Test1()

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1491.Average_salary_excluding_the_minimum_and_maximum_salary;
+using Solution._1491.Average_salary_excluding_the_minimum_and_maximum_salary;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1491.Average_salary_excluding_the_minimum_and_maximum_salary.Tests
     [TestClass()]
     public class _1491_Average_salary_excluding_the_minimum_and_maximum_salary_Test
     {
-        Solution solution = new Solution();
+        _1491_Average_salary_excluding_the_minimum_and_maximum_salary solution = new _1491_Average_salary_excluding_the_minimum_and_maximum_salary();
 
         [TestMethod()]
         public void Average_Test1()

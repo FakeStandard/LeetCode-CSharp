@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1470.Shuffle_the_array</RootNamespace>
-  </PropertyGroup>
-
-</Project>

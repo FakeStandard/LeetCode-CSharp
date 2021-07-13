@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1431.Kids_with_the_greatest_number_of_candies
+namespace Solution._1431.Kids_with_the_greatest_number_of_candies
 {
-    public class Solution
+    public class _1431_Kids_with_the_greatest_number_of_candies
     {
         public IList<bool> KidsWithCandies(int[] candies, int extraCandies)
         {

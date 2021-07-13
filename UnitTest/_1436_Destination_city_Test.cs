@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1436.Destination_city;
+using Solution._1436.Destination_city;
 using System.Collections.Generic;
 
 namespace _1436.Destination_city.Tests
@@ -7,7 +7,7 @@ namespace _1436.Destination_city.Tests
     [TestClass()]
     public class _1436_Destination_city_Test
     {
-        Solution solution = new Solution();
+        _1436_Destination_city solution = new _1436_Destination_city();
 
         [TestMethod()]
         public void DestCity_Test1()

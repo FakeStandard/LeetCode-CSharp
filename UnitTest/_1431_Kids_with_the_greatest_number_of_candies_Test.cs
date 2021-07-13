@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1431.Kids_with_the_greatest_number_of_candies;
+using Solution._1431.Kids_with_the_greatest_number_of_candies;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _1431.Kids_with_the_greatest_number_of_candies.Tests
     [TestClass()]
     public class _1431_Kids_with_the_greatest_number_of_candies_Test
     {
-        Solution solution = new Solution();
+        _1431_Kids_with_the_greatest_number_of_candies solution = new _1431_Kids_with_the_greatest_number_of_candies();
 
         [TestMethod()]
         public void KidsWithCandies_Test1()

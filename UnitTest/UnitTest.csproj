@@ -20,12 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\1431.Kids-with-the-greatest-number-of-candies\1431.Kids-with-the-greatest-number-of-candies.csproj" />
-    <ProjectReference Include="..\1436.Destination-city\1436.Destination-city.csproj" />
-    <ProjectReference Include="..\1470.Shuffle-the-array\1470.Shuffle-the-array.csproj" />
-    <ProjectReference Include="..\1480.Running-sum-of-1d-array\1480.Running-sum-of-1d-array.csproj" />
-    <ProjectReference Include="..\1486.XOR-Operation-in-an-array\1486.XOR-Operation-in-an-array.csproj" />
-    <ProjectReference Include="..\1491.Average-salary-excluding-the-minimum-and-maximum-salary\1491.Average-salary-excluding-the-minimum-and-maximum-salary.csproj" />
     <ProjectReference Include="..\1512.Number-of-good-pairs\1512.Number-of-good-pairs.csproj" />
     <ProjectReference Include="..\1523.Count-odd-numbers-in-an-interval-range\1523.Count-odd-numbers-in-an-interval-range.csproj" />
     <ProjectReference Include="..\1528.Shuffle-string\1528.Shuffle-string.csproj" />

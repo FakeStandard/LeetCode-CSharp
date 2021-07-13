@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1486.XOR_Operation_in_an_array;
+using Solution._1486.XOR_Operation_in_an_array;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1486.XOR_Operation_in_an_array.Tests
     [TestClass()]
     public class _1486_XOR_Operation_in_an_array_Test
     {
-        Solution solution = new Solution();
+        _1486_XOR_Operation_in_an_array solution = new _1486_XOR_Operation_in_an_array();
 
         [TestMethod()]
         public void XorOperation_Test1()

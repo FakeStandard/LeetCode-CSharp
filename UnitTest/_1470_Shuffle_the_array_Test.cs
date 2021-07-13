@@ -1,12 +1,13 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using FluentAssertions;
+using Solution._1470.Shuffle_the_array;
 
 namespace _1470.Shuffle_the_array.Tests
 {
     [TestClass()]
     public class _1470_Shuffle_the_array_Test
     {
-        Solution solution = new Solution();
+        _1470_Shuffle_the_array solution = new _1470_Shuffle_the_array();
 
         [TestMethod()]
         public void Shuffle_Test1()

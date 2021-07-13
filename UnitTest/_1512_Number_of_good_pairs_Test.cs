@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1512.Number_of_good_pairs;
+using Solution._1512.Number_of_good_pairs;
 
 namespace _1512.Number_of_good_pairs.Tests
 {
     [TestClass()]
     public class _1512_Number_of_good_pairs_Test
     {
-        Solution solution = new Solution();
+        _1512_Number_of_good_pairs solution = new _1512_Number_of_good_pairs();
 
         [TestMethod()]
         public void NumIdenticalPairs_Test1()

@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1523.Count_odd_numbers_in_an_interval_range</RootNamespace>
-  </PropertyGroup>
-
-</Project>

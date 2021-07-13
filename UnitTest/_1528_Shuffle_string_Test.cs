@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1528.Shuffle_string;
+using Solution._1528.Shuffle_string;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1528.Shuffle_string.Tests
     [TestClass()]
     public class _1528_Shuffle_string_Test
     {
-        Solution solution = new Solution();
+        _1528_Shuffle_string solution = new _1528_Shuffle_string();
 
         [TestMethod()]
         public void RestoreString_Test1()

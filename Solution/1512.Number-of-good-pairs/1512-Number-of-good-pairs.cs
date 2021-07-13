@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1512.Number_of_good_pairs
+namespace Solution._1512.Number_of_good_pairs
 {
-    public class Solution
+    public class _1512_Number_of_good_pairs
     {
         public int NumIdenticalPairs(int[] nums)
         {

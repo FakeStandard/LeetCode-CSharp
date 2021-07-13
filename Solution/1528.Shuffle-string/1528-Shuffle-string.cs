@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1528.Shuffle_string
+namespace Solution._1528.Shuffle_string
 {
-    public class Solution
+    public class _1528_Shuffle_string
     {
         public string RestoreString(string s, int[] indices)
         {

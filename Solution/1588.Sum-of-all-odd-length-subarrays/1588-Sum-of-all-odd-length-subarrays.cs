@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1588.Sum_of_all_odd_length_subarrays
+namespace Solution._1588.Sum_of_all_odd_length_subarrays
 {
-    public class Solution
+    public class _1588_Sum_of_all_odd_length_subarrays
     {
         public int SumOddLengthSubarrays(int[] arr)
         {

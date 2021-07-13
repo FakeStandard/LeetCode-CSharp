@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1523.Count_odd_numbers_in_an_interval_range
+namespace Solution._1523.Count_odd_numbers_in_an_interval_range
 {
-    public class Solution
+    public class _1523_Count_odd_numbers_in_an_interval_range
     {
         public int CountOdds(int low, int high)
         {

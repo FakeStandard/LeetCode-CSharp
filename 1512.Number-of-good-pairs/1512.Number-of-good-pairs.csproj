@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1512.Number_of_good_pairs</RootNamespace>
-  </PropertyGroup>
-
-</Project>

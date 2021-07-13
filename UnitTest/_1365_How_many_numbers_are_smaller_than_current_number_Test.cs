@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1365.How_many_numbers_are_smaller_than_current_number;
+using Solution._1365.How_many_numbers_are_smaller_than_current_number;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _1365.How_many_numbers_are_smaller_than_current_number.Tests
     [TestClass()]
     public class _1365_How_many_numbers_are_smaller_than_current_number_Test
     {
-        Solution solution = new Solution();
+        _1365_How_many_numbers_are_smaller_than_current_number solution = new _1365_How_many_numbers_are_smaller_than_current_number();
 
         [TestMethod()]
         public void SmallerNumbersThanCurrent_Test1()

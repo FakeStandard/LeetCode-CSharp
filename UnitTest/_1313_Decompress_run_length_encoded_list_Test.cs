@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1313.Decompress_run_length_encoded_list;
+using Solution._1313.Decompress_run_length_encoded_list;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _1313.Decompress_run_length_encoded_list.Tests
     [TestClass()]
     public class _1313_Decompress_run_length_encoded_list_Test
     {
-        Solution solution = new Solution();
+        _1313_Decompress_run_length_encoded_list solution = new _1313_Decompress_run_length_encoded_list();
 
         [TestMethod()]
         public void DecompressRLElist_Test1()

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1389.Create_target_array_in_the_given_order;
+using Solution._1389.Create_target_array_in_the_given_order;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _1389.Create_target_array_in_the_given_order.Tests
     [TestClass()]
     public class _1389_Create_target_array_in_the_given_order_Test
     {
-        Solution solution = new Solution();
+        _1389_Create_target_array_in_the_given_order solution = new _1389_Create_target_array_in_the_given_order();
 
         [TestMethod()]
         public void CreateTargetArray_Test1()

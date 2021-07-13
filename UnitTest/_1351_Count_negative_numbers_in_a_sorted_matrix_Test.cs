@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1351.Count_negative_numbers_in_a_sorted_matrix;
+using Solution._1351.Count_negative_numbers_in_a_sorted_matrix;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1351.Count_negative_numbers_in_a_sorted_matrix.Tests
     [TestClass()]
     public class _1351_Count_negative_numbers_in_a_sorted_matrix_Test
     {
-        Solution solution = new Solution();
+        _1351_Count_negative_numbers_in_a_sorted_matrix solution = new _1351_Count_negative_numbers_in_a_sorted_matrix();
 
         [TestMethod()]
         public void CountNegatives_Test1()

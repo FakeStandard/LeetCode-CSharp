@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1313.Decompress_run_length_encoded_list
+namespace Solution._1313.Decompress_run_length_encoded_list
 {
-    public class Solution
+    public class _1313_Decompress_run_length_encoded_list
     {
         public int[] DecompressRLElist(int[] nums)
         {

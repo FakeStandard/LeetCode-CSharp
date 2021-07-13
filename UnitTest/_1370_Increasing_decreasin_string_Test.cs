@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1370.Increasing_decreasin_string;
+using Solution._1370.Increasing_decreasin_string;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1370.Increasing_decreasin_string.Tests
     [TestClass()]
     public class _1370_Increasing_decreasin_string_Test
     {
-        Solution solution = new Solution();
+        _1370_Increasing_decreasin_string solution = new _1370_Increasing_decreasin_string();
 
         [TestMethod()]
         public void SortString_Test1()

@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1380.Lucky_numbers_in_a_matrix</RootNamespace>
-  </PropertyGroup>
-
-</Project>

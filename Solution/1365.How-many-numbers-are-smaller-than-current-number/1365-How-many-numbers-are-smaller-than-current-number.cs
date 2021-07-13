@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1365.How_many_numbers_are_smaller_than_current_number
+namespace Solution._1365.How_many_numbers_are_smaller_than_current_number
 {
-    public class Solution
+    public class _1365_How_many_numbers_are_smaller_than_current_number
     {
         public int[] SmallerNumbersThanCurrent(int[] nums)
         {

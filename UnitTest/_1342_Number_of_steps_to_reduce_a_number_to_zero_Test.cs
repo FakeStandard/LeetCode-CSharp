@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1342.Number_of_steps_to_reduce_a_number_to_zero;
+using Solution._1342.Number_of_steps_to_reduce_a_number_to_zero;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1342.Number_of_steps_to_reduce_a_number_to_zero.Tests
     [TestClass()]
     public class _1342_Number_of_steps_to_reduce_a_number_to_zero_Test
     {
-        Solution solution = new Solution();
+        _1342_Number_of_steps_to_reduce_a_number_to_zero solution = new _1342_Number_of_steps_to_reduce_a_number_to_zero();
 
         [TestMethod()]
         public void NumberOfSteps_Test1()

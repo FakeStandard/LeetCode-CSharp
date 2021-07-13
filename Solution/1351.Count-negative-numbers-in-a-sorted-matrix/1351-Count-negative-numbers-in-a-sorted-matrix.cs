@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1351.Count_negative_numbers_in_a_sorted_matrix
+namespace Solution._1351.Count_negative_numbers_in_a_sorted_matrix
 {
-    public class Solution
+    public class _1351_Count_negative_numbers_in_a_sorted_matrix
     {
         public int CountNegatives(int[][] grid)
         {

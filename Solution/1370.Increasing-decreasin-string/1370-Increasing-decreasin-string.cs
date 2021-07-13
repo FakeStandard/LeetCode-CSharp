@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
 
-namespace _1370.Increasing_decreasin_string
+namespace Solution._1370.Increasing_decreasin_string
 {
-    public class Solution
+    public class _1370_Increasing_decreasin_string
     {
         public string SortString(string s)
         {

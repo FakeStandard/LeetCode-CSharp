@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1342.Number_of_steps_to_reduce_a_number_to_zero
+namespace Solution._1342.Number_of_steps_to_reduce_a_number_to_zero
 {
-    public class Solution
+    public class _1342_Number_of_steps_to_reduce_a_number_to_zero
     {
         public int NumberOfSteps(int num)
         {

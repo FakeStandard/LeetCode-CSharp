@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1380.Lucky_numbers_in_a_matrix;
+using Solution._1380.Lucky_numbers_in_a_matrix;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +10,7 @@ namespace _1380.Lucky_numbers_in_a_matrix.Tests
     [TestClass()]
     public class _1380_Lucky_numbers_in_a_matrix_Test
     {
-        Solution solution = new Solution();
+        _1380_Lucky_numbers_in_a_matrix solution = new _1380_Lucky_numbers_in_a_matrix();
 
         [TestMethod()]
         public void LuckyNumbers_Test1()

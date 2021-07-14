@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1678.Goal_parser_interpretation
+namespace Solution._1678.Goal_parser_interpretation
 {
-    public class Solution
+    public class _1678_Goal_parser_interpretation
     {
         public string Interpret(string command)
         {
@@ -33,8 +35,6 @@ namespace _1678.Goal_parser_interpretation
 
             //command = command.Replace("(al)", "al");
             //command = command.Replace("()", "o");
-
-            //return command;
         }
     }
 }

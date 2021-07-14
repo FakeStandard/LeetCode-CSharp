@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1684.Count_the_number_of_consistent_strings</RootNamespace>
-  </PropertyGroup>
-
-</Project>

@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1662.Check_if_two_string_arrays_are_equivalent;
+using Solution._1662.Check_if_two_string_arrays_are_equivalent;
 
 namespace _1662.Check_if_two_string_arrays_are_equivalent.Tests
 {
     [TestClass()]
     public class _1662_Check_if_two_string_arrays_are_equivalent_Test
     {
-        Solution solution = new Solution();
+        _1662_Check_if_two_string_arrays_are_equivalent solution = new _1662_Check_if_two_string_arrays_are_equivalent();
 
         [TestMethod()]
         public void ArrayStringsAreEqual_Test1()

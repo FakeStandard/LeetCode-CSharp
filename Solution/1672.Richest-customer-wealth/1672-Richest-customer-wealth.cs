@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1672.Richest_customer_wealth
+namespace Solution._1672.Richest_customer_wealth
 {
-    public class Solution
+    public class _1672_Richest_customer_wealth
     {
         public int MaximumWealth(int[][] accounts)
         {

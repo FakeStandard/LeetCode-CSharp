@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1700.Number_of_students_unabled_to_eat_lunch;
+using Solution._1700.Number_of_students_unabled_to_eat_lunch;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1700.Number_of_students_unabled_to_eat_lunch.Tests
     [TestClass()]
     public class _1700_Number_of_students_unable_to_eat_lunch_Test
     {
-        Solution solution = new Solution();
+        _1700_Number_of_students_unabled_to_eat_lunch solution = new _1700_Number_of_students_unabled_to_eat_lunch();
 
         [TestMethod()]
         public void CountStudents_Test1()

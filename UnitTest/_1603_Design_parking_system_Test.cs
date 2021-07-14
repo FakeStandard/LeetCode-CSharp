@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1603.Design_parking_system;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using static Solution._1603.Design_parking_system._1603_Design_parking_system;
 
 namespace _1603.Design_parking_system.Tests
 {

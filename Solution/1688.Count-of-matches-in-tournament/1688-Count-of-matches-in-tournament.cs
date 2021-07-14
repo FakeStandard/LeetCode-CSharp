@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1688.Count_of_matches_in_tournament
+namespace Solution._1688.Count_of_matches_in_tournament
 {
-    public class Solution
+    public class _1688_Count_of_matches_in_tournament
     {
         public int NumberOfMatches(int n)
         {

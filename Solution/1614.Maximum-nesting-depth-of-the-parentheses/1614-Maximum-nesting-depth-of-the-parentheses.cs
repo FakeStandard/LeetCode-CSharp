@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1614.Maximum_nesting_depth_of_the_parentheses
+namespace Solution._1614.Maximum_nesting_depth_of_the_parentheses
 {
-    public class Solution
+    public class _1614_Maximum_nesting_depth_of_the_parentheses
     {
         public int MaxDepth(string s)
         {

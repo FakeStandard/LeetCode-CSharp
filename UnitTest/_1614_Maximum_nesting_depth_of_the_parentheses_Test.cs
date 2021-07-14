@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1614.Maximum_nesting_depth_of_the_parentheses;
+using Solution._1614.Maximum_nesting_depth_of_the_parentheses;
 
 namespace _1614.Maximum_nesting_depth_of_the_parentheses.Tests
 {
     [TestClass()]
     public class _1614_Maximum_nesting_depth_of_the_parentheses_Test
     {
-        Solution solution = new Solution();
+        _1614_Maximum_nesting_depth_of_the_parentheses solution = new _1614_Maximum_nesting_depth_of_the_parentheses();
 
         [TestMethod()]
         public void MaxDepth_Test1()

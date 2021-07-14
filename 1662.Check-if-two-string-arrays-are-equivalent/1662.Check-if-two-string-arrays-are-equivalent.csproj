@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1662.Check_if_two_string_arrays_are_equivalent</RootNamespace>
-  </PropertyGroup>
-
-</Project>

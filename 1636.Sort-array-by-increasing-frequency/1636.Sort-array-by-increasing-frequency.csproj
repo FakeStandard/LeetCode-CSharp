@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1636.Sort_array_by_increasing_frequency</RootNamespace>
-  </PropertyGroup>
-
-</Project>

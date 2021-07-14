@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1700.Number_of_students_unabled_to_eat_lunch
+namespace Solution._1700.Number_of_students_unabled_to_eat_lunch
 {
-    public class Solution
+    public class _1700_Number_of_students_unabled_to_eat_lunch
     {
         public int CountStudents(int[] students, int[] sandwiches)
         {

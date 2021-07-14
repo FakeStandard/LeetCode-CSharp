@@ -20,15 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\1603.Design-parking-system\1603.Design-parking-system.csproj" />
-    <ProjectReference Include="..\1614.Maximum-nesting-depth-of-the-parentheses\1614.Maximum-nesting-depth-of-the-parentheses.csproj" />
-    <ProjectReference Include="..\1636.Sort-array-by-increasing-frequency\1636.Sort-array-by-increasing-frequency.csproj" />
-    <ProjectReference Include="..\1662.Check-if-two-string-arrays-are-equivalent\1662.Check-if-two-string-arrays-are-equivalent.csproj" />
-    <ProjectReference Include="..\1672.Richest-customer-wealth\1672.Richest-customer-wealth.csproj" />
-    <ProjectReference Include="..\1678.Goal-parser-interpretation\1678.Goal-parser-interpretation.csproj" />
-    <ProjectReference Include="..\1684.Count-the-number-of-consistent-strings\1684.Count-the-number-of-consistent-strings.csproj" />
-    <ProjectReference Include="..\1688.Count-of-matches-in-tournament\1688.Count-of-matches-in-tournament.csproj" />
-    <ProjectReference Include="..\1700.Number-of-students-unabled-to-eat-lunch\1700.Number-of-students-unabled-to-eat-lunch.csproj" />
     <ProjectReference Include="..\1716.Calculate-money-in-leetcode-bank\1716.Calculate-money-in-leetcode-bank.csproj" />
     <ProjectReference Include="..\1720.Decode-XORed-array\1720.Decode-XORed-array.csproj" />
     <ProjectReference Include="..\1748.Sum-of-unique-elements\1748.Sum-of-unique-elements.csproj" />

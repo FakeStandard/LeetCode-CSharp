@@ -1,12 +1,13 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using FluentAssertions;
+using Solution._1636.Sort_array_by_increasing_frequency;
 
 namespace _1636.Sort_array_by_increasing_frequency.Tests
 {
     [TestClass()]
     public class _1636_Sort_array_by_increasing_frequency_Test
     {
-        Solution s = new Solution();
+        _1636_Sort_array_by_increasing_frequency s = new _1636_Sort_array_by_increasing_frequency();
 
         [TestMethod()]
         public void FrequencySort_Test1()

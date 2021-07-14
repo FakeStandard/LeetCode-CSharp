@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1684.Count_the_number_of_consistent_strings
+namespace Solution._1684.Count_the_number_of_consistent_strings
 {
-    public class Solution
+    public class _1684_Count_the_number_of_consistent_strings
     {
         public int CountConsistentStrings(string allowed, string[] words)
         {

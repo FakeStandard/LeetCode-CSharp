@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1688.Count_of_matches_in_tournament;
+using Solution._1688.Count_of_matches_in_tournament;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1688.Count_of_matches_in_tournament.Tests
     [TestClass()]
     public class _1688_Count_of_matches_in_tournament_Test
     {
-        Solution solution = new Solution();
+        _1688_Count_of_matches_in_tournament solution = new _1688_Count_of_matches_in_tournament();
 
         [TestMethod()]
         public void NumberOfMatches_Test1()

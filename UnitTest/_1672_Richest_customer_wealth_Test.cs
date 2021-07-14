@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1672.Richest_customer_wealth;
+using Solution._1672.Richest_customer_wealth;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1672.Richest_customer_wealth.Tests
     [TestClass()]
     public class _1672_Richest_customer_wealth_Test
     {
-        Solution s = new Solution();
+        _1672_Richest_customer_wealth s = new _1672_Richest_customer_wealth();
 
         [TestMethod()]
         public void MaximumWealth_Test1()

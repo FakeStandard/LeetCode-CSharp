@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1662.Check_if_two_string_arrays_are_equivalent
+namespace Solution._1662.Check_if_two_string_arrays_are_equivalent
 {
-    public class Solution
+    public class _1662_Check_if_two_string_arrays_are_equivalent
     {
         public bool ArrayStringsAreEqual(string[] word1, string[] word2)
         {

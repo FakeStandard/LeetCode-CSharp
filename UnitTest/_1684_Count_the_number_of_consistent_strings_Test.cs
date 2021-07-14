@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1684.Count_the_number_of_consistent_strings;
+using Solution._1684.Count_the_number_of_consistent_strings;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1684.Count_the_number_of_consistent_strings.Tests
     [TestClass()]
     public class _1684_Count_the_number_of_consistent_strings_Test
     {
-        Solution solution = new Solution();
+        _1684_Count_the_number_of_consistent_strings solution = new _1684_Count_the_number_of_consistent_strings();
 
         [TestMethod()]
         public void CountConsistentStrings_Test1()

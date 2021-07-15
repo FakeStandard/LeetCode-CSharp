@@ -61,6 +61,7 @@
 | 0392 | [Is Subsequence](/Solution/0392.Is-subsequence/) | Enumeration | [IsSubsequence](/Solution/0392.Is-subsequence/0392-Is-subsequence.cs/) | Easy | [:bulb:](/UnitTest/_0392_Is_subsequence_Test.cs/) |
 | 0404 | [Sum of Left Leaves](/Solution/0404.Sum-of-left-leaves/) | Binary Tree | [SumOfLeftLeaves](/Solution/0404.Sum-of-left-leaves/0404-Sum-of-left-leaves.cs/) | Easy |
 | 0509 | [Fibonacci Number](/Solution/0509.Fibonacci-number/) | Fibonacci, Iteration, Recursion | [Fib](/Solution/0509.Fibonacci-number/0509-Fibonacci-number.cs/) | Easy | [:bulb:](/UnitTest/_0509_Fibonacci_number_Test.cs/) |
+| 0611 | [Valid Triangle Number](/Solution/0611.Valid-triangel-number/) |  | [](/Solution/0611.Valid-triangel-number/0611-Valid-triangle-number.cs/) | Medium | [:bulb:](/UnitTest//) |
 | 0617 | [Merge Two Binary Trees](/Solution/0617.Merge-two-binary-trees/) | Binary Tree | [MergeTrees](/Solution/0617.Merge-two-binary-trees/0617-Merge-two-binary-trees.cs/) | Easy |
 | 0682 | [Baseball Game](/Solution/0682.Baseball-game/) | Stack | [CalPoints](/Solution/0682.Baseball-game/0682-Baseball-game.cs/) | Easy | [:bulb:](/UnitTest/_0682_Baseball_game_Test.cs/) |
 | 0700 | [Search in a Binary Search Tree](/Solution/0700.Search-in-a-inary-search-tree/) | Binary Tree | [SearchBST](/Solution/0700.Search-in-a-inary-search-tree/0700-Search-in-a-inary-search-tree.cs/) | Easy |

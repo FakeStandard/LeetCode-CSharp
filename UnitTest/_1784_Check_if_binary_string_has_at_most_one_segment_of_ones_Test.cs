@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1784.Check_if_binary_string_has_at_most_one_segment_of_ones;
+using Solution._1784.Check_if_binary_string_has_at_most_one_segment_of_ones;
 
 namespace _1784.Check_if_binary_string_has_at_most_one_segment_of_ones.Tests
 {
     [TestClass()]
     public class _1784_Check_if_binary_string_has_at_most_one_segment_of_ones_Test
     {
-        Solution solution = new Solution();
+        _1784_Check_if_binary_string_has_at_most_one_segment_of_ones solution = new _1784_Check_if_binary_string_has_at_most_one_segment_of_ones();
 
         [TestMethod()]
         public void CheckOnesSegment_Test1()

@@ -1,13 +1,13 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using FluentAssertions;
-using _1720.Decode_XORed_array;
+using Solution._1720.Decode_XORed_array;
 
 namespace _1720.Decode_XORed_array.Tests
 {
     [TestClass()]
     public class _1720_Decode_XORed_array_Test
     {
-        Solution s = new Solution();
+        _1720_Decode_XORed_array s = new _1720_Decode_XORed_array();
 
         [TestMethod()]
         public void Decode_Test1()

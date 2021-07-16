@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1716.Calculate_money_in_leetcode_bank;
+using Solution._1716.Calculate_money_in_leetcode_bank;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1716.Calculate_money_in_leetcode_bank.Tests
     [TestClass()]
     public class _1716_Calculate_money_in_leetcode_bank_Test
     {
-        Solution solution = new Solution();
+        _1716_Calculate_money_in_leetcode_bank solution = new _1716_Calculate_money_in_leetcode_bank();
 
         [TestMethod()]
         public void TotalMoney_Test1()

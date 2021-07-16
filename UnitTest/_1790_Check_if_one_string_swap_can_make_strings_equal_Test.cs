@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1790.Check_if_one_string_swap_can_make_strings_equal;
+using Solution._1790.Check_if_one_string_swap_can_make_strings_equal;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1790.Check_if_one_string_swap_can_make_strings_equal.Tests
     [TestClass()]
     public class _1790_Check_if_one_string_swap_can_make_strings_equal_Test
     {
-        Solution solution = new Solution();
+        _1790_Check_if_one_string_swap_can_make_strings_equal solution = new _1790_Check_if_one_string_swap_can_make_strings_equal();
 
         [TestMethod()]
         public void AreAlmostEqual_Test1()

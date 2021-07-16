@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1773.Count_items_matching_a_rule;
+using Solution._1773.Count_items_matching_a_rule;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1773.Count_items_matching_a_rule.Tests
     [TestClass()]
     public class _1773_Count_items_matching_a_rule_Test
     {
-        Solution s = new Solution();
+        _1773_Count_items_matching_a_rule s = new _1773_Count_items_matching_a_rule();
 
         [TestMethod()]
         public void CountMatches_Test1()

@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1796.Second_largest_digit_in_a_string;
+using Solution._1796.Second_largest_digit_in_a_string;
 
 namespace _1796.Second_largest_digit_in_a_string.Tests
 {
     [TestClass()]
     public class _1796_Second_largest_digit_in_a_string_Test
     {
-        Solution solution = new Solution();
+        _1796_Second_largest_digit_in_a_string solution = new _1796_Second_largest_digit_in_a_string();
 
         [TestMethod()]
         public void SecondHighest_Test1()

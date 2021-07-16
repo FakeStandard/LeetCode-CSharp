@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1790.Check_if_one_string_swap_can_make_strings_equal
+namespace Solution._1790.Check_if_one_string_swap_can_make_strings_equal
 {
-    public class Solution
+    public class _1790_Check_if_one_string_swap_can_make_strings_equal
     {
         public bool AreAlmostEqual(string s1, string s2)
         {

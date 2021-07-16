@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1748.Sum_of_unique_elements;
+using Solution._1748.Sum_of_unique_elements;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1748.Sum_of_unique_elements.Tests
     [TestClass()]
     public class _1748_Sum_of_unique_element_Test
     {
-        Solution solution = new Solution();
+        _1748_Sum_of_unique_elements solution = new _1748_Sum_of_unique_elements();
 
         [TestMethod()]
         public void SumOfUnique_Test1()

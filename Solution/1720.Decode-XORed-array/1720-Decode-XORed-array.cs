@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1720.Decode_XORed_array
+namespace Solution._1720.Decode_XORed_array
 {
-    public class Solution
+    public class _1720_Decode_XORed_array
     {
         public int[] Decode(int[] encoded, int first)
         {

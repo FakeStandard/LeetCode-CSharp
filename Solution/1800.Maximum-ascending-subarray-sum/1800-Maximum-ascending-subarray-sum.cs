@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1800.Maximum_ascending_subarray_sum
+namespace Solution._1800.Maximum_ascending_subarray_sum
 {
-    public class Solution
+    public class _1800_Maximum_ascending_subarray_sum
     {
         public int MaxAscendingSum(int[] nums)
         {

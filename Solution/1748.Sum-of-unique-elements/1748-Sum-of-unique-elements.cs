@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1748.Sum_of_unique_elements
+namespace Solution._1748.Sum_of_unique_elements
 {
-    public class Solution
+    public class _1748_Sum_of_unique_elements
     {
         public int SumOfUnique(int[] nums)
         {
             Dictionary<int, bool> dic = new Dictionary<int, bool>();
 
-            foreach(var num in nums)
+            foreach (var num in nums)
             {
                 if (dic.ContainsKey(num))
                     dic[num] = false;
@@ -19,7 +20,7 @@ namespace _1748.Sum_of_unique_elements
 
             int sum = 0;
 
-            foreach(var item in dic)
+            foreach (var item in dic)
             {
                 if (item.Value)
                     sum += item.Key;

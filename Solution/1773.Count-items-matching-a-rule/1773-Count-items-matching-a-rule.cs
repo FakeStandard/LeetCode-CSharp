@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1773.Count_items_matching_a_rule
+namespace Solution._1773.Count_items_matching_a_rule
 {
-    public class Solution
+    public class _1773_Count_items_matching_a_rule
     {
         public int CountMatches(IList<IList<string>> items, string ruleKey, string ruleValue)
         {

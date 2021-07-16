@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1800.Maximum_ascending_subarray_sum;
+using Solution._1800.Maximum_ascending_subarray_sum;
 
 namespace _1800.Maximum_ascending_subarray_sum.Tests
 {
     [TestClass()]
     public class _1800_Maximum_ascending_subarray_sum_Test
     {
-        Solution solution = new Solution();
+        _1800_Maximum_ascending_subarray_sum solution = new _1800_Maximum_ascending_subarray_sum();
 
         [TestMethod()]
         public void MaxAscendingSum_Test1()

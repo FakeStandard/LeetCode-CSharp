@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1784.Check_if_binary_string_has_at_most_one_segment_of_ones</RootNamespace>
-  </PropertyGroup>
-
-</Project>

@@ -1,4 +1,4 @@
-# 1790. Check if One String Swap Can Make Strings Equal
+# 1784. Check if Binary String Has at Most One Segment of Ones
 Given a binary string `s` **​​​​​without leading zeros**, return `true`​​​ *if `s` contains **at most one contiguous segment of ones**. Otherwise, return `false`.*
 
 ### Example 1:

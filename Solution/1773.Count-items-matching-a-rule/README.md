@@ -1,4 +1,4 @@
-# 0897. Increasing Order Search Tree
+# 1173. Count Items Matching a Rule
 You are given an array `items`, where each `items[i] = [typei, colori, namei]` describes the type, color, and name of the `ith` item. You are also given a rule represented by two strings, `ruleKey` and `ruleValue`.
 
 The `ith` item is said to match the rule if **one** of the following is true:

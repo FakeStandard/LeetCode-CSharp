@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _1805.Number_of_different_integers_in_a_string
+namespace Solution._1805.Number_of_different_integers_in_a_string
 {
-    public class Solution
+    public class _1805_Number_of_different_integers_in_a_string
     {
         public int NumDifferentIntegers(string word)
         {

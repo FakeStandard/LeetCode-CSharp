@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1823.Find_the_winner_of_the_circular_game
+namespace Solution._1823.Find_the_winner_of_the_circular_game
 {
-    public class Solution
+    public class _1823_Find_the_winner_of_the_circular_game
     {
         public int FindTheWinner(int n, int k)
         {

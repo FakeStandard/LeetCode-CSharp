@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1805.Number_of_different_integers_in_a_string;
+using Solution._1805.Number_of_different_integers_in_a_string;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1805.Number_of_different_integers_in_a_string.Tests
     [TestClass()]
     public class _1805_Number_of_different_integers_in_a_string_Test
     {
-        Solution solution = new Solution();
+        _1805_Number_of_different_integers_in_a_string solution = new _1805_Number_of_different_integers_in_a_string();
 
         [TestMethod()]
         public void NumDifferentIntegers_Test1()

@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1827.Minimum_operations_to_make_the_array_increasing;
+using Solution._1827.Minimum_operations_to_make_the_array_increasing;
 
 namespace _1827.Minimum_operations_to_make_the_array_increasing.Tests
 {
     [TestClass()]
     public class _1827_Minimum_operations_to_make_the_array_increasing_Test
     {
-        Solution solution = new Solution();
+        _1827_Minimum_operations_to_make_the_array_increasing solution = new _1827_Minimum_operations_to_make_the_array_increasing();
 
         [TestMethod()]
         public void MinOperations_Test1()

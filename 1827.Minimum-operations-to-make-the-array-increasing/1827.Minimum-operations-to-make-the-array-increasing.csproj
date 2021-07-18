@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1827.Minimum_operations_to_make_the_array_increasing</RootNamespace>
-  </PropertyGroup>
-
-</Project>

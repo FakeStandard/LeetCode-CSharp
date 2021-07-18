@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1822.Sign_of_the_product_of_an_array
+namespace Solution._1822.Sign_of_the_product_of_an_array
 {
-    public class Solution
+    public class _1822_Sign_of_the_product_of_an_array
     {
         public int ArraySign(int[] nums)
         {

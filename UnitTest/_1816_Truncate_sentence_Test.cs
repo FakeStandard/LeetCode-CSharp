@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1816.Truncate_sentence;
+using Solution._1816.Truncate_sentence;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1816.Truncate_sentence.Tests
     [TestClass()]
     public class _1816_Truncate_sentence_Test
     {
-        Solution solution = new Solution();
+        _1816_Truncate_sentence solution = new _1816_Truncate_sentence();
 
         [TestMethod()]
         public void TruncateSentence_Test1()

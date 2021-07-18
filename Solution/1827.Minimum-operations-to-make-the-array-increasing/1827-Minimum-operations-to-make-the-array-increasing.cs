@@ -1,14 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1827.Minimum_operations_to_make_the_array_increasing
+namespace Solution._1827.Minimum_operations_to_make_the_array_increasing
 {
-    public class Solution
+    public class _1827_Minimum_operations_to_make_the_array_increasing
     {
         public int MinOperations(int[] nums)
         {
             int count = 0;
 
-            for(int i = 1; i < nums.Length; i++)
+            for (int i = 1; i < nums.Length; i++)
             {
                 if (nums[i - 1] >= nums[i])
                 {

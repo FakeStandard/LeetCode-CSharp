@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1823.Find_the_winner_of_the_circular_game;
+using Solution._1823.Find_the_winner_of_the_circular_game;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1823.Find_the_winner_of_the_circular_game.Tests
     [TestClass()]
     public class _1823_Find_the_winner_of_the_circular_game_Test
     {
-        Solution solution = new Solution();
+        _1823_Find_the_winner_of_the_circular_game solution = new _1823_Find_the_winner_of_the_circular_game();
 
         [TestMethod()]
         public void FindTheWinner_Test1()

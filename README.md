@@ -50,6 +50,7 @@
 | 0231 | [Power of Two](/Solution/0231.Power-of-two/) | Shift(&) Operator | [IsPowerOfTwo](/Solution/0231.Power-of-two/0231-Power-of-two.cs/) | Easy | [:bulb:](/UnitTest/_0231_Power_of_two_Test.cs/) |
 | 0232 | [Contains Duplicate II](/Solution/0232.Implement-queue-using-stacks/) | Queue, Stack | [MyQueue](/Solution/0232.Implement-queue-using-stacks/0232-Implement-queue-using-stacks.cs/) | Easy |
 | 0234 | [Palindrome Linked List](/Solution/0234.Palindrome-linked-list/) | Stack, Linked List | [IsPalindrome](/Solution/0234.Palindrome-linked-list/0234-Palindrome-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0234_Palindrome_linked_list_Test.cs/) |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](/Solution/0235.Lowest-common-ancestor-of-a-binary-search-tree/) | TreeNode, Iteration, Recursion | [LowestCommonAncestor](/Solution/0235.Lowest-common-ancestor-of-a-binary-search-tree/0235-Lowest-common-ancestor-of-a-binary-search-tree.cs/) | Easy |
 | 0237 | [Delete Node in a Linked List](/Solution/0237.Delete-node-in-a-linked-list/) | Linked List | [DeleteNode](/Solution/0237.Delete-node-in-a-linked-list/0237-Delete-node-in-a-linked-list.cs/) | Easy |
 | 0242 | [Valid Anagram](/Solution/0242.Valid-anagram/) | Array | [IsAnagram](/Solution/0242.Valid-anagram/0242-Valid-anagram.cs/) | Easy | [:bulb:](/UnitTest/_0242_Valid_anagram_Test.cs/) |
 | 0257 | [Binary Tree Paths](/Solution/0257.Binary-tree-paths/) | Binary Tree | [BinaryTreePaths](/Solution/0257.Binary-tree-paths/0257-Binary-tree-paths.cs/) | Easy |

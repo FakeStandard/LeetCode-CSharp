@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1832.Check_if_the_sentence_is_pangram
+namespace Solution._1832.Check_if_the_sentence_is_pangram
 {
-    public class Solution
+    public class _1832_Check_if_the_sentence_is_pangram
     {
         public bool CheckIfPangram(string sentence)
         {

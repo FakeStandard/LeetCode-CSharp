@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1837.Sum_of_digits_in_base_K</RootNamespace>
-  </PropertyGroup>
-
-</Project>

@@ -20,11 +20,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\0118.Pascal's-triangle\0118.Pascal's-triangle.csproj" />
-    <ProjectReference Include="..\1832.Check-if-the-sentence-is-pangram\1832.Check-if-the-sentence-is-pangram.csproj" />
-    <ProjectReference Include="..\1837.Sum-of-digits-in-base-K\1837.Sum-of-digits-in-base-K.csproj" />
-    <ProjectReference Include="..\1839.Longest-substring-of-all-vowels-in-order\1839.Longest-substring-of-all-vowels-in-order.csproj" />
-    <ProjectReference Include="..\1844.Replace-all-digits-with-characters\1844.Replace-all-digits-with-characters.csproj" />
-    <ProjectReference Include="..\1848.Minimum-distance-to-the-target-element\1848.Minimum-distance-to-the-target-element.csproj" />
     <ProjectReference Include="..\1859.Sorting-the-sentence\1859.Sorting-the-sentence.csproj" />
     <ProjectReference Include="..\1869.Longer-contiguous-segments-of-ones-than-zeros\1869.Longer-contiguous-segments-of-ones-than-zeros.csproj" />
     <ProjectReference Include="..\1876.Substrings-of-size-three-with-distinct-characters\1876.Substrings-of-size-three-with-distinct-characters.csproj" />

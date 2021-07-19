@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
-namespace _1839.Longest_substring_of_all_vowels_in_order
+namespace Solution._1839.Longest_substring_of_all_vowels_in_order
 {
-    public class Solution
+    public class _1839_Longest_substring_of_all_vowels_in_order
     {
         public int LongestBeautifulSubstring(string word)
         {

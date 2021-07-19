@@ -1,11 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Solution._1832.Check_if_the_sentence_is_pangram;
 
 namespace _1832.Check_if_the_sentence_is_pangram.Tests
 {
     [TestClass()]
     public class _1832_Check_if_the_sentence_is_pangram_Test
     {
-        Solution solution = new Solution();
+        _1832_Check_if_the_sentence_is_pangram solution = new _1832_Check_if_the_sentence_is_pangram();
 
         [TestMethod()]
         public void CheckIfPangram_Test1()

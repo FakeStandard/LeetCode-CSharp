@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1844.Replace_all_digits_with_characters</RootNamespace>
-  </PropertyGroup>
-
-</Project>

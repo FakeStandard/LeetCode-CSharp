@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1839.Longest_substring_of_all_vowels_in_order;
+using Solution._1839.Longest_substring_of_all_vowels_in_order;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1839.Longest_substring_of_all_vowels_in_order.Tests
     [TestClass()]
     public class _1839_Longest_substring_of_all_vowels_in_order_Test
     {
-        Solution solution = new Solution();
+        _1839_Longest_substring_of_all_vowels_in_order solution = new _1839_Longest_substring_of_all_vowels_in_order();
    
         [TestMethod()]
         public void LongestBeautifulSubstring_Test1()

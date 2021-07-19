@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1844.Replace_all_digits_with_characters;
+using Solution._1844.Replace_all_digits_with_characters;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1844.Replace_all_digits_with_characters.Tests
     [TestClass()]
     public class _1844_Replace_all_digits_with_characters_Test
     {
-        Solution solution = new Solution();
+        _1844_Replace_all_digits_with_characters solution = new _1844_Replace_all_digits_with_characters();
 
         [TestMethod()]
         public void ReplaceDigits_Test1()

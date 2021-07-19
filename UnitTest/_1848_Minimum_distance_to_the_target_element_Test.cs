@@ -1,11 +1,11 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1848.Minimum_distance_to_the_target_element;
+using Solution._1848.Minimum_distance_to_the_target_element;
 namespace _1848.Minimum_distance_to_the_target_element.Tests
 {
     [TestClass()]
     public class _1848_Minimum_distance_to_the_target_element_Test
     {
-        Solution solution = new Solution();
+        _1848_Minimum_distance_to_the_target_element solution = new _1848_Minimum_distance_to_the_target_element();
 
         [TestMethod()]
         public void GetMinDistance_Test1()

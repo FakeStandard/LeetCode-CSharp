@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _1837.Sum_of_digits_in_base_K
+namespace Solution._1837.Sum_of_digits_in_base_K
 {
-    public class Solution
+    public class _1837_Sum_of_digits_in_base_K
     {
         public int SumBase(int n, int k)
         {

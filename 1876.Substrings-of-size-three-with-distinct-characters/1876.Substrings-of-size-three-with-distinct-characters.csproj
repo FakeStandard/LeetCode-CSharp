@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1876.Substrings_of_size_three_with_distinct_characters</RootNamespace>
-  </PropertyGroup>
-
-</Project>

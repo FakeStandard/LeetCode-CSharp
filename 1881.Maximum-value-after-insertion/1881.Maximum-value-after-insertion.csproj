@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>_1881.Maximum_value_after_insertion</RootNamespace>
-  </PropertyGroup>
-
-</Project>

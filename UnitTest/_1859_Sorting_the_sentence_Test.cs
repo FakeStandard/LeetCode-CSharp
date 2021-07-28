@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1859.Sorting_the_sentence;
+using Solution._1859.Sorting_the_sentence;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1859.Sorting_the_sentence.Tests
     [TestClass()]
     public class _1859_Sorting_the_sentence_Test
     {
-        Solution s = new Solution();
+        _1859_Sorting_the_sentence s = new _1859_Sorting_the_sentence();
 
         [TestMethod()]
         public void SortSentence_Test1()

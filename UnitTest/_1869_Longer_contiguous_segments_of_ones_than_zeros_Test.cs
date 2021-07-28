@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1869.Longer_contiguous_segments_of_ones_than_zeros;
+using Solution._1869.Longer_contiguous_segments_of_ones_than_zeros;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -9,7 +9,7 @@ namespace _1869.Longer_contiguous_segments_of_ones_than_zeros.Tests
     [TestClass()]
     public class _1869_Longer_contiguous_segments_of_ones_than_zeros_Test
     {
-        Solution solution = new Solution();
+        _1869_Longer_contiguous_segments_of_ones_than_zeros solution = new _1869_Longer_contiguous_segments_of_ones_than_zeros();
 
         [TestMethod()]
         public void CheckZeroOnes_Test1()

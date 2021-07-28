@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _1881.Maximum_value_after_insertion;
+using Solution._1881.Maximum_value_after_insertion;
 
 namespace _1881.Maximum_value_after_insertion.Tests
 {
     [TestClass()]
     public class _1881_Maximum_value_after_insertion_Test
     {
-        Solution solution = new Solution();
+        _1881_Maximum_value_after_insertion solution = new _1881_Maximum_value_after_insertion();
 
         [TestMethod()]
         public void MaxValue_Test1()

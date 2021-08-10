@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0025.Reverse_nodes_in_k_group.Tests
+namespace _0025.Reverse_nodes_in_k_group.Tests
 {
     [TestClass()]
     public class _0025_Reverse_nodes_in_k_group_Test

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0016._3Sum_closest.Tests
+namespace _0016._3Sum_closest.Tests
 {
     [TestClass()]
     public class _0016_3Sum_Closest_Test

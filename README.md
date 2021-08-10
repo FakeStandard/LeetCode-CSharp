@@ -63,6 +63,7 @@
 | 0389 | [Find the Difference](/Solution/0389.Find-the-difference/) | XOR | [FindTheDifference](/Solution/0389.Find-the-difference/0389-Find-the-difference.cs/) | Easy | [:bulb:](/UnitTest/_0389_Find_the_difference_Test.cs/) |
 | 0392 | [Is Subsequence](/Solution/0392.Is-subsequence/) | Enumeration | [IsSubsequence](/Solution/0392.Is-subsequence/0392-Is-subsequence.cs/) | Easy | [:bulb:](/UnitTest/_0392_Is_subsequence_Test.cs/) |
 | 0404 | [Sum of Left Leaves](/Solution/0404.Sum-of-left-leaves/) | Binary Tree | [SumOfLeftLeaves](/Solution/0404.Sum-of-left-leaves/0404-Sum-of-left-leaves.cs/) | Easy |
+| 0415 | [Add Strings](/Solution/0415.Add-strings/) | StringBuilder | [AddStrings](/Solution/0415.Add-strings/0415-Add-strings.cs/) | Easy | [:bulb:](/UnitTest/_0415_Add_strings_Test.cs.cs/) |
 | 0509 | [Fibonacci Number](/Solution/0509.Fibonacci-number/) | Fibonacci, Iteration, Recursion | [Fib](/Solution/0509.Fibonacci-number/0509-Fibonacci-number.cs/) | Easy | [:bulb:](/UnitTest/_0509_Fibonacci_number_Test.cs/) |
 | 0611 | [Valid Triangle Number](/Solution/0611.Valid-triangel-number/) | Iteration, Binary Search | [TriangleNumber](/Solution/0611.Valid-triangel-number/0611-Valid-triangle-number.cs/) | Medium | [:bulb:](/UnitTest/_0611_Valid_triangle_number_Test.cs/) |
 | 0617 | [Merge Two Binary Trees](/Solution/0617.Merge-two-binary-trees/) | Binary Tree | [MergeTrees](/Solution/0617.Merge-two-binary-trees/0617-Merge-two-binary-trees.cs/) | Easy |

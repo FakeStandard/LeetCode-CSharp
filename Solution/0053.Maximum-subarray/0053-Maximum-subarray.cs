@@ -8,18 +8,17 @@ namespace Solution._0053.Maximum_subarray
     {
         public int MaxSubArray(int[] nums)
         {
-            int max = int.MinValue;
+            int max = nums[0];
             int sum = 0;
 
             for (int i = 0; i < nums.Length; i++)
             {
-                sum = 0;
-                for (int j = i; j < nums.Length; j++)
-                {
-                    sum += nums[j];
-                    if (sum > max)
-                        max = sum;
-                }
+                sum += nums[i];
+
+                if (nums[i] > sum)
+                    sum = nums[i];
+                if (sum > max)
+                    max = sum;
             }
 
             return max;

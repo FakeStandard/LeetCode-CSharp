@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _2239.Find_Closest_Number_to_Zero
+namespace Solution._2239.Find_Closest_Number_to_Zero
 {
     public class _2239_Find_Closest_Number_to_Zero
     {

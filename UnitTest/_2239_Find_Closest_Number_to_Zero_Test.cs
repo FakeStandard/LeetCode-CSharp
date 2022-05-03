@@ -1,10 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using _2239.Find_Closest_Number_to_Zero;
+using Solution._2239.Find_Closest_Number_to_Zero;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._2239.Find_Closest_Number_to_Zero.Tests
+namespace _2239.Find_Closest_Number_to_Zero.Tests
 {
     [TestClass()]
     public class _2239_Find_Closest_Number_to_Zero_Test

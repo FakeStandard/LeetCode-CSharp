@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace _2248.Intersection_of_Multiple_Arrays
+namespace Solution._2248.Intersection_of_Multiple_Arrays
 {
     public class _2248_Intersection_of_Multiple_Arrays
     {

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "846887af-24b1-4125-a75f-058b3759e483": {
+      "ProjectGuid": "846887af-24b1-4125-a75f-058b3759e483",
+      "DisplayName": "0202.Happy-number",
+      "ColorIndex": 0
+    },
+    "a66ce266-2e83-4602-bf4a-e94bc5d37297": {
+      "ProjectGuid": "a66ce266-2e83-4602-bf4a-e94bc5d37297",
+      "DisplayName": "UnitTest",
+      "ColorIndex": 1
+    },
+    "576daeb7-1b19-4485-8559-f0216b3e666e": {
+      "ProjectGuid": "576daeb7-1b19-4485-8559-f0216b3e666e",
+      "DisplayName": "Solution",
+      "ColorIndex": 2
+    },
+    "e88f628f-d0a9-4e0a-9851-fa7d1be29a8f": {
+      "ProjectGuid": "e88f628f-d0a9-4e0a-9851-fa7d1be29a8f",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

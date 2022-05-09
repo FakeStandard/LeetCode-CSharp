@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0141.Linked_list_cycle.Tests
+namespace _0141.Linked_list_cycle.Tests
 {
     [TestClass()]
     public class _0141_Linked_list_cycle_Test

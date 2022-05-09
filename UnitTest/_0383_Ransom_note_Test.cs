@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0383.Ransom_note.Tests
+namespace _0383.Ransom_note.Tests
 {
     [TestClass()]
     public class _0383_Ransom_note_Test

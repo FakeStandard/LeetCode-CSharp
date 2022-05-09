@@ -9,7 +9,7 @@ namespace Solution._0021.Merge_two_sorted_lists
     {
         public ListNode MergeTwoLists(ListNode l1, ListNode l2)
         {
-            if (l1 == null || l2 == null) return l1 == null ? l2 : l1;
+            if (l1 == null || l2 == null) return l1 ?? l2;
 
             ListNode res = new ListNode(), cur = res;
 
@@ -29,7 +29,7 @@ namespace Solution._0021.Merge_two_sorted_lists
                 cur = cur.next;
             }
 
-            cur.next = l1 == null ? l2 : l1;
+            cur.next = l1 ?? l2;
 
             return res.next;
         }

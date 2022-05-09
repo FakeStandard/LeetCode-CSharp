@@ -17,9 +17,9 @@ namespace _0203.Remove_linked_list_elements.Tests
         public void RemoveElements_Test1()
         {
             // Arrange
-            ListNode head = AddNode(new int[] { 1, 2, 6, 3, 4, 5, 6 });
+            ListNode head = new ListNode().AddNode(new int[] { 1, 2, 6, 3, 4, 5, 6 });
             int val = 6;
-            var expected = AddNode(new int[] { 1, 2, 3, 4, 5 });
+            var expected = new ListNode().AddNode(new int[] { 1, 2, 3, 4, 5 });
 
             // Act
             var actual = solution.RemoveElements(head, val);
@@ -34,9 +34,9 @@ namespace _0203.Remove_linked_list_elements.Tests
         public void RemoveElements_Test2()
         {
             // Arrange
-            ListNode head = AddNode(new int[] { });
+            ListNode head = new ListNode().AddNode(new int[] { });
             int val = 1;
-            var expected = AddNode(new int[] { });
+            var expected = new ListNode().AddNode(new int[] { });
 
             // Act
             var actual = solution.RemoveElements(head, val);
@@ -51,7 +51,7 @@ namespace _0203.Remove_linked_list_elements.Tests
         public void RemoveElements_Test3()
         {
             // Arrange
-            ListNode head = AddNode(new int[] { 7, 7, 7, 7 });
+            ListNode head = new ListNode().AddNode(new int[] { 7, 7, 7, 7 });
             int val = 7;
             ListNode expected = null;
 
@@ -62,25 +62,6 @@ namespace _0203.Remove_linked_list_elements.Tests
             //Assert.ReferenceEquals(expected, actual);
 
             actual.Should().BeEquivalentTo(expected);
-        }
-
-        private ListNode AddNode(int[] arr)
-        {
-            if (arr.Length <= 0)
-                return new ListNode();
-
-            ListNode res = new ListNode(arr[0]);
-            ListNode current = res;
-
-            for (int i = 1; i < arr.Length; i++)
-            {
-                ListNode newNode = new ListNode(arr[i]);
-
-                current.next = newNode;
-                current = current.next;
-            }
-
-            return res;
         }
     }
 }

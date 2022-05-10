@@ -17,6 +17,7 @@
 | 0027 | [Remove Element](/Solution/0027.Remove-element/) | Array, Iteration | [RemoveElement](/Solution/0027.Remove-element/0027-Remove-element.cs/) | Easy | [:bulb:](/UnitTest/_0027_Remove_element_Test.cs/) |
 | 0028 | [Implement strStr()](/Solution/0028.Implement-strStr/) | string.Contains | [StrStr](/Solution/0028.Implement-strStr/0028-Implement-strStr.cs/) | Easy | [:bulb:](/UnitTest/_0028_Implement_strStr_Test.cs/) |
 | 0032 | [Longest Valid Parentheses](/Solution/0032.Longest-valid-parentheses/) | Stack | [LongestValidParentheses](/Solution/0032.Longest-valid-parentheses/0032-Longest-valid-parentheses.cs/) | Hard | [:bulb:](/UnitTest/_0032_Longest_valid_parentheses_Test.cs/) |
+| 0036 |
 | 0035 | [Search Insert Position](/Solution/0035.Search-insert-position/) | Binary Search | [SearchInsert](/Solution/0035.Search-insert-position/0035-Search-insert-position.cs/) | Easy | [:bulb:](/UnitTest/_0035_Search_insert_position_Test.cs/) |
 | 0053 | [Maximum Subarray](/Solution/0053.Maximum-subarray/) | Array, Iteration | [MaxSubArray](/Solution/0053.Maximum-subarray/0053-Maximum-subarray.cs/) | Easy | [:bulb:](/UnitTest/_0053_Maximum_subarray_Test.cs/) |
 | 0058 | [Length of Last Word](/Solution/0058.Length-of-last-word/) | string.Split | [LengthOfLastWord](/Solution/0058.Length-of-last-word/0058-Length-of-last-word.cs/) | Easy | [:bulb:](/UnitTest/_0058_Length_of_last_word_Test.cs/) |
@@ -24,14 +25,19 @@
 | 0067 | [Add Binary](/Solution/0067.Add-binary/) | Binary | [AddBinary](/Solution/0067.Add-binary/0067-Add-binary.cs/) | Easy | [:bulb:](/UnitTest/_0067_Add_binary_Test.cs/) |
 | 0069 | [Sqrt(x)](/Solution/0069.Sqrt-x/) | Enumeration | [MySqrt](/Solution/0069.Sqrt-x/0069-Sqrt-x.cs/) | Easy | [:bulb:](/UnitTest/_0069_Sqrt_x_Test.cs/) |
 | 0070 | [Climbing Stairs](/Solution/0070.Climbing-stairs/) | Fibonacci, DPA | [ClimbStairs](/Solution/0070.Climbing-stairs/0070-Climbing-stairs.cs/) | Easy | [:bulb:](/UnitTest/_0070_Climbing_stairs_Test.cs/) |
+| 0074 |
 | 0083 | [Remove Duplicates from Sorted List](/Solution/0083.Remove-duplicates-from-sorted-list/) | Linked List | [DeleteDuplicates](/Solution/0083.Remove-duplicates-from-sorted-list/0083-Remove-duplicates-from-sorted-list.cs/) | Easy | [:bulb:](/UnitTest/_0083_Remove_duplicates_from_sorted_list_Test.cs/) |
 | 0088 | [Merge Sorted Array](/Solution/0088.Merge-sorted-array/) | Iteration, Array.Sort | [Merge](/Solution/0088.Merge-sorted-array/0088-Merge-sorted-array.cs/) | Easy |
 | 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Binary Tree, Inorder Traversal | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
 | 0100 | [Same Tree](/Solution/0100.Same-tree/) | Binary Tree | [IsSameTree](/Solution/0100.Same-tree/0100-Same-tree.cs/) | Easy |
+| 0104 |
+| 0112 |
 | 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Binary Tree | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |
+| 0118 |
 | 0121 | [Best Time to Buy and Sell Stock](/Solution/0121.Best-time-to-buy-and-shell-stock/) | Math | [MaxProfit](/Solution/0121.Best-time-to-buy-and-shell-stock/0121-Best-time-to-buy-and-shell-stock.cs/) | Easy | [:bulb:](/UnitTest/_0121_Bset_time_to_buy_and_shell_stock_Test.cs/) |
 | 0125 | [Valid Palindrome](/Solution/0125.Valid-palindrome/) | Binary Search | [IsPalindrome](/Solution/0125.Valid-palindrome/0125-Valid-palindrome.cs/) | Easy | [:bulb:](/UnitTest/_0125_Valid_palindrome_Test.cs/) |
 | 0136 | [Single Number](/Solution/0136.Single-number/) | XOR | [SingleNumber](/Solution/0136.Single-number/0136-Single-number.cs/) | Easy | [:bulb:](/UnitTest/_0136_Single_number_Test.cs/) |
+| 0141 |
 | 0144 | [Binary Tree Preorder Traversal](/Solution/0144.Binary-tree-preorder-traversal/) | Binary Tree | [PreorderTraversal](/Solution/0144.Binary-tree-preorder-traversal/0144-Binary-tree-preorder-traversal.cs/) | Easy |
 | 0145 | [Binary Tree Postorder Traversal](/Solution/0145.Binary-tree-postorder-traversal/) | Binary Tree | [PostorderTraversal](/Solution/0145.Binary-tree-postorder-traversal/0145-Binary-tree-postorder-traversal.cs/) | Easy |
 | 0155 | [Min Stack](/Solution/0155.Min-stack/) | Stack | [MinStack](/Solution/0155.Min-stack/0155-Min-stack.cs/) | Easy |
@@ -59,12 +65,15 @@
 | 0283 | [Move Zeroes](/Solution/0283.Move-zeroes/) | Enumeration | [MoveZeroes](/Solution/0283.Move-zeroes/0283-Move-zeroes.cs/) | Easy |
 | 0326 | [Power of Three](/Solution/0326.Power-of-three/) | Remainder(%) Operator | [IsPowerOfThree](/Solution/0326.Power-of-three/0326-Power-of-three.cs/) | Easy | [:bulb:](/UnitTest/_0326_Power_of_three_Test.cs/) |
 | 0344 | [Reverse String](/Solution/0344.Reverse-string/) | Swap | [ReverseString](/Solution/0344.Reverse-string/0344-Reverse-string.cs/) | Easy |
+| 0350 |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](/Solution/0378.Kth-smallest-element-in-a-sorted-matrix/) | Binary Search, Matrix | [KthSmallest](/Solution/0378.Kth-smallest-element-in-a-sorted-matrix/0378-Kth-smallest-element-in-a-sorted-matrix.cs/) | Medium | [:bulb:](/UnitTest/_0378_Kth_smallest_element_in_a_sorted_matrix_Test.cs/) |
+| 0383 |
 | 0387 | [First Unique Character in a String](/Solution/0387.First-unique-character-in-a-string/) | Dictionary | [FirstUniqChar](/Solution/0387.First-unique-character-in-a-string/0387-First-unique-character-in-a-string.cs/) | Easy | [:bulb:](/UnitTest/_0387_First_unique_character_in_a_string_Test.cs/) |
 | 0389 | [Find the Difference](/Solution/0389.Find-the-difference/) | XOR | [FindTheDifference](/Solution/0389.Find-the-difference/0389-Find-the-difference.cs/) | Easy | [:bulb:](/UnitTest/_0389_Find_the_difference_Test.cs/) |
 | 0392 | [Is Subsequence](/Solution/0392.Is-subsequence/) | Enumeration | [IsSubsequence](/Solution/0392.Is-subsequence/0392-Is-subsequence.cs/) | Easy | [:bulb:](/UnitTest/_0392_Is_subsequence_Test.cs/) |
 | 0404 | [Sum of Left Leaves](/Solution/0404.Sum-of-left-leaves/) | Binary Tree | [SumOfLeftLeaves](/Solution/0404.Sum-of-left-leaves/0404-Sum-of-left-leaves.cs/) | Easy |
 | 0415 | [Add Strings](/Solution/0415.Add-strings/) | StringBuilder | [AddStrings](/Solution/0415.Add-strings/0415-Add-strings.cs/) | Easy | [:bulb:](/UnitTest/_0415_Add_strings_Test.cs/) |
+| 0500 |
 | 0509 | [Fibonacci Number](/Solution/0509.Fibonacci-number/) | Fibonacci, Iteration, Recursion | [Fib](/Solution/0509.Fibonacci-number/0509-Fibonacci-number.cs/) | Easy | [:bulb:](/UnitTest/_0509_Fibonacci_number_Test.cs/) |
 | 0611 | [Valid Triangle Number](/Solution/0611.Valid-triangel-number/) | Iteration, Binary Search | [TriangleNumber](/Solution/0611.Valid-triangel-number/0611-Valid-triangle-number.cs/) | Medium | [:bulb:](/UnitTest/_0611_Valid_triangle_number_Test.cs/) |
 | 0617 | [Merge Two Binary Trees](/Solution/0617.Merge-two-binary-trees/) | Binary Tree | [MergeTrees](/Solution/0617.Merge-two-binary-trees/0617-Merge-two-binary-trees.cs/) | Easy |
@@ -134,3 +143,10 @@
 | 1839 | [Longest Substring Of All Vowels in Order](/Solution/1839.Longest-substring-of-all-vowels-in-order/) | List | [LongestBeautifulSubstring](/Solution/1839.Longest-substring-of-all-vowels-in-order/1839-Longest-substring-of-all-vowels-in-order.cs/) | Medium | [:bulb:](/UnitTest/_1839_Longest_substring_of_all_vowels_in_order_Test.cs/) |
 | 1844 | [Replace All Digits with Characters](/Solution/1844.Replace-all-digits-with-characters/) | Char, Array | [ReplaceDigits](/Solution/1844.Replace-all-digits-with-characters/1844-Replace-all-digits-with-characters.cs/) | Easy | [:bulb:](/UnitTest/_1844_Replace_all_digits_with_characters_Test.cs/) |
 | 1848 | [Minimum Distance to the Target Element](/Solution/1848.Minimum-distance-to-the-target-element/) | Iteration, Math | [GetMinDistance](/Solution/1848.Minimum-distance-to-the-target-element/1848-Minimum-distance-to-the-target-element.cs/) | Easy | [:bulb:](/UnitTest/_1848_Minimum_distance_to_the_target_element_Test.cs/) |
+| 1859 |
+| 1869 |
+| 1876 |
+| 1880 |
+| 1881 |
+| 2239 |
+| 2248 |

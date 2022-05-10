@@ -8,6 +8,7 @@
 | 0009 | [Palindrome Number](/Solution/0009.Palindrome-number/) | %,/ | [IsPalindrome](/Solution/0009.Palindrome-number/0009-Palindrome-number.cs/) | Easy | [:bulb:](/UnitTest/_0009_Palindrome_number_Test.cs/) |
 | 0013 | [Roman to Integer](/Solution/0013.Roman-to-integer/) | Dictionary | [RomanToInt](/Solution/0013.Roman-to-integer/0013-Roman-to-integer.cs/) | Easy | [:bulb:](/UnitTest/_0013_Roman_to_integer_Test.cs/) |
 | 0014 | [Longest Common Prefix](/Solution/0014.Longest-common-prefix/) | Array, Iteration | [LongestCommonPrefix](/Solution/0014.Longest-common-prefix/0014-Longest-common-prefix.cs/) | Easy | [:bulb:](/UnitTest/_0014_Longest_common_prefix_Test.cs/) |
+| 0016 | [3Sum Closest](/Solution/0016.3Sum-closest/) | Array, Iteration | [ThreeSumClosest](/Solution/0016.3Sum-closest/0016-3Sum-closest.cs/) | Medium | [:bulb:](/UnitTest/_0016_3Sum_Closest_Test.cs/) |
 | 0018 | [4Sum](/Solution/0018.4Sum/) | Iteration, HashSet, Binary Search | [FourSum](/Solution/0018.4Sum/0018-4Sum.cs/) | Medium | [:bulb:](/UnitTest/_0018_4Sum_Test.cs/) |
 | 0020 | [Valid Parentheses](/Solution/0020.Valid-parentheses/) | Stack | [IsValid](/Solution/0020.Valid-parentheses/0020-Valid-parentheses.cs/) | Easy | [:bulb:](/UnitTest/_0020_Valid_parentheses_Test.cs/) |
 | 0021 | [Merge Two Sorted Lists](/Solution/0021.Merge-two-sorted-lists/) | Linked List | [MergeTwoLists](/Solution/0021.Merge-two-sorted-lists/0021-Merge-two-sorted-lists.cs/) | Easy | [:bulb:](/UnitTest/_0021_Merge_two_sorted_lists_Test.cs/) |

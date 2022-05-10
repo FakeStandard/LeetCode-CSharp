@@ -25,5 +25,35 @@ namespace _0016._3Sum_closest.Tests
             // Assert
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod()]
+        public void ThreeSumClosest_Test2()
+        {
+            // Arrange
+            int[] nums = { 0, 0, 0 };
+            int target = 1;
+            var expected = 0;
+
+            // Act
+            var actual = solution.ThreeSumClosest(nums, target);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void ThreeSumClosest_Test3()
+        {
+            // Arrange
+            int[] nums = { -1, 2, -4, 1 };
+            int target = 1;
+            var expected = 2;
+
+            // Act
+            var actual = solution.ThreeSumClosest(nums, target);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

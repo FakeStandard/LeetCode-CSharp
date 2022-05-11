@@ -75,7 +75,7 @@
 | 0071 |
 | 0072 |
 | 0073 |
-| 0074 | [Search a 2D Matrix](/Solution/0074.Search-a-2D-Matrix/) | Array | [Searcha2DMatrix](/Solution/0074.Search-a-2D-Matrix/0074-Search-a-2D-Matrix.cs/) | Medium | [:bulb](/UnitTest/_0074_Search_a_2D_Matrix_Test.cs/) |
+| 0074 | [Search a 2D Matrix](/Solution/0074.Search-a-2D-Matrix/) | Array | [Searcha2DMatrix](/Solution/0074.Search-a-2D-Matrix/0074-Search-a-2D-Matrix.cs/) | Medium | [:bulb:](/UnitTest/_0074_Search_a_2D_Matrix_Test.cs/) |
 | 0075 |
 | 0076 |
 | 0077 |

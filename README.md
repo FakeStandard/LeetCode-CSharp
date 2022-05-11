@@ -17,7 +17,7 @@
 | 0027 | [Remove Element](/Solution/0027.Remove-element/) | Array, Iteration | [RemoveElement](/Solution/0027.Remove-element/0027-Remove-element.cs/) | Easy | [:bulb:](/UnitTest/_0027_Remove_element_Test.cs/) |
 | 0028 | [Implement strStr()](/Solution/0028.Implement-strStr/) | string.Contains | [StrStr](/Solution/0028.Implement-strStr/0028-Implement-strStr.cs/) | Easy | [:bulb:](/UnitTest/_0028_Implement_strStr_Test.cs/) |
 | 0032 | [Longest Valid Parentheses](/Solution/0032.Longest-valid-parentheses/) | Stack | [LongestValidParentheses](/Solution/0032.Longest-valid-parentheses/0032-Longest-valid-parentheses.cs/) | Hard | [:bulb:](/UnitTest/_0032_Longest_valid_parentheses_Test.cs/) |
-| 0036 |
+| 0036 | [Valid Sudoku](/Solution/Solution/0036.Valid-sudoku/) | Hash Set | [ValidSudoku](/Solution//0036.Valid-sudoku/0036-Valid-sudoku.cs/) | Medium | [:bulb:](/UnitTest/_0036_Valid_sudoku_Test.cs/) |
 | 0035 | [Search Insert Position](/Solution/0035.Search-insert-position/) | Binary Search | [SearchInsert](/Solution/0035.Search-insert-position/0035-Search-insert-position.cs/) | Easy | [:bulb:](/UnitTest/_0035_Search_insert_position_Test.cs/) |
 | 0053 | [Maximum Subarray](/Solution/0053.Maximum-subarray/) | Array, Iteration | [MaxSubArray](/Solution/0053.Maximum-subarray/0053-Maximum-subarray.cs/) | Easy | [:bulb:](/UnitTest/_0053_Maximum_subarray_Test.cs/) |
 | 0058 | [Length of Last Word](/Solution/0058.Length-of-last-word/) | string.Split | [LengthOfLastWord](/Solution/0058.Length-of-last-word/0058-Length-of-last-word.cs/) | Easy | [:bulb:](/UnitTest/_0058_Length_of_last_word_Test.cs/) |

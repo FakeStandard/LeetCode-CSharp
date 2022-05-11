@@ -4,16 +4,16 @@
 |-|-|-|-|:-:|:-:|
 | 0001 | [Two Sum](/Solution/0001.Two-sum/) | Array, Iteration | [TwoSum](/Solution/0001.Two-sum/0001-Two-sum.cs/) | Easy | [:bulb:](/UnitTest/_0001_Two_sum_Test.cs/) |
 | 0002 | [Add Two Numbers](/Solution/0002.Add-two-numbers/) | Linked List | [AddTwoNumbers](/Solution/0002.Add-two-numbers/0002-Add-two-numbers.cs/) | Medium | [:bulb:](/UnitTest/_0002_Add_two_numbers_Test.cs/) |
-| 0003 | []() |  | []() |  | [:bulb:]() |
-| 0004 | []() | Array | []() | Hard | [:bulb:]() |
-| 0005 | []() |  | []() |  | [:bulb:]() |
-| 0006 | []() |  | []() |  | [:bulb:]() |
+| 0003 | []() |  | []() |  |  |
+| 0004 | []() | Array | []() | Hard |  |
+| 0005 | []() |  | []() |  |  |
+| 0006 | []() |  | []() |  |  |
 | 0007 | [Reverse Integer](/Solution/0007.Reverse-integer/) | Array.Reverse, string.Contains, string.Replace | [Reverse](/Solution/0007.Reverse-integer/0007-Reverse-integer.cs/) | Easy | [:bulb:](/UnitTest/_0007_Reverse_integer_Test.cs/) |
-| 0008 | []() |  | []() |  | [:bulb:]() |
+| 0008 | []() |  | []() |  |  |
 | 0009 | [Palindrome Number](/Solution/0009.Palindrome-number/) | %,/ | [IsPalindrome](/Solution/0009.Palindrome-number/0009-Palindrome-number.cs/) | Easy | [:bulb:](/UnitTest/_0009_Palindrome_number_Test.cs/) |
-| 0010 | []() |  | []() |  | [:bulb:]() |
-| 0011 | []() | Array | []() | Medium | [:bulb:]() |
-| 0012 | []() |  | []() |  | [:bulb:]() |
+| 0010 | []() |  | []() |  |  |
+| 0011 | []() | Array | []() | Medium |  |
+| 0012 | []() |  | []() |  |  |
 | 0013 | [Roman to Integer](/Solution/0013.Roman-to-integer/) | Dictionary | [RomanToInt](/Solution/0013.Roman-to-integer/0013-Roman-to-integer.cs/) | Easy | [:bulb:](/UnitTest/_0013_Roman_to_integer_Test.cs/) |
 | 0014 | [Longest Common Prefix](/Solution/0014.Longest-common-prefix/) | Array, Iteration | [LongestCommonPrefix](/Solution/0014.Longest-common-prefix/0014-Longest-common-prefix.cs/) | Easy | [:bulb:](/UnitTest/_0014_Longest_common_prefix_Test.cs/) |
 | 0015 |

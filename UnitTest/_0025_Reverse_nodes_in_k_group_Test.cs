@@ -62,9 +62,9 @@ namespace _0025.Reverse_nodes_in_k_group.Tests
         public void ReverseKGroup_Test4()
         {
             // Arrange
-            ListNode head = new ListNode().AddNode(new int[] { 1 });
-            int k = 1;
-            var expected = new ListNode().AddNode(new int[] { 1 });
+            ListNode head = new ListNode().AddNode(new int[] { 1, 2 });
+            int k = 2;
+            var expected = new ListNode().AddNode(new int[] { 2, 1 });
 
             // Act
             var actual = solution.ReverseKGroup(head, k);

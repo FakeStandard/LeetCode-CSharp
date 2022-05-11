@@ -4,31 +4,103 @@
 |-|-|-|-|:-:|:-:|
 | 0001 | [Two Sum](/Solution/0001.Two-sum/) | Array, Iteration | [TwoSum](/Solution/0001.Two-sum/0001-Two-sum.cs/) | Easy | [:bulb:](/UnitTest/_0001_Two_sum_Test.cs/) |
 | 0002 | [Add Two Numbers](/Solution/0002.Add-two-numbers/) | Linked List | [AddTwoNumbers](/Solution/0002.Add-two-numbers/0002-Add-two-numbers.cs/) | Medium | [:bulb:](/UnitTest/_0002_Add_two_numbers_Test.cs/) |
+| 0003 |
+| 0004 |
+| 0005 |
+| 0006 |
 | 0007 | [Reverse Integer](/Solution/0007.Reverse-integer/) | Array.Reverse, string.Contains, string.Replace | [Reverse](/Solution/0007.Reverse-integer/0007-Reverse-integer.cs/) | Easy | [:bulb:](/UnitTest/_0007_Reverse_integer_Test.cs/) |
+| 0008 |
 | 0009 | [Palindrome Number](/Solution/0009.Palindrome-number/) | %,/ | [IsPalindrome](/Solution/0009.Palindrome-number/0009-Palindrome-number.cs/) | Easy | [:bulb:](/UnitTest/_0009_Palindrome_number_Test.cs/) |
+| 0010 |
+| 0011 |
+| 0012 |
 | 0013 | [Roman to Integer](/Solution/0013.Roman-to-integer/) | Dictionary | [RomanToInt](/Solution/0013.Roman-to-integer/0013-Roman-to-integer.cs/) | Easy | [:bulb:](/UnitTest/_0013_Roman_to_integer_Test.cs/) |
 | 0014 | [Longest Common Prefix](/Solution/0014.Longest-common-prefix/) | Array, Iteration | [LongestCommonPrefix](/Solution/0014.Longest-common-prefix/0014-Longest-common-prefix.cs/) | Easy | [:bulb:](/UnitTest/_0014_Longest_common_prefix_Test.cs/) |
+| 0015 |
 | 0016 | [3Sum Closest](/Solution/0016.3Sum-closest/) | Array, Iteration | [ThreeSumClosest](/Solution/0016.3Sum-closest/0016-3Sum-closest.cs/) | Medium | [:bulb:](/UnitTest/_0016_3Sum_Closest_Test.cs/) |
+| 0017 |
 | 0018 | [4Sum](/Solution/0018.4Sum/) | Iteration, HashSet, Binary Search | [FourSum](/Solution/0018.4Sum/0018-4Sum.cs/) | Medium | [:bulb:](/UnitTest/_0018_4Sum_Test.cs/) |
+| 0019 |
 | 0020 | [Valid Parentheses](/Solution/0020.Valid-parentheses/) | Stack | [IsValid](/Solution/0020.Valid-parentheses/0020-Valid-parentheses.cs/) | Easy | [:bulb:](/UnitTest/_0020_Valid_parentheses_Test.cs/) |
 | 0021 | [Merge Two Sorted Lists](/Solution/0021.Merge-two-sorted-lists/) | Linked List | [MergeTwoLists](/Solution/0021.Merge-two-sorted-lists/0021-Merge-two-sorted-lists.cs/) | Easy | [:bulb:](/UnitTest/_0021_Merge_two_sorted_lists_Test.cs/) |
+| 0022 |
+| 0023 |
+| 0024 |
 | 0025 | [Reverse Nodes in k-Group](/Solution/0025.Reverse-nodes-in-k-group/) | ListNode | [ReverseKGroup](/Solution/0025.Reverse-nodes-in-k-group/0025-Reverse-nodes-in-k-group.cs/) | Hard | [:bulb:](/UnitTest/_0025_Reverse_nodes_in_k_group_Test.cs/) |
 | 0026 | [Remove Duplicates from Sorted Array](/Solution/0026.Remove-duplicates-from-sorted-array/) | Array, Iteration | [RemoveDuplicates](/Solution/0026.Remove-duplicates-from-sorted-array/0026-Remove-duplicates-from-sorted-array.cs/) | Easy | [:bulb:](/UnitTest/_0026_Remove_duplicates_from_sorted_array_Test.cs/) |
 | 0027 | [Remove Element](/Solution/0027.Remove-element/) | Array, Iteration | [RemoveElement](/Solution/0027.Remove-element/0027-Remove-element.cs/) | Easy | [:bulb:](/UnitTest/_0027_Remove_element_Test.cs/) |
 | 0028 | [Implement strStr()](/Solution/0028.Implement-strStr/) | string.Contains | [StrStr](/Solution/0028.Implement-strStr/0028-Implement-strStr.cs/) | Easy | [:bulb:](/UnitTest/_0028_Implement_strStr_Test.cs/) |
+| 0029 |
+| 0030 |
+| 0031 |
 | 0032 | [Longest Valid Parentheses](/Solution/0032.Longest-valid-parentheses/) | Stack | [LongestValidParentheses](/Solution/0032.Longest-valid-parentheses/0032-Longest-valid-parentheses.cs/) | Hard | [:bulb:](/UnitTest/_0032_Longest_valid_parentheses_Test.cs/) |
-| 0036 | [Valid Sudoku](/Solution/0036.Valid-sudoku/) | Hash Set | [ValidSudoku](/Solution//0036.Valid-sudoku/0036-Valid-sudoku.cs/) | Medium | [:bulb:](/UnitTest/_0036_Valid_sudoku_Test.cs/) |
+| 0033 |
+| 0034 |
 | 0035 | [Search Insert Position](/Solution/0035.Search-insert-position/) | Binary Search | [SearchInsert](/Solution/0035.Search-insert-position/0035-Search-insert-position.cs/) | Easy | [:bulb:](/UnitTest/_0035_Search_insert_position_Test.cs/) |
+| 0036 | [Valid Sudoku](/Solution/0036.Valid-sudoku/) | Hash Set | [ValidSudoku](/Solution//0036.Valid-sudoku/0036-Valid-sudoku.cs/) | Medium | [:bulb:](/UnitTest/_0036_Valid_sudoku_Test.cs/) |
+| 0037 |
+| 0038 |
+| 0039 |
+| 0040 |
+| 0041 |
+| 0042 |
+| 0043 |
+| 0044 |
+| 0045 |
+| 0046 |
+| 0047 |
+| 0048 |
+| 0049 |
+| 0050 |
+| 0051 |
+| 0052 |
 | 0053 | [Maximum Subarray](/Solution/0053.Maximum-subarray/) | Array, Iteration | [MaxSubArray](/Solution/0053.Maximum-subarray/0053-Maximum-subarray.cs/) | Easy | [:bulb:](/UnitTest/_0053_Maximum_subarray_Test.cs/) |
+| 0054 |
+| 0055 |
+| 0056 |
+| 0057 |
 | 0058 | [Length of Last Word](/Solution/0058.Length-of-last-word/) | string.Split | [LengthOfLastWord](/Solution/0058.Length-of-last-word/0058-Length-of-last-word.cs/) | Easy | [:bulb:](/UnitTest/_0058_Length_of_last_word_Test.cs/) |
+| 0059 |
+| 0060 |
+| 0061 |
+| 0062 |
+| 0063 |
+| 0064 |
+| 0065 |
 | 0066 | [Plus One](/Solution/0066.Plus-one/) | Array, List | [PlusOne](/Solution/0066.Plus-one/0066-Plus-one.cs/) | Easy | [:bulb:](/UnitTest/_0066_Plus_one_Test.cs/) |
 | 0067 | [Add Binary](/Solution/0067.Add-binary/) | Binary | [AddBinary](/Solution/0067.Add-binary/0067-Add-binary.cs/) | Easy | [:bulb:](/UnitTest/_0067_Add_binary_Test.cs/) |
+| 0068 |
 | 0069 | [Sqrt(x)](/Solution/0069.Sqrt-x/) | Enumeration | [MySqrt](/Solution/0069.Sqrt-x/0069-Sqrt-x.cs/) | Easy | [:bulb:](/UnitTest/_0069_Sqrt_x_Test.cs/) |
 | 0070 | [Climbing Stairs](/Solution/0070.Climbing-stairs/) | Fibonacci, DPA | [ClimbStairs](/Solution/0070.Climbing-stairs/0070-Climbing-stairs.cs/) | Easy | [:bulb:](/UnitTest/_0070_Climbing_stairs_Test.cs/) |
-| 0074 |
+| 0071 |
+| 0072 |
+| 0073 |
+| 0074 | [Search a 2D Matrix](/Solution/0074.Search-a-2D-Matrix/) | Array | [Searcha2DMatrix](/Solution/0074.Search-a-2D-Matrix/0074-Search-a-2D-Matrix.cs/) | Medium | [:bulb](/UnitTest/_0074_Search_a_2D_Matrix_Test.cs/) |
+| 0075 |
+| 0076 |
+| 0077 |
+| 0078 |
+| 0079 |
+| 0080 |
+| 0081 |
+| 0082 |
 | 0083 | [Remove Duplicates from Sorted List](/Solution/0083.Remove-duplicates-from-sorted-list/) | Linked List | [DeleteDuplicates](/Solution/0083.Remove-duplicates-from-sorted-list/0083-Remove-duplicates-from-sorted-list.cs/) | Easy | [:bulb:](/UnitTest/_0083_Remove_duplicates_from_sorted_list_Test.cs/) |
+| 0084 |
+| 0085 |
+| 0086 |
+| 0087 |
 | 0088 | [Merge Sorted Array](/Solution/0088.Merge-sorted-array/) | Iteration, Array.Sort | [Merge](/Solution/0088.Merge-sorted-array/0088-Merge-sorted-array.cs/) | Easy |
+| 0089 |
+| 0090 |
+| 0091 |
+| 0092 |
+| 0093 |
 | 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Binary Tree, Inorder Traversal | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
+| 0095 |
+| 0096 |
+| 0097 |
+| 0098 |
+| 0099 |
 | 0100 | [Same Tree](/Solution/0100.Same-tree/) | Binary Tree | [IsSameTree](/Solution/0100.Same-tree/0100-Same-tree.cs/) | Easy |
 | 0104 |
 | 0112 |

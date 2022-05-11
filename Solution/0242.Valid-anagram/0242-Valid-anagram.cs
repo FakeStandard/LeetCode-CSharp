@@ -48,8 +48,7 @@ namespace Solution._0242.Valid_anagram
                 else return false;
             }
 
-            if (dic.Count == 0) return true;
-            else return false;
+            return dic.Count == 0;
         }
     }
 }

@@ -55,5 +55,20 @@ namespace _0415.Add_strings.Tests
             // Assert
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod()]
+        public void AddStrings_Test4()
+        {
+            // Arrange
+            string num1 = "1";
+            string num2 = "9";
+            string expected = "10";
+
+            // Act
+            var actual = soluton.AddStrings(num1, num2);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

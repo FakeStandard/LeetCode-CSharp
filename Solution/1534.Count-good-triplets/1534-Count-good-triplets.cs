@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._1543.Count_good_triplets
+namespace Solution._1534.Count_good_triplets
 {
-    public class _1543_Count_good_triplets
+    public class _1534_Count_good_triplets
     {
         public int CountGoodTriplets(int[] arr, int a, int b, int c)
         {

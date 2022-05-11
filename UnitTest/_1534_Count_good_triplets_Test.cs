@@ -1,15 +1,15 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Solution._1543.Count_good_triplets;
+using Solution._1534.Count_good_triplets;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace _1543.Count_good_triplets.Tests
+namespace _1534.Count_good_triplets.Tests
 {
     [TestClass()]
-    public class _1543_Count_good_triplets_Test
+    public class _1534_Count_good_triplets_Test
     {
-        _1543_Count_good_triplets solution = new _1543_Count_good_triplets();
+        _1534_Count_good_triplets solution = new _1534_Count_good_triplets();
 
         [TestMethod()]
         public void CountGoodTriplets_Test1()

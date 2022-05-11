@@ -12,6 +12,7 @@ namespace Solution._0020.Valid_parentheses
 
             Stack<char> stack = new Stack<char>();
 
+            // faster
             for (int i = 0; i < s.Length; i++)
             {
                 if (s[i] == '(')

@@ -26,7 +26,7 @@
 | 0022 |
 | 0023 |
 | 0024 |
-| 0025 | [Reverse Nodes in k-Group](/Solution/0025.Reverse-nodes-in-k-group/) | ListNode | [ReverseKGroup](/Solution/0025.Reverse-nodes-in-k-group/0025-Reverse-nodes-in-k-group.cs/) | Hard | [:bulb:](/UnitTest/_0025_Reverse_nodes_in_k_group_Test.cs/) |
+| 0025 | [Reverse Nodes in k-Group](/Solution/0025.Reverse-nodes-in-k-group/) | Linked List | [ReverseKGroup](/Solution/0025.Reverse-nodes-in-k-group/0025-Reverse-nodes-in-k-group.cs/) | Hard | [:bulb:](/UnitTest/_0025_Reverse_nodes_in_k_group_Test.cs/) |
 | 0026 | [Remove Duplicates from Sorted Array](/Solution/0026.Remove-duplicates-from-sorted-array/) | Array | [RemoveDuplicates](/Solution/0026.Remove-duplicates-from-sorted-array/0026-Remove-duplicates-from-sorted-array.cs/) | Easy | [:bulb:](/UnitTest/_0026_Remove_duplicates_from_sorted_array_Test.cs/) |
 | 0027 | [Remove Element](/Solution/0027.Remove-element/) | Array | [RemoveElement](/Solution/0027.Remove-element/0027-Remove-element.cs/) | Easy | [:bulb:](/UnitTest/_0027_Remove_element_Test.cs/) |
 | 0028 | [Implement strStr()](/Solution/0028.Implement-strStr/) | string.Contains | [StrStr](/Solution/0028.Implement-strStr/0028-Implement-strStr.cs/) | Easy | [:bulb:](/UnitTest/_0028_Implement_strStr_Test.cs/) |
@@ -59,7 +59,7 @@
 | 0055 | []() | Array | []() | Medium |  |
 | 0056 | []() | Array | []() | Medium |  |
 | 0057 | []() | Array | []() | Medium |  |
-| 0058 | [Length of Last Word](/Solution/0058.Length-of-last-word/) | string.Split | [LengthOfLastWord](/Solution/0058.Length-of-last-word/0058-Length-of-last-word.cs/) | Easy | [:bulb:](/UnitTest/_0058_Length_of_last_word_Test.cs/) |
+| 0058 | [Length of Last Word](/Solution/0058.Length-of-last-word/) | String | [LengthOfLastWord](/Solution/0058.Length-of-last-word/0058-Length-of-last-word.cs/) | Easy | [:bulb:](/UnitTest/_0058_Length_of_last_word_Test.cs/) |
 | 0059 | []() | Array | []() | Medium |  |
 | 0060 |
 | 0061 |
@@ -67,7 +67,7 @@
 | 0063 | []() | Array | []() | Medium |  |
 | 0064 | []() | Array | []() | Medium |  |
 | 0065 |
-| 0066 | [Plus One](/Solution/0066.Plus-one/) | Array, List | [PlusOne](/Solution/0066.Plus-one/0066-Plus-one.cs/) | Easy | [:bulb:](/UnitTest/_0066_Plus_one_Test.cs/) |
+| 0066 | [Plus One](/Solution/0066.Plus-one/) | Array | [PlusOne](/Solution/0066.Plus-one/0066-Plus-one.cs/) | Easy | [:bulb:](/UnitTest/_0066_Plus_one_Test.cs/) |
 | 0067 | [Add Binary](/Solution/0067.Add-binary/) | Binary | [AddBinary](/Solution/0067.Add-binary/0067-Add-binary.cs/) | Easy | [:bulb:](/UnitTest/_0067_Add_binary_Test.cs/) |
 | 0068 | []() | Array | []() | Hard |  |
 | 0069 | [Sqrt(x)](/Solution/0069.Sqrt-x/) | Enumeration | [MySqrt](/Solution/0069.Sqrt-x/0069-Sqrt-x.cs/) | Easy | [:bulb:](/UnitTest/_0069_Sqrt_x_Test.cs/) |
@@ -95,13 +95,16 @@
 | 0091 |
 | 0092 |
 | 0093 |
-| 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Binary Tree, Inorder Traversal | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
+| 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Binary Tree | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
 | 0095 |
 | 0096 |
 | 0097 |
 | 0098 |
 | 0099 |
 | 0100 | [Same Tree](/Solution/0100.Same-tree/) | Binary Tree | [IsSameTree](/Solution/0100.Same-tree/0100-Same-tree.cs/) | Easy |
+
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 0104 |
 | 0112 |
 | 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Binary Tree | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |

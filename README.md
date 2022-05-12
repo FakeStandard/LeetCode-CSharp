@@ -1,6 +1,6 @@
 # LeetCode
 
-**1-100**
+## 1-100
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 0001 | [Two Sum](/Solution/0001.Two-sum/) | Array, Dictionary | [TwoSum](/Solution/0001.Two-sum/0001-Two-sum.cs/) | Easy | [:bulb:](/UnitTest/_0001_Two_sum_Test.cs/) |
@@ -104,7 +104,7 @@
 | 0099 |
 | 0100 | [Same Tree](/Solution/0100.Same-tree/) | Binary Tree | [IsSameTree](/Solution/0100.Same-tree/0100-Same-tree.cs/) | Easy |
 
-**101-200**
+## 101-200
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 0104 |
@@ -124,7 +124,7 @@
 | 0169 | [Majority Element](/Solution/0169.Majority-element/) | Dictionary | [MajorityElement](/Solution/0169.Majority-element/0169-Majority-element.cs/) | Easy | [:bulb:](/UnitTest/_0169_Majority_element_Test.cs/) |
 | 0172 | [Factorial Trailing Zeroes](/Solution/0172.Factorial-trailing-zeroes/) | Enumeration | [TrailingZeroes](/Solution/0172.Factorial-trailing-zeroes/0172-Factorial-trailing-zeroes.cs/) | Easy | [:bulb:](/UnitTest/_0172_Factorial_trailing_zeroes_Test.cs/) |
 
-**201-300**
+## 201-300
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 0203 | [Remove Linked List Elements](/Solution/0203.Remove-linked-list-elements/) | Linked List | [RemoveElements](/Solution/0203.Remove-linked-list-elements/0203-Remove-linked-list-elements.cs/) | Easy | [:bulb:](/UnitTest/_0203_Remove_Linked_List_Elements_Test.cs/) |
@@ -145,7 +145,7 @@
 | 0258 | [Add Digits](/Solution/0258.Add-digits/) | Remainder(%) Operator | [AddDigits](/Solution/0258.Add-digits/0258-Add-digits.cs/) | Easy | [:bulb:](/UnitTest/_0258_Add_digits_Test.cs/) |
 | 0283 | [Move Zeroes](/Solution/0283.Move-zeroes/) | Enumeration | [MoveZeroes](/Solution/0283.Move-zeroes/0283-Move-zeroes.cs/) | Easy |
 
-**301-400**
+## 301-400
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 0326 | [Power of Three](/Solution/0326.Power-of-three/) | Remainder(%) Operator | [IsPowerOfThree](/Solution/0326.Power-of-three/0326-Power-of-three.cs/) | Easy | [:bulb:](/UnitTest/_0326_Power_of_three_Test.cs/) |
@@ -156,27 +156,55 @@
 | 0387 | [First Unique Character in a String](/Solution/0387.First-unique-character-in-a-string/) | Dictionary | [FirstUniqChar](/Solution/0387.First-unique-character-in-a-string/0387-First-unique-character-in-a-string.cs/) | Easy | [:bulb:](/UnitTest/_0387_First_unique_character_in_a_string_Test.cs/) |
 | 0389 | [Find the Difference](/Solution/0389.Find-the-difference/) | XOR | [FindTheDifference](/Solution/0389.Find-the-difference/0389-Find-the-difference.cs/) | Easy | [:bulb:](/UnitTest/_0389_Find_the_difference_Test.cs/) |
 | 0392 | [Is Subsequence](/Solution/0392.Is-subsequence/) | Enumeration | [IsSubsequence](/Solution/0392.Is-subsequence/0392-Is-subsequence.cs/) | Easy | [:bulb:](/UnitTest/_0392_Is_subsequence_Test.cs/) |
+
+## 401-500
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 0404 | [Sum of Left Leaves](/Solution/0404.Sum-of-left-leaves/) | Binary Tree | [SumOfLeftLeaves](/Solution/0404.Sum-of-left-leaves/0404-Sum-of-left-leaves.cs/) | Easy |
 | 0415 | [Add Strings](/Solution/0415.Add-strings/) |  | [AddStrings](/Solution/0415.Add-strings/0415-Add-strings.cs/) | Easy | [:bulb:](/UnitTest/_0415_Add_strings_Test.cs/) |
 | 0500 |
+
+## 501-600
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 0509 | [Fibonacci Number](/Solution/0509.Fibonacci-number/) | Fibonacci, Recursion | [Fib](/Solution/0509.Fibonacci-number/0509-Fibonacci-number.cs/) | Easy | [:bulb:](/UnitTest/_0509_Fibonacci_number_Test.cs/) |
+
+## 601-700
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 0611 | [Valid Triangle Number](/Solution/0611.Valid-triangel-number/) | Binary Search | [TriangleNumber](/Solution/0611.Valid-triangel-number/0611-Valid-triangle-number.cs/) | Medium | [:bulb:](/UnitTest/_0611_Valid_triangle_number_Test.cs/) |
 | 0617 | [Merge Two Binary Trees](/Solution/0617.Merge-two-binary-trees/) | Binary Tree | [MergeTrees](/Solution/0617.Merge-two-binary-trees/0617-Merge-two-binary-trees.cs/) | Easy |
 | 0682 | [Baseball Game](/Solution/0682.Baseball-game/) | Stack | [CalPoints](/Solution/0682.Baseball-game/0682-Baseball-game.cs/) | Easy | [:bulb:](/UnitTest/_0682_Baseball_game_Test.cs/) |
 | 0700 | [Search in a Binary Search Tree](/Solution/0700.Search-in-a-inary-search-tree/) | Binary Tree | [SearchBST](/Solution/0700.Search-in-a-inary-search-tree/0700-Search-in-a-inary-search-tree.cs/) | Easy |
+
+## 701-800
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 0709 | [To Lower Case](/Solution/0709.To-lower-case/) | Char | [ToLowerCase](/Solution/0709.To-lower-case/0709-To-lower-case.cs/) | Easy | [:bulb:](/UnitTest/_0709_To_lower_case_Test.cs/) |
 | 0717 | [1-bit and 2-bit Characters](/Solution/0717.1-bit-and-2-bit-characters/) | Array | [IsOneBitCharacter](/Solution/0717.1-bit-and-2-bit-characters/0717-1-bit-and-2-bit-characters.cs/) | Easy | [:bulb:](/UnitTest/_0717_1_bit_and_2_bit_characters_Test.cs/) |
 | 0718 | [Maximum Length of Repeated Subarray](/Solution/0718.Maximum-length-of-repeated-subarray/) | Array, Matrix | [FindLength](/Solution/0718.Maximum-length-of-repeated-subarray/0718-Maximum-length-of-repeated-subarray.cs/) | Medium | [:bulb:](/UnitTest/_0718_Maximum_length_of_repeated_subarray_Test.cs/) |
 | 0728 | [Self Dividing Numbers](/Solution/0728.Self-dividing-numbers/) | Remainder(%) operator | [SelfDividingNumbers](/Solution/0728.Self-dividing-numbers/0728-Self-dividing-numbers.cs/) | Easy | [:bulb:](/UnitTest/_0728_Self_dividing_numbers_Test.cs/) |
 | 0771 | [Jewels and Stones](/Solution/0771.Jewels-and-stones/) | string.Contains | [NumJewelsInStones](/Solution/0771.Jewels-and-stones/0771-Jewels-and-stones.cs/) | Easy | [:bulb:](/UnitTest/_0771_Jewels_and_stones_Test.cs/) |
 | 0791 | [Custom Sort String](/Solution/0791.Custom-sort-string/) | Dictionary, Hash Table | [:question: CustomSortString](/Solution/0791.Custom-sort-string/0791-Custom-sort-string.cs/) | Medium | [:bulb:](/UnitTest/_0791_Custom_sort_string_Test.cs/) |
+
+## 801-900
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 0824 | [Goat Latin](/Solution/0824.Goat-latin/) | DP | [ToGoatLatin](/Solution/0824.Goat-latin/0824-Goat-latin.cs/) | Easy | [:bulb:](/UnitTest/_0824_goat_latin_Test.cs/) |
 | 0852 | [Peak Index in a Mountain Array](/Solution/0852.Peak-index-in-a-mountain-array/) | Array | [PeakIndexInMountainArray](/Solution/0852.Peak-index-in-a-mountain-array/0852-Peak-index-in-a-mountain-array.cs/) | Easy | [:bulb:](/UnitTest/_0852_Peak_index_in_a_mountain_array_Test.cs/) |
 | 0897 | [Increasing Order Search Tree](/Solution/0897.Increasing-order-search-tree/) | Binary Tree | [IncreasingBST](/Solution/0897.Increasing-order-search-tree/0897-Increasing-order-search-tree.cs/) | Easy |
+
+## 901-1000
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 0912 | [Sort an Array](/Solution/0912.Sort-an-array/) | Quick Sort | [SortArray](/Solution/0912.Sort-an-array/0912-Sort-an-array.cs/) | Medium | [:bulb:](/UnitTest/_0912_Sort_an_array_Test.cs/) |
 | 0917 | [Reverse Only Letters](/Solution/0917.Reverse-only-letters/) | String | [ReverseOnlyLetters](/Solution/0917.Reverse-only-letters/0917-Reverse-only-letters.cs/) | Easy | [:bulb:](/UnitTest/_0917_Reverse_only_letters_Test.cs/) |
 | 0938 | [Range Sum of BST](/Solution/0938.Range-sum-of-BST/) | Binary Tree | [RangeSumBST](/Solution/0938.Range-sum-of-BST/0938-Range-sum-of-BST.cs/) | Easy | [:bulb:](/UnitTest/_0938_Range_sum_of_BST_Test.cs/) |
 | 0977 | [Squares of a Sorted Array](/Solution/0977.Squares-of-a-sort-array/) | Quick Sort | [SortedSquares](/Solution/0977.Squares-of-a-sort-array/0977-Squares-of-a-sort-array.cs/) | Easy | [:bulb:](/UnitTest/_0977_Squares_of_a_sort_array_Test.cs/) |
+
+## 1001-
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 1047 | [Remove All Adjacent Duplicates In String](/Solution/1047.Remove-all-adjacent-duplicates-in-string/) | String | [RemoveDuplicates](/Solution/1047.Remove-all-adjacent-duplicates-in-string/1047-Remove-all-adjacent-duplicates-in-string.cs/) | Easy | [:bulb:](/UnitTest/_1047_Remove_all_adjacent_duplicates_in_string_Test.cs/) |
 | 1108 | [Defanging an IP Address](/Solution/1108.Defanging-an-IP-address/) | String | [DefangIPaddr](/Solution/1108.Defanging-an-IP-address/1108-Defanging-an-IP-address.cs/) | Easy | [:bulb:](/UnitTest/_1108_Defanging_an_IP_address_Test.cs/) |
 | 1220 | [Count Vowels Permutation](/Solution/1220.Count-vowels-permutation/) | DP | [CountVowelPermutation](/Solution/1220.Count-vowels-permutation/1220-Count-vowels-permutation.cs/) | Hard | [:bulb:](/UnitTest/_1220_Count_vowels_permutation_Test.cs/) |

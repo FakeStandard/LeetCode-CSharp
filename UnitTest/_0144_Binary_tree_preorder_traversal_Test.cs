@@ -45,7 +45,7 @@ namespace Solution._0144.Binary_tree_preorder_traversal.Tests
         public void PreorderTraversal_Test3()
         {
             // Arrange
-            TreeNode root = new TreeNode().AddNode(new string[] { });
+            TreeNode root = new TreeNode().AddNode(new string[] { "1" });
             var expected = new int[] { 1 };
 
             // Act

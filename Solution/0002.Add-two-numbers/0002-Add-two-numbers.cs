@@ -9,6 +9,7 @@ namespace Solution._0002.Add_two_numbers
     {
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
+            // Linked List
             ListNode res = new ListNode();
             ListNode curr = res;
             int num1 = 0;

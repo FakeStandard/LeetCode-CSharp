@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0145.Binary_tree_postorder_traversal.Tests
+namespace _0145.Binary_tree_postorder_traversal.Tests
 {
     [TestClass()]
     public class _0145_Binary_tree_postorder_traversal_Test

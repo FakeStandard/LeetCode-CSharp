@@ -56,5 +56,20 @@ namespace _0001.Two_sum.Tests
             // Assert
             actual.Should().BeEquivalentTo(expected);
         }
+
+        [TestMethod()]
+        public void TwoSum_Test4()
+        {
+            // Arrange
+            int[] nums = { 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1 };
+            int target = 11;
+            var expected = new int[] { 5, 11 };
+
+            // Act
+            var actual = solution.TwoSum(nums, target);
+
+            // Assert
+            actual.Should().BeEquivalentTo(expected);
+        }
     }
 }

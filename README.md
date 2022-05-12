@@ -2,7 +2,7 @@
 
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
-| 0001 | [Two Sum](/Solution/0001.Two-sum/) | Array | [TwoSum](/Solution/0001.Two-sum/0001-Two-sum.cs/) | Easy | [:bulb:](/UnitTest/_0001_Two_sum_Test.cs/) |
+| 0001 | [Two Sum](/Solution/0001.Two-sum/) | Array, Dictionary | [TwoSum](/Solution/0001.Two-sum/0001-Two-sum.cs/) | Easy | [:bulb:](/UnitTest/_0001_Two_sum_Test.cs/) |
 | 0002 | [Add Two Numbers](/Solution/0002.Add-two-numbers/) | Linked List | [AddTwoNumbers](/Solution/0002.Add-two-numbers/0002-Add-two-numbers.cs/) | Medium | [:bulb:](/UnitTest/_0002_Add_two_numbers_Test.cs/) |
 | 0003 | []() |  | []() |  |  |
 | 0004 | []() | Array | []() | Hard |  |

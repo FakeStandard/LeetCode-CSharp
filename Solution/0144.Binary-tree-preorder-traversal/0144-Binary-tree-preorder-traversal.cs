@@ -8,58 +8,58 @@ namespace Solution._0144.Binary_tree_preorder_traversal
     public class _0144_Binary_tree_preorder_traversal
     {
         /// <summary>
-        /// Iterativeley solution
+        /// Recursive solution
         /// </summary>
         /// <param name="root"></param>
         /// <returns></returns>
         public IList<int> PreorderTraversal(TreeNode root)
         {
-            IList<int> result = new List<int>();
+            IList<int> res = new List<int>();
 
-            if (root == null) return result;
+            if (root == null) return res;
 
-            Stack<TreeNode> stack = new Stack<TreeNode>();
-            stack.Push(root);
+            PreOrder(root, ref res);
 
-            while (stack.Count > 0)
+            return res;
+        }
+
+        private void PreOrder(TreeNode node, ref IList<int> res)
+        {
+            if (node != null)
             {
-                TreeNode current = stack.Pop();
-
-                if (current != null)
-                {
-                    result.Add(current.val);
-                    stack.Push(current.right);
-                    stack.Push(current.left);
-                }
+                res.Add(node.val);
+                PreOrder(node.left, ref res);
+                PreOrder(node.right, ref res);
             }
-
-            return result;
         }
 
         /// <summary>
-        /// Recursive solution
+        /// Iterativeley solution
         /// </summary>
         /// <param name="root"></param>
         /// <returns></returns>
         //public IList<int> PreorderTraversal(TreeNode root)
         //{
-        //    IList<int> res = new List<int>();
+        //    IList<int> result = new List<int>();
 
-        //    if (root == null) return res;
+        //    if (root == null) return result;
 
-        //    PreOrder(root, ref res);
+        //    Stack<TreeNode> stack = new Stack<TreeNode>();
+        //    stack.Push(root);
 
-        //    return res;
-        //}
-
-        //private void PreOrder(TreeNode node, ref IList<int> res)
-        //{
-        //    if (node != null)
+        //    while (stack.Count > 0)
         //    {
-        //        res.Add(node.val);
-        //        PreOrder(node.left, ref res);
-        //        PreOrder(node.right, ref res);
+        //        TreeNode current = stack.Pop();
+
+        //        if (current != null)
+        //        {
+        //            result.Add(current.val);
+        //            stack.Push(current.right);
+        //            stack.Push(current.left);
+        //        }
         //    }
+
+        //    return result;
         //}
     }
 }

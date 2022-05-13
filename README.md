@@ -267,6 +267,6 @@
 ## 2001-
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
-| 2006 | []() | Array | []() | Easy |  |
+| 2006 | [Count Number of Pairs With Absolute Difference K](/Solution/2006.Count-number-of-pairs-with-absolute-difference-k/) | Array | [CountKDifference](/Solution/2006.Count-number-of-pairs-with-absolute-difference-k/2006-Count-number-of-pairs-with-absolute-difference-k.cs/) | Easy | [:bulb:](/UnitTest/_2006_Count_number_of_pairs_with_absolute_difference_k_Test.cs/) |
 | 2239 |
 | 2248 |

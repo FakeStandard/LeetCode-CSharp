@@ -24,6 +24,7 @@ namespace Solution._0167.Two_sum_II_input_array_is_sorted
 
             return new int[] { left + 1, right + 1 };
 
+            // Time Limit Exceeded
             //// 逐一取得每個元素
             //for (int i = 0; i < numbers.Length; i++)
             //{

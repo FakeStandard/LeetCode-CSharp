@@ -107,7 +107,7 @@
 ## 101-200
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
-| 0104 |
+| 0104 | [Maximum Depth of Binary Tree](/Solution/0104.Maxium-depth-of-binary-tree/) | Tree, DFS, BFS, Binary Tree | [MaxDepth](/Solution/0104.Maxium-depth-of-binary-tree/0104-Maxium-depth-of-binary-tree.cs /) | Easy |
 | 0112 |
 | 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Binary Tree | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |
 | 0118 | []() | Array | []() | Hard |  |

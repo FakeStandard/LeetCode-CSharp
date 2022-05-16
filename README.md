@@ -125,7 +125,7 @@
 | 0168 | [Excel Sheet Column Title](/Solution/0168.Excel-sheet-column-title/) | Array, char | [ConvertToTitle](/Solution/0168.Excel-sheet-column-title/0168-Excel-sheet-column-title.cs/) | Easy | [:bulb:](/UnitTest/_0168_Excel_sheet_column_title_Test.cs/) |
 | 0169 | [Majority Element](/Solution/0169.Majority-element/) | Array, Dictionary | [MajorityElement](/Solution/0169.Majority-element/0169-Majority-element.cs/) | Easy | [:bulb:](/UnitTest/_0169_Majority_element_Test.cs/) |
 | 0172 | [Factorial Trailing Zeroes](/Solution/0172.Factorial-trailing-zeroes/) | Enumeration | [TrailingZeroes](/Solution/0172.Factorial-trailing-zeroes/0172-Factorial-trailing-zeroes.cs/) | Easy | [:bulb:](/UnitTest/_0172_Factorial_trailing_zeroes_Test.cs/) |
-| 0189 | []() | Array | []() | Medium |  |
+| 0189 | [Rotate Array](/Solution/0189.Rotate-array/) | Array | [Rotate](/Solution/0189.Rotate-array/0189-Rotate-array.cs/) | Medium |  |
 
 ## 201-300
 | No. | Title | Tag | Solution | Difficulty | UnitTest |

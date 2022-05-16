@@ -152,7 +152,7 @@
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 0326 | [Power of Three](/Solution/0326.Power-of-three/) | Remainder(%) Operator | [IsPowerOfThree](/Solution/0326.Power-of-three/0326-Power-of-three.cs/) | Easy | [:bulb:](/UnitTest/_0326_Power_of_three_Test.cs/) |
-| 0344 | [Reverse String](/Solution/0344.Reverse-string/) | Swap | [ReverseString](/Solution/0344.Reverse-string/0344-Reverse-string.cs/) | Easy |
+| 0344 | [Reverse String](/Solution/0344.Reverse-string/) | String | [ReverseString](/Solution/0344.Reverse-string/0344-Reverse-string.cs/) | Easy |
 | 0350 |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](/Solution/0378.Kth-smallest-element-in-a-sorted-matrix/) | Binary Search, Matrix | [KthSmallest](/Solution/0378.Kth-smallest-element-in-a-sorted-matrix/0378-Kth-smallest-element-in-a-sorted-matrix.cs/) | Medium | [:bulb:](/UnitTest/_0378_Kth_smallest_element_in_a_sorted_matrix_Test.cs/) |
 | 0383 |

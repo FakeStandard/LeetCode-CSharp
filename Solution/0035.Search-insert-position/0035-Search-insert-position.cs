@@ -8,32 +8,18 @@ namespace Solution._0035.Search_insert_position
     {
         public int SearchInsert(int[] nums, int target)
         {
-            int l = 0, p = 0, r = nums.Length - 1;
+            int left = 0, right = nums.Length - 1, mid;
 
-            while (l <= r)
+            while (left <= right)
             {
-                p = (l + r) / 2;
+                mid = (left + right) / 2;
 
-                if (nums[p] == target)
-                    return p;
-
-                if (nums[p] > target)
-                    r = p - 1;
-                else
-                    l = p + 1;
+                if (nums[mid] == target) return mid;
+                else if (target > nums[mid]) left = mid + 1;
+                else right = mid - 1;
             }
 
-            return l;
-
-            //for(int i = 0; i < nums.Length; i++)
-            //{
-            //    if (nums[i] == target)
-            //        return i;
-            //    else if (nums[i] > target)
-            //        return i--;
-            //}
-
-            //return nums.Length;
+            return left;
         }
     }
 }

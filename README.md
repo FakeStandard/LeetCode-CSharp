@@ -183,7 +183,7 @@
 ## 701-800
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
-| 0701 | [Insert into a Binary Search Tree]() | Tree, BST, Binary Tree | [InsertIntoBST]() | Medium |  |
+| 0701 | [Insert into a Binary Search Tree](/Solution/0701.Insert-into-a-binary-search-tree/) | Tree, BST, Binary Tree | [InsertIntoBST](/Solution/0701.Insert-into-a-binary-search-tree/0701-Insert-into-a-binary-search-tree.cs/) | Medium |  |
 | 0709 | [To Lower Case](/Solution/0709.To-lower-case/) | Char | [ToLowerCase](/Solution/0709.To-lower-case/0709-To-lower-case.cs/) | Easy | [:bulb:](/UnitTest/_0709_To_lower_case_Test.cs/) |
 | 0717 | [1-bit and 2-bit Characters](/Solution/0717.1-bit-and-2-bit-characters/) | Array | [IsOneBitCharacter](/Solution/0717.1-bit-and-2-bit-characters/0717-1-bit-and-2-bit-characters.cs/) | Easy | [:bulb:](/UnitTest/_0717_1_bit_and_2_bit_characters_Test.cs/) |
 | 0718 | [Maximum Length of Repeated Subarray](/Solution/0718.Maximum-length-of-repeated-subarray/) | Array, Matrix | [FindLength](/Solution/0718.Maximum-length-of-repeated-subarray/0718-Maximum-length-of-repeated-subarray.cs/) | Medium | [:bulb:](/UnitTest/_0718_Maximum_length_of_repeated_subarray_Test.cs/) |

@@ -21,7 +21,7 @@
 | 0016 | [3Sum Closest](/Solution/0016.3Sum-closest/) | Array | [ThreeSumClosest](/Solution/0016.3Sum-closest/0016-3Sum-closest.cs/) | Medium | [:bulb:](/UnitTest/_0016_3Sum_Closest_Test.cs/) |
 | 0017 |
 | 0018 | [4Sum](/Solution/0018.4Sum/) | Array, HashSet, Binary Search | [FourSum](/Solution/0018.4Sum/0018-4Sum.cs/) | Medium | [:bulb:](/UnitTest/_0018_4Sum_Test.cs/) |
-| 0019 |
+| 0019 | [Remove Nth Node From End of List](/Solution/0019.Remove-nth-node-from-end-of-list/) | Array | [RemoveNthFromEnd](/Solution/0019.Remove-nth-node-from-end-of-list/0019-Remove-nth-node-from-end-of-list.cs/) | Medium | [:bulb:](/UnitTest/_0019_Remove_nth_node_from_end_of_list_Test.cs/) |
 | 0020 | [Valid Parentheses](/Solution/0020.Valid-parentheses/) | Stack | [IsValid](/Solution/0020.Valid-parentheses/0020-Valid-parentheses.cs/) | Easy | [:bulb:](/UnitTest/_0020_Valid_parentheses_Test.cs/) |
 | 0021 | [Merge Two Sorted Lists](/Solution/0021.Merge-two-sorted-lists/) | Linked List | [MergeTwoLists](/Solution/0021.Merge-two-sorted-lists/0021-Merge-two-sorted-lists.cs/) | Easy | [:bulb:](/UnitTest/_0021_Merge_two_sorted_lists_Test.cs/) |
 | 0022 |
@@ -138,7 +138,7 @@
 | 0219 | [Contains Duplicate II](/Solution/0219.Contains-duplicate-II/) | Dictionary | [ContainsNearbyDuplicate](/Solution/0219.Contains-duplicate-II/0219-Contains-duplicate-II.cs/) | Easy | [:bulb:](/UnitTest/_0219_Contains_duplicate_II_Test.cs/) |
 | 0225 | [Implement Stack using Queues](/Solution/0225.Implement-stack-using-queues/) | Stack | [MyStack](/Solution/0225.Implement-stack-using-queues/0225-Implement-stack-using-queues.cs/) | Easy |
 | 0226 | [Contains Duplicate II](/Solution/0226.Invert-binary-tree/) | Tree, DFS, BFS, Binary Tree | [InvertTree](/Solution/0226.Invert-binary-tree/0226-Invert-binary-tree.cs/) | Easy |
-| 0231 | [Power of Two](/Solution/0231.Power-of-two/) | Shift(&) Operator | [IsPowerOfTwo](/Solution/0231.Power-of-two/0231-Power-of-two.cs/) | Easy | [:bulb:](/UnitTest/_0231_Power_of_two_Test.cs/) |
+| 0231 | [Power of Two](/Solution/0231.Power-of-two/) | Bit Manipulation, Shift(&) Operator | [IsPowerOfTwo](/Solution/0231.Power-of-two/0231-Power-of-two.cs/) | Easy | [:bulb:](/UnitTest/_0231_Power_of_two_Test.cs/) |
 | 0232 | [Contains Duplicate II](/Solution/0232.Implement-queue-using-stacks/) | Queue, Stack | [MyQueue](/Solution/0232.Implement-queue-using-stacks/0232-Implement-queue-using-stacks.cs/) | Easy |
 | 0234 | [Palindrome Linked List](/Solution/0234.Palindrome-linked-list/) | Stack, Linked List | [IsPalindrome](/Solution/0234.Palindrome-linked-list/0234-Palindrome-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0234_Palindrome_linked_list_Test.cs/) |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](/Solution/0235.Lowest-common-ancestor-of-a-binary-search-tree/) | Tree, DFS, BFS, Binary Tree | [LowestCommonAncestor](/Solution/0235.Lowest-common-ancestor-of-a-binary-search-tree/0235-Lowest-common-ancestor-of-a-binary-search-tree.cs/) | Easy |

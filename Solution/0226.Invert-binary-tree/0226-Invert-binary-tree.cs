@@ -11,8 +11,8 @@ namespace Solution._0226.Invert_binary_tree
         {
             if (root == null) return root;
 
-            var left = InvertTree(root.right);
-            var right = InvertTree(root.left);
+            var left = InvertTree(root.left);
+            var right = InvertTree(root.right);
 
             root.left = right;
             root.right = left;

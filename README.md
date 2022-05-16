@@ -96,7 +96,7 @@
 | 0091 |
 | 0092 |
 | 0093 |
-| 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Tree, DFS, BFS, Binary Tree | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
+| 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Tree, DFS, Binary Tree | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
 | 0095 |
 | 0096 |
 | 0097 |
@@ -108,17 +108,17 @@
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 0101 | [Symmetric Tree](/Solution/0101.Symmetric-tree/) | Tree, DFS, BFS, Binary Tree | [IsSymmetric](/Solution/0101.Symmetric-tree/0101-Symmetric-tree.cs/) | Easy |  |
-| 0102 | [Binary Tree Level Order Traversal](/Solution/0102.Binary-tree-level-order-traversal/) | Tree, DFS, BFS, Binary Tree | [LevelOrder](/Solution/0102.Binary-tree-level-order-traversal/0102-Binary-tree-level-order-traversal.cs/) | Medium |  |
+| 0102 | [Binary Tree Level Order Traversal](/Solution/0102.Binary-tree-level-order-traversal/) | Tree, BFS, Binary Tree | [LevelOrder](/Solution/0102.Binary-tree-level-order-traversal/0102-Binary-tree-level-order-traversal.cs/) | Medium |  |
 | 0104 | [Maximum Depth of Binary Tree](/Solution/0104.Maxium-depth-of-binary-tree/) | Tree, DFS, BFS, Binary Tree | [MaxDepth](/Solution/0104.Maxium-depth-of-binary-tree/0104-Maxium-depth-of-binary-tree.cs/) | Easy |
 | 0112 |
-| 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Tree, DFS, BFS, Binary Tree | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |
+| 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Tree, DFS, Binary Tree | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |
 | 0118 | []() | Array | []() | Hard |  |
 | 0121 | [Best Time to Buy and Sell Stock](/Solution/0121.Best-time-to-buy-and-shell-stock/) | Math | [MaxProfit](/Solution/0121.Best-time-to-buy-and-shell-stock/0121-Best-time-to-buy-and-shell-stock.cs/) | Easy | [:bulb:](/UnitTest/_0121_Bset_time_to_buy_and_shell_stock_Test.cs/) |
 | 0125 | [Valid Palindrome](/Solution/0125.Valid-palindrome/) | Binary Search | [IsPalindrome](/Solution/0125.Valid-palindrome/0125-Valid-palindrome.cs/) | Easy | [:bulb:](/UnitTest/_0125_Valid_palindrome_Test.cs/) |
 | 0136 | [Single Number](/Solution/0136.Single-number/) | XOR | [SingleNumber](/Solution/0136.Single-number/0136-Single-number.cs/) | Easy | [:bulb:](/UnitTest/_0136_Single_number_Test.cs/) |
 | 0141 |
-| 0144 | [Binary Tree Preorder Traversal](/Solution/0144.Binary-tree-preorder-traversal/) | Tree, DFS, BFS, Binary Tree | [PreorderTraversal](/Solution/0144.Binary-tree-preorder-traversal/0144-Binary-tree-preorder-traversal.cs/) | Easy |
-| 0145 | [Binary Tree Postorder Traversal](/Solution/0145.Binary-tree-postorder-traversal/) | Tree, DFS, BFS, Binary Tree | [PostorderTraversal](/Solution/0145.Binary-tree-postorder-traversal/0145-Binary-tree-postorder-traversal.cs/) | Easy |
+| 0144 | [Binary Tree Preorder Traversal](/Solution/0144.Binary-tree-preorder-traversal/) | Tree, DFS, Binary Tree | [PreorderTraversal](/Solution/0144.Binary-tree-preorder-traversal/0144-Binary-tree-preorder-traversal.cs/) | Easy |
+| 0145 | [Binary Tree Postorder Traversal](/Solution/0145.Binary-tree-postorder-traversal/) | Tree, DFS, Binary Tree | [PostorderTraversal](/Solution/0145.Binary-tree-postorder-traversal/0145-Binary-tree-postorder-traversal.cs/) | Easy |
 | 0155 | [Min Stack](/Solution/0155.Min-stack/) | Stack | [MinStack](/Solution/0155.Min-stack/0155-Min-stack.cs/) | Easy |
 | 0162 | [Find Peak Element](/Solution/0162.Find-peak-element/) | Array | [FindPeakElement](/Solution/0162.Find-peak-element/0162-Find-peak-element.cs/) | Medium | [:bulb:](/UnitTest/_0162_Find_peak_element_Test.cs/) |
 | 0167 | [Two Sum II - Input array is sorted](/Solution/0167.Two-sum-II-input-array-is-sorted/) | Array, Binary Search | [TwoSum](/Solution/0167.Two-sum-II-input-array-is-sorted/0167-Two-sum-II-input-array-is-sorted.cs/) | Easy | [:bulb:](/UnitTest/_0167_Two_sum_II_input_array_is_sorted_Test.cs/) |
@@ -140,10 +140,10 @@
 | 0231 | [Power of Two](/Solution/0231.Power-of-two/) | Shift(&) Operator | [IsPowerOfTwo](/Solution/0231.Power-of-two/0231-Power-of-two.cs/) | Easy | [:bulb:](/UnitTest/_0231_Power_of_two_Test.cs/) |
 | 0232 | [Contains Duplicate II](/Solution/0232.Implement-queue-using-stacks/) | Queue, Stack | [MyQueue](/Solution/0232.Implement-queue-using-stacks/0232-Implement-queue-using-stacks.cs/) | Easy |
 | 0234 | [Palindrome Linked List](/Solution/0234.Palindrome-linked-list/) | Stack, Linked List | [IsPalindrome](/Solution/0234.Palindrome-linked-list/0234-Palindrome-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0234_Palindrome_linked_list_Test.cs/) |
-| 0235 | [Lowest Common Ancestor of a Binary Search Tree](/Solution/0235.Lowest-common-ancestor-of-a-binary-search-tree/) | TreeNode, Recursion | [LowestCommonAncestor](/Solution/0235.Lowest-common-ancestor-of-a-binary-search-tree/0235-Lowest-common-ancestor-of-a-binary-search-tree.cs/) | Easy |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](/Solution/0235.Lowest-common-ancestor-of-a-binary-search-tree/) | Tree, DFS, BFS, Binary Tree | [LowestCommonAncestor](/Solution/0235.Lowest-common-ancestor-of-a-binary-search-tree/0235-Lowest-common-ancestor-of-a-binary-search-tree.cs/) | Easy |
 | 0237 | [Delete Node in a Linked List](/Solution/0237.Delete-node-in-a-linked-list/) | Linked List | [DeleteNode](/Solution/0237.Delete-node-in-a-linked-list/0237-Delete-node-in-a-linked-list.cs/) | Easy |
 | 0242 | [Valid Anagram](/Solution/0242.Valid-anagram/) | Array | [IsAnagram](/Solution/0242.Valid-anagram/0242-Valid-anagram.cs/) | Easy | [:bulb:](/UnitTest/_0242_Valid_anagram_Test.cs/) |
-| 0257 | [Binary Tree Paths](/Solution/0257.Binary-tree-paths/) | Tree, DFS, BFS, Binary Tree | [BinaryTreePaths](/Solution/0257.Binary-tree-paths/0257-Binary-tree-paths.cs/) | Easy |
+| 0257 | [Binary Tree Paths](/Solution/0257.Binary-tree-paths/) | Tree, DFS, Binary Tree | [BinaryTreePaths](/Solution/0257.Binary-tree-paths/0257-Binary-tree-paths.cs/) | Easy |
 | 0258 | [Add Digits](/Solution/0258.Add-digits/) | Remainder(%) Operator | [AddDigits](/Solution/0258.Add-digits/0258-Add-digits.cs/) | Easy | [:bulb:](/UnitTest/_0258_Add_digits_Test.cs/) |
 | 0283 | [Move Zeroes](/Solution/0283.Move-zeroes/) | Enumeration | [MoveZeroes](/Solution/0283.Move-zeroes/0283-Move-zeroes.cs/) | Easy |
 
@@ -178,7 +178,7 @@
 | 0617 | [Merge Two Binary Trees](/Solution/0617.Merge-two-binary-trees/) | Tree, DFS, BFS, Binary Tree | [MergeTrees](/Solution/0617.Merge-two-binary-trees/0617-Merge-two-binary-trees.cs/) | Easy |
 | 0653 | [Two Sum IV - Input is a BST](/Solution/0653.Two-sum-IV-input-is-a-BST/) | Tree, DFS, BFS, Binary Tree | [FindTarget](/Solution/0653.Two-sum-IV-input-is-a-BST/0653-Two-sum-IV-input-is-a-BST.cs/) | Easy |  |
 | 0682 | [Baseball Game](/Solution/0682.Baseball-game/) | Stack | [CalPoints](/Solution/0682.Baseball-game/0682-Baseball-game.cs/) | Easy | [:bulb:](/UnitTest/_0682_Baseball_game_Test.cs/) |
-| 0700 | [Search in a Binary Search Tree](/Solution/0700.Search-in-a-inary-search-tree/) | Tree, DFS, BFS, Binary Tree | [SearchBST](/Solution/0700.Search-in-a-inary-search-tree/0700-Search-in-a-inary-search-tree.cs/) | Easy |
+| 0700 | [Search in a Binary Search Tree](/Solution/0700.Search-in-a-inary-search-tree/) | Tree, Binary Tree | [SearchBST](/Solution/0700.Search-in-a-inary-search-tree/0700-Search-in-a-inary-search-tree.cs/) | Easy |
 
 ## 701-800
 | No. | Title | Tag | Solution | Difficulty | UnitTest |

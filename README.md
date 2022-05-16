@@ -169,6 +169,7 @@
 ## 501-600
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
+| 0566 | [Reshape the Matrix]() | Array, Matrix | [MatrixReshape]() | Medium | [:bulb:]() |
 | 0509 | [Fibonacci Number](/Solution/0509.Fibonacci-number/) | Fibonacci, Recursion | [Fib](/Solution/0509.Fibonacci-number/0509-Fibonacci-number.cs/) | Easy | [:bulb:](/UnitTest/_0509_Fibonacci_number_Test.cs/) |
 
 ## 601-700

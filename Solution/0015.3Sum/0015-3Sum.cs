@@ -9,38 +9,34 @@ namespace Solution._0015._3Sum
     {
         public IList<IList<int>> ThreeSum(int[] nums)
         {
-            IList<IList<int>> res = new List<IList<int>>();
+            var res = new List<IList<int>>();
 
-            if (nums.Length < 3) return res;
+            if (nums == null || nums.Length == 0) return res;
 
-            //if (nums.Length == 3)
-            //{
-            //    bool b = nums[0] + nums[1] + nums[2] == 0;
+            Dictionary<int, int> dic = new Dictionary<int, int>();
 
-            //    if (b) res.Add(new List<int>() { nums[0], nums[1], nums[2] });
+            foreach (int num in nums)
+            {
+                if (dic.ContainsKey(num)) dic[num]++;
+                else dic.Add(num, 1);
+            }
 
-            //    return res;
-            //}
-
-            int left = 0;
-            int right = nums.Length - 1;
-            int sum = 0;
-
+            int diff = 0;
             Array.Sort(nums);
 
-            while (left < right)
+            for (int i = 0; i < nums.Length - 2; i++)
             {
-                sum = nums[left] + nums[left + 1] + nums[right];
+                if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-                if (sum == 0)
+                for (int j = i + 1; j < nums.Length - 1; j++)
                 {
-                    res.Add(new List<int>() { nums[left], nums[left + 1], nums[right] });
-                    left++;
-                }
+                    if (j > i + 1 && nums[j] == nums[j - 1]) continue;
 
-                else if (sum < 0)
-                    left++;
-                else right--;
+                    diff = 0 - nums[i] - nums[j];
+
+                    if (diff > nums[j] && dic.ContainsKey(diff)) res.Add(new int[] { nums[i], nums[j], diff });
+                    else if (diff == nums[j] && diff == nums[j + 1]) res.Add(new int[] { nums[i], diff, diff });
+                }
             }
 
             return res;

@@ -21,6 +21,16 @@ namespace Solution._0169.Majority_element
                     return num;
             }
 
+            //for (int i = 0; i < nums.Length; i++)
+            //{
+            //    if (dic.ContainsKey(nums[i]))
+            //        dic[nums[i]]++;
+            //    else
+            //        dic.Add(nums[i], 1);
+
+            //    if (dic[nums[i]] > nums.Length / 2) return nums[i];
+            //}
+
             return -1;
         }
     }

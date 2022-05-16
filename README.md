@@ -21,7 +21,7 @@
 | 0016 | [3Sum Closest](/Solution/0016.3Sum-closest/) | Array | [ThreeSumClosest](/Solution/0016.3Sum-closest/0016-3Sum-closest.cs/) | Medium | [:bulb:](/UnitTest/_0016_3Sum_Closest_Test.cs/) |
 | 0017 |
 | 0018 | [4Sum](/Solution/0018.4Sum/) | Array, HashSet, Binary Search | [FourSum](/Solution/0018.4Sum/0018-4Sum.cs/) | Medium | [:bulb:](/UnitTest/_0018_4Sum_Test.cs/) |
-| 0019 | [Remove Nth Node From End of List](/Solution/0019.Remove-nth-node-from-end-of-list/) | Array | [RemoveNthFromEnd](/Solution/0019.Remove-nth-node-from-end-of-list/0019-Remove-nth-node-from-end-of-list.cs/) | Medium | [:bulb:](/UnitTest/_0019_Remove_nth_node_from_end_of_list_Test.cs/) |
+| 0019 | [Remove Nth Node From End of List](/Solution/0019.Remove-nth-node-from-end-of-list/) | Linked List | [RemoveNthFromEnd](/Solution/0019.Remove-nth-node-from-end-of-list/0019-Remove-nth-node-from-end-of-list.cs/) | Medium | [:bulb:](/UnitTest/_0019_Remove_nth_node_from_end_of_list_Test.cs/) |
 | 0020 | [Valid Parentheses](/Solution/0020.Valid-parentheses/) | Stack | [IsValid](/Solution/0020.Valid-parentheses/0020-Valid-parentheses.cs/) | Easy | [:bulb:](/UnitTest/_0020_Valid_parentheses_Test.cs/) |
 | 0021 | [Merge Two Sorted Lists](/Solution/0021.Merge-two-sorted-lists/) | Linked List | [MergeTwoLists](/Solution/0021.Merge-two-sorted-lists/0021-Merge-two-sorted-lists.cs/) | Easy | [:bulb:](/UnitTest/_0021_Merge_two_sorted_lists_Test.cs/) |
 | 0022 |

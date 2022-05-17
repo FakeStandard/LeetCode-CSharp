@@ -77,7 +77,7 @@
 | 0072 |
 | 0073 | []() | Array | []() | Medium |  |
 | 0074 | [Search a 2D Matrix](/Solution/0074.Search-a-2D-Matrix/) | Array | [SearchMatrix](/Solution/0074.Search-a-2D-Matrix/0074-Search-a-2D-Matrix.cs/) | Medium | [:bulb:](/UnitTest/_0074_Search_a_2D_Matrix_Test.cs/) |
-| 0075 | []() | Array | []() | Medium |  |
+| 0075 | [Sort Colors]() | Array, Sorting | [SortColors]() | Medium |  |
 | 0076 |
 | 0077 |
 | 0078 | []() | Array | []() | Medium |  |

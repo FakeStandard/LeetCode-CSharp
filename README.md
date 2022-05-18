@@ -112,7 +112,8 @@
 | 0104 | [Maximum Depth of Binary Tree](/Solution/0104.Maxium-depth-of-binary-tree/) | Tree, DFS, BFS, Binary Tree | [MaxDepth](/Solution/0104.Maxium-depth-of-binary-tree/0104-Maxium-depth-of-binary-tree.cs/) | Easy |
 | 0112 |
 | 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Tree, DFS, Binary Tree | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |
-| 0118 | []() | Array | []() | Hard |  |
+| 0118 | [Pascal's Triangle](/Solution/0118.Pascals-triangle/) | Array, DP | [Generate](/Solution/0118.Pascals-triangle/0118-Pascals-triangle.cs/) | Easy | [:bulb:](/UnitTest/_0118_Pascals_triangle_Test.cs/) |
+| 0119 | [Pascal's Triangle II](/Solution/0119.Pascals-triangle-II/) | Array, DP | [GetRow](/Solution/0119.Pascals-triangle-II/0119-Pascals-triangle-II.cs/) | Easy | [:bulb:](/UnitTest/_0119_Pascals_triangle_II_Test.cs/) |
 | 0121 | [Best Time to Buy and Sell Stock](/Solution/0121.Best-time-to-buy-and-shell-stock/) | Math | [MaxProfit](/Solution/0121.Best-time-to-buy-and-shell-stock/0121-Best-time-to-buy-and-shell-stock.cs/) | Easy | [:bulb:](/UnitTest/_0121_Bset_time_to_buy_and_shell_stock_Test.cs/) |
 | 0125 | [Valid Palindrome](/Solution/0125.Valid-palindrome/) | Binary Search | [IsPalindrome](/Solution/0125.Valid-palindrome/0125-Valid-palindrome.cs/) | Easy | [:bulb:](/UnitTest/_0125_Valid_palindrome_Test.cs/) |
 | 0136 | [Single Number](/Solution/0136.Single-number/) | Array, XOR | [SingleNumber](/Solution/0136.Single-number/0136-Single-number.cs/) | Easy | [:bulb:](/UnitTest/_0136_Single_number_Test.cs/) |

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{A66CE266-2E83-4602-BF4A-E94BC5D37297}"
 EndProject
@@ -13,11 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0201-0300", "0201-0300", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0101-0200", "0101-0200", "{0325722F-2639-4CCB-AE4D-D61189E2A2D5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0111.Minimum-depth-of-binary-tree", "0111.Minimum-depth-of-binary-tree\0111.Minimum-depth-of-binary-tree.csproj", "{3311E2F7-E86C-4D45-B591-364947FC6905}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0147.Insertion-sort-list", "0147.Insertion-sort-list\0147.Insertion-sort-list.csproj", "{A2D19C39-24C6-47B6-AB4D-52315987C365}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0118.Pascal's-triangle", "0118.Pascal's-triangle\0118.Pascal's-triangle.csproj", "{B9BC5BAE-4947-40A7-878A-03F9C9A065D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0202.Happy-number", "0202.Happy-number\0202.Happy-number.csproj", "{846887AF-24B1-4125-A75F-058B3759E483}"
 EndProject
@@ -41,18 +37,10 @@ Global
 		{6C6D7745-4542-4EEB-99AD-D309CA43795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C6D7745-4542-4EEB-99AD-D309CA43795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C6D7745-4542-4EEB-99AD-D309CA43795F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3311E2F7-E86C-4D45-B591-364947FC6905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3311E2F7-E86C-4D45-B591-364947FC6905}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3311E2F7-E86C-4D45-B591-364947FC6905}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3311E2F7-E86C-4D45-B591-364947FC6905}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A2D19C39-24C6-47B6-AB4D-52315987C365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A2D19C39-24C6-47B6-AB4D-52315987C365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D19C39-24C6-47B6-AB4D-52315987C365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2D19C39-24C6-47B6-AB4D-52315987C365}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B9BC5BAE-4947-40A7-878A-03F9C9A065D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9BC5BAE-4947-40A7-878A-03F9C9A065D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9BC5BAE-4947-40A7-878A-03F9C9A065D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9BC5BAE-4947-40A7-878A-03F9C9A065D7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{846887AF-24B1-4125-A75F-058B3759E483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{846887AF-24B1-4125-A75F-058B3759E483}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{846887AF-24B1-4125-A75F-058B3759E483}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -66,9 +54,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{3311E2F7-E86C-4D45-B591-364947FC6905} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
 		{A2D19C39-24C6-47B6-AB4D-52315987C365} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
-		{B9BC5BAE-4947-40A7-878A-03F9C9A065D7} = {0325722F-2639-4CCB-AE4D-D61189E2A2D5}
 		{846887AF-24B1-4125-A75F-058B3759E483} = {67F12D61-DDFC-4B05-AF1B-7557A6AAB67A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

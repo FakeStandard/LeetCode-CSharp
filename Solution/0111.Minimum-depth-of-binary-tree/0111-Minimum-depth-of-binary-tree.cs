@@ -1,9 +1,11 @@
 ﻿using Common;
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace _0111.Minimum_depth_of_binary_tree
+namespace Solution._0111.Minimum_depth_of_binary_tree
 {
-    public class Solution
+    public class _0111_Minimum_depth_of_binary_tree
     {
         public int MinDepth(TreeNode root)
         {

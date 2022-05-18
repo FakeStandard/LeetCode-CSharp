@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0119.Pascals_triangle_II.Tests
+namespace _0119.Pascals_triangle_II.Tests
 {
     [TestClass()]
     public class _0119_Pascals_triangle_II_Test

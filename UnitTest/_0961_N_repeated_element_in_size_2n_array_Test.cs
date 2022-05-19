@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Solution._0961.N_repeated_element_in_size_2n_array.Tests
+namespace _0961.N_repeated_element_in_size_2n_array.Tests
 {
     [TestClass()]
     public class _0961_N_repeated_element_in_size_2n_array_Test

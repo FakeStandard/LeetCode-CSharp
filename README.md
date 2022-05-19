@@ -210,6 +210,7 @@
 | 0912 | [Sort an Array](/Solution/0912.Sort-an-array/) | Quick Sort | [SortArray](/Solution/0912.Sort-an-array/0912-Sort-an-array.cs/) | Medium | [:bulb:](/UnitTest/_0912_Sort_an_array_Test.cs/) |
 | 0917 | [Reverse Only Letters](/Solution/0917.Reverse-only-letters/) | String | [ReverseOnlyLetters](/Solution/0917.Reverse-only-letters/0917-Reverse-only-letters.cs/) | Easy | [:bulb:](/UnitTest/_0917_Reverse_only_letters_Test.cs/) |
 | 0938 | [Range Sum of BST](/Solution/0938.Range-sum-of-BST/) | Tree, DFS, BFS, Binary Tree | [RangeSumBST](/Solution/0938.Range-sum-of-BST/0938-Range-sum-of-BST.cs/) | Easy | [:bulb:](/UnitTest/_0938_Range_sum_of_BST_Test.cs/) |
+| 0961 | [N-Repeated Element in Size 2N Array](/Solution/0961.N-repeated-element-in-size-2n-array/) | Array | [RepeatedNTimes](/Solution/0961.N-repeated-element-in-size-2n-array/0961-N-repeated-element-in-size-2n-array.cs/) | Easy | [:bulb:](/UnitTest/_0961_N_repeated_element_in_size_2n_array_Test.cs/) |
 | 0977 | [Squares of a Sorted Array](/Solution/0977.Squares-of-a-sort-array/) | Quick Sort | [SortedSquares](/Solution/0977.Squares-of-a-sort-array/0977-Squares-of-a-sort-array.cs/) | Easy | [:bulb:](/UnitTest/_0977_Squares_of_a_sort_array_Test.cs/) |
 
 ## 1001-

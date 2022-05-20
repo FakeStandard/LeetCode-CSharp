@@ -40,5 +40,35 @@ namespace _0560.Subarray_sum_equals_k.Tests
             // Assert
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod()]
+        public void SubarraySum_Test3()
+        {
+            // Arrange
+            int[] nums = new int[] { 1, 2, 1, 2, 1 };
+            int k = 3;
+            int expected = 4;
+
+            // Act
+            var actual = solution.SubarraySum(nums, k);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod()]
+        public void SubarraySum_Test4()
+        {
+            // Arrange
+            int[] nums = new int[] { 0, 0 };
+            int k = 0;
+            int expected = 3;
+
+            // Act
+            var actual = solution.SubarraySum(nums, k);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

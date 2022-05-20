@@ -8,38 +8,47 @@ namespace Solution._0560.Subarray_sum_equals_k
     {
         public int SubarraySum(int[] nums, int k)
         {
-            int count = 0;
+            // Dictionary
+            Dictionary<int, int> dic = new Dictionary<int, int>();
+            dic.Add(0, 1);
+
             int sum = 0;
+            int count = 0;
 
-            for(int i = 0; i < nums.Length; i++)
+            foreach (int num in nums)
             {
-                sum = nums[i];
+                sum += num;
 
-                if (sum == k) count++;
-                else
-                {
-                    for (int j = i + 1; j < nums.Length; j++)
-                    {
-                        sum += nums[j];
-                        if (sum == k) count++;
-                    }
-                }
+                if (dic.ContainsKey(sum - k))
+                    count += dic[sum - k];
 
-                
+                if (!dic.ContainsKey(sum))
+                    dic.Add(sum, 0);
+
+                dic[sum]++;
             }
 
+            return count;
+
+            // Iterative
             //int count = 0;
             //int sum = 0;
 
-            //foreach(int num in nums)
+            //for (int i = 0; i < nums.Length; i++)
             //{
-            //    sum += num;
-            //    count++;
-            //    if (sum == k) return count; 
+            //    sum = nums[i];
+
+            //    if (sum == k) count++;
+
+            //    for (int j = i + 1; j < nums.Length; j++)
+            //    {
+            //        sum += nums[j];
+            //        if (sum == k) count++;
+            //    }
+
             //}
 
-
-            return count;
+            //return count;
         }
     }
 }

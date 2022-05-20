@@ -132,6 +132,7 @@
 ## 201-300
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
+| 0202 | [Happy Number](/Solution/0202.Happy-number/) | HashSet | [IsHappy](/Solution/0202.Happy-number/0202-Happy-numbercs.cs/) | Easy | [:bulb:](/UnitTest/_0202_Happy_numbercs_Test.cs/) |
 | 0203 | [Remove Linked List Elements](/Solution/0203.Remove-linked-list-elements/) | Linked List | [RemoveElements](/Solution/0203.Remove-linked-list-elements/0203-Remove-linked-list-elements.cs/) | Easy | [:bulb:](/UnitTest/_0203_Remove_Linked_List_Elements_Test.cs/) |
 | 0204 | [Count Primes](/Solution/0204.Count-primes/) | Array | [CountPrimes](/Solution/0204.Count-primes/0204-Count-primes.cs/) | Easy | [:bulb:](/UnitTest/_0204_Count_primes_Test.cs/) |
 | 0205 | [Isomorphic Strings](/Solution/0205.Isomorphic-strings/) | Dictionary | [IsIsomorphic](/Solution/0205.Isomorphic-strings/0205-Isomorphic-strings.cs/) | Easy | [:bulb:](/UnitTest/_0205_Isomorphic_strings_Test.cs/) |

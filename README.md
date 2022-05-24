@@ -211,6 +211,7 @@
 |-|-|-|-|:-:|:-:|
 | 0824 | [Goat Latin](/Solution/0824.Goat-latin/) | DP | [ToGoatLatin](/Solution/0824.Goat-latin/0824-Goat-latin.cs/) | Easy | [:bulb:](/UnitTest/_0824_goat_latin_Test.cs/) |
 | 0852 | [Peak Index in a Mountain Array](/Solution/0852.Peak-index-in-a-mountain-array/) | Array | [PeakIndexInMountainArray](/Solution/0852.Peak-index-in-a-mountain-array/0852-Peak-index-in-a-mountain-array.cs/) | Easy | [:bulb:](/UnitTest/_0852_Peak_index_in_a_mountain_array_Test.cs/) |
+| 0876 | [Middle of the Linked List](/Solution/0876.Middle-of-the-linked-list/) | Linked List | [MiddleNode](/Solution/0876.Middle-of-the-linked-list/0876-Middle-of-the-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0876_Middle_of_the_linked_list_Test.cs/) |
 | 0897 | [Increasing Order Search Tree](/Solution/0897.Increasing-order-search-tree/) | Tree, DFS, BFS, Binary Tree | [IncreasingBST](/Solution/0897.Increasing-order-search-tree/0897-Increasing-order-search-tree.cs/) | Easy |
 
 ## 901-1000

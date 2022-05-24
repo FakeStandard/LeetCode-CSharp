@@ -51,7 +51,7 @@
 | 0046 | []() | Array | []() | Medium |  |
 | 0047 | []() | Array | []() | Medium |  |
 | 0048 | []() | Array | []() | Medium |  |
-| 0049 |
+| 0049 | [Group Anagrams](/Solution/0049.Group-anagrams/) | String | [GroupAnagrams](/Solution/0049.Group-anagrams/0049-Group-anagrams.cs/) | Medium | [:bulb:](/UnitTest/_0049_Group_anagrams_Test.cs/) |
 | 0050 |
 | 0051 | []() | Array | []() | Hard |  |
 | 0052 |

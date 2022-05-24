@@ -45,7 +45,7 @@
 | 0040 | []() | Array | []() | Medium |  |
 | 0041 | []() | Array | []() | Hard |  |
 | 0042 | []() | Array | []() | Hard |  |
-| 0043 |
+| 0043 | [Multiply Strings](/Solution/0043.Multiply-strings/) | String | [Multiply](/Solution/0043.Multiply-strings/0043-Multiply-strings.cs/) | Medium | [:bulb:](/UnitTest/_0043_Multiply_strings_Test.cs/) |
 | 0044 |
 | 0045 | []() | Array | []() | Medium |  |
 | 0046 | []() | Array | []() | Medium |  |

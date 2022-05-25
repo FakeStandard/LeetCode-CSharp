@@ -132,6 +132,7 @@
 | 0172 | [Factorial Trailing Zeroes](/Solution/0172.Factorial-trailing-zeroes/) | Enumeration | [TrailingZeroes](/Solution/0172.Factorial-trailing-zeroes/0172-Factorial-trailing-zeroes.cs/) | Easy | [:bulb:](/UnitTest/_0172_Factorial_trailing_zeroes_Test.cs/) |
 | 0187 | [Repeated DNA Sequences](/Solution/0187.Repeated-dna-sequences/) | String, Hash Table | [FindRepeatedDnaSequences](/Solution/0187.Repeated-dna-sequences/0187-Repeated-dna-sequences.cs/) | Medium | [:bulb:](/UnitTest/_0187_Repeated_dna_sequences_Test.cs/) |
 | 0189 | [Rotate Array](/Solution/0189.Rotate-array/) | Array | [Rotate](/Solution/0189.Rotate-array/0189-Rotate-array.cs/) | Medium |  |
+| 0198 | [House Robber]() | Array, DP | [Rob]() | Medium | [:bulb:]() |
 
 ## 201-300
 | No. | Title | Tag | Solution | Difficulty | UnitTest |

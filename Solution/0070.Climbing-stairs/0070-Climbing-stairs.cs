@@ -8,7 +8,6 @@ namespace Solution._0070.Climbing_stairs
     {
         public int ClimbStairs(int n)
         {
-            // Fibonacci
             // Use Dynamic Programming Algorithm.
             if (n < 0) return 0;
             if (n <= 2) return n;

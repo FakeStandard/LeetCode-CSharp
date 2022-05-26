@@ -12,10 +12,10 @@ namespace Solution._0451.Sort_characters_by_frequency
 
             foreach (char c in s)
             {
-                //if (dic.ContainsKey(c))
-                //    dic[c]++;
-                //else
-                //    dic.Add(c, 1);
+                if (dic.ContainsKey(c))
+                    dic[c]++;
+                else
+                    dic.Add(c, 1);
 
                 //if (!dic.TryAdd(c, 1)) dic[c]++;
             }

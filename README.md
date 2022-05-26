@@ -110,6 +110,7 @@
 | 0101 | [Symmetric Tree](/Solution/0101.Symmetric-tree/) | Tree, DFS, BFS, Binary Tree | [IsSymmetric](/Solution/0101.Symmetric-tree/0101-Symmetric-tree.cs/) | Easy |  |
 | 0102 | [Binary Tree Level Order Traversal](/Solution/0102.Binary-tree-level-order-traversal/) | Tree, BFS, Binary Tree | [LevelOrder](/Solution/0102.Binary-tree-level-order-traversal/0102-Binary-tree-level-order-traversal.cs/) | Medium |  |
 | 0104 | [Maximum Depth of Binary Tree](/Solution/0104.Maxium-depth-of-binary-tree/) | Tree, DFS, BFS, Binary Tree | [MaxDepth](/Solution/0104.Maxium-depth-of-binary-tree/0104-Maxium-depth-of-binary-tree.cs/) | Easy |
+| 0105 | [Construct Binary Tree from Preorder and Inorder Traversal]() | Array, Tree, Binary Tree | [BuildTree]() | Medium |  |
 | 0111 | [Minimum Depth of Binary Tree](/Solution/0111.Minimum-depth-of-binary-tree/) | Tree, DFS, BFS, Binary Tree | [MinDepth](/Solution/0111.Minimum-depth-of-binary-tree/0111-Minimum-depth-of-binary-tree.cs/) | Easy |  |
 | 0112 |
 | 0113 | [Path Sum II](/Solution/0113.Path-sum-II/) | Tree, DFS, Binary Tree | [PathSum](/Solution/0113.Path-sum-II/0113-Path-sum-II.cs/) | Medium |  |
@@ -134,6 +135,7 @@
 | 0187 | [Repeated DNA Sequences](/Solution/0187.Repeated-dna-sequences/) | String, Hash Table | [FindRepeatedDnaSequences](/Solution/0187.Repeated-dna-sequences/0187-Repeated-dna-sequences.cs/) | Medium | [:bulb:](/UnitTest/_0187_Repeated_dna_sequences_Test.cs/) |
 | 0189 | [Rotate Array](/Solution/0189.Rotate-array/) | Array | [Rotate](/Solution/0189.Rotate-array/0189-Rotate-array.cs/) | Medium |  |
 | 0198 | [House Robber]() | Array, DP | [Rob]() | Medium | [:bulb:]() |
+| 0199 | [Binary Tree Right Side View]() | Tree, DFS, BFS, Binary Tree | [RightSideView]() | Medium |  |
 
 ## 201-300
 | No. | Title | Tag | Solution | Difficulty | UnitTest |

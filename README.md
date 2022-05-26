@@ -178,6 +178,7 @@
 | 0404 | [Sum of Left Leaves](/Solution/0404.Sum-of-left-leaves/) | Tree, DFS, BFS, Binary Tree | [SumOfLeftLeaves](/Solution/0404.Sum-of-left-leaves/0404-Sum-of-left-leaves.cs/) | Easy |
 | 0409 | [Longest Palindrome](/Solution/0409.Longest-palindrome/) | String, Stack, Dictionary | [LongestPalindrome](/Solution/0409.Longest-palindrome/0409-Longest-palindrome.cs/) | Easy | [:bulb:](/UnitTest/_0409_Longest_palindrome_Test.cs/) |
 | 0415 | [Add Strings](/Solution/0415.Add-strings/) |  | [AddStrings](/Solution/0415.Add-strings/0415-Add-strings.cs/) | Easy | [:bulb:](/UnitTest/_0415_Add_strings_Test.cs/) |
+| 0451 | [Sort Characters By Frequency](/Solution/0451.Sort-characters-by-frequency/) | String, Dictionary | [FrequencySort](/Solution/0451.Sort-characters-by-frequency/0451-Sort-characters-by-frequency.cs/) | Medium | [:bulb:](/UnitTest/_0451_Sort_characters_by_frequency_Test.cs/) |
 | 0500 |
 
 ## 501-600

@@ -9,7 +9,7 @@ namespace Solution._0105.Construct_binary_tree_from_preorder_and_inorder_travers
     {
         public TreeNode BuildTree(int[] preorder, int[] inorder)
         {
-
+            return null;
         }
     }
 }

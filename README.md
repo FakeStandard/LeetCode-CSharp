@@ -79,7 +79,7 @@
 | 0074 | [Search a 2D Matrix](/Solution/0074.Search-a-2D-Matrix/) | Array | [SearchMatrix](/Solution/0074.Search-a-2D-Matrix/0074-Search-a-2D-Matrix.cs/) | Medium | [:bulb:](/UnitTest/_0074_Search_a_2D_Matrix_Test.cs/) |
 | 0075 | [Sort Colors](/Solution/0075.Sort-colors/) | Array, Sorting | [SortColors](/Solution/0075.Sort-colors/0075-Sort-colors.cs/) | Medium |  |
 | 0076 |
-| 0077 |
+| 0077 | [Combinations](/Solution/0077.Combinations/) | Backtracking | [Combine](/Solution/0077.Combinations/0077-Combinations.cs/) | Medium | [:bulb:](/UnitTest/_0077_Combinations_Test.cs/) |
 | 0078 | []() | Array | []() | Medium |  |
 | 0079 | []() | Array | []() | Medium |  |
 | 0080 | []() | Array | []() | Medium |  |

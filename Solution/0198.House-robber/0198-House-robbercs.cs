@@ -8,17 +8,24 @@ namespace Solution._0198.House_robber
     {
         public int Rob(int[] nums)
         {
-            int odd = 0, even = 0;
+            if (nums.Length == 0) return 0;
+            if (nums.Length == 1) return nums[0];
 
-            for (int i = 0; i < nums.Length; i++)
+            int prev = nums[0];
+            int max = Math.Max(prev, nums[1]);
+
+            if (nums.Length == 2) return max;
+
+            int curr = 0;
+
+            for (int i = 2; i < nums.Length; i++)
             {
-                if (i % 2 == 0)
-                    odd += nums[i];
-                else
-                    even += nums[i];
+                curr = Math.Max(prev + nums[i], max);
+                prev = max;
+                max = curr;
             }
-            
-            return odd > even ? odd : even;
+
+            return max;
         }
     }
 }

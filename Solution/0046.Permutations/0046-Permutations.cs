@@ -10,16 +10,30 @@ namespace Solution._0046.Permutations
 
         public IList<IList<int>> Permute(int[] nums)
         {
-            var temp = new List<int>();
+            var list = new List<int>();
 
-            //recursive(nums, temp);
+            backtrack(list, nums);
 
             return res;
         }
 
-        //private void recursive(temp)
-        //{
+        private void backtrack(List<int> list, int[] nums)
+        {
+            List<int> temp = null;
 
-        //}
+            if (list.Count != nums.Length)
+            {
+                for (int i = 0; i < nums.Length; i++)
+                {
+                    if (!list.Contains(nums[i]))
+                    {
+                        temp = new List<int>(list);
+                        temp.Add(nums[i]);
+                        backtrack(temp, nums);
+                    }
+                }
+            }
+            else res.Add(list);
+        }
     }
 }

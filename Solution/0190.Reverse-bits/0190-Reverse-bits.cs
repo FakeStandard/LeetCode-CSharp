@@ -13,7 +13,6 @@ namespace Solution._0190.Reverse_bits
 
             while (n != 0)
             {
-                // 00000010100101000001111010011100
                 res += (n & 1) << bits;
                 bits--;
                 n >>= 1;

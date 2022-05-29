@@ -8,7 +8,7 @@ namespace Solution._0120.Triangle
     {
         public int MinimumTotal(IList<IList<int>> triangle)
         {
-            if (triangle == null) return 0;
+            if (triangle == null || triangle.Count == 0) return 0;
 
 
             for (int i = triangle.Count - 1; i > 0; i--)

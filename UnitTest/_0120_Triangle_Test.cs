@@ -59,7 +59,7 @@ namespace _0120.Triangle.Tests
                 new int[] { 1, -1, 3 },
             };
 
-            int expected = -1;
+            int expected = 0;
 
             // Act
             var actual = solution.MinimumTotal(triangle);

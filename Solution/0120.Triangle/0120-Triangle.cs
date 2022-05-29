@@ -8,21 +8,18 @@ namespace Solution._0120.Triangle
     {
         public int MinimumTotal(IList<IList<int>> triangle)
         {
-            int sum = triangle[0][0];
-            int index = 0;
+            if (triangle == null) return 0;
 
-            for (int i = 1; i < triangle.Count; i++)
+
+            for (int i = triangle.Count - 1; i > 0; i--)
             {
-                if (triangle[i][index] < triangle[i][index + 1])
-                    sum += triangle[i][index];
-                else
+                for (int j = 0; j < triangle[i].Count - 1; j++)
                 {
-                    sum += triangle[i][index + 1];
-                    index++;
+                    triangle[i - 1][j] += Math.Min(triangle[i][j], triangle[i][j + 1]);
                 }
             }
 
-            return sum;
+            return triangle[0][0];
         }
     }
 }

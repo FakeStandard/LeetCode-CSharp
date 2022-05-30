@@ -10,36 +10,63 @@ namespace Solution._0994.Rotting_oranges
         {
             if (grid == null || grid.Length == 0) return -1;
 
+            var queue = new Queue<Tuple<int, int, int>>();
+
+            int row = grid.Length;
+            int col = grid[0].Length;
             int minute = 0;
 
-            // 2,1,1
-            // 0,1,1
-            // 1,0,1
-            for (int i = 0; i < grid.Length; i++)
-            {
-                for (int j = 0; j < grid[i].Length; j++)
-                {
-                    if (grid[i][j] == 0) continue;
-
+            for (int i = 0; i < row; i++)
+                for (int j = 0; j < col; j++)
                     if (grid[i][j] == 2)
-                    {
-                        minute++;
+                        queue.Enqueue(new Tuple<int, int, int>(i, j, minute));
 
-                        if (i + 1 < grid.Length)
-                            if (grid[i + 1][j] == 1)
-                                grid[i + 1][j] = 2;
+            // BFS
+            while (queue.Count > 0)
+            {
+                var rotten = queue.Dequeue();
+                int x = rotten.Item1;
+                int y = rotten.Item2;
+                int time = rotten.Item3;
 
-                        if (j + 1 < grid[i].Length)
-                            if (grid[i][j + 1] == 1)
-                                grid[i][j + 1] = 2;
-                    }
+                minute = Math.Max(minute, time);
+
+                time++;
+
+                // right
+                if (x < row - 1 && grid[x + 1][y] == 1)
+                {
+                    queue.Enqueue(new Tuple<int, int, int>(x + 1, y, time));
+                    grid[x + 1][y] = 2;
+                }
+
+                // left
+                if (x > 0 && grid[x - 1][y] == 1)
+                {
+                    queue.Enqueue(new Tuple<int, int, int>(x - 1, y, time));
+                    grid[x - 1][y] = 2;
+                }
+
+                // top
+                if (y > 0 && grid[x][y - 1] == 1)
+                {
+                    queue.Enqueue(new Tuple<int, int, int>(x, y - 1, time));
+                    grid[x][y - 1] = 2;
+                }
+
+                // bottom
+                if (y < col - 1 && grid[x][y + 1] == 1)
+                {
+                    queue.Enqueue(new Tuple<int, int, int>(x, y + 1, time));
+                    grid[x][y + 1] = 2;
                 }
             }
 
-            // check the 1
-            foreach (int[] arr in grid)
-                foreach (int num in arr)
-                    if (num == 1) return -1;
+            // Check if all oranges are rotten.
+            for (int i = 0; i < row; i++)
+                for (int j = 0; j < col; j++)
+                    if (grid[i][j] == 1)
+                        return -1;
 
             return minute;
         }

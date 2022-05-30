@@ -44,24 +44,24 @@ namespace Solution._0542._01_Matrix
             res[x][y] = val;
 
             val++;
-            DFS(x + 1, y, val); // right
-            DFS(x - 1, y, val); // left
-            DFS(x, y + 1, val); // top
-            DFS(x, y - 1, val); // bottom
+            DFS(x - 1, y, val); // top
+            DFS(x + 1, y, val); // bottom
+            DFS(x, y - 1, val); // left
+            DFS(x, y + 1, val); // right
         }
 
         private bool hasNeighborZero(int x, int y)
         {
-            // right
+            // top
+            if (x > 0 && res[x - 1][y] == 0) return true;
+
+            // bottom
             if (x < row - 1 && res[x + 1][y] == 0) return true;
 
             // left
-            if (x > 0 && res[x - 1][y] == 0) return true;
-
-            // top
             if (y > 0 && res[x][y - 1] == 0) return true;
 
-            // bottom
+            // right
             if (y < col - 1 && res[x][y + 1] == 0) return true;
 
             return false;

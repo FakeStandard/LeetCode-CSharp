@@ -237,7 +237,7 @@
 | 0938 | [Range Sum of BST](/Solution/0938.Range-sum-of-BST/) | Tree, DFS, BFS, Binary Tree | [RangeSumBST](/Solution/0938.Range-sum-of-BST/0938-Range-sum-of-BST.cs/) | Easy | [:bulb:](/UnitTest/_0938_Range_sum_of_BST_Test.cs/) |
 | 0961 | [N-Repeated Element in Size 2N Array](/Solution/0961.N-repeated-element-in-size-2n-array/) | Array | [RepeatedNTimes](/Solution/0961.N-repeated-element-in-size-2n-array/0961-N-repeated-element-in-size-2n-array.cs/) | Easy | [:bulb:](/UnitTest/_0961_N_repeated_element_in_size_2n_array_Test.cs/) |
 | 0977 | [Squares of a Sorted Array](/Solution/0977.Squares-of-a-sort-array/) | Quick Sort | [SortedSquares](/Solution/0977.Squares-of-a-sort-array/0977-Squares-of-a-sort-array.cs/) | Easy | [:bulb:](/UnitTest/_0977_Squares_of_a_sort_array_Test.cs/) |
-| 0011 | [Rotting Oranges](/Solution/0994.Rotting-oranges/) | Array, BFS, Matrix | [OrangesRotting](/Solution/0994.Rotting-oranges/0994-Rotting-oranges.cs/) | Medium | [:bulb:](/UnitTest/_0994_Rotting_oranges_Test.cs/) |
+| 0994 | [Rotting Oranges](/Solution/0994.Rotting-oranges/) | Array, BFS, Matrix | [OrangesRotting](/Solution/0994.Rotting-oranges/0994-Rotting-oranges.cs/) | Medium | [:bulb:](/UnitTest/_0994_Rotting_oranges_Test.cs/) |
 | 0997 | [Find the Town Judge](/Solution/0997.Find-the-town-judge/) | Array | [FindJudge](/Solution/0997.Find-the-town-judge/0997-Find-the-town-judge.cs/) | Easy | [:bulb:](/UnitTest/_0997_Find_the_town_judge_Test.cs/) |
 
 ## 1001-

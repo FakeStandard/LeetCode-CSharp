@@ -115,6 +115,7 @@
 | 0112 |
 | 0113 | [Path Sum II](/Solution/0113.Path-sum-II/) | Tree, DFS, Binary Tree | [PathSum](/Solution/0113.Path-sum-II/0113-Path-sum-II.cs/) | Medium |  |
 | 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Tree, DFS, Binary Tree | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |
+| 0116 | [Populating Next Right Pointers in Each Node](/Solution/0116.Populating-next-right-pointers-in-each-node/) | Linked List, Tree, DFS, BFS, Binary Tree | [Connect](Solution/0116.Populating-next-right-pointers-in-each-node/0116-Populating-next-right-pointers-in-each-node.cs/) | Medium |  |
 | 0118 | [Pascal's Triangle](/Solution/0118.Pascals-triangle/) | Array, DP | [Generate](/Solution/0118.Pascals-triangle/0118-Pascals-triangle.cs/) | Easy | [:bulb:](/UnitTest/_0118_Pascals_triangle_Test.cs/) |
 | 0119 | [Pascal's Triangle II](/Solution/0119.Pascals-triangle-II/) | Array, DP | [GetRow](/Solution/0119.Pascals-triangle-II/0119-Pascals-triangle-II.cs/) | Easy | [:bulb:](/UnitTest/_0119_Pascals_triangle_II_Test.cs/) |
 | 0120 | [Triangle](/Solution/0120.Triangle/) | Array, DP | [MinimumTotal](/Solution/0120.Triangle/0120-Triangle.cs/) | Medium | [:bulb:](/UnitTest/_0120_Triangle_Test.cs/) |

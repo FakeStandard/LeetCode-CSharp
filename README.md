@@ -171,6 +171,7 @@
 | 0326 | [Power of Three](/Solution/0326.Power-of-three/) | Remainder(%) Operator | [IsPowerOfThree](/Solution/0326.Power-of-three/0326-Power-of-three.cs/) | Easy | [:bulb:](/UnitTest/_0326_Power_of_three_Test.cs/) |
 | 0334 | [Increasing Triplet Subsequence](/Solution/0334.Increasing-triplet-subsequence/) | Array | [IncreasingTriplet](/Solution/0334.Increasing-triplet-subsequence/0334-Increasing-triplet-subsequence.cs/) | Medium | [:bulb:](/UnitTest/_0334_Increasing_triplet_subsequence_Test.cs/) |
 | 0344 | [Reverse String](/Solution/0344.Reverse-string/) | String | [ReverseString](/Solution/0344.Reverse-string/0344-Reverse-string.cs/) | Easy |
+| 0347 | [Top K Frequent Elements](/Solution/0347.Top-k-frequent-elements/) | Array | [TopKFrequent](/Solution/0347.Top-k-frequent-elements/0347-Top-k-frequent-elements.cs/) | Medium | [:bulb:](/UnitTest/_0347_Top_k_frequent_elements_Test.cs/) |
 | 0350 |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](/Solution/0378.Kth-smallest-element-in-a-sorted-matrix/) | Binary Search, Matrix | [KthSmallest](/Solution/0378.Kth-smallest-element-in-a-sorted-matrix/0378-Kth-smallest-element-in-a-sorted-matrix.cs/) | Medium | [:bulb:](/UnitTest/_0378_Kth_smallest_element_in_a_sorted_matrix_Test.cs/) |
 | 0383 |

@@ -10,6 +10,21 @@ namespace Common
         public int val;
         public TreeNode left;
         public TreeNode right;
+
+        public TreeNode()
+        {
+            this.val = 0;
+            this.left = null;
+            this.right = null;
+        }
+
+        //public TreeNode(string val)
+        //{
+        //    this.val = int.Parse(val);
+        //    this.left = null;
+        //    this.right = null;
+        //}
+
         public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
         {
             this.val = val;

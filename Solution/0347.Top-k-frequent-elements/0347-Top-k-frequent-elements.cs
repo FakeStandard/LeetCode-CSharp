@@ -21,6 +21,7 @@ namespace Solution._0347.Top_k_frequent_elements
             int max = int.MinValue;
             int i = 0;
 
+            // Iterate k times to find the number displayed the most times.
             while (i < k)
             {
                 foreach (KeyValuePair<int, int> pair in dic)

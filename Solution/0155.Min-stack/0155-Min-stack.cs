@@ -18,33 +18,49 @@ namespace Solution._0155.Min_stack
         public class MinStack
         {
             /** initialize your data structure here. */
-
-            private Stack<int> stack;
+            private ListNode node;
 
             public MinStack()
             {
-                stack = new Stack<int>();
+                node = null;
             }
 
             public void Push(int val)
             {
-                stack.Push(val);
+                ListNode curr = new ListNode() { val = val };
+
+                if (node == null)
+                    curr.minVal = val;
+                else
+                {
+                    curr.minVal = Math.Min(node.minVal, val);
+                    curr.next = node;
+                }
+
+                node = curr;
             }
 
             public void Pop()
             {
-                stack.Pop();
+                node = node.next;
             }
 
             public int Top()
             {
-                return stack.Peek();
+                return node.val;
             }
 
             public int GetMin()
             {
-                return stack.Min();
+                return node.minVal;
             }
+        }
+
+        public class ListNode
+        {
+            public int val;
+            public int minVal;
+            public ListNode next;
         }
     }
 }

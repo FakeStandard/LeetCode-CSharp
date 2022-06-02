@@ -315,5 +315,7 @@
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 2006 | [Count Number of Pairs With Absolute Difference K](/Solution/2006.Count-number-of-pairs-with-absolute-difference-k/) | Array | [CountKDifference](/Solution/2006.Count-number-of-pairs-with-absolute-difference-k/2006-Count-number-of-pairs-with-absolute-difference-k.cs/) | Easy | [:bulb:](/UnitTest/_2006_Count_number_of_pairs_with_absolute_difference_k_Test.cs/) |
+| 2095 | [Delete the Middle Node of a Linked List](/Solution/2095.Delete-the-middle-node-of-a-linked-list/) | Linked List | [DeleteMiddle](/Solution/2095.Delete-the-middle-node-of-a-linked-list/2095-Delete-the-middle-node-of-a-linked-list.cs/) | Medium | [:bulb:](/UnitTest/_2095_Delete_the_middle_node_of_a_linked_list_Test.cs/) |
+
 | 2239 |
 | 2248 |

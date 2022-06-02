@@ -10,21 +10,20 @@ namespace Solution._0199.Binary_tree_right_side_view
         private IList<int> _res = new List<int>();
         public IList<int> RightSideView(TreeNode root)
         {
-            travel(root);
+            travel(root, 0);
 
             return _res;
         }
 
-        private void travel(TreeNode node)
+        private void travel(TreeNode node, int depth)
         {
             if (node == null) return;
 
-            _res.Add(node.val);
+            if (depth == _res.Count)
+                _res.Add(node.val);
 
-            if (node.right != null)
-                travel(node.right);
-            else
-                travel(node.left);
+            travel(node.right, depth + 1);
+            travel(node.left, depth + 1);
         }
     }
 }

@@ -84,7 +84,7 @@
 | 0079 | []() | Array | []() | Medium |  |
 | 0080 | []() | Array | []() | Medium |  |
 | 0081 | []() | Array | []() | Medium |  |
-| 0082 |
+| 0082 | [Remove Duplicates from Sorted List II](/Solution/0082.Remove-duplicates-from-sorted-list-II/) | Linked List | [DeleteDuplicates](/Solution/0082.Remove-duplicates-from-sorted-list-II/0082-Remove-duplicates-from-sorted-list-II.cs/) | Medium | [:bulb:](/UnitTest/_0082_Remove_duplicates_from_sorted_list_II_Test.cs/) |
 | 0083 | [Remove Duplicates from Sorted List](/Solution/0083.Remove-duplicates-from-sorted-list/) | Linked List | [DeleteDuplicates](/Solution/0083.Remove-duplicates-from-sorted-list/0083-Remove-duplicates-from-sorted-list.cs/) | Easy | [:bulb:](/UnitTest/_0083_Remove_duplicates_from_sorted_list_Test.cs/) |
 | 0084 | []() | Array | []() | Hard |  |
 | 0085 | []() | Array | []() | Hard |  |

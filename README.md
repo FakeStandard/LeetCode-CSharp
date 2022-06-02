@@ -140,7 +140,7 @@
 | 0190 | [Reverse Bits](/Solution/0190.Reverse-bits/) | Bit Manipulation | [reverseBits](/Solution/0190.Reverse-bits/0190-Reverse-bits.cs/) | Easy |  |
 | 0191 | [Number of 1 Bits](/Solution/0191.Number-of-1-bits/) | Bit Manipulation | [HammingWeight](/Solution/0191.Number-of-1-bits/0191-Number-of-1-bits.cs/) | Easy |  |
 | 0198 | [House Robber](/Solution/0198.House-robber/) | Array, DP | [Rob](/Solution/0198.House-robber/0198-House-robbercs.cs/) | Medium | [:bulb:](/UnitTest/_0198_House_robbercs_Test.cs/) |
-| 0199 | [Binary Tree Right Side View]() | Tree, DFS, BFS, Binary Tree | [RightSideView]() | Medium |  |
+| 0199 | [Binary Tree Right Side View](/Solution/0199.Binary-tree-right-side-view/) | Tree, DFS, BFS, Binary Tree | [RightSideView](/Solution/0199.Binary-tree-right-side-view/0199-Binary-tree-right-side-view.cs/) | Medium |  |
 
 ## 201-300
 | No. | Title | Tag | Solution | Difficulty | UnitTest |

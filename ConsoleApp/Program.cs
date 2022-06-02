@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static Solution._0707.Design_linked_list._0707_Design_linked_list;
 
 namespace ConsoleApp
 {
@@ -7,11 +8,37 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+
+            MyLinkedList obj = new MyLinkedList();
+            obj.AddAtHead(4);
+            obj.Get(1);
+            obj.AddAtHead(1);
+            obj.AddAtHead(5);
+            obj.DeleteAtIndex(3);
+            obj.AddAtHead(7);
+            obj.Get(3);
+            obj.Get(3);
+            obj.Get(3);
+            obj.AddAtHead(1);
+            obj.DeleteAtIndex(4);
+
+            //["MyLinkedList","addAtHead","get","addAtHead","addAtHead","deleteAtIndex","addAtHead","get","get","get","addAtHead","deleteAtIndex"]
+            //[[],[4],[1],[1],[5],[3],[7],[3],[3],[3],[1],[4]]
+
+            //obj.AddAtHead(1);
+            //obj.AddAtTail(3);
+            //obj.AddAtIndex(1, 2);
+            //obj.Get(1);
+            //obj.DeleteAtIndex(1);
+            //obj.Get(1);
+
+            return;
+
             {
                 string a = "first";
                 Console.WriteLine(a);
             }
-            
+
 
             {
                 string a = "scope";

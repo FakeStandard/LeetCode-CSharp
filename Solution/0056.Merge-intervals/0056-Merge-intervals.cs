@@ -10,34 +10,29 @@ namespace Solution._0056.Merge_intervals
         {
             if (intervals == null || intervals.Length == 0) return null;
 
+            Array.Sort(intervals, (m, n) => m[0].CompareTo(n[0]));
             List<int[]> res = new List<int[]>();
 
-            // first 1,2 end 1,2
-            int f1, f2, e1, e2;
 
-            for (int i = 0; i < intervals.Length; i++)
+            int start = intervals[0][0];
+            int end = intervals[0][1];
+
+            for (int i = 1; i < intervals.Length; i++)
             {
-                f1 = intervals[i][0];
-                e1 = intervals[i][1];
-                if (i == intervals.Length - 1)
+                if (intervals[i][0] <= end)
                 {
-                    res.Add(new int[] { f1, e1 });
-                    break;
-                }
-
-                f2 = intervals[i + 1][0];
-                e2 = intervals[i + 1][1];
-
-                if (f1 <= f2 && e2 >= e1 && f2 <= e1)
-                {
-                    // merge
-                    res.Add(new int[] { f1, e2 });
-                    i++;
+                    end = Math.Max(end, intervals[i][1]);
                     continue;
                 }
-                else
-                    res.Add(new int[] { f1, e1 });
+
+                res.Add(new int[] { start, end });
+
+                start = intervals[i][0];
+                end = Math.Max(end, intervals[i][1]);
             }
+
+            // last item
+            res.Add(new int[] { start, end });
 
             return res.ToArray();
         }

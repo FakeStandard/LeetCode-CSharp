@@ -50,7 +50,7 @@
 | 0045 | []() | Array | []() | Medium |  |
 | 0046 | [Permutations](/Solution/0046.Permutations/) | Array, Backtracking | [Permute](/Solution/0046.Permutations/0046-Permutations.cs/) | Medium | [:bulb:](/UnitTest/_0046_Permutations_Test.cs/) |
 | 0047 | []() | Array | []() | Medium |  |
-| 0048 | []() | Array | []() | Medium |  |
+| 0048 | [Rotate Image](/Solution/0048.Rotate-image/) | Array | [Rotate](/Solution/0048.Rotate-image/0048-Rotate-image.cs/) | Medium |  |
 | 0049 | [Group Anagrams](/Solution/0049.Group-anagrams/) | String | [GroupAnagrams](/Solution/0049.Group-anagrams/0049-Group-anagrams.cs/) | Medium | [:bulb:](/UnitTest/_0049_Group_anagrams_Test.cs/) |
 | 0050 |
 | 0051 | []() | Array | []() | Hard |  |

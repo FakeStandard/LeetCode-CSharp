@@ -1,5 +1,4 @@
-﻿using Common;
-using Solution._0143.Reorder_list;
+﻿using Solution._0048.Rotate_image;
 using System;
 using System.Collections.Generic;
 
@@ -9,23 +8,16 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            ListNode node = new ListNode().AddNode(new int[] { 1, 2, 3, 4 });
-            // 1,4,2,3
-            // 1,5,2,4,3
-            _0143_Reorder_list c = new _0143_Reorder_list();
-            c.ReorderList(node);
-
-            //["MyLinkedList","addAtHead","get","addAtHead","addAtHead","deleteAtIndex","addAtHead","get","get","get","addAtHead","deleteAtIndex"]
-            //[[],[4],[1],[1],[5],[3],[7],[3],[3],[3],[1],[4]]
-
-            //obj.AddAtHead(1);
-            //obj.AddAtTail(3);
-            //obj.AddAtIndex(1, 2);
-            //obj.Get(1);
-            //obj.DeleteAtIndex(1);
-            //obj.Get(1);
+            _0048_Rotate_image s = new _0048_Rotate_image();
+            s.Rotate(new int[][]
+            {
+                new int[]{1, 2, 3},
+                new int[]{4, 5, 6},
+                new int[]{7, 8, 9 }
+            });
 
             return;
+
 
             {
                 string a = "first";

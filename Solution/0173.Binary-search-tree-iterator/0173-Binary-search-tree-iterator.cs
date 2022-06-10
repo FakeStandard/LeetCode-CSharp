@@ -15,14 +15,14 @@ namespace Solution._0173.Binary_search_tree_iterator
             {
                 stack = new Stack<TreeNode>();
 
-                TraverseLeft(root);
+                TraversalLeft(root);
             }
 
             public int Next()
             {
                 var next = stack.Pop();
 
-                TraverseLeft(next.right);
+                TraversalLeft(next.right);
 
                 return next.val;
             }
@@ -32,7 +32,7 @@ namespace Solution._0173.Binary_search_tree_iterator
                 return stack.Count > 0;
             }
 
-            private void TraverseLeft(TreeNode node)
+            private void TraversalLeft(TreeNode node)
             {
                 while (node != null)
                 {

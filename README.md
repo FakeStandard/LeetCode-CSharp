@@ -207,6 +207,8 @@
 | 0560 | [Subarray Sum Equals K](/Solution/0560.Subarray-sum-equals-k/) | Array, Dictionary | [SubarraySum](/Solution/0560.Subarray-sum-equals-k/0560-Subarray-sum-equals-k.cs/) | Medium | [:bulb:](/UnitTest/_0560_Subarray_sum_equals_k_Test.cs/) |
 | 0566 | [Reshape the Matrix](/Solution/0566.Reshape-the-matrix/) | Array, Matrix | [MatrixReshape](/Solution/0566.Reshape-the-matrix/0566-Reshape-the-matrix.cs/) | Medium | [:bulb:](/UnitTest/_0566_Reshape_the_matrix_Test.cs/) |
 | 0567 | [Permutation in String](/Solution/0567.Permutation-in-string/) | String | [CheckInclusion](/Solution/0567.Permutation-in-string/0567-Permutation-in-string.cs/) | Medium | [:bulb:](/UnitTest/_0567_Permutation_in_string_Test.cs/) |
+| 0589 | [N-ary Tree Preorder Traversal](/Solution/0589.N-ary-tree-preorder-traversal/) | Tree | [Preorder](/Solution/0589.N-ary-tree-preorder-traversal/0589-N-ary-tree-preorder-traversal.cs/) | Easy |  |
+
 
 ## 601-700
 | No. | Title | Tag | Solution | Difficulty | UnitTest |

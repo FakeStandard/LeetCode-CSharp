@@ -8,26 +8,17 @@ namespace Solution._1299.Replace_elements_with_greatest_element_on_right_side
     {
         public int[] ReplaceElements(int[] arr)
         {
-            int[] res = new int[arr.Length];
-            int max = 0;
+            int max = -1;
+            int temp = -1;
 
-            for (int i = 0; i < arr.Length - 1; i++)
+            for (int i = arr.Length - 1; i >= 0; i--)
             {
-                max = 0;
-
-                // search max on right side
-                for (int j = i + 1; j < arr.Length; j++)
-                {
-                    if (arr[j] > max)
-                        max = arr[j];
-                }
-
-                res[i] = max;
+                temp = arr[i];
+                arr[i] = max;
+                max = temp > max ? temp : max;
             }
 
-            res[res.Length - 1] = -1;
-
-            return res;
+            return arr;
         }
     }
 }

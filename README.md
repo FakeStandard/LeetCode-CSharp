@@ -248,6 +248,7 @@
 ## 901-1000
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
+| 0905 | [Sort Array By Parity](/Solution/0905.Sort-array-by-parity/) | Array | [SortArrayByParity](/Solution/0905.Sort-array-by-parity/0905-Sort-array-by-parity.cs/) | Easy | [:bulb:](/UnitTest/_0905_Sort_array_by_parity_Test.cs/) |
 | 0912 | [Sort an Array](/Solution/0912.Sort-an-array/) | Quick Sort | [SortArray](/Solution/0912.Sort-an-array/0912-Sort-an-array.cs/) | Medium | [:bulb:](/UnitTest/_0912_Sort_an_array_Test.cs/) |
 | 0917 | [Reverse Only Letters](/Solution/0917.Reverse-only-letters/) | String | [ReverseOnlyLetters](/Solution/0917.Reverse-only-letters/0917-Reverse-only-letters.cs/) | Easy | [:bulb:](/UnitTest/_0917_Reverse_only_letters_Test.cs/) |
 | 0938 | [Range Sum of BST](/Solution/0938.Range-sum-of-BST/) | Tree, DFS, BFS, Binary Tree | [RangeSumBST](/Solution/0938.Range-sum-of-BST/0938-Range-sum-of-BST.cs/) | Easy | [:bulb:](/UnitTest/_0938_Range_sum_of_BST_Test.cs/) |

@@ -257,11 +257,19 @@
 | 0994 | [Rotting Oranges](/Solution/0994.Rotting-oranges/) | Array, BFS, Matrix | [OrangesRotting](/Solution/0994.Rotting-oranges/0994-Rotting-oranges.cs/) | Medium | [:bulb:](/UnitTest/_0994_Rotting_oranges_Test.cs/) |
 | 0997 | [Find the Town Judge](/Solution/0997.Find-the-town-judge/) | Array | [FindJudge](/Solution/0997.Find-the-town-judge/0997-Find-the-town-judge.cs/) | Easy | [:bulb:](/UnitTest/_0997_Find_the_town_judge_Test.cs/) |
 
-## 1001-
+## 1001-1100
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 1047 | [Remove All Adjacent Duplicates In String](/Solution/1047.Remove-all-adjacent-duplicates-in-string/) | String | [RemoveDuplicates](/Solution/1047.Remove-all-adjacent-duplicates-in-string/1047-Remove-all-adjacent-duplicates-in-string.cs/) | Easy | [:bulb:](/UnitTest/_1047_Remove_all_adjacent_duplicates_in_string_Test.cs/) |
+
+## 1101-1200
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 1108 | [Defanging an IP Address](/Solution/1108.Defanging-an-IP-address/) | String | [DefangIPaddr](/Solution/1108.Defanging-an-IP-address/1108-Defanging-an-IP-address.cs/) | Easy | [:bulb:](/UnitTest/_1108_Defanging_an_IP_address_Test.cs/) |
+
+## 1201-1300
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 1207 | [Unique Number of Occurrences](/Solution/1207.Unique-number-of-occurrences/) | Array | [UniqueOccurrences](/Solution/1207.Unique-number-of-occurrences/1207-Unique-number-of-occurrences.cs/) | Easy | [:bulb:](/UnitTest/_1207_Unique_number_of_occurrences_Test.cs/) |
 | 1220 | [Count Vowels Permutation](/Solution/1220.Count-vowels-permutation/) | DP | [CountVowelPermutation](/Solution/1220.Count-vowels-permutation/1220-Count-vowels-permutation.cs/) | Hard | [:bulb:](/UnitTest/_1220_Count_vowels_permutation_Test.cs/) |
 | 1221 | [Split a String in Balanced Strings](/Solution/1221.Split-a-string-in-balanced-strings/) | String| [BalancedStringSplit](/Solution/1221.Split-a-string-in-balanced-strings/1221-Split-a-string-in-balanced-strings.cs/) | Easy | [:bulb:](/UnitTest/_1221_Split_a_string_in_balanced_strings_Test.cs/) |
@@ -269,6 +277,11 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](/Solution/1281.Subtract-the-product-and-sum-of-digits-of-an-integer/) | Enumeration, Remainder(%) operator | [SubtractProductAndSum](/Solution/1281.Subtract-the-product-and-sum-of-digits-of-an-integer/1281-Subtract-the-product-and-sum-of-digits-of-an-integer.cs/) | Easy | [:bulb:](/UnitTest/_1281_Subtract_the_product_and_sum_of_digits_of_an_integer_Test.cs/) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](/Solution/1290.Convert-binary-number-in-a-linked-list-to-integer/) | Linked List | [GetDecimalValue](/Solution/1290.Convert-binary-number-in-a-linked-list-to-integer/1290-Convert-binary-number-in-a-linked-list-to-integer.cs/) | Easy | [:bulb:](/UnitTest/_1290_Convert_binary_number_in_a_linked_list_to_integer_Test.cs/) |
 | 1295 | [Find Numbers with Even Number of Digits](/Solution/1295.Find-numbers-with-even-number-of-digits/) | Array | [FindNumbers](/Solution/1295.Find-numbers-with-even-number-of-digits/1295-Find-numbers-with-even-number-of-digits.cs/) | Easy | [:bulb:](/UnitTest/_1295_Find_numbers_with_even_number_of_digits_Test.cs/) |
+| 1299 | [Replace Elements with Greatest Element on Right Side](/Solution/1299.Replace-elements-with-greatest-element-on-right-side/) | Array | [ReplaceElements](/Solution/1299.Replace-elements-with-greatest-element-on-right-side/1299-Replace-elements-with-greatest-element-on-right-side.cs/) | Easy | [:bulb:](/UnitTest/_1299_Replace_elements_with_greatest_element_on_right_side_Test.cs/) |
+
+## 1301-
+| No. | Title | Tag | Solution | Difficulty | UnitTest |
+|-|-|-|-|:-:|:-:|
 | 1313 | [Decompress Run-Length Encoded List](/Solution/1313.Decompress-run-length-encoded-list/) | List, Array | [DecompressRLElist](/Solution/1313.Decompress-run-length-encoded-list/1313-Decompress-run-length-encoded-list.cs/) | Easy | [:bulb:](/UnitTest/_1313_Decompress_run_length_encoded_list_Test.cs/) |
 | 1342 | [Nnumber of Steps to Reduce a Number to Zero](/Solution/1342.Number-of-steps-to-reduce-a-number-to-zero/) | Enumeration, Remainder(%) operator | [NumberOfSteps](/Solution/1342.Number-of-steps-to-reduce-a-number-to-zero/1342-Number-of-steps-to-reduce-a-number-to-zero.cs/) | Easy | [:bulb:](/UnitTest/_1342_Number_of_steps_to_reduce_a_number_to_zero_Test.cs/) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](/Solution/1351.Count-negative-numbers-in-a-sorted-matrix/) | Array | [CountNegatives](/Solution/1351.Count-negative-numbers-in-a-sorted-matrix/1351-Count-negative-numbers-in-a-sorted-matrix.cs/) | Easy | [:bulb:](/UnitTest/_1351_Count_negative_numbers_in_a_sorted_matrix_Test.cs/) |

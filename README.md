@@ -262,6 +262,7 @@
 |-|-|-|-|:-:|:-:|
 | 1047 | [Remove All Adjacent Duplicates In String](/Solution/1047.Remove-all-adjacent-duplicates-in-string/) | String | [RemoveDuplicates](/Solution/1047.Remove-all-adjacent-duplicates-in-string/1047-Remove-all-adjacent-duplicates-in-string.cs/) | Easy | [:bulb:](/UnitTest/_1047_Remove_all_adjacent_duplicates_in_string_Test.cs/) |
 | 1108 | [Defanging an IP Address](/Solution/1108.Defanging-an-IP-address/) | String | [DefangIPaddr](/Solution/1108.Defanging-an-IP-address/1108-Defanging-an-IP-address.cs/) | Easy | [:bulb:](/UnitTest/_1108_Defanging_an_IP_address_Test.cs/) |
+| 1207 | [Unique Number of Occurrences](/Solution/1207.Unique-number-of-occurrences/) | Array | [UniqueOccurrences](/Solution/1207.Unique-number-of-occurrences/1207-Unique-number-of-occurrences.cs/) | Easy | [:bulb:](/UnitTest/_1207_Unique_number_of_occurrences_Test.cs/) |
 | 1220 | [Count Vowels Permutation](/Solution/1220.Count-vowels-permutation/) | DP | [CountVowelPermutation](/Solution/1220.Count-vowels-permutation/1220-Count-vowels-permutation.cs/) | Hard | [:bulb:](/UnitTest/_1220_Count_vowels_permutation_Test.cs/) |
 | 1221 | [Split a String in Balanced Strings](/Solution/1221.Split-a-string-in-balanced-strings/) | String| [BalancedStringSplit](/Solution/1221.Split-a-string-in-balanced-strings/1221-Split-a-string-in-balanced-strings.cs/) | Easy | [:bulb:](/UnitTest/_1221_Split_a_string_in_balanced_strings_Test.cs/) |
 | 1249 | [Minimum Remove to Make Valid Parentheses](/Solution/1249.Minimum-remove-to-make-valid-parentheses/) | String | [MinRemoveToMakeValid](/Solution/1249.Minimum-remove-to-make-valid-parentheses/1249-Minimum-remove-to-make-valid-parentheses.cs/) | Medium | [:bulb:](/UnitTest/_1249_Minimum_remove_to_make_valid_parentheses_Test.cs/) |
@@ -323,6 +324,7 @@
 ## 2001-
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
+| 2001 | []() | Array | []() | Medium |  |
 | 2006 | [Count Number of Pairs With Absolute Difference K](/Solution/2006.Count-number-of-pairs-with-absolute-difference-k/) | Array | [CountKDifference](/Solution/2006.Count-number-of-pairs-with-absolute-difference-k/2006-Count-number-of-pairs-with-absolute-difference-k.cs/) | Easy | [:bulb:](/UnitTest/_2006_Count_number_of_pairs_with_absolute_difference_k_Test.cs/) |
 | 2095 | [Delete the Middle Node of a Linked List](/Solution/2095.Delete-the-middle-node-of-a-linked-list/) | Linked List | [DeleteMiddle](/Solution/2095.Delete-the-middle-node-of-a-linked-list/2095-Delete-the-middle-node-of-a-linked-list.cs/) | Medium | [:bulb:](/UnitTest/_2095_Delete_the_middle_node_of_a_linked_list_Test.cs/) |
 | 2239 |

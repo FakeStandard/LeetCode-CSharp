@@ -260,6 +260,7 @@
 ## 1001-1100
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
+| 1022 | [Sum of Root To Leaf Binary Numbers](/Solution/1022.Sum-of-root-to-leaf-binary-numbers/) | Tree | [SumRootToLeaf](/Solution/1022.Sum-of-root-to-leaf-binary-numbers/1022-Sum-of-root-to-leaf-binary-numbers.cs/) | Easy |  |
 | 1047 | [Remove All Adjacent Duplicates In String](/Solution/1047.Remove-all-adjacent-duplicates-in-string/) | String | [RemoveDuplicates](/Solution/1047.Remove-all-adjacent-duplicates-in-string/1047-Remove-all-adjacent-duplicates-in-string.cs/) | Easy | [:bulb:](/UnitTest/_1047_Remove_all_adjacent_duplicates_in_string_Test.cs/) |
 
 ## 1101-1200

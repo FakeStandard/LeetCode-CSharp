@@ -21,9 +21,7 @@ namespace Solution._0026.Remove_duplicates_from_sorted_array
                 }
             }
 
-            res++;
-
-            return res;
+            return ++res;
 
             //if (nums.Length == 0) return 0;
 

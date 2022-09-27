@@ -53,5 +53,19 @@ namespace _0066.Plus_one.Tests
             // Assert
             actual.Should().BeEquivalentTo(expected);
         }
+
+        [TestMethod()]
+        public void PlusOne_Test4()
+        {
+            // Arrange
+            int[] digits = { 9 };
+            int[] expected = { 1, 0 };
+
+            // Act
+            var actual = solution.PlusOne(digits);
+
+            // Assert
+            actual.Should().BeEquivalentTo(expected);
+        }
     }
 }

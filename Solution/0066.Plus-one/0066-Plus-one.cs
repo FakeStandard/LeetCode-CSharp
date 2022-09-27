@@ -8,52 +8,39 @@ namespace Solution._0066.Plus_one
     {
         public int[] PlusOne(int[] digits)
         {
-            if (digits.Length == 0) return null;
-
-            List<int> res = new List<int>();
+            List<int> list = new List<int>();
             bool carry = false;
 
-            for (int i = digits.Length - 1; i >= 0; i--)
+            int len = digits.Length - 1;
+
+            if (digits[len] + 1 == 10)
             {
-                if (i == digits.Length - 1)
+                list.Add(0);
+                carry = true;
+            }
+            else list.Add(digits[len] + 1);
+
+            for (int i = len - 1; i >= 0; i--)
+            {
+                if (carry)
                 {
                     if (digits[i] + 1 == 10)
-                    {
-                        res.Add(0);
-                        carry = true;
-                    }
+                        list.Add(0);
                     else
-                        res.Add(digits[i] + 1);
-                }
-                else
-                {
-                    if (carry)
                     {
-                        if (digits[i] + 1 == 10)
-                        {
-                            res.Add(0);
-                            carry = true;
-                        }
-                        else
-                        {
-                            res.Add(digits[i] + 1);
-                            carry = false;
-                        }
+                        list.Add(digits[i] + 1);
+                        carry = false;
                     }
-                    else
-                        res.Add(digits[i]);
-
                 }
+                else list.Add(digits[i]);
             }
 
-            if (carry)
-                res.Add(1);
+            if (carry) list.Add(1);
 
-            var r = res.ToArray();
+            var res = list.ToArray();
+            Array.Reverse(res);
 
-            Array.Reverse(r);
-
-            return r;
+            return res;
         }
     }
 }

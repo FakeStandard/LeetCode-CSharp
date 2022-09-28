@@ -11,7 +11,7 @@
 | 0006 |
 | 0007 | [Reverse Integer](/Solution/0007.Reverse-integer/) | Array.Reverse, string.Contains, string.Replace | [Reverse](/Solution/0007.Reverse-integer/0007-Reverse-integer.cs/) | Easy | [:bulb:](/UnitTest/_0007_Reverse_integer_Test.cs/) |
 | 0008 |
-| 0009 | [Palindrome Number](/Solution/0009.Palindrome-number/) | %,/ | [IsPalindrome](/Solution/0009.Palindrome-number/0009-Palindrome-number.cs/) | Easy | [:bulb:](/UnitTest/_0009_Palindrome_number_Test.cs/) |
+| 0009 | [Palindrome Number](/Solution/0009.Palindrome-number/) | %,/ | [IsPalindrome](/Solution/0009.Palindrome-number/0009-Palindrome-number.cs/) | Easy | [:bulb:](/UnitTest/_0009_Palindrome_number_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/palindrome-number-4l15) |
 | 0010 |
 | 0011 | []() | Array | []() | Medium |  |
 | 0012 |

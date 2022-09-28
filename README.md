@@ -96,7 +96,7 @@
 | 0091 |
 | 0092 |
 | 0093 |
-| 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Tree, DFS, Binary Tree | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy |
+| 0094 | [Binary Tree Inorder Traversal](/Solution/0094.Binary-tree-inorder-traversal/) | Tree, DFS, Binary Tree | [InorderTraversal](/Solution/0094.Binary-tree-inorder-traversal/0094-Binary-tree-inorder-traversal.cs/) | Easy | :x: |
 | 0095 |
 | 0096 |
 | 0097 |

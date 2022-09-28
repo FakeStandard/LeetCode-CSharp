@@ -9,20 +9,35 @@ namespace Solution._0083.Remove_duplicates_from_sorted_list
     {
         public ListNode DeleteDuplicates(ListNode head)
         {
-            if (head != null && head.next != null)
+            if (head != null)
             {
-                var current = head;
+                var curr = head;
 
-                while (current != null && current.next != null)
+                while (curr != null && curr.next != null)
                 {
-                    if (current.val == current.next.val)
-                        current.next = current.next.next;
+                    if (curr.val == curr.next.val)
+                        curr.next = curr.next.next;
                     else
-                        current = current.next;
+                        curr = curr.next;
                 }
             }
 
             return head;
+
+            //if (head != null && head.next != null)
+            //{
+            //    var current = head;
+
+            //    while (current != null && current.next != null)
+            //    {
+            //        if (current.val == current.next.val)
+            //            current.next = current.next.next;
+            //        else
+            //            current = current.next;
+            //    }
+            //}
+
+            //return head;
 
             //if (head == null) return null;
 

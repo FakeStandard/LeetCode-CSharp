@@ -102,7 +102,7 @@
 | 0097 |
 | 0098 |
 | 0099 |
-| 0100 | [Same Tree](/Solution/0100.Same-tree/) | Tree, DFS, BFS, Binary Tree | [IsSameTree](/Solution/0100.Same-tree/0100-Same-tree.cs/) | Easy |
+| 0100 | [Same Tree](/Solution/0100.Same-tree/) | Tree, DFS, BFS, Binary Tree | [IsSameTree](/Solution/0100.Same-tree/0100-Same-tree.cs/) | Easy | :x: |
 
 ## 101-200
 | No. | Title | Tag | Solution | Difficulty | UnitTest |

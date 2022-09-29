@@ -107,7 +107,7 @@
 ## 101-200
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
-| 0101 | [Symmetric Tree](/Solution/0101.Symmetric-tree/) | Tree, DFS, BFS, Binary Tree | [IsSymmetric](/Solution/0101.Symmetric-tree/0101-Symmetric-tree.cs/) | Easy |  |
+| 0101 | [Symmetric Tree](/Solution/0101.Symmetric-tree/) | Tree, DFS, BFS, Binary Tree | [IsSymmetric](/Solution/0101.Symmetric-tree/0101-Symmetric-tree.cs/) | Easy | :x: |
 | 0102 | [Binary Tree Level Order Traversal](/Solution/0102.Binary-tree-level-order-traversal/) | Tree, BFS, Binary Tree | [LevelOrder](/Solution/0102.Binary-tree-level-order-traversal/0102-Binary-tree-level-order-traversal.cs/) | Medium |  |
 | 0104 | [Maximum Depth of Binary Tree](/Solution/0104.Maxium-depth-of-binary-tree/) | Tree, DFS, BFS, Binary Tree | [MaxDepth](/Solution/0104.Maxium-depth-of-binary-tree/0104-Maxium-depth-of-binary-tree.cs/) | Easy |
 | 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](/Solution/0105.Construct-binary-tree-from-preorder-and-inorder-traversal/) | Array, Tree, Binary Tree | [BuildTree](/Solution/0105.Construct-binary-tree-from-preorder-and-inorder-traversal/0105-Construct-binary-tree-from-preorder-and-inorder-traversal.cs/) | Medium |  |

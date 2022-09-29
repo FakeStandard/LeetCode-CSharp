@@ -11,16 +11,16 @@ namespace Solution._0101.Symmetric_tree
         {
             if (root == null) return true;
 
-            return DFS(root.left, root.right);
+            return Compare(root.left, root.right);
         }
 
-        private bool DFS(TreeNode left, TreeNode right)
+        private bool Compare(TreeNode l, TreeNode r)
         {
-            if (left == null && right == null) return true;
-            if (left == null || right == null) return false;
+            if (l == null && r == null) return true;
+            if (l == null || r == null) return false;
 
-            if (left.val == right.val)
-                return DFS(left.left, right.right) && DFS(left.right, right.left);
+            if (l.val == r.val)
+                return Compare(l.left, r.right) && Compare(l.right, r.left);
 
             return false;
         }

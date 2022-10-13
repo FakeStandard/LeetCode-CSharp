@@ -37,7 +37,7 @@
 | 0032 | [Longest Valid Parentheses](/Solution/0032.Longest-valid-parentheses/) | Stack | [LongestValidParentheses](/Solution/0032.Longest-valid-parentheses/0032-Longest-valid-parentheses.cs/) | Hard | [:bulb:](/UnitTest/_0032_Longest_valid_parentheses_Test.cs/) |
 | 0033 | []() | Array | []() | Medium |  |
 | 0034 | []() | Array | []() | Medium |  |
-| 0035 | [Search Insert Position](/Solution/0035.Search-insert-position/) | Binary Search, Array | [SearchInsert](/Solution/0035.Search-insert-position/0035-Search-insert-position.cs/) | Easy | [:bulb:](/UnitTest/_0035_Search_insert_position_Test.cs/) |
+| 0035 | [Search Insert Position](/Solution/0035.Search-insert-position/) | Binary Search, Array | [SearchInsert](/Solution/0035.Search-insert-position/0035-Search-insert-position.cs/) | Easy | [:bulb:](/UnitTest/_0035_Search_insert_position_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/search-insert-position-5f) |
 | 0036 | [Valid Sudoku](/Solution/0036.Valid-sudoku/) | Hash Set, Array | [ValidSudoku](/Solution//0036.Valid-sudoku/0036-Valid-sudoku.cs/) | Medium | [:bulb:](/UnitTest/_0036_Valid_sudoku_Test.cs/) |
 | 0037 | []() | Array | []() | Hard |  |
 | 0038 |

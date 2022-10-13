@@ -1,7 +1,4 @@
 ﻿using Common;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Solution._0104.Maxium_depth_of_binary_tree
 {
@@ -9,7 +6,7 @@ namespace Solution._0104.Maxium_depth_of_binary_tree
     {
         public int MaxDepth(TreeNode root)
         {
-            if (root == null) return 0;
+            if (root is null) return 0;
 
             int left = MaxDepth(root.left);
             int right = MaxDepth(root.right);

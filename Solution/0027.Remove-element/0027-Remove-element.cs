@@ -11,13 +11,8 @@ namespace Solution._0027.Remove_element
             int res = 0;
 
             for (int i = 0; i < nums.Length; i++)
-            {
                 if (nums[i] != val)
-                {
-                    nums[res] = nums[i];
-                    res++;
-                }
-            }
+                    nums[res++] = nums[i];
 
             return res;
         }

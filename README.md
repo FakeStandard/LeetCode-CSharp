@@ -28,8 +28,8 @@
 | 0023 |
 | 0024 | [Swap Nodes in Pairs](/Solution/0024.Swap-nodes-in-pairs/) | Linked List | [SwapPairs](/Solution/0024.Swap-nodes-in-pairs/0024-Swap-nodes-in-pairs.cs/) | Medium | [:bulb:](/UnitTest/_0024_Swap_nodes_in_pairs_Test.cs/) |
 | 0025 | [Reverse Nodes in k-Group](/Solution/0025.Reverse-nodes-in-k-group/) | Linked List | [ReverseKGroup](/Solution/0025.Reverse-nodes-in-k-group/0025-Reverse-nodes-in-k-group.cs/) | Hard | [:bulb:](/UnitTest/_0025_Reverse_nodes_in_k_group_Test.cs/) |
-| 0026 | [Remove Duplicates from Sorted Array](/Solution/0026.Remove-duplicates-from-sorted-array/) | Array | [RemoveDuplicates](/Solution/0026.Remove-duplicates-from-sorted-array/0026-Remove-duplicates-from-sorted-array.cs/) | Easy | [:bulb:](/UnitTest/_0026_Remove_duplicates_from_sorted_array_Test.cs/) |
-| 0027 | [Remove Element](/Solution/0027.Remove-element/) | Array | [RemoveElement](/Solution/0027.Remove-element/0027-Remove-element.cs/) | Easy | [:bulb:](/UnitTest/_0027_Remove_element_Test.cs/) |
+| 0026 | [Remove Duplicates from Sorted Array](/Solution/0026.Remove-duplicates-from-sorted-array/) | Array | [RemoveDuplicates](/Solution/0026.Remove-duplicates-from-sorted-array/0026-Remove-duplicates-from-sorted-array.cs/) | Easy | [:bulb:](/UnitTest/_0026_Remove_duplicates_from_sorted_array_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/remove-duplicates-from-sorted-array-85n) |
+| 0027 | [Remove Element](/Solution/0027.Remove-element/) | Array | [RemoveElement](/Solution/0027.Remove-element/0027-Remove-element.cs/) | Easy | [:bulb:](/UnitTest/_0027_Remove_element_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/remove-element-1c8n) |
 | 0028 | [Implement strStr()](/Solution/0028.Implement-strStr/) | string.Contains | [StrStr](/Solution/0028.Implement-strStr/0028-Implement-strStr.cs/) | Easy | [:bulb:](/UnitTest/_0028_Implement_strStr_Test.cs/) |
 | 0029 |
 | 0030 |

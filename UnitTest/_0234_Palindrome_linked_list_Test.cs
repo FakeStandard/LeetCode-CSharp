@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0234.Palindrome_linked_list;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Common;
 
 namespace _0234.Palindrome_linked_list.Tests

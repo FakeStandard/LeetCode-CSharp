@@ -1,9 +1,7 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0119.Pascals_triangle_II;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace _0119.Pascals_triangle_II.Tests
 {

@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1460.Make_two_arrays_equal_by_reversing_sub_arrays;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1460.Make_two_arrays_equal_by_reversing_sub_arrays.Tests
 {

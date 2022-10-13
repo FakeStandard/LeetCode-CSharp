@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0378.Kth_smallest_element_in_a_sorted_matrix;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0378.Kth_smallest_element_in_a_sorted_matrix.Tests
 {

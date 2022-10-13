@@ -2,9 +2,6 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._2095.Delete_the_middle_node_of_a_linked_list;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _2095.Delete_the_middle_node_of_a_linked_list.Tests
 {

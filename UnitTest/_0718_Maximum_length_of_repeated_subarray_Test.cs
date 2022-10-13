@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0718.Maximum_length_of_repeated_subarray;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0718.Maximum_length_of_repeated_subarray.Tests
 {

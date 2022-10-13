@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0016._3Sum_closest;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0016._3Sum_closest.Tests
 {

@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1295.Find_numbers_with_even_number_of_digits;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1295.Find_numbers_with_even_number_of_digits.Tests
 {

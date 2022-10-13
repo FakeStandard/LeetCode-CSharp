@@ -2,9 +2,6 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0082.Remove_duplicates_from_sorted_list_II;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0082.Remove_duplicates_from_sorted_list_II.Tests
 {

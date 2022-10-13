@@ -2,9 +2,6 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0876.Middle_of_the_linked_list;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0876.Middle_of_the_linked_list.Tests
 {

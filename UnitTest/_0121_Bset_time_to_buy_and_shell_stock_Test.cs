@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0121.Best_time_to_buy_and_shell_stock;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0121.Best_time_to_buy_and_shell_stock.Tests
 {

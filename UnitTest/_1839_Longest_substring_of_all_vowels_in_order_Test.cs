@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1839.Longest_substring_of_all_vowels_in_order;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1839.Longest_substring_of_all_vowels_in_order.Tests
 {

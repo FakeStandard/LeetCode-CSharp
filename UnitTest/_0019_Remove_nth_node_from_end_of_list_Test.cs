@@ -2,9 +2,6 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0019.Remove_nth_node_from_end_of_list;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0019.Remove_nth_node_from_end_of_list.Tests
 {

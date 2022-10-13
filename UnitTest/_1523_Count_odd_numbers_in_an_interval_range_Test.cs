@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1523.Count_odd_numbers_in_an_interval_range;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1523.Count_odd_numbers_in_an_interval_range.Tests
 {

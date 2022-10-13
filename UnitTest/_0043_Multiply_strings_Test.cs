@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0043.Multiply_strings;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0043.Multiply_strings.Tests
 {

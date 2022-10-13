@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0053.Maximum_subarray;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0053.Maximum_subarray.Tests
 {

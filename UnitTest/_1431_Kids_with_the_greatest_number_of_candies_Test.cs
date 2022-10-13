@@ -1,8 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1431.Kids_with_the_greatest_number_of_candies;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using FluentAssertions;
 
 namespace _1431.Kids_with_the_greatest_number_of_candies.Tests

@@ -1,7 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Solution._0009.Palindrome_number;
 
 namespace _0009.Palindrome_number.Tests

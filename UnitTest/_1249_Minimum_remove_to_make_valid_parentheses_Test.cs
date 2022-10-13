@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1249.Minimum_remove_to_make_valid_parentheses;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1249.Minimum_remove_to_make_valid_parentheses.Tests
 {

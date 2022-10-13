@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0509.Fibonacci_number;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0509.Fibonacci_number.Tests
 {

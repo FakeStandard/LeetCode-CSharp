@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0215.Kth_largest_element_in_an_array;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0215.Kth_largest_element_in_an_array.Tests
 {

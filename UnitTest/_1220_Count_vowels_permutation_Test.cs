@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1220.Count_vowels_permutation;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1220.Count_vowels_permutation.Tests
 {

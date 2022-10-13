@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0003.Longest_substring_without_repeating_characters;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0003.Longest_substring_without_repeating_characters.Tests
 {

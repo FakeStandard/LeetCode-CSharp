@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1880.Check_if_word_equals_summation_of_two_words;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1880.Check_if_word_equals_summation_of_two_words.Tests
 {

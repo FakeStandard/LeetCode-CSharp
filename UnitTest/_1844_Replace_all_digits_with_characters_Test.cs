@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1844.Replace_all_digits_with_characters;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1844.Replace_all_digits_with_characters.Tests
 {

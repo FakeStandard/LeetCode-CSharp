@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0036.Valid_sudoku;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0036.Valid_sudoku.Tests
 {

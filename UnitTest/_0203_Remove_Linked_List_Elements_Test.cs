@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0203.Remove_linked_list_elements;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Common;
 using FluentAssertions;
 

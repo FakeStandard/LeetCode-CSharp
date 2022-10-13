@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0326.Power_of_three;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0326.Power_of_three.Tests
 {

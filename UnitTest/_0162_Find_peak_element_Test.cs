@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0162.Find_peak_element;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0162.Find_peak_element.Tests
 {

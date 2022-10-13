@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1822.Sign_of_the_product_of_an_array;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1822.Sign_of_the_product_of_an_array.Tests
 {

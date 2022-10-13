@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Solution
+namespace Solution._0001.Two_sum
 {
     public class _0001_Two_sum
     {

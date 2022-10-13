@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1480.Running_sum_of_1d_array;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using FluentAssertions;
 
 namespace _1480.Running_sum_of_1d_array.Tests

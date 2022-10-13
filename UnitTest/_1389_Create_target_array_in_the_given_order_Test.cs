@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1389.Create_target_array_in_the_given_order;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using FluentAssertions;
 
 namespace _1389.Create_target_array_in_the_given_order.Tests

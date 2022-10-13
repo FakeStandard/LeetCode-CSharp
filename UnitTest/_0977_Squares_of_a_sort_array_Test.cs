@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0977.Squares_of_a_sort_array;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using FluentAssertions;
 
 namespace _0977.Squares_of_a_sort_array.Tests

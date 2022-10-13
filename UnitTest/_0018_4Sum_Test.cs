@@ -1,9 +1,7 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0018._4Sum;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace _0018._4Sum.Tests
 {

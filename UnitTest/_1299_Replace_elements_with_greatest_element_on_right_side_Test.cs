@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1299.Replace_elements_with_greatest_element_on_right_side;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1299.Replace_elements_with_greatest_element_on_right_side.Tests
 {

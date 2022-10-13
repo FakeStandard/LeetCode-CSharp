@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0049.Group_anagrams;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0049.Group_anagrams.Tests
 {

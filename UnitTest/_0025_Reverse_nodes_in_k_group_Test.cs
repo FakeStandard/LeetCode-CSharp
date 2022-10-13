@@ -2,9 +2,6 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0025.Reverse_nodes_in_k_group;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0025.Reverse_nodes_in_k_group.Tests
 {

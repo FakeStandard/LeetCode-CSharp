@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1207.Unique_number_of_occurrences;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1207.Unique_number_of_occurrences.Tests
 {

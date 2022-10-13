@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0905.Sort_array_by_parity;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0905.Sort_array_by_parity.Tests
 {

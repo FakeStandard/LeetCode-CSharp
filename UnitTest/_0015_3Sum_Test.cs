@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0015._3Sum;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0015._3Sum.Tests
 {

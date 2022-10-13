@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0387.First_unique_character_in_a_string;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0387.First_unique_character_in_a_string.Tests
 {

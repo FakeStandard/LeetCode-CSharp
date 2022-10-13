@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0542._01_Matrix;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0542._01_Matrix.Tests
 {

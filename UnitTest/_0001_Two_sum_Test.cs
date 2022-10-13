@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Solution;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using Solution._0001.Two_sum;
 
 namespace _0001.Two_sum.Tests
 {

@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0066.Plus_one;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0066.Plus_one.Tests
 {

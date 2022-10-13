@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1557.Minimum_number_of_vertices_to_reach_all_nodes;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1557.Minimum_number_of_vertices_to_reach_all_nodes.Tests
 {

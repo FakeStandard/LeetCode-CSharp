@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0083.Remove_duplicates_from_sorted_list;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Common;
 using FluentAssertions;
 

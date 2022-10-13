@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0074.Search_a_2D_Matrix;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0074.Search_a_2D_Matrix.Tests
 {

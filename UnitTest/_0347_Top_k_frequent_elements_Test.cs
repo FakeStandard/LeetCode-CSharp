@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0347.Top_k_frequent_elements;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0347.Top_k_frequent_elements.Tests
 {

@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0205.Isomorphic_strings;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0205.Isomorphic_strings.Tests
 {

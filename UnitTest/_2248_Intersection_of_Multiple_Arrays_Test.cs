@@ -1,9 +1,7 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._2248.Intersection_of_Multiple_Arrays;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace _2248.Intersection_of_Multiple_Arrays.Tests
 {

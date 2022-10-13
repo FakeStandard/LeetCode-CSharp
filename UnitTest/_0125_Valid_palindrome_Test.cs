@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0125.Valid_palindrome;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0125.Valid_palindrome.Tests
 {

@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1748.Sum_of_unique_elements;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1748.Sum_of_unique_elements.Tests
 {

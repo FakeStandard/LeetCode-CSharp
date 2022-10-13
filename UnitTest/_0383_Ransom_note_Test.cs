@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0383.Ransom_note;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0383.Ransom_note.Tests
 {

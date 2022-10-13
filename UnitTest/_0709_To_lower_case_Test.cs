@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0709.To_lower_case;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0709.To_lower_case.Tests
 {

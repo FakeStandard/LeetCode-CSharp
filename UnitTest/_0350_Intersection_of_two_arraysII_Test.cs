@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0350.Intersection_of_two_arraysII;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0350.Intersection_of_two_arraysII.Tests
 {

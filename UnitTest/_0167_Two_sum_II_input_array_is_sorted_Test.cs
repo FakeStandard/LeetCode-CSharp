@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0167.Two_sum_II_input_array_is_sorted;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0167.Two_sum_II_input_array_is_sorted.Tests
 {

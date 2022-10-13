@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0056.Merge_intervals;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0056.Merge_intervals.Tests
 {

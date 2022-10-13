@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0733.Flood_fill;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0733.Flood_fill.Tests
 {

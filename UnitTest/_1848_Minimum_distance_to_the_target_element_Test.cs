@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1848.Minimum_distance_to_the_target_element;
+
 namespace _1848.Minimum_distance_to_the_target_element.Tests
 {
     [TestClass()]

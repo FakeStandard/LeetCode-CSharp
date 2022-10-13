@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0841.Keys_and_rooms;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0841.Keys_and_rooms.Tests
 {

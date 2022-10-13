@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1588.Sum_of_all_odd_length_subarrays;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1588.Sum_of_all_odd_length_subarrays.Tests
 {

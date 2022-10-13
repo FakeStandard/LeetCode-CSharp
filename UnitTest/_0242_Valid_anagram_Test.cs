@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0242.Valid_anagram;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0242.Valid_anagram.Tests
 {

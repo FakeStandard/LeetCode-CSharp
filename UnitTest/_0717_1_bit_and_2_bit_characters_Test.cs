@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0717._1_bit_and_2_bit_characters;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0717._1_bit_and_2_bit_characters.Tests
 {

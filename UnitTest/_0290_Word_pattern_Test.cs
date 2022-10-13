@@ -1,10 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0290.Word_pattern;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Solution._0290.Word_pattern.Tests
+namespace _0290.Word_pattern.Tests
 {
     [TestClass()]
     public class _0290_Word_pattern_Test

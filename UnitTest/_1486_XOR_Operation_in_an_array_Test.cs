@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1486.XOR_Operation_in_an_array;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1486.XOR_Operation_in_an_array.Tests
 {

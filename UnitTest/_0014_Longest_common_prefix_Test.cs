@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0014.Longest_common_prefix;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0014.Longest_common_prefix.Tests
 {

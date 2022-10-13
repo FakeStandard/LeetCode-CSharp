@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1768.Merge_strings_alternately;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1768.Merge_strings_alternately.Tests
 {

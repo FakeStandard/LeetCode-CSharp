@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1790.Check_if_one_string_swap_can_make_strings_equal;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1790.Check_if_one_string_swap_can_make_strings_equal.Tests
 {

@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0198.House_robber;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0198.House_robber.Tests
 {

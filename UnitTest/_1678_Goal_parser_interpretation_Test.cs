@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1678.Goal_parser_interpretation;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1678.Goal_parser_interpretation.Tests
 {

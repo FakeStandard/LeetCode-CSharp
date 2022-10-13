@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0771.Jewels_and_stones;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0771.Jewels_and_stones.Tests
 {

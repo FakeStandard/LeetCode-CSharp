@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0994.Rotting_oranges;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0994.Rotting_oranges.Tests
 {

@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0046.Permutations;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0046.Permutations.Tests
 {

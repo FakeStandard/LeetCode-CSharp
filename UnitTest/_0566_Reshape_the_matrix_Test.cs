@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0566.Reshape_the_matrix;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0566.Reshape_the_matrix.Tests
 {

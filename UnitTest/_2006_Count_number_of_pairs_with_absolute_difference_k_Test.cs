@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._2006.Count_number_of_pairs_with_absolute_difference_k;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _2006.Count_number_of_pairs_with_absolute_difference_k.Tests
 {

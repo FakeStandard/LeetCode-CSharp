@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0389.Find_the_difference;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0389.Find_the_difference.Tests
 {

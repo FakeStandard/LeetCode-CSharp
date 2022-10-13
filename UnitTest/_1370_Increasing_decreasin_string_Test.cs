@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1370.Increasing_decreasin_string;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1370.Increasing_decreasin_string.Tests
 {

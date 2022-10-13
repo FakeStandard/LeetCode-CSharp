@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1365.How_many_numbers_are_smaller_than_current_number;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using FluentAssertions;
 
 namespace _1365.How_many_numbers_are_smaller_than_current_number.Tests

@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0172.Factorial_trailing_zeroes;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0172.Factorial_trailing_zeroes.Tests
 {

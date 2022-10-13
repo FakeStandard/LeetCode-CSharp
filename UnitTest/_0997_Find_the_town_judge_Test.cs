@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0997.Find_the_town_judge;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0997.Find_the_town_judge.Tests
 {

@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0020.Valid_parentheses;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0020.Valid_parentheses.Tests
 {

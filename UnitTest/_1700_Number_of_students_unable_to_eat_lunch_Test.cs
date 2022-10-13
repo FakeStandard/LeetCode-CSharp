@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1700.Number_of_students_unabled_to_eat_lunch;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1700.Number_of_students_unabled_to_eat_lunch.Tests
 {

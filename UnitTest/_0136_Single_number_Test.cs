@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0136.Single_number;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0136.Single_number.Tests
 {

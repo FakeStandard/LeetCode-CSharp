@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0409.Longest_palindrome;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0409.Longest_palindrome.Tests
 {

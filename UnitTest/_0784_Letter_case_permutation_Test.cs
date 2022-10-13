@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0784.Letter_case_permutation;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0784.Letter_case_permutation.Tests
 {

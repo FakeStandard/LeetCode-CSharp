@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0334.Increasing_triplet_subsequence;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0334.Increasing_triplet_subsequence.Tests
 {

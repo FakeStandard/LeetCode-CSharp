@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0120.Triangle;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0120.Triangle.Tests
 {

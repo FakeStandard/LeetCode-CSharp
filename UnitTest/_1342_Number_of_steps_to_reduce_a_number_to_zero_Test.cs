@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1342.Number_of_steps_to_reduce_a_number_to_zero;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1342.Number_of_steps_to_reduce_a_number_to_zero.Tests
 {

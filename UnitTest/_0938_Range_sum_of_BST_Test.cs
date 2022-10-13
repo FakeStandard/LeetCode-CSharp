@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0938.Range_sum_of_BST;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Common;
 
 namespace _0938.Range_sum_of_BST.Tests

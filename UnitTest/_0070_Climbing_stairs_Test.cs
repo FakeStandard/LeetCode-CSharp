@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0070.Climbing_stairs;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0070.Climbing_stairs.Tests
 {

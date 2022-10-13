@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0067.Add_binary;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0067.Add_binary.Tests
 {

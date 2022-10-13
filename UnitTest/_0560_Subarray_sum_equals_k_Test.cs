@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0560.Subarray_sum_equals_k;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0560.Subarray_sum_equals_k.Tests
 {

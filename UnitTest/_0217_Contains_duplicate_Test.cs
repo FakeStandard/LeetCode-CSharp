@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0217.Contains_Duplicate;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0217.Contains_Duplicate.Tests
 {

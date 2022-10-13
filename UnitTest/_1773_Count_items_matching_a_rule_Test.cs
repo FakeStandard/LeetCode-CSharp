@@ -1,8 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1773.Count_items_matching_a_rule;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace _1773.Count_items_matching_a_rule.Tests
 {

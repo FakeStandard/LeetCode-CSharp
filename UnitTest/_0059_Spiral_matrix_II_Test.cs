@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0059.Spiral_matrix_II;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0059.Spiral_matrix_II.Tests
 {

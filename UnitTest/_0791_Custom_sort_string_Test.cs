@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0791.Custom_sort_string;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0791.Custom_sort_string.Tests
 {

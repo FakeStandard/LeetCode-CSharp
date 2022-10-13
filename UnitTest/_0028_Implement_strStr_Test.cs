@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0028.Implement_strStr;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0028.Implement_strStr.Tests
 {

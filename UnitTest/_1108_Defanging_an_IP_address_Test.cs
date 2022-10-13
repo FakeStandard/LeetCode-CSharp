@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1108.Defanging_an_IP_address;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1108.Defanging_an_IP_address.Tests
 {

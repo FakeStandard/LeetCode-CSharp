@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0005.Longest_palindromic_substring;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0005.Longest_palindromic_substring.Tests
 {

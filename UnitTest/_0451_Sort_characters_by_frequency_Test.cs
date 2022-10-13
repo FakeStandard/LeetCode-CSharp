@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0451.Sort_characters_by_frequency;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0451.Sort_characters_by_frequency.Tests
 {

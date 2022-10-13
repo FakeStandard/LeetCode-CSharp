@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0026.Remove_duplicates_from_sorted_array;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0026.Remove_duplicates_from_sorted_array.Tests
 {

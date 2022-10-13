@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1823.Find_the_winner_of_the_circular_game;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1823.Find_the_winner_of_the_circular_game.Tests
 {

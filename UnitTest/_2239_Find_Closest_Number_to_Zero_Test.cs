@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._2239.Find_Closest_Number_to_Zero;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _2239.Find_Closest_Number_to_Zero.Tests
 {

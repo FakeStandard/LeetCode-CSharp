@@ -1,9 +1,7 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0187.Repeated_dna_sequences;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace _0187.Repeated_dna_sequences.Tests
 {

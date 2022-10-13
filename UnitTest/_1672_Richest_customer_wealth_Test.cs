@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1672.Richest_customer_wealth;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1672.Richest_customer_wealth.Tests
 {

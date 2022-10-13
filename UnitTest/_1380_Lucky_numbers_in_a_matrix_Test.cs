@@ -1,8 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1380.Lucky_numbers_in_a_matrix;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using FluentAssertions;
 
 namespace _1380.Lucky_numbers_in_a_matrix.Tests

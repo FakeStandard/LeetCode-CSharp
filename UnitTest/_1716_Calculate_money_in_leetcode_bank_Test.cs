@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1716.Calculate_money_in_leetcode_bank;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1716.Calculate_money_in_leetcode_bank.Tests
 {

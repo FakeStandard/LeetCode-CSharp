@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0611.Valid_triangel_number;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0611.Valid_triangel_number.Tests
 {

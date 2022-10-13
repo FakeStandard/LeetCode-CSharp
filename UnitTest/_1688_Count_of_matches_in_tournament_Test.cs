@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1688.Count_of_matches_in_tournament;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1688.Count_of_matches_in_tournament.Tests
 {

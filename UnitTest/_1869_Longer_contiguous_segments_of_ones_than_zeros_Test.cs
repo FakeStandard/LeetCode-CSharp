@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1869.Longer_contiguous_segments_of_ones_than_zeros;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1869.Longer_contiguous_segments_of_ones_than_zeros.Tests
 {

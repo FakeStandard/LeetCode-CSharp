@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0917.Reverse_only_letters;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0917.Reverse_only_letters.Tests
 {

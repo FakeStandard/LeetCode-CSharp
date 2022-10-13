@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1684.Count_the_number_of_consistent_strings;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1684.Count_the_number_of_consistent_strings.Tests
 {

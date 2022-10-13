@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0258.Add_digits;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0258.Add_digits.Tests
 {

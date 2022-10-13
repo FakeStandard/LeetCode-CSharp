@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0852.Peak_index_in_a_mountain_array;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0852.Peak_index_in_a_mountain_array.Tests
 {

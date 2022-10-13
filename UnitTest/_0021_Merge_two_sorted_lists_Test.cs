@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0021.Merge_two_sorted_lists;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Common;
 using FluentAssertions;
 

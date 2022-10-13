@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0204.Count_primes;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0204.Count_primes.Tests
 {

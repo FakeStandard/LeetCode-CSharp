@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0912.Sort_an_array;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using FluentAssertions;
 
 namespace _0912.Sort_an_array.Tests

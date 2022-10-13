@@ -1,8 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0728.Self_dividing_numbers;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using FluentAssertions;
 
 namespace _0728.Self_dividing_numbers.Tests

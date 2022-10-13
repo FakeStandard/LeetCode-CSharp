@@ -1,9 +1,6 @@
 ﻿using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0238.Product_of_array_except_self;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0238.Product_of_array_except_self.Tests
 {

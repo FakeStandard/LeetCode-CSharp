@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._1859.Sorting_the_sentence;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _1859.Sorting_the_sentence.Tests
 {

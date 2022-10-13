@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0704.Binary_search;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0704.Binary_search.Tests
 {

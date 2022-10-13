@@ -2,9 +2,6 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0002.Add_two_numbers;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0002.Add_two_numbers.Tests
 {

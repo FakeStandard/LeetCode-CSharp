@@ -1,8 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Solution._0824.Goat_latin;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace _0824.Goat_latin.Tests
 {

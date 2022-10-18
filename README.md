@@ -60,7 +60,7 @@
 | 0055 | []() | Array | []() | Medium |  |
 | 0056 | [Merge Intervals](/Solution/0056.Merge-intervals/) | Array | [Merge](/Solution/0056.Merge-intervals/0056-Merge-intervals.cs/) | Medium | [:bulb:](/UnitTest/_0056_Merge_intervals_Test.cs/) |
 | 0057 | []() | Array | []() | Medium |  |
-| 0058 | [Length of Last Word](/Solution/0058.Length-of-last-word/) | String | [LengthOfLastWord](/Solution/0058.Length-of-last-word/0058-Length-of-last-word.cs/) | Easy | [:bulb:](/UnitTest/_0058_Length_of_last_word_Test.cs/) |
+| 0058 | [Length of Last Word](/Solution/0058.Length-of-last-word/) | String | [LengthOfLastWord](/Solution/0058.Length-of-last-word/0058-Length-of-last-word.cs/) | Easy | [:bulb:](/UnitTest/_0058_Length_of_last_word_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/length-of-last-word-22dk) |
 | 0059 | [Spiral Matrix II](/Solution/0059.Spiral-matrix-II/) | Array, Matrix | [GenerateMatrix](/Solution/0059.Spiral-matrix-II/0059-Spiral-matrix-II.cs/) | Medium | [:bulb:](/UnitTest/_0059_Spiral_matrix_II_Test.cs/) |
 | 0060 |
 | 0061 |

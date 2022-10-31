@@ -69,7 +69,7 @@
 | 0064 | []() | Array | []() | Medium |  |
 | 0065 |
 | 0066 | [Plus One](/Solution/0066.Plus-one/) | Array | [PlusOne](/Solution/0066.Plus-one/0066-Plus-one.cs/) | Easy | [:bulb:](/UnitTest/_0066_Plus_one_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/plus-one-25fm) |
-| 0067 | [Add Binary](/Solution/0067.Add-binary/) | Binary | [AddBinary](/Solution/0067.Add-binary/0067-Add-binary.cs/) | Easy | [:bulb:](/UnitTest/_0067_Add_binary_Test.cs/) |
+| 0067 | [Add Binary](/Solution/0067.Add-binary/) | Binary | [AddBinary](/Solution/0067.Add-binary/0067-Add-binary.cs/) | Easy | [:bulb:](/UnitTest/_0067_Add_binary_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/add-binary-3kpk) |
 | 0068 | []() | Array | []() | Hard |  |
 | 0069 | [Sqrt(x)](/Solution/0069.Sqrt-x/) | Enumeration | [MySqrt](/Solution/0069.Sqrt-x/0069-Sqrt-x.cs/) | Easy | [:bulb:](/UnitTest/_0069_Sqrt_x_Test.cs/) |
 | 0070 | [Climbing Stairs](/Solution/0070.Climbing-stairs/) | Fibonacci, DPA | [ClimbStairs](/Solution/0070.Climbing-stairs/0070-Climbing-stairs.cs/) | Easy | [:bulb:](/UnitTest/_0070_Climbing_stairs_Test.cs/) |
@@ -85,7 +85,7 @@
 | 0080 | []() | Array | []() | Medium |  |
 | 0081 | []() | Array | []() | Medium |  |
 | 0082 | [Remove Duplicates from Sorted List II](/Solution/0082.Remove-duplicates-from-sorted-list-II/) | Linked List | [DeleteDuplicates](/Solution/0082.Remove-duplicates-from-sorted-list-II/0082-Remove-duplicates-from-sorted-list-II.cs/) | Medium | [:bulb:](/UnitTest/_0082_Remove_duplicates_from_sorted_list_II_Test.cs/) |
-| 0083 | [Remove Duplicates from Sorted List](/Solution/0083.Remove-duplicates-from-sorted-list/) | Linked List | [DeleteDuplicates](/Solution/0083.Remove-duplicates-from-sorted-list/0083-Remove-duplicates-from-sorted-list.cs/) | Easy | [:bulb:](/UnitTest/_0083_Remove_duplicates_from_sorted_list_Test.cs/) |
+| 0083 | [Remove Duplicates from Sorted List](/Solution/0083.Remove-duplicates-from-sorted-list/) | Linked List | [DeleteDuplicates](/Solution/0083.Remove-duplicates-from-sorted-list/0083-Remove-duplicates-from-sorted-list.cs/) | Easy | [:bulb:](/UnitTest/_0083_Remove_duplicates_from_sorted_list_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/remove-duplicates-from-sorted-list-2c4c) |
 | 0084 | []() | Array | []() | Hard |  |
 | 0085 | []() | Array | []() | Hard |  |
 | 0086 |

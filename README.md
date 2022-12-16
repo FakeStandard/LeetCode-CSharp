@@ -234,7 +234,7 @@
 | 0242 | [Valid Anagram](/Solution/0242.Valid-anagram/) | Array | [IsAnagram](/Solution/0242.Valid-anagram/0242-Valid-anagram.cs/) | Easy | [:bulb:](/UnitTest/_0242_Valid_anagram_Test.cs/) |
 | 0257 | [Binary Tree Paths](/Solution/0257.Binary-tree-paths/) | Tree, DFS, Binary Tree | [BinaryTreePaths](/Solution/0257.Binary-tree-paths/0257-Binary-tree-paths.cs/) | Easy |
 | 0258 | [Add Digits](/Solution/0258.Add-digits/) | Remainder(%) Operator | [AddDigits](/Solution/0258.Add-digits/0258-Add-digits.cs/) | Easy | [:bulb:](/UnitTest/_0258_Add_digits_Test.cs/) |
-| 0268 | []() | Binary Search, Bit Manipulation | []() | Easy |
+| 0268 | []() | Array, Binary Search, Bit Manipulation | []() | Easy |
 | 0278 | [First Bad Version](/Solution/0278.First-bad-version/) | Binary Search | [FirstBadVersion](/Solution/0278.First-bad-version/0278-First-bad-version.cs/) | Easy |  |
 | 0283 | [Move Zeroes](/Solution/0283.Move-zeroes/) | Enumeration | [MoveZeroes](/Solution/0283.Move-zeroes/0283-Move-zeroes.cs/) | Easy |
 | 0290 | [Word Pattern](/Solution/0290.Word-pattern/) | String | [WordPattern](/Solution/0290.Word-pattern/0290-Word-pattern.cs/) | Easy | [:bulb:](/UnitTest/_0290_Word_pattern_Test.cs/) |

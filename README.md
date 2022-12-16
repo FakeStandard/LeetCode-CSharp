@@ -196,6 +196,7 @@
 | 0415 | [Add Strings](/Solution/0415.Add-strings/) |  | [AddStrings](/Solution/0415.Add-strings/0415-Add-strings.cs/) | Easy | [:bulb:](/UnitTest/_0415_Add_strings_Test.cs/) |
 | 0450 | [Delete Node in a BST](/Solution/0450.Delete-node-in-a-BST/) | Tree, BST, Binary Tree | [DeleteNode](/Solution/0450.Delete-node-in-a-BST/0450-Delete-node-in-a-BST.cs/) | Medium |  |
 | 0451 | [Sort Characters By Frequency](/Solution/0451.Sort-characters-by-frequency/) | String, Dictionary | [FrequencySort](/Solution/0451.Sort-characters-by-frequency/0451-Sort-characters-by-frequency.cs/) | Medium | [:bulb:](/UnitTest/_0451_Sort_characters_by_frequency_Test.cs/) |
+| 0476 | [Number Complement](/Solution/0476.Number-complement) | Bit Manipulation | [FindComplement](/Solution/0476.Number-complement/0476-Number-complement.cs/) | Easy | [:bulb:](/UnitTest/_0476_Number_complement_Test.cs/) |
 | 0485 | [Max Consecutive Ones](/Solution/0485.Max-consecutive-ones) |  | [FindMaxConsecutiveOnes](/Solution/0485.Max-consecutive-ones/0485-Max-consecutive-ones.cs) | Easy | [:bulb:](/UnitTest/_0485_Max_consecutive_ones_Test.cs) |
 | 0500 |
 

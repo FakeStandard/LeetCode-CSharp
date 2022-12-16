@@ -69,10 +69,10 @@
 | 0064 | []() | Array | []() | Medium |  |
 | 0065 |
 | 0066 | [Plus One](/Solution/0066.Plus-one/) | Array | [PlusOne](/Solution/0066.Plus-one/0066-Plus-one.cs/) | Easy | [:bulb:](/UnitTest/_0066_Plus_one_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/plus-one-25fm) |
-| 0067 | [Add Binary](/Solution/0067.Add-binary/) | Binary | [AddBinary](/Solution/0067.Add-binary/0067-Add-binary.cs/) | Easy | [:bulb:](/UnitTest/_0067_Add_binary_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/add-binary-3kpk) |
+| 0067 | [Add Binary](/Solution/0067.Add-binary/) | Bit Manipulation | [AddBinary](/Solution/0067.Add-binary/0067-Add-binary.cs/) | Easy | [:bulb:](/UnitTest/_0067_Add_binary_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/add-binary-3kpk) |
 | 0068 | []() | Array | []() | Hard |  |
 | 0069 | [Sqrt(x)](/Solution/0069.Sqrt-x/) | Enumeration | [MySqrt](/Solution/0069.Sqrt-x/0069-Sqrt-x.cs/) | Easy | [:bulb:](/UnitTest/_0069_Sqrt_x_Test.cs/) |
-| 0070 | [Climbing Stairs](/Solution/0070.Climbing-stairs/) | Fibonacci, DPA | [ClimbStairs](/Solution/0070.Climbing-stairs/0070-Climbing-stairs.cs/) | Easy | [:bulb:](/UnitTest/_0070_Climbing_stairs_Test.cs/) |
+| 0070 | [Climbing Stairs](/Solution/0070.Climbing-stairs/) | Fibonacci, DP | [ClimbStairs](/Solution/0070.Climbing-stairs/0070-Climbing-stairs.cs/) | Easy | [:bulb:](/UnitTest/_0070_Climbing_stairs_Test.cs/) |
 | 0071 |
 | 0072 |
 | 0073 | []() | Array | []() | Medium |  |
@@ -109,39 +109,104 @@
 |-|-|-|-|:-:|:-:|
 | 0101 | [Symmetric Tree](/Solution/0101.Symmetric-tree/) | Tree, DFS, BFS, Binary Tree | [IsSymmetric](/Solution/0101.Symmetric-tree/0101-Symmetric-tree.cs/) | Easy | :x: |
 | 0102 | [Binary Tree Level Order Traversal](/Solution/0102.Binary-tree-level-order-traversal/) | Tree, BFS, Binary Tree | [LevelOrder](/Solution/0102.Binary-tree-level-order-traversal/0102-Binary-tree-level-order-traversal.cs/) | Medium |  |
+| 0103 |
 | 0104 | [Maximum Depth of Binary Tree](/Solution/0104.Maxium-depth-of-binary-tree/) | Tree, DFS, BFS, Binary Tree | [MaxDepth](/Solution/0104.Maxium-depth-of-binary-tree/0104-Maxium-depth-of-binary-tree.cs/) | Easy |
 | 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](/Solution/0105.Construct-binary-tree-from-preorder-and-inorder-traversal/) | Array, Tree, Binary Tree | [BuildTree](/Solution/0105.Construct-binary-tree-from-preorder-and-inorder-traversal/0105-Construct-binary-tree-from-preorder-and-inorder-traversal.cs/) | Medium |  |
+| 0106 |
+| 0107 |
 | 0108 | [Convert Sorted Array to Binary Search Tree](/Solution/0108.Convert-sorted-array-to-binary-search-tree/) | Array, Tree | [SortedArrayToBST](/Solution/0108.Convert-sorted-array-to-binary-search-tree/0108-Convert-sorted-array-to-binary-search-tree.cs/) | Easy |  |
+| 0109 |
+| 0110 |
 | 0111 | [Minimum Depth of Binary Tree](/Solution/0111.Minimum-depth-of-binary-tree/) | Tree, DFS, BFS, Binary Tree | [MinDepth](/Solution/0111.Minimum-depth-of-binary-tree/0111-Minimum-depth-of-binary-tree.cs/) | Easy |  |
 | 0112 |
 | 0113 | [Path Sum II](/Solution/0113.Path-sum-II/) | Tree, DFS, Binary Tree | [PathSum](/Solution/0113.Path-sum-II/0113-Path-sum-II.cs/) | Medium |  |
 | 0114 | [Flatten Binary Tree to Linked List](/Solution/0114.Flatten-binary-tree-to-linked-list/) | Tree, DFS, Binary Tree | [Flatten](/Solution/0114.Flatten-binary-tree-to-linked-list/0114-Flatten-binary-tree-to-linked-list.cs/) | Medium |
+| 0115 |
 | 0116 | [Populating Next Right Pointers in Each Node](/Solution/0116.Populating-next-right-pointers-in-each-node/) | Linked List, Tree, DFS, BFS, Binary Tree | [Connect](Solution/0116.Populating-next-right-pointers-in-each-node/0116-Populating-next-right-pointers-in-each-node.cs/) | Medium |  |
+| 0117 |
 | 0118 | [Pascal's Triangle](/Solution/0118.Pascals-triangle/) | Array, DP | [Generate](/Solution/0118.Pascals-triangle/0118-Pascals-triangle.cs/) | Easy | [:bulb:](/UnitTest/_0118_Pascals_triangle_Test.cs/) |
 | 0119 | [Pascal's Triangle II](/Solution/0119.Pascals-triangle-II/) | Array, DP | [GetRow](/Solution/0119.Pascals-triangle-II/0119-Pascals-triangle-II.cs/) | Easy | [:bulb:](/UnitTest/_0119_Pascals_triangle_II_Test.cs/) |
 | 0120 | [Triangle](/Solution/0120.Triangle/) | Array, DP | [MinimumTotal](/Solution/0120.Triangle/0120-Triangle.cs/) | Medium | [:bulb:](/UnitTest/_0120_Triangle_Test.cs/) |
-| 0121 | [Best Time to Buy and Sell Stock](/Solution/0121.Best-time-to-buy-and-shell-stock/) | Math | [MaxProfit](/Solution/0121.Best-time-to-buy-and-shell-stock/0121-Best-time-to-buy-and-shell-stock.cs/) | Easy | [:bulb:](/UnitTest/_0121_Bset_time_to_buy_and_shell_stock_Test.cs/) |
+| 0121 | [Best Time to Buy and Sell Stock](/Solution/0121.Best-time-to-buy-and-shell-stock/) | DP | [MaxProfit](/Solution/0121.Best-time-to-buy-and-shell-stock/0121-Best-time-to-buy-and-shell-stock.cs/) | Easy | [:bulb:](/UnitTest/_0121_Bset_time_to_buy_and_shell_stock_Test.cs/) |
+| 0122 |
+| 0123 |
+| 0124 |
 | 0125 | [Valid Palindrome](/Solution/0125.Valid-palindrome/) | Binary Search | [IsPalindrome](/Solution/0125.Valid-palindrome/0125-Valid-palindrome.cs/) | Easy | [:bulb:](/UnitTest/_0125_Valid_palindrome_Test.cs/) |
-| 0136 | [Single Number](/Solution/0136.Single-number/) | Array, XOR | [SingleNumber](/Solution/0136.Single-number/0136-Single-number.cs/) | Easy | [:bulb:](/UnitTest/_0136_Single_number_Test.cs/) |
+| 0126 |
+| 0127 |
+| 0128 |
+| 0129 |
+| 0130 |
+| 0131 |
+| 0132 |
+| 0133 |
+| 0134 |
+| 0135 |
+| 0136 | [Single Number](/Solution/0136.Single-number/) | Array, Bit Manipulation, XOR | [SingleNumber](/Solution/0136.Single-number/0136-Single-number.cs/) | Easy | [:bulb:](/UnitTest/_0136_Single_number_Test.cs/) |
+| 0137 |
+| 0138 |
+| 0139 |
+| 0140 |
 | 0141 |
 | 0142 | [Linked List Cycle II](/Solution/0142.Linked-list-cycle-II/) | Linked List, HastSet | [DetectCycle](/Solution/0142.Linked-list-cycle-II/0142-Linked-list-cycle-II.cs/) | Medium |  |
 | 0143 | [Reorder List](/Solution/0143.Reorder-list/) | Linked List | [ReorderList](/Solution/0143.Reorder-list/0143-Reorder-list.cs/) | Medium |  |
 | 0144 | [Binary Tree Preorder Traversal](/Solution/0144.Binary-tree-preorder-traversal/) | Tree, DFS, Binary Tree | [PreorderTraversal](/Solution/0144.Binary-tree-preorder-traversal/0144-Binary-tree-preorder-traversal.cs/) | Easy |
 | 0145 | [Binary Tree Postorder Traversal](/Solution/0145.Binary-tree-postorder-traversal/) | Tree, DFS, Binary Tree | [PostorderTraversal](/Solution/0145.Binary-tree-postorder-traversal/0145-Binary-tree-postorder-traversal.cs/) | Easy |
+| 0146 |
+| 0147 |
+| 0148 |
+| 0149 |
+| 0150 |
+| 0151 |
+| 0152 |
+| 0153 |
+| 0154 |
 | 0155 | [Min Stack](/Solution/0155.Min-stack/) | Stack | [MinStack](/Solution/0155.Min-stack/0155-Min-stack.cs/) | Easy |
+| 0156 |
+| 0157 |
+| 0158 |
+| 0159 |
 | 0160 | [Intersection of Two Linked Lists](/Solution/0160.Intersection-of-two-linked-lists/) | Linked List | [GetIntersectionNode](/Solution/0160.Intersection-of-two-linked-lists/0160-Intersection-of-two-linked-lists.cs/) | Easy |  |
+| 0161 |
 | 0162 | [Find Peak Element](/Solution/0162.Find-peak-element/) | Array | [FindPeakElement](/Solution/0162.Find-peak-element/0162-Find-peak-element.cs/) | Medium | [:bulb:](/UnitTest/_0162_Find_peak_element_Test.cs/) |
+| 0163 |
+| 0164 |
+| 0165 |
+| 0166 |
 | 0167 | [Two Sum II - Input array is sorted](/Solution/0167.Two-sum-II-input-array-is-sorted/) | Array, Binary Search | [TwoSum](/Solution/0167.Two-sum-II-input-array-is-sorted/0167-Two-sum-II-input-array-is-sorted.cs/) | Medium | [:bulb:](/UnitTest/_0167_Two_sum_II_input_array_is_sorted_Test.cs/) |
 | 0168 | [Excel Sheet Column Title](/Solution/0168.Excel-sheet-column-title/) | Array, char | [ConvertToTitle](/Solution/0168.Excel-sheet-column-title/0168-Excel-sheet-column-title.cs/) | Easy | [:bulb:](/UnitTest/_0168_Excel_sheet_column_title_Test.cs/) |
 | 0169 | [Majority Element](/Solution/0169.Majority-element/) | Array, Dictionary | [MajorityElement](/Solution/0169.Majority-element/0169-Majority-element.cs/) | Easy | [:bulb:](/UnitTest/_0169_Majority_element_Test.cs/) |
+| 0170 |
+| 0171 |
 | 0172 | [Factorial Trailing Zeroes](/Solution/0172.Factorial-trailing-zeroes/) | Enumeration | [TrailingZeroes](/Solution/0172.Factorial-trailing-zeroes/0172-Factorial-trailing-zeroes.cs/) | Easy | [:bulb:](/UnitTest/_0172_Factorial_trailing_zeroes_Test.cs/) |
 | 0173 | [Binary Search Tree Iterator](/Solution/0173.Binary-search-tree-iterator/) | Stack, Tree | [BSTIterator](/Solution/0173.Binary-search-tree-iterator/0173-Binary-search-tree-iterator.cs/) | Medium |  |
+| 0174 |
+| 0175 |
+| 0176 |
+| 0177 |
+| 0178 |
+| 0179 |
+| 0180 |
+| 0181 |
+| 0182 |
+| 0183 |
+| 0184 |
+| 0185 |
+| 0186 |
 | 0187 | [Repeated DNA Sequences](/Solution/0187.Repeated-dna-sequences/) | String, Hash Table | [FindRepeatedDnaSequences](/Solution/0187.Repeated-dna-sequences/0187-Repeated-dna-sequences.cs/) | Medium | [:bulb:](/UnitTest/_0187_Repeated_dna_sequences_Test.cs/) |
+| 0188 |
 | 0189 | [Rotate Array](/Solution/0189.Rotate-array/) | Array | [Rotate](/Solution/0189.Rotate-array/0189-Rotate-array.cs/) | Medium |  |
 | 0190 | [Reverse Bits](/Solution/0190.Reverse-bits/) | Bit Manipulation | [reverseBits](/Solution/0190.Reverse-bits/0190-Reverse-bits.cs/) | Easy |  |
 | 0191 | [Number of 1 Bits](/Solution/0191.Number-of-1-bits/) | Bit Manipulation | [HammingWeight](/Solution/0191.Number-of-1-bits/0191-Number-of-1-bits.cs/) | Easy |  |
+| 0192 |
+| 0193 |
+| 0194 |
+| 0195 |
+| 0196 |
+| 0197 |
 | 0198 | [House Robber](/Solution/0198.House-robber/) | Array, DP | [Rob](/Solution/0198.House-robber/0198-House-robbercs.cs/) | Medium | [:bulb:](/UnitTest/_0198_House_robbercs_Test.cs/) |
 | 0199 | [Binary Tree Right Side View](/Solution/0199.Binary-tree-right-side-view/) | Tree, DFS, BFS, Binary Tree | [RightSideView](/Solution/0199.Binary-tree-right-side-view/0199-Binary-tree-right-side-view.cs/) | Medium |  |
+| 0200 |
 
 ## 201-300
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
@@ -158,7 +223,7 @@
 | 0226 | [Contains Duplicate II](/Solution/0226.Invert-binary-tree/) | Tree, DFS, BFS, Binary Tree | [InvertTree](/Solution/0226.Invert-binary-tree/0226-Invert-binary-tree.cs/) | Easy |
 | 0215 | [Kth Largest Element in an Array](/Solution/0215.Kth-largest-element-in-an-array/) | Array | [FindKthLargest](/Solution/0215.Kth-largest-element-in-an-array/0215-Kth-largest-element-in-an-array.cs/) | Medium | [:bulb:](/UnitTest/_0215_Kth_largest_element_in_an_array_Test.cs/) |
 | 0230 | [Kth Smallest Element in a BST](/Solution/0230.Kth-smallest-element-in-a-BST/) | Tree, DFS, BFS, Binary Tree | [KthSmallest](/Solution/0230.Kth-smallest-element-in-a-BST/0230-Kth-smallest-element-in-a-BST.cs/) | Medium |  |
-| 0231 | [Power of Two](/Solution/0231.Power-of-two/) | Bit Manipulation, Shift(&) Operator | [IsPowerOfTwo](/Solution/0231.Power-of-two/0231-Power-of-two.cs/) | Easy | [:bulb:](/UnitTest/_0231_Power_of_two_Test.cs/) |
+| 0231 | [Power of Two](/Solution/0231.Power-of-two/) | Bit Manipulation, Shift | [IsPowerOfTwo](/Solution/0231.Power-of-two/0231-Power-of-two.cs/) | Easy | [:bulb:](/UnitTest/_0231_Power_of_two_Test.cs/) |
 | 0232 | [Contains Duplicate II](/Solution/0232.Implement-queue-using-stacks/) | Queue, Stack | [MyQueue](/Solution/0232.Implement-queue-using-stacks/0232-Implement-queue-using-stacks.cs/) | Easy |
 | 0234 | [Palindrome Linked List](/Solution/0234.Palindrome-linked-list/) | Stack, Linked List | [IsPalindrome](/Solution/0234.Palindrome-linked-list/0234-Palindrome-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0234_Palindrome_linked_list_Test.cs/) |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](/Solution/0236.Lowest-common-ancestor-of-a-binary-tree/) | Tree, DFS, Binary Tree | [LowestCommonAncestor](/Solution/0236.Lowest-common-ancestor-of-a-binary-tree/0236-Lowest-common-ancestor-of-a-binary-tree.cs/) | Medium |  |
@@ -169,6 +234,7 @@
 | 0242 | [Valid Anagram](/Solution/0242.Valid-anagram/) | Array | [IsAnagram](/Solution/0242.Valid-anagram/0242-Valid-anagram.cs/) | Easy | [:bulb:](/UnitTest/_0242_Valid_anagram_Test.cs/) |
 | 0257 | [Binary Tree Paths](/Solution/0257.Binary-tree-paths/) | Tree, DFS, Binary Tree | [BinaryTreePaths](/Solution/0257.Binary-tree-paths/0257-Binary-tree-paths.cs/) | Easy |
 | 0258 | [Add Digits](/Solution/0258.Add-digits/) | Remainder(%) Operator | [AddDigits](/Solution/0258.Add-digits/0258-Add-digits.cs/) | Easy | [:bulb:](/UnitTest/_0258_Add_digits_Test.cs/) |
+| 0268 | []() | Binary Search, Bit Manipulation | []() | Easy |
 | 0278 | [First Bad Version](/Solution/0278.First-bad-version/) | Binary Search | [FirstBadVersion](/Solution/0278.First-bad-version/0278-First-bad-version.cs/) | Easy |  |
 | 0283 | [Move Zeroes](/Solution/0283.Move-zeroes/) | Enumeration | [MoveZeroes](/Solution/0283.Move-zeroes/0283-Move-zeroes.cs/) | Easy |
 | 0290 | [Word Pattern](/Solution/0290.Word-pattern/) | String | [WordPattern](/Solution/0290.Word-pattern/0290-Word-pattern.cs/) | Easy | [:bulb:](/UnitTest/_0290_Word_pattern_Test.cs/) |
@@ -179,23 +245,28 @@
 |-|-|-|-|:-:|:-:|
 | 0326 | [Power of Three](/Solution/0326.Power-of-three/) | Remainder(%) Operator | [IsPowerOfThree](/Solution/0326.Power-of-three/0326-Power-of-three.cs/) | Easy | [:bulb:](/UnitTest/_0326_Power_of_three_Test.cs/) |
 | 0334 | [Increasing Triplet Subsequence](/Solution/0334.Increasing-triplet-subsequence/) | Array | [IncreasingTriplet](/Solution/0334.Increasing-triplet-subsequence/0334-Increasing-triplet-subsequence.cs/) | Medium | [:bulb:](/UnitTest/_0334_Increasing_triplet_subsequence_Test.cs/) |
+| 0338 | []() | Bit Manipulation, DP | []() | Easy |
+| 0342 | []() | Bit Manipulation, Recursion | []() | Easy |
 | 0344 | [Reverse String](/Solution/0344.Reverse-string/) | String | [ReverseString](/Solution/0344.Reverse-string/0344-Reverse-string.cs/) | Easy |
 | 0347 | [Top K Frequent Elements](/Solution/0347.Top-k-frequent-elements/) | Array | [TopKFrequent](/Solution/0347.Top-k-frequent-elements/0347-Top-k-frequent-elements.cs/) | Medium | [:bulb:](/UnitTest/_0347_Top_k_frequent_elements_Test.cs/) |
 | 0350 |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](/Solution/0378.Kth-smallest-element-in-a-sorted-matrix/) | Binary Search, Matrix | [KthSmallest](/Solution/0378.Kth-smallest-element-in-a-sorted-matrix/0378-Kth-smallest-element-in-a-sorted-matrix.cs/) | Medium | [:bulb:](/UnitTest/_0378_Kth_smallest_element_in_a_sorted_matrix_Test.cs/) |
 | 0383 |
 | 0387 | [First Unique Character in a String](/Solution/0387.First-unique-character-in-a-string/) | Dictionary | [FirstUniqChar](/Solution/0387.First-unique-character-in-a-string/0387-First-unique-character-in-a-string.cs/) | Easy | [:bulb:](/UnitTest/_0387_First_unique_character_in_a_string_Test.cs/) |
-| 0389 | [Find the Difference](/Solution/0389.Find-the-difference/) | XOR | [FindTheDifference](/Solution/0389.Find-the-difference/0389-Find-the-difference.cs/) | Easy | [:bulb:](/UnitTest/_0389_Find_the_difference_Test.cs/) |
-| 0392 | [Is Subsequence](/Solution/0392.Is-subsequence/) | Enumeration | [IsSubsequence](/Solution/0392.Is-subsequence/0392-Is-subsequence.cs/) | Easy | [:bulb:](/UnitTest/_0392_Is_subsequence_Test.cs/) |
+| 0389 | [Find the Difference](/Solution/0389.Find-the-difference/) | Bit Manipulation, XOR | [FindTheDifference](/Solution/0389.Find-the-difference/0389-Find-the-difference.cs/) | Easy | [:bulb:](/UnitTest/_0389_Find_the_difference_Test.cs/) |
+| 0392 | [Is Subsequence](/Solution/0392.Is-subsequence/) | Two Pointers, DP | [IsSubsequence](/Solution/0392.Is-subsequence/0392-Is-subsequence.cs/) | Easy | [:bulb:](/UnitTest/_0392_Is_subsequence_Test.cs/) |
 
 ## 401-500
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
+| 0401 | []() | Bit Manipulation | []() | Easy |
 | 0404 | [Sum of Left Leaves](/Solution/0404.Sum-of-left-leaves/) | Tree, DFS, BFS, Binary Tree | [SumOfLeftLeaves](/Solution/0404.Sum-of-left-leaves/0404-Sum-of-left-leaves.cs/) | Easy |
+| 0405 | []() | Bit Manipulation | []() | Easy |
 | 0409 | [Longest Palindrome](/Solution/0409.Longest-palindrome/) | String, Stack, Dictionary | [LongestPalindrome](/Solution/0409.Longest-palindrome/0409-Longest-palindrome.cs/) | Easy | [:bulb:](/UnitTest/_0409_Longest_palindrome_Test.cs/) |
 | 0415 | [Add Strings](/Solution/0415.Add-strings/) |  | [AddStrings](/Solution/0415.Add-strings/0415-Add-strings.cs/) | Easy | [:bulb:](/UnitTest/_0415_Add_strings_Test.cs/) |
 | 0450 | [Delete Node in a BST](/Solution/0450.Delete-node-in-a-BST/) | Tree, BST, Binary Tree | [DeleteNode](/Solution/0450.Delete-node-in-a-BST/0450-Delete-node-in-a-BST.cs/) | Medium |  |
 | 0451 | [Sort Characters By Frequency](/Solution/0451.Sort-characters-by-frequency/) | String, Dictionary | [FrequencySort](/Solution/0451.Sort-characters-by-frequency/0451-Sort-characters-by-frequency.cs/) | Medium | [:bulb:](/UnitTest/_0451_Sort_characters_by_frequency_Test.cs/) |
+| 0461 | []() | Bit Manipulation | []() | Easy |
 | 0476 | [Number Complement](/Solution/0476.Number-complement) | Bit Manipulation | [FindComplement](/Solution/0476.Number-complement/0476-Number-complement.cs/) | Easy | [:bulb:](/UnitTest/_0476_Number_complement_Test.cs/) |
 | 0485 | [Max Consecutive Ones](/Solution/0485.Max-consecutive-ones) |  | [FindMaxConsecutiveOnes](/Solution/0485.Max-consecutive-ones/0485-Max-consecutive-ones.cs) | Easy | [:bulb:](/UnitTest/_0485_Max_consecutive_ones_Test.cs) |
 | 0500 |
@@ -203,7 +274,7 @@
 ## 501-600
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
-| 0509 | [Fibonacci Number](/Solution/0509.Fibonacci-number/) | Fibonacci, Recursion | [Fib](/Solution/0509.Fibonacci-number/0509-Fibonacci-number.cs/) | Easy | [:bulb:](/UnitTest/_0509_Fibonacci_number_Test.cs/) |
+| 0509 | [Fibonacci Number](/Solution/0509.Fibonacci-number/) | Fibonacci, Recursion, DP | [Fib](/Solution/0509.Fibonacci-number/0509-Fibonacci-number.cs/) | Easy | [:bulb:](/UnitTest/_0509_Fibonacci_number_Test.cs/) |
 | 0542 | [01 Matrix](/Solution/0542.01-Matrix/) | Array, DP, BFS, Matrix | [UpdateMatrix](/Solution/0542.01-Matrix/0542-01-Matrix.cs/) | Medium | [:bulb:](/UnitTest/_0542_01_Matrix_Test.cs/) |
 | 0557 | [Reverse Words in a String III](/Solution/0557.Reverse-words-in-a-string-III/) | Array, String | [ReverseWords](/Solution/0557.Reverse-words-in-a-string-III/0557-Reverse-words-in-a-string-III.cs/) | Easy | [:bulb:](/UnitTest/_0557_Reverse_words_in_a_string_III_Test.cs/) |
 | 0560 | [Subarray Sum Equals K](/Solution/0560.Subarray-sum-equals-k/) | Array, Dictionary | [SubarraySum](/Solution/0560.Subarray-sum-equals-k/0560-Subarray-sum-equals-k.cs/) | Medium | [:bulb:](/UnitTest/_0560_Subarray_sum_equals_k_Test.cs/) |
@@ -217,9 +288,11 @@
 |-|-|-|-|:-:|:-:|
 | 0611 | [Valid Triangle Number](/Solution/0611.Valid-triangel-number/) | Binary Search | [TriangleNumber](/Solution/0611.Valid-triangel-number/0611-Valid-triangle-number.cs/) | Medium | [:bulb:](/UnitTest/_0611_Valid_triangle_number_Test.cs/) |
 | 0617 | [Merge Two Binary Trees](/Solution/0617.Merge-two-binary-trees/) | Tree, DFS, BFS, Binary Tree | [MergeTrees](/Solution/0617.Merge-two-binary-trees/0617-Merge-two-binary-trees.cs/) | Easy |
+| 0645 | []() | Array, Bit Manipulation | []() | Easy |
 | 0653 | [Two Sum IV - Input is a BST](/Solution/0653.Two-sum-IV-input-is-a-BST/) | Tree, DFS, BFS, Binary Tree | [FindTarget](/Solution/0653.Two-sum-IV-input-is-a-BST/0653-Two-sum-IV-input-is-a-BST.cs/) | Easy |  |
 | 0682 | [Baseball Game](/Solution/0682.Baseball-game/) | Stack | [CalPoints](/Solution/0682.Baseball-game/0682-Baseball-game.cs/) | Easy | [:bulb:](/UnitTest/_0682_Baseball_game_Test.cs/) |
 | 0695 | [Max Area of Island](/Solution/0695.Max-area-of-island/) | Array, DFS, BFS, Matrix | [MaxAreaOfIsland](/Solution/0695.Max-area-of-island/0695-Max-area-of-island.cs/) | Medium | [:bulb:](/UnitTest/_0695_Max_area_of_island_Test.cs/) |
+| 0693 | []() | Bit Manipulation | []() | Easy |
 | 0700 | [Search in a Binary Search Tree](/Solution/0700.Search-in-a-inary-search-tree/) | Tree, Binary Tree | [SearchBST](/Solution/0700.Search-in-a-inary-search-tree/0700-Search-in-a-inary-search-tree.cs/) | Easy |
 
 ## 701-800
@@ -234,6 +307,8 @@
 | 0718 | [Maximum Length of Repeated Subarray](/Solution/0718.Maximum-length-of-repeated-subarray/) | Array, Matrix | [FindLength](/Solution/0718.Maximum-length-of-repeated-subarray/0718-Maximum-length-of-repeated-subarray.cs/) | Medium | [:bulb:](/UnitTest/_0718_Maximum_length_of_repeated_subarray_Test.cs/) |
 | 0728 | [Self Dividing Numbers](/Solution/0728.Self-dividing-numbers/) | Remainder(%) operator | [SelfDividingNumbers](/Solution/0728.Self-dividing-numbers/0728-Self-dividing-numbers.cs/) | Easy | [:bulb:](/UnitTest/_0728_Self_dividing_numbers_Test.cs/) |
 | 0733 | [Flood Fill](/Solution/0733.Flood-fill/) | Array, DFS, BFS, Matrix | [FloodFill](/Solution/0733.Flood-fill/0733-Flood-fill.cs/) | Easy | [:bulb:](/UnitTest/_0733_Flood_fill_Test.cs/) |
+| 0746 | []() | Array, DP | []() | Easy |
+| 0762 | []() | Bit Manipulation | []() | Easy |
 | 0771 | [Jewels and Stones](/Solution/0771.Jewels-and-stones/) | string.Contains | [NumJewelsInStones](/Solution/0771.Jewels-and-stones/0771-Jewels-and-stones.cs/) | Easy | [:bulb:](/UnitTest/_0771_Jewels_and_stones_Test.cs/) |
 | 0784 | [Letter Case Permutation](/Solution/0784.Letter-case-permutation/) | String, Backtracking, BitManipulation | [LetterCasePermutation](/Solution/0784.Letter-case-permutation/0784-Letter-case-permutation.cs/) | Medium | [:bulb:](/UnitTest/_0784_Letter_case_permutation_Test.cs/) |
 | 0791 | [Custom Sort String](/Solution/0791.Custom-sort-string/) | Dictionary, Hash Table | [:question: CustomSortString](/Solution/0791.Custom-sort-string/0791-Custom-sort-string.cs/) | Medium | [:bulb:](/UnitTest/_0791_Custom_sort_string_Test.cs/) |
@@ -244,6 +319,7 @@
 | 0824 | [Goat Latin](/Solution/0824.Goat-latin/) | DP | [ToGoatLatin](/Solution/0824.Goat-latin/0824-Goat-latin.cs/) | Easy | [:bulb:](/UnitTest/_0824_goat_latin_Test.cs/) |
 | 0841 | [Keys and Rooms](/Solution/0841.Keys-and-rooms/) | DFS, BFS, Graph | [CanVisitAllRooms](/Solution/0841.Keys-and-rooms/0841-Keys-and-rooms.cs/) | Medium | [:bulb:](/UnitTest/_0841_Keys_and_rooms_Test.cs/) |
 | 0852 | [Peak Index in a Mountain Array](/Solution/0852.Peak-index-in-a-mountain-array/) | Array | [PeakIndexInMountainArray](/Solution/0852.Peak-index-in-a-mountain-array/0852-Peak-index-in-a-mountain-array.cs/) | Easy | [:bulb:](/UnitTest/_0852_Peak_index_in_a_mountain_array_Test.cs/) |
+| 0868 | []() | Bit Manipulation | []() | Easy |
 | 0876 | [Middle of the Linked List](/Solution/0876.Middle-of-the-linked-list/) | Linked List | [MiddleNode](/Solution/0876.Middle-of-the-linked-list/0876-Middle-of-the-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0876_Middle_of_the_linked_list_Test.cs/) |
 | 0897 | [Increasing Order Search Tree](/Solution/0897.Increasing-order-search-tree/) | Tree, DFS, BFS, Binary Tree | [IncreasingBST](/Solution/0897.Increasing-order-search-tree/0897-Increasing-order-search-tree.cs/) | Easy |
 
@@ -263,12 +339,15 @@
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 1022 | [Sum of Root To Leaf Binary Numbers](/Solution/1022.Sum-of-root-to-leaf-binary-numbers/) | Tree | [SumRootToLeaf](/Solution/1022.Sum-of-root-to-leaf-binary-numbers/1022-Sum-of-root-to-leaf-binary-numbers.cs/) | Easy |  |
+| 1025 | []() | DP | []() | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](/Solution/1047.Remove-all-adjacent-duplicates-in-string/) | String | [RemoveDuplicates](/Solution/1047.Remove-all-adjacent-duplicates-in-string/1047-Remove-all-adjacent-duplicates-in-string.cs/) | Easy | [:bulb:](/UnitTest/_1047_Remove_all_adjacent_duplicates_in_string_Test.cs/) |
 
 ## 1101-1200
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
+| 1009 | []() | Bit Manipulation | []() | Easy |
 | 1108 | [Defanging an IP Address](/Solution/1108.Defanging-an-IP-address/) | String | [DefangIPaddr](/Solution/1108.Defanging-an-IP-address/1108-Defanging-an-IP-address.cs/) | Easy | [:bulb:](/UnitTest/_1108_Defanging_an_IP_address_Test.cs/) |
+| 1137 | []() | DP | []() | Easy |
 
 ## 1201-1300
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
@@ -286,8 +365,9 @@
 | No. | Title | Tag | Solution | Difficulty | UnitTest |
 |-|-|-|-|:-:|:-:|
 | 1313 | [Decompress Run-Length Encoded List](/Solution/1313.Decompress-run-length-encoded-list/) | List, Array | [DecompressRLElist](/Solution/1313.Decompress-run-length-encoded-list/1313-Decompress-run-length-encoded-list.cs/) | Easy | [:bulb:](/UnitTest/_1313_Decompress_run_length_encoded_list_Test.cs/) |
-| 1342 | [Nnumber of Steps to Reduce a Number to Zero](/Solution/1342.Number-of-steps-to-reduce-a-number-to-zero/) | Enumeration, Remainder(%) operator | [NumberOfSteps](/Solution/1342.Number-of-steps-to-reduce-a-number-to-zero/1342-Number-of-steps-to-reduce-a-number-to-zero.cs/) | Easy | [:bulb:](/UnitTest/_1342_Number_of_steps_to_reduce_a_number_to_zero_Test.cs/) |
+| 1342 | [Nnumber of Steps to Reduce a Number to Zero](/Solution/1342.Number-of-steps-to-reduce-a-number-to-zero/) | Bit Manipulation | [NumberOfSteps](/Solution/1342.Number-of-steps-to-reduce-a-number-to-zero/1342-Number-of-steps-to-reduce-a-number-to-zero.cs/) | Easy | [:bulb:](/UnitTest/_1342_Number_of_steps_to_reduce_a_number_to_zero_Test.cs/) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](/Solution/1351.Count-negative-numbers-in-a-sorted-matrix/) | Array | [CountNegatives](/Solution/1351.Count-negative-numbers-in-a-sorted-matrix/1351-Count-negative-numbers-in-a-sorted-matrix.cs/) | Easy | [:bulb:](/UnitTest/_1351_Count_negative_numbers_in_a_sorted_matrix_Test.cs/) |
+| 1356 | []() | Array, Bit Manipulation | []() | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](/Solution/1365.How-many-numbers-are-smaller-than-current-number/) | Array | [SmallerNumbersThanCurrent](/Solution/1365.How-many-numbers-are-smaller-than-current-number/1365-How-many-numbers-are-smaller-than-current-number.cs/) | Easy | [:bulb:](/UnitTest/_1365_How_many_numbers_are_smaller_than_current_number_Test.cs/) |
 | 1370 | [Increasing Decreasing String](/Solution/1370.Increasing-decreasin-string/) | String, Char | [SortString](/Solution/1370.Increasing-decreasin-string/1370-Increasing-decreasin-string.cs/) | Easy | [:bulb:](/UnitTest/_1370_Increasing_decreasin_string_Test.cs/) |
 | 1380 | [Lucky Numbers in a Matrix](/Solution/1380.Lucky-numbers-in-a-matrix/) | Array, List | [LuckyNumbers](/Solution/1380.Lucky-numbers-in-a-matrix/1380-Lucky-numbers-in-a-matrix.cs/) | Easy | [:bulb:](/UnitTest/_1380_Lucky_numbers_in_a_matrix_Test.cs/) |
@@ -297,7 +377,7 @@
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](/Solution/1460.Make-two-arrays-equal-by-reversing-sub-arrays/) | Array | [CanBeEqual](/Solution/1460.Make-two-arrays-equal-by-reversing-sub-arrays/1460-Make-two-arrays-equal-by-reversing-sub-arrays.cs/) | Easy | [:bulb:](/UnitTest/_1460_Make_two_arrays_equal_by_reversing_sub_arrays_Test.cs/) |
 | 1470 | [Shuffle the Array](/Solution/1470.Shuffle-the-array/) | Array | [Shuffle](/Solution/1470.Shuffle-the-array/1470-Shuffle-the-array.cs/) | Easy | [:bulb:](/UnitTest/_1470_Shuffle_the_array_Test.cs/) |
 | 1480 | [Running Sum of 1d Array](/Solution/1480.Running-sum-of-1d-array/) | Array | [RunningSum](/Solution/1480.Running-sum-of-1d-array/1480-Running-sum-of-1d-array.cs/) | Easy | [:bulb:](/UnitTest/_1480_Running_sum_of_1d_array_Test.cs/) |
-| 1486 | [XOR Operation in an Array](/Solution/1486.XOR-Operation-in-an-array/) | XOR | [XorOperation](/Solution/1486.XOR-Operation-in-an-array/1486-XOR-Operation-in-an-array.cs/) | Easy | [:bulb:](/UnitTest/_1486_XOR_Operation_in_an_array_Test.cs/) |
+| 1486 | [XOR Operation in an Array](/Solution/1486.XOR-Operation-in-an-array/) | Bit Manipulation, XOR | [XorOperation](/Solution/1486.XOR-Operation-in-an-array/1486-XOR-Operation-in-an-array.cs/) | Easy | [:bulb:](/UnitTest/_1486_XOR_Operation_in_an_array_Test.cs/) |
 | 1491 | [Number of Good Pairs](/Solution/1491.Average-salary-excluding-the-minimum-and-maximum-salary/) | Array | [Average](/Solution/1491.Average-salary-excluding-the-minimum-and-maximum-salary/1491-Average-salary-excluding-the-minimum-and-maximum-salary.cs/) | Easy | [:bulb:](/UnitTest/_1491_Average_salary_excluding_the_minimum_and_maximum_salary_Test.cs/) |
 | 1512 | [Number of Good Pairs](/Solution/1512.Number-of-good-pairs/) | Array | [NumIdenticalPairs](/Solution/1512.Number-of-good-pairs/1512-Number-of-good-pairs.cs/) | Easy | [:bulb:](/UnitTest/_1512_Number_of_good_pairs_Test.cs/) |
 | 1523 | [Count Odd Numbers in an Interval Range](/Solution/1523.Count-odd-numbers-in-an-interval-range/) | /,% | [CountOdds](/Solution/1523.Count-odd-numbers-in-an-interval-range/1523-Count-odd-numbers-in-an-interval-range.cs/) | Easy | [:bulb:](/UnitTest/_1523_Count_odd_numbers_in_an_interval_range_Test.cs/) |
@@ -308,15 +388,17 @@
 | 1603 | [Design Parking System](/Solution/1603.Design-parking-system/) | Array | [ParkingSystem](/Solution/1603.Design-parking-system/1603-Design-parking-system.cs/) | Easy | [:bulb:](/UnitTest/_1603_Design_parking_system_Test.cs/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](/Solution/1614.Maximum-nesting-depth-of-the-parentheses/) | String | [MaxDepth](/Solution/1614.Maximum-nesting-depth-of-the-parentheses/1614-Maximum-nesting-depth-of-the-parentheses.cs/) | Easy | [:bulb:](/UnitTest/_1614_Maximum_nesting_depth_of_the_parentheses_Test.cs/) |
 | 1636 | [Sort Array by Increasing Frequency](/Solution/1636.Sort-array-by-increasing-frequency/) | Array | [FrequencySort](/Solution/1636.Sort-array-by-increasing-frequency/1636-Sort-array-by-increasing-frequency.cs/) | Easy | [:bulb:](/UnitTest/_1636_Sort_array_by_increasing_frequency_Test.cs/) |
+| 1646 | []() | Array, DP | []() | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](/Solution/1662.Check-if-two-string-arrays-are-equivalent/) | Array | [ArrayStringsAreEqual](/Solution/1662.Check-if-two-string-arrays-are-equivalent/1662-Check-if-two-string-arrays-are-equivalent.cs/) | Easy | [:bulb:](/UnitTest/_1662_Check_if_two_string_arrays_are_equivalent_Test.cs/) |
 | 1672 | [Richest Customer Wealth](/Solution/1672.Richest-customer-wealth/) | Array | [MaximumWealth](/Solution/1672.Richest-customer-wealth/1672-Richest-customer-wealth.cs/) | Easy | [:bulb:](/UnitTest/_1672_Richest_customer_wealth_Test.cs/) |
 | 1678 | [Goal Parser Interpretation](/Solution/1678.Goal-parser-interpretation/) | Array | [Interpret](/Solution/1678.Goal-parser-interpretation/1678-Goal-parser-interpretation.cs/) | Easy | [:bulb:](/UnitTest/_1678_Goal_parser_interpretation_Test.cs/) |
-| 1684 | [Count the Number of Consistent Strings](/Solution/1684.Count-the-number-of-consistent-strings/) | Array | [CountConsistentStrings](/Solution/1684.Count-the-number-of-consistent-strings/1684-Count-the-number-of-consistent-strings.cs/) | Easy | [:bulb:](/UnitTest/_1684_Count_the_number_of_consistent_strings_Test.cs/) |
+| 1684 | [Count the Number of Consistent Strings](/Solution/1684.Count-the-number-of-consistent-strings/) | Array, Bit Manipulation | [CountConsistentStrings](/Solution/1684.Count-the-number-of-consistent-strings/1684-Count-the-number-of-consistent-strings.cs/) | Easy | [:bulb:](/UnitTest/_1684_Count_the_number_of_consistent_strings_Test.cs/) |
 | 1688 | [Count of Matches in Tournament](/Solution/1688.Count-of-matches-in-tournament/) | Enumeration, Remainder(%) operator | [NumberOfMatches](/Solution/1688.Count-of-matches-in-tournament/1688-Count-of-matches-in-tournament.cs/) | Easy | [:bulb:](/UnitTest/_1688_Count_of_matches_in_tournament_Test.cs/) |
 | 1700 | [Number of Students Unable to Eat Lunch](/Solution/1700.Number-of-students-unabled-to-eat-lunch/) | Queue, Array | [CountStudents](/Solution/1700.Number-of-students-unabled-to-eat-lunch/1700-Number-of-students-unabled-to-eat-lunch.cs/) | Easy | [:bulb:](/UnitTest/_1700_Number_of_students_unable_to_eat_lunch_Test.cs/) |
 | 1716 | [Calculate Money in Leetcode Bank](/Solution/1716.Calculate-money-in-leetcode-bank/) | Math, Trapezoid formula | [TotalMoney](/Solution/1716.Calculate-money-in-leetcode-bank/1716-Calculate-money-in-leetcode-bank.cs/) | Easy | [:bulb:](/UnitTest/_1716_Calculate_money_in_leetcode_bank_Test.cs/) |
-| 1720 | [Decode XORed Array](/Solution/1720.Decode-XORed-array/) | XOR, Array | [Decode](/Solution/1720.Decode-XORed-array/1720-Decode-XORed-array.cs/) | Easy | [:bulb:](/UnitTest/_1720_Decode_XORed_array_Test.cs/) |
+| 1720 | [Decode XORed Array](/Solution/1720.Decode-XORed-array/) | Array, Bit Manipulation, XOR | [Decode](/Solution/1720.Decode-XORed-array/1720-Decode-XORed-array.cs/) | Easy | [:bulb:](/UnitTest/_1720_Decode_XORed_array_Test.cs/) |
 | 1748 | [Sum of Unique Elements](/Solution/1748.Sum-of-unique-elements/) | Dictionary, Array | [SumOfUnique](/Solution/1748.Sum-of-unique-elements/1748-Sum-of-unique-elements.cs/) | Easy | [:bulb:](/UnitTest/_1748_Sum_of_unique_element_Test.cs/) |
+| 1763 | []() | Divide and Conquer, Bit Manipulation | []() | Easy |
 | 1768 | [Merge Strings Alternately](/Solution/1768.Merge-strings-alternately/) | String | [MergeAlternately](/Solution/1768.Merge-strings-alternately/1768-Merge-strings-alternately.cs/) | Easy | [:bulb:](/UnitTest/_1768_Merge_strings_alternately_Test.cs/) |
 | 1773 | [Count Items Matching a Rule](/Solution/1773.Count-items-matching-a-rule/) | List, Array | [CountMatches](/Solution/1773.Count-items-matching-a-rule/1773-Count-items-matching-a-rule.cs/) | Easy | [:bulb:](/UnitTest/_1773_Count_items_matching_a_rule_Test.cs/) |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](/Solution/1784.Check-if-binary-string-has-at-most-one-segment-of-ones/) | string.IndexOf | [CheckOnesSegment](/Solution/1784.Check-if-binary-string-has-at-most-one-segment-of-ones/1784-Check-if-binary-string-has-at-most-one-segment-of-ones.cs/) | Easy | [:bulb:](/UnitTest/_1784_Check_if_binary_string_has_at_most_one_segment_of_ones_Test.cs/) |
@@ -335,6 +417,7 @@
 | 1848 | [Minimum Distance to the Target Element](/Solution/1848.Minimum-distance-to-the-target-element/) | Array | [GetMinDistance](/Solution/1848.Minimum-distance-to-the-target-element/1848-Minimum-distance-to-the-target-element.cs/) | Easy | [:bulb:](/UnitTest/_1848_Minimum_distance_to_the_target_element_Test.cs/) |
 | 1859 |
 | 1869 |
+| 1863 | []() | Array, Bit Manipulation | []() | Easy |
 | 1876 |
 | 1880 |
 | 1881 |
@@ -345,5 +428,7 @@
 | 2001 | []() | Array | []() | Medium |  |
 | 2006 | [Count Number of Pairs With Absolute Difference K](/Solution/2006.Count-number-of-pairs-with-absolute-difference-k/) | Array | [CountKDifference](/Solution/2006.Count-number-of-pairs-with-absolute-difference-k/2006-Count-number-of-pairs-with-absolute-difference-k.cs/) | Easy | [:bulb:](/UnitTest/_2006_Count_number_of_pairs_with_absolute_difference_k_Test.cs/) |
 | 2095 | [Delete the Middle Node of a Linked List](/Solution/2095.Delete-the-middle-node-of-a-linked-list/) | Linked List | [DeleteMiddle](/Solution/2095.Delete-the-middle-node-of-a-linked-list/2095-Delete-the-middle-node-of-a-linked-list.cs/) | Medium | [:bulb:](/UnitTest/_2095_Delete_the_middle_node_of_a_linked_list_Test.cs/) |
+| 2206 | []() | Array, Bit Manipulation | []() | Easy |
+| 2220 | []() | Bit Manipulation | []() | Easy |
 | 2239 |
 | 2248 |

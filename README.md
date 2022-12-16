@@ -166,7 +166,7 @@
 | 0157 |
 | 0158 |
 | 0159 |
-| 0160 | [Intersection of Two Linked Lists](/Solution/0160.Intersection-of-two-linked-lists/) | Linked List | [GetIntersectionNode](/Solution/0160.Intersection-of-two-linked-lists/0160-Intersection-of-two-linked-lists.cs/) | Easy |  |
+| 0160 | [Intersection of Two Linked Lists](/Solution/0160.Intersection-of-two-linked-lists/) | Linked List, Two Pointers | [GetIntersectionNode](/Solution/0160.Intersection-of-two-linked-lists/0160-Intersection-of-two-linked-lists.cs/) | Easy |  |
 | 0161 |
 | 0162 | [Find Peak Element](/Solution/0162.Find-peak-element/) | Array | [FindPeakElement](/Solution/0162.Find-peak-element/0162-Find-peak-element.cs/) | Medium | [:bulb:](/UnitTest/_0162_Find_peak_element_Test.cs/) |
 | 0163 |
@@ -215,7 +215,7 @@
 | 0203 | [Remove Linked List Elements](/Solution/0203.Remove-linked-list-elements/) | Linked List | [RemoveElements](/Solution/0203.Remove-linked-list-elements/0203-Remove-linked-list-elements.cs/) | Easy | [:bulb:](/UnitTest/_0203_Remove_Linked_List_Elements_Test.cs/) |
 | 0204 | [Count Primes](/Solution/0204.Count-primes/) | Array | [CountPrimes](/Solution/0204.Count-primes/0204-Count-primes.cs/) | Easy | [:bulb:](/UnitTest/_0204_Count_primes_Test.cs/) |
 | 0205 | [Isomorphic Strings](/Solution/0205.Isomorphic-strings/) | Dictionary | [IsIsomorphic](/Solution/0205.Isomorphic-strings/0205-Isomorphic-strings.cs/) | Easy | [:bulb:](/UnitTest/_0205_Isomorphic_strings_Test.cs/) |
-| 0206 | [Reverse Linked List](/Solution/0206.Reverse-linked-list/) | Linked List | [ReverseList](/Solution/0206.Reverse-linked-list/0206-Reverse-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0206_Reverse_linked_list_Test.cs/) |
+| 0206 | [Reverse Linked List](/Solution/0206.Reverse-linked-list/) | Linked List, Recursion | [ReverseList](/Solution/0206.Reverse-linked-list/0206-Reverse-linked-list.cs/) | Easy | [:bulb:](/UnitTest/_0206_Reverse_linked_list_Test.cs/) |
 | 0215 | [Kth Largest Element in an Array](/Solution/0215.Kth-largest-element-in-an-array/) | Array | [FindKthLargest](/Solution/0215.Kth-largest-element-in-an-array/0215-Kth-largest-element-in-an-array.cs/) | Medium | [:bulb:](/UnitTest/_0215_Kth_largest_element_in_an_array_Test.cs/) |
 | 0217 | [Contains Duplicate](/Solution/0217.Contains-Duplicate/) | HashSet | [ContainsDuplicate](/Solution/0217.Contains-Duplicate/0217-Contains-Duplicate.cs/) | Easy | [:bulb:](/UnitTest/_0217_Contains_duplicate_Test.cs/) |
 | 0219 | [Contains Duplicate II](/Solution/0219.Contains-duplicate-II/) | Dictionary | [ContainsNearbyDuplicate](/Solution/0219.Contains-duplicate-II/0219-Contains-duplicate-II.cs/) | Easy | [:bulb:](/UnitTest/_0219_Contains_duplicate_II_Test.cs/) |
@@ -301,7 +301,7 @@
 | 0701 | [Insert into a Binary Search Tree](/Solution/0701.Insert-into-a-binary-search-tree/) | Tree, BST, Binary Tree | [InsertIntoBST](/Solution/0701.Insert-into-a-binary-search-tree/0701-Insert-into-a-binary-search-tree.cs/) | Medium |  |
 | 0704 | [Binary Search](/Solution/0704.Binary-search/) | Array, Binary Tree | [Search](/Solution/0704.Binary-search/0704-Binary-search.cs/) | Easy | [:bulb:](/UnitTest/_0704_Binary_search_Test.cs/) |
 | 0705 | []() | Array, Linked List | []() | Easy |
-| 0706 | [Design HashMap](/Solution/0706.Design-hashmap/) | Array, Hash Table | [MyHashMap](/Solution/0706.Design-hashmap/0706-Design-hashmap.cs/) | Easy |  |
+| 0706 | [Design HashMap](/Solution/0706.Design-hashmap/) | Array, Hash Table, Linked List | [MyHashMap](/Solution/0706.Design-hashmap/0706-Design-hashmap.cs/) | Easy |  |
 | 0707 | [Design Linked List](/Solution/0707.Design-linked-list/) | Linked List | [MyLinkedList](/Solution/0707.Design-linked-list/0707-Design-linked-list.cs/) | Medium |  |
 | 0709 | [To Lower Case](/Solution/0709.To-lower-case/) | Char | [ToLowerCase](/Solution/0709.To-lower-case/0709-To-lower-case.cs/) | Easy | [:bulb:](/UnitTest/_0709_To_lower_case_Test.cs/) |
 | 0717 | [1-bit and 2-bit Characters](/Solution/0717.1-bit-and-2-bit-characters/) | Array | [IsOneBitCharacter](/Solution/0717.1-bit-and-2-bit-characters/0717-1-bit-and-2-bit-characters.cs/) | Easy | [:bulb:](/UnitTest/_0717_1_bit_and_2_bit_characters_Test.cs/) |

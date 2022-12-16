@@ -147,7 +147,7 @@
 | 0138 |
 | 0139 |
 | 0140 |
-| 0141 |
+| 0141 | [Linked List Cycle](/Solution/0141.Linked-list-cycle/) | Linked List, Two Pointers | [HasCycle](/Solution/0141.Linked-list-cycle/0141-Linked-list-cycle.cs/) | Easy | :x: |
 | 0142 | [Linked List Cycle II](/Solution/0142.Linked-list-cycle-II/) | Linked List, HastSet | [DetectCycle](/Solution/0142.Linked-list-cycle-II/0142-Linked-list-cycle-II.cs/) | Medium |  |
 | 0143 | [Reorder List](/Solution/0143.Reorder-list/) | Linked List | [ReorderList](/Solution/0143.Reorder-list/0143-Reorder-list.cs/) | Medium |  |
 | 0144 | [Binary Tree Preorder Traversal](/Solution/0144.Binary-tree-preorder-traversal/) | Tree, DFS, Binary Tree | [PreorderTraversal](/Solution/0144.Binary-tree-preorder-traversal/0144-Binary-tree-preorder-traversal.cs/) | Easy |
@@ -300,6 +300,7 @@
 |-|-|-|-|:-:|:-:|
 | 0701 | [Insert into a Binary Search Tree](/Solution/0701.Insert-into-a-binary-search-tree/) | Tree, BST, Binary Tree | [InsertIntoBST](/Solution/0701.Insert-into-a-binary-search-tree/0701-Insert-into-a-binary-search-tree.cs/) | Medium |  |
 | 0704 | [Binary Search](/Solution/0704.Binary-search/) | Array, Binary Tree | [Search](/Solution/0704.Binary-search/0704-Binary-search.cs/) | Easy | [:bulb:](/UnitTest/_0704_Binary_search_Test.cs/) |
+| 0705 | []() | Array, Linked List | []() | Easy |
 | 0706 | [Design HashMap](/Solution/0706.Design-hashmap/) | Array, Hash Table | [MyHashMap](/Solution/0706.Design-hashmap/0706-Design-hashmap.cs/) | Easy |  |
 | 0707 | [Design Linked List](/Solution/0707.Design-linked-list/) | Linked List | [MyLinkedList](/Solution/0707.Design-linked-list/0707-Design-linked-list.cs/) | Medium |  |
 | 0709 | [To Lower Case](/Solution/0709.To-lower-case/) | Char | [ToLowerCase](/Solution/0709.To-lower-case/0709-To-lower-case.cs/) | Easy | [:bulb:](/UnitTest/_0709_To_lower_case_Test.cs/) |

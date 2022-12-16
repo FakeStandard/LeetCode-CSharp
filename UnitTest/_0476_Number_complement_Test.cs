@@ -18,7 +18,7 @@ namespace _0476.Number_complement.Tests
             // Act
             var actual = solution.FindComplement(num);
 
-            // Actual
+            // Assert
             Assert.AreEqual(expected, actual);
         }
 
@@ -32,7 +32,7 @@ namespace _0476.Number_complement.Tests
             // Act
             var actual = solution.FindComplement(num);
 
-            // Actual
+            // Assert
             Assert.AreEqual(expected, actual);
         }
     }

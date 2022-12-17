@@ -39,7 +39,7 @@
 | 0034 | []() | Array | []() | Medium |  |
 | 0035 | [Search Insert Position](/Solution/0035.Search-insert-position/) | Binary Search, Array | [SearchInsert](/Solution/0035.Search-insert-position/0035-Search-insert-position.cs/) | Easy | [:bulb:](/UnitTest/_0035_Search_insert_position_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/search-insert-position-5f) |
 | 0036 | [Valid Sudoku](/Solution/0036.Valid-sudoku/) | Hash Set, Array | [ValidSudoku](/Solution//0036.Valid-sudoku/0036-Valid-sudoku.cs/) | Medium | [:bulb:](/UnitTest/_0036_Valid_sudoku_Test.cs/) |
-| 0037 | []() | Array | []() | Hard |  |
+| 0037 | [Sudoku Solver](/Solution/0037.Sudoku-solver/) | Array, Backtracking | [SolveSuduku](/Solution/0037.Sudoku-solver/0037-Sudoku-solver.cs/) | Hard | [:bulb:](/UnitTest/_0037_Sudoku_solver_Tests.cs/) |
 | 0038 |
 | 0039 | []() | Array | []() | Medium |  |
 | 0040 | []() | Array | []() | Medium |  |

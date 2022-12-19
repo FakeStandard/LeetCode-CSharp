@@ -13,7 +13,7 @@
 | 0008 |
 | 0009 | [Palindrome Number](/Solution/0009.Palindrome-number/) | %,/ | [IsPalindrome](/Solution/0009.Palindrome-number/0009-Palindrome-number.cs/) | Easy | [:bulb:](/UnitTest/_0009_Palindrome_number_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/palindrome-number-4l15) |
 | 0010 |
-| 0011 | []() | Array | []() | Medium |  |
+| 0011 | [Container With Most Water](/Solution/0011.Container-with-most-water/) | Array, Two Pointers, Greedy | []() | Medium | [:bulb:](/UnitTest/_0011_Container_with_most_water_Test.cs/) |
 | 0012 |
 | 0013 | [Roman to Integer](/Solution/0013.Roman-to-integer/) | Dictionary | [RomanToInt](/Solution/0013.Roman-to-integer/0013-Roman-to-integer.cs/) | Easy | [:bulb:](/UnitTest/_0013_Roman_to_integer_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/roman-to-integer-ikj) |
 | 0014 | [Longest Common Prefix](/Solution/0014.Longest-common-prefix/) | Array | [LongestCommonPrefix](/Solution/0014.Longest-common-prefix/0014-Longest-common-prefix.cs/) | Easy | [:bulb:](/UnitTest/_0014_Longest_common_prefix_Test.cs/) | [:page_facing_up:](https://dev.to/fakestandard/longest-common-prefix-fnj) |
@@ -42,12 +42,12 @@
 | 0037 | [Sudoku Solver](/Solution/0037.Sudoku-solver/) | Array, Backtracking | [SolveSuduku](/Solution/0037.Sudoku-solver/0037-Sudoku-solver.cs/) | Hard | [:bulb:](/UnitTest/_0037_Sudoku_solver_Tests.cs/) |
 | 0038 |
 | 0039 | []() | Array | []() | Medium |  |
-| 0040 | []() | Array | []() | Medium |  |
+| 0040 | []() | Array, Backtracking | []() | Medium | []() |
 | 0041 | []() | Array | []() | Hard |  |
 | 0042 | []() | Array | []() | Hard |  |
 | 0043 | [Multiply Strings](/Solution/0043.Multiply-strings/) | String | [Multiply](/Solution/0043.Multiply-strings/0043-Multiply-strings.cs/) | Medium | [:bulb:](/UnitTest/_0043_Multiply_strings_Test.cs/) |
 | 0044 |
-| 0045 | []() | Array | []() | Medium |  |
+| 0045 | [Jump Game II](/Solution/0045.Jump-game-II/) | Array, DP, Greedy | []() | Medium | [:bulb:](/UnitTest/_0045_Jump_game_II_Tests.cs/) |
 | 0046 | [Permutations](/Solution/0046.Permutations/) | Array, Backtracking | [Permute](/Solution/0046.Permutations/0046-Permutations.cs/) | Medium | [:bulb:](/UnitTest/_0046_Permutations_Test.cs/) |
 | 0047 | []() | Array | []() | Medium |  |
 | 0048 | [Rotate Image](/Solution/0048.Rotate-image/) | Array, Matrix | [Rotate](/Solution/0048.Rotate-image/0048-Rotate-image.cs/) | Medium |  |
